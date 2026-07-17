@@ -1,0 +1,30 @@
+{
+  "name": "mn-officials-scorecard",
+  "version": "1.0.0",
+  "description": "Minnesota Elected Officials Scorecard - API, Admin, and Web App",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "nodemon api/server.js",
+    "test": "node test/api.test.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.9.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "minnesota",
+    "government",
+    "transparency",
+    "elections",
+    "civic-tech"
+  ],
+  "license": "MIT"
+}

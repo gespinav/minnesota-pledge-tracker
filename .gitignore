@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Runtime / local data (not for publication)
+data/tracker.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Local tool/editor settings
+.claude/
+public/.claude/
+.vscode/
+.idea/
+.DS_Store
+
+# Logs & env
+*.log
+.env
+.env.*
+
+# Stale snapshot / other apps (do not publish)
+mn_pledge_tracker_populated.html
+public/TheCanon.html
+TheCanon.html
