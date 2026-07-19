@@ -303,42 +303,211 @@ code{font-family:var(--font-mono);font-size:12px;background:var(--surface2);padd
 .auth-link:hover{text-decoration:underline}
 .auth-signed-display{font-size:14px;color:var(--text);line-height:1.6}
 .auth-signed-email{font-weight:700;color:var(--accent)}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   MOBILE NAVIGATION
+   Below 900px the sidebar used to be display:none with nothing in its place,
+   which left phone users with no way to move between pages at all. It now
+   becomes an off-canvas drawer opened from a sticky header, and that header
+   also carries a permanent Home button.
+   ══════════════════════════════════════════════════════════════════════════ */
+.mobile-header{display:none;position:sticky;top:0;z-index:150;background:var(--surface);border-bottom:1px solid var(--border);padding:10px 14px;align-items:center;gap:10px}
+.mh-btn{display:flex;align-items:center;justify-content:center;width:42px;height:42px;flex-shrink:0;border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);color:var(--text);cursor:pointer;padding:0}
+.mh-btn:active{background:var(--surface2)}
+.mh-btn svg{width:20px;height:20px}
+.mh-title{flex:1;min-width:0;font-family:var(--font-head);font-size:15px;font-weight:800;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mh-title small{display:block;font-size:10px;font-weight:600;color:var(--text3);text-transform:uppercase;letter-spacing:.06em}
+.drawer-scrim{display:none;position:fixed;inset:0;background:rgba(26,25,23,.5);z-index:180;backdrop-filter:blur(2px)}
+.drawer-scrim.open{display:block}
+
+/* The "back to homepage" control injected into every page's topbar. */
+.home-btn{display:inline-flex;align-items:center;gap:6px;padding:7px 12px;border:1px solid var(--border);border-radius:var(--radius);background:var(--surface);color:var(--text2);font:600 12.5px/1 var(--font-body);cursor:pointer;flex-shrink:0;text-decoration:none}
+.home-btn:hover{background:var(--surface2);color:var(--text);border-color:var(--border2)}
+.home-btn svg{width:14px;height:14px}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   OFFICIAL PROFILE PAGE  (LinkedIn-style)
+   ══════════════════════════════════════════════════════════════════════════ */
+.lp-wrap{max-width:1080px;margin:0 auto}
+.lp-card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius-lg);box-shadow:var(--shadow);overflow:hidden;margin-bottom:16px}
+.lp-cover{height:132px;background:linear-gradient(120deg,var(--dfl) 0%,#2D6BE4 100%);position:relative}
+.lp-cover.cov-gop{background:linear-gradient(120deg,var(--gop) 0%,#C0392B 100%)}
+.lp-cover.cov-exec{background:linear-gradient(120deg,var(--green) 0%,#2A9D5C 100%)}
+.lp-head{padding:0 28px 22px;position:relative}
+.lp-photo{width:152px;height:152px;border-radius:50%;border:4px solid var(--surface);margin-top:-76px;background:var(--surface2);object-fit:cover;display:block;box-shadow:var(--shadow)}
+.lp-photo-fallback{width:152px;height:152px;border-radius:50%;border:4px solid var(--surface);margin-top:-76px;display:flex;align-items:center;justify-content:center;font-family:var(--font-head);font-size:46px;font-weight:800;box-shadow:var(--shadow)}
+.lp-name{font-family:var(--font-head);font-size:30px;font-weight:800;letter-spacing:-.02em;line-height:1.15;margin-top:14px}
+.lp-headline{font-size:15px;color:var(--text);margin-top:5px;line-height:1.45}
+.lp-sub{font-size:13px;color:var(--text3);margin-top:6px;display:flex;flex-wrap:wrap;gap:5px 14px;align-items:center}
+.lp-badges{display:flex;flex-wrap:wrap;gap:6px;margin-top:12px}
+.lp-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.lp-body{display:grid;grid-template-columns:1fr 320px;gap:16px;align-items:start}
+.lp-section-title{font-family:var(--font-head);font-size:17px;font-weight:800;letter-spacing:-.01em;padding:18px 22px 0;display:flex;align-items:center;justify-content:space-between;gap:10px}
+.lp-section-body{padding:12px 22px 20px}
+.lp-about{font-size:14.5px;line-height:1.7;color:var(--text)}
+.lp-empty{font-size:13.5px;color:var(--text3);line-height:1.6;background:var(--surface2);border:1px dashed var(--border2);border-radius:var(--radius);padding:16px}
+.lp-empty strong{display:block;color:var(--text2);margin-bottom:4px;font-size:13.5px}
+
+/* Experience timeline */
+.lp-exp{position:relative;padding-left:34px;padding-bottom:22px}
+.lp-exp:last-child{padding-bottom:0}
+.lp-exp::before{content:'';position:absolute;left:9px;top:20px;bottom:0;width:2px;background:var(--border)}
+.lp-exp:last-child::before{display:none}
+.lp-exp::after{content:'';position:absolute;left:3px;top:6px;width:14px;height:14px;border-radius:50%;background:var(--accent);border:3px solid var(--surface);box-shadow:0 0 0 1px var(--border)}
+.lp-exp-title{font-weight:700;font-size:14.5px;line-height:1.35}
+.lp-exp-org{font-size:13.5px;color:var(--text2);margin-top:2px}
+.lp-exp-dates{font-family:var(--font-mono);font-size:11.5px;color:var(--text3);margin-top:3px}
+.lp-exp-note{font-size:13px;color:var(--text2);margin-top:6px;line-height:1.6}
+
+.lp-chip-row{display:flex;flex-wrap:wrap;gap:7px}
+.lp-chip{display:inline-flex;align-items:center;gap:6px;padding:6px 12px;border-radius:20px;background:var(--surface2);border:1px solid var(--border);font-size:12.5px;color:var(--text2)}
+.lp-chip strong{color:var(--text);font-weight:700}
+
+/* Right rail */
+.lp-rail-grade{display:flex;align-items:center;gap:16px}
+.lp-fact{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--border);font-size:13px}
+.lp-fact:last-child{border-bottom:none}
+.lp-fact-k{color:var(--text3);flex-shrink:0}
+.lp-fact-v{text-align:right;font-weight:600;word-break:break-word}
+.lp-fact-v a{color:var(--accent);text-decoration:none}
+
+/* Sources — every biographical claim is expected to cite one. */
+.lp-src{display:block;font-size:12px;color:var(--accent);text-decoration:none;margin-top:5px}
+.lp-src:hover{text-decoration:underline}
+.lp-src-list{list-style:none;display:flex;flex-direction:column;gap:9px}
+.lp-src-list li{font-size:12.5px;line-height:1.5;padding-left:20px;position:relative;word-break:break-word}
+.lp-src-list li::before{content:'↗';position:absolute;left:0;color:var(--text3)}
+.lp-src-list a{color:var(--accent);text-decoration:none}
+.lp-src-list a:hover{text-decoration:underline}
+.lp-verified{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:700;color:var(--green);background:var(--green-bg);padding:3px 9px;border-radius:20px}
+
+/* Photo credit + list-view thumbnails */
+.lp-photo-credit{font-size:11px;color:var(--text3);margin-top:8px;font-style:italic}
+.avatar-photo{width:34px;height:34px;border-radius:50%;object-fit:cover;flex-shrink:0;background:var(--surface2)}
+
+/* ══════════════════════════════════════════════════════════════════════════
+   RESPONSIVE — the app previously had two media queries in 11k lines, so
+   almost nothing adapted below tablet width. These bring the phone layout in
+   line with the desktop one rather than just letting it overflow.
+   ══════════════════════════════════════════════════════════════════════════ */
+@media(max-width:900px){
+  .mobile-header{display:flex}
+  /* Sidebar turns into an off-canvas drawer instead of vanishing. */
+  .sidebar{display:flex;position:fixed;top:0;left:0;bottom:0;width:270px;max-width:82vw;height:100dvh;z-index:190;transform:translateX(-100%);transition:transform .22s ease;box-shadow:var(--shadow-lg)}
+  .sidebar.open{transform:translateX(0)}
+  .nav-item{padding:13px 20px;font-size:15px}       /* comfortable tap targets */
+  .page{padding:18px 16px;min-height:auto}
+  .topbar{padding:14px 16px;flex-wrap:wrap}
+  .page-title{font-size:16px}
+  .lp-body{grid-template-columns:1fr}
+  .lp-head{padding:0 18px 18px}
+  .lp-photo,.lp-photo-fallback{width:112px;height:112px;margin-top:-56px}
+  .lp-photo-fallback{font-size:34px}
+  .lp-name{font-size:24px}
+  .lp-cover{height:104px}
+  .lp-section-title{padding:16px 18px 0;font-size:16px}
+  .lp-section-body{padding:12px 18px 18px}
+}
+@media(max-width:640px){
+  html{font-size:14px}
+  .hero{padding:26px 0 20px}
+  .hero-title{font-size:30px}
+  .hero-body{font-size:15px}
+  .page{padding:14px 12px}
+  .topbar{padding:12px 12px}
+  .stats-grid{grid-template-columns:repeat(auto-fit,minmax(128px,1fr));gap:9px}
+  .stat-card{padding:12px 13px}
+  .stat-value{font-size:23px}
+  /* Filters stack full-width so they are not squeezed into unusable slivers. */
+  .filter-bar{flex-direction:column;align-items:stretch}
+  .filter-bar input,.filter-bar select{width:100%;min-width:0;padding:11px 12px;font-size:16px}
+  .btn{padding:10px 15px}
+  .btn-sm{padding:8px 12px}
+  .hero-actions{flex-direction:column;align-items:stretch}
+  .hero-actions .btn{justify-content:center}
+  /* Modals become full-height sheets rather than tiny boxes. */
+  .modal-backdrop{padding:0;align-items:flex-end}
+  .modal{max-width:100%;max-height:94dvh;border-radius:var(--radius-xl) var(--radius-xl) 0 0}
+  .lp-actions .btn{flex:1 1 calc(50% - 4px);justify-content:center}
+  .lp-name{font-size:21px}
+  .modal-tabs{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .modal-tab{white-space:nowrap}
+}
+/* Wide content must scroll inside its own box, never push the page sideways. */
+.table-scroll{-webkit-overflow-scrolling:touch}
+.cell-mobile{display:none}
+
+/* An 8-column table on a 390px screen is a sideways-scrolling mess. On phones
+   the secondary columns are dropped and the facts they carried (chamber,
+   district) are folded into the name cell instead, so nothing is actually lost. */
+@media(max-width:640px){
+  .cell-mobile{display:block;font-size:11px;color:var(--text3);margin-top:1px}
+  #officials-table th:nth-child(2),#officials-table td:nth-child(2),
+  #officials-table th:nth-child(3),#officials-table td:nth-child(3),
+  #officials-table th:nth-child(5),#officials-table td:nth-child(5),
+  #officials-table th:nth-child(6),#officials-table td:nth-child(6),
+  #officials-table th:nth-child(7),#officials-table td:nth-child(7){display:none}
+  #lb-table th:nth-child(3),#lb-table td:nth-child(3),
+  #lb-table th:nth-child(5),#lb-table td:nth-child(5),
+  #lb-table th:nth-child(6),#lb-table td:nth-child(6){display:none}
+  table{font-size:13px}
+  th,td{padding:10px 8px}
+  .name-primary{font-size:13px}
+}
+@media(max-width:900px){
+  .main{min-width:0}
+  .shell{min-width:0}
+  body{overflow-x:hidden}
+}
 </style>
 
 </head>
 <body>
 
+<!-- Mobile-only header. Carries the drawer toggle and a permanent Home button
+     so the homepage is always one tap away, from any page or profile. -->
+<header class="mobile-header">
+  <button class="mh-btn" onclick="toggleDrawer()" aria-label="Open navigation menu">
+    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path fill-rule="evenodd" d="M3 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm0 5a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1z" clip-rule="evenodd"/></svg>
+  </button>
+  <div class="mh-title" id="mh-title">MN Pledge Tracker<small>Civic Accountability</small></div>
+  <button class="mh-btn" onclick="goHome()" aria-label="Back to homepage" title="Back to homepage">
+    <svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/></svg>
+  </button>
+</header>
+<div class="drawer-scrim" id="drawer-scrim" onclick="closeDrawer()"></div>
+
 <div class="shell">
-<aside class="sidebar">
+<aside class="sidebar" id="sidebar">
   <div class="sidebar-logo">
     <div class="logo-mark">MN Pledge Tracker</div>
     <div class="logo-sub">Civic Accountability Tool</div>
   </div>
   <nav class="sidebar-nav">
     <div class="nav-section">Public</div>
-    <a class="nav-item active" onclick="showPage('home')" href="#">
+    <a class="nav-item active" href="#/home">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/></svg>Home
     </a>
-    <a class="nav-item" onclick="showPage('officials')" href="#">
+    <a class="nav-item" href="#/officials">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path d="M9 6a3 3 0 11-6 0 3 3 0 016 0zM17 6a3 3 0 11-6 0 3 3 0 016 0zM12.93 17c.046-.327.07-.66.07-1a6.97 6.97 0 00-1.5-4.33A5 5 0 0119 16v1h-6.07zM6 11a5 5 0 015 5v1H1v-1a5 5 0 015-5z"/></svg>All Officials
     </a>
-    <a class="nav-item" onclick="showPage('bills')" href="#">
+    <a class="nav-item" href="#/bills">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/></svg>Bills &amp; Votes
     </a>
-    <a class="nav-item" onclick="showPage('leaderboard')" href="#">
+    <a class="nav-item" href="#/leaderboard">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path d="M2 11a1 1 0 011-1h2a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1v-5zM8 7a1 1 0 011-1h2a1 1 0 011 1v9a1 1 0 01-1 1H9a1 1 0 01-1-1V7zM14 4a1 1 0 011-1h2a1 1 0 011 1v12a1 1 0 01-1 1h-2a1 1 0 01-1-1V4z"/></svg>Scorecard Rankings
     </a>
-    <a class="nav-item" onclick="showPage('profile')" href="#">
+    <a class="nav-item" href="#/profile">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z"/></svg>My Interests<span id="profile-nav-count"></span>
     </a>
     <div class="nav-section">Tools</div>
-    <a class="nav-item" onclick="showPage('admin')" href="#">
+    <a class="nav-item" href="#/admin">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M11.49 3.17c-.38-1.56-2.6-1.56-2.98 0a1.532 1.532 0 01-2.286.948c-1.372-.836-2.942.734-2.106 2.106.54.886.061 2.042-.947 2.287-1.561.379-1.561 2.6 0 2.978a1.532 1.532 0 01.947 2.287c-.836 1.372.734 2.942 2.106 2.106a1.532 1.532 0 012.287.947c.379 1.561 2.6 1.561 2.978 0a1.533 1.533 0 012.287-.947c1.372.836 2.942-.734 2.106-2.106a1.533 1.533 0 01.947-2.287c1.561-.379 1.561-2.6 0-2.978a1.532 1.532 0 01-.947-2.287c.836-1.372-.734-2.942-2.106-2.106a1.532 1.532 0 01-2.287-.947zM10 13a3 3 0 100-6 3 3 0 000 6z" clip-rule="evenodd"/></svg>Data Entry Admin
     </a>
-    <a class="nav-item" onclick="showPage('progress')" href="#">
+    <a class="nav-item" href="#/progress">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>Implementation Status
     </a>
-    <a class="nav-item" onclick="showPage('methodology')" href="#">
+    <a class="nav-item" href="#/methodology">
       <svg class="nav-icon" viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M6 2a2 2 0 00-2 2v12a2 2 0 002 2h8a2 2 0 002-2V7.414A2 2 0 0015.414 6L12 2.586A2 2 0 0010.586 2H6zm2 10a1 1 0 10-2 0v3a1 1 0 102 0v-3zm2-3a1 1 0 011 1v5a1 1 0 11-2 0v-5a1 1 0 011-1zm4-1a1 1 0 10-2 0v7a1 1 0 102 0V8z" clip-rule="evenodd"/></svg>Scoring Methodology
     </a>
   </nav>
@@ -423,7 +592,7 @@ code{font-family:var(--font-mono);font-size:12px;background:var(--surface2);padd
     </div>
     <div class="table-card">
       <div class="table-scroll">
-        <table>
+        <table id="officials-table">
           <thead><tr><th>Official</th><th>Chamber</th><th>District</th><th>Party</th><th>Promises</th><th>Votes</th><th>Score</th><th>Grade</th></tr></thead>
           <tbody id="officials-tbody"></tbody>
         </table>
@@ -447,7 +616,7 @@ code{font-family:var(--font-mono);font-size:12px;background:var(--surface2);padd
     </div>
     <div id="lb-table-wrap" class="table-card">
       <div class="table-scroll">
-        <table>
+        <table id="lb-table">
           <thead><tr><th>#</th><th>Official</th><th>Chamber</th><th>Party</th><th>Promise score</th><th>Vote align · context</th><th>Grade</th></tr></thead>
           <tbody id="lb-tbody"></tbody>
         </table>
@@ -712,15 +881,18 @@ code{font-family:var(--font-mono);font-size:12px;background:var(--surface2);padd
   </div>
 </div>
 
-</main>
+<!-- OFFICIAL PROFILE (LinkedIn-style, routed at #/official/<id>) -->
+<div id="page-official" class="page">
+  <div class="topbar">
+    <div class="page-title" id="official-crumb">Official</div>
+    <div class="topbar-actions">
+      <button class="btn btn-ghost btn-sm" onclick="showPage('officials')">← All Officials</button>
+    </div>
+  </div>
+  <div style="padding:20px 0 0"><div class="lp-wrap" id="official-page-body"></div></div>
 </div>
 
-<!-- DETAIL MODAL -->
-<div class="modal-backdrop" id="detail-modal" onclick="closeModal(event,'detail-modal')">
-  <div class="modal">
-    <div class="modal-header"><div id="detail-header-content"></div><button class="close-btn" onclick="document.getElementById('detail-modal').classList.remove('open')">✕</button></div>
-    <div class="modal-body" id="detail-body"></div>
-  </div>
+</main>
 </div>
 
 <!-- BILL DASHBOARD MODAL -->
@@ -9703,6 +9875,184 @@ function buildSeed(){
 // ─── State ────────────────────────────────────────────────────────────────
 const STATE = { officials: buildSeed(), selectedAdmin: null, editingPromise: null, currentPage: 1, perPage: 40 };
 
+/* ═══════════════════════════════════════════════════════════════════════════
+   OFFICIAL BIOGRAPHIES
+   Keyed by official id and merged onto STATE.officials below.
+
+   RULE: every factual claim here must be traceable to a primary or official
+   secondary source, and each entry carries the URL it came from. If a fact
+   cannot be sourced it does not go in — the profile page renders an honest
+   "not yet researched" state instead of filler. Do not paraphrase loosely;
+   these are public figures and the app's credibility rests on accuracy.
+
+   Principal source: the Minnesota Legislative Reference Library's "Legislators
+   Past & Present" database (lrl.mn.gov/legdb), the Legislature's own record of
+   districts served, occupations, education and leadership roles.
+
+   Note: mn.gov (the Governor's office) is behind bot protection that blocks
+   automated fetches, so the executive entries below are limited to what the
+   Legislative Reference Library states. They should be expanded by hand from
+   mn.gov, and `verified` updated, when someone can open those pages.
+
+   To add an official: copy the shape below, cite every claim, set `verified`
+   to the date a human checked it.
+   ═══════════════════════════════════════════════════════════════════════════ */
+const LRL = 'https://www.lrl.mn.gov/legdb/fulldetail?id=';
+
+const OFFICIAL_BIOS = {
+
+  'exec-gov': {
+    headline: '41st Governor of Minnesota',
+    about: 'Tim Walz is the 41st Governor of Minnesota, sworn in on January 7, 2019 and re-elected in 2022. '
+         + 'He lives in Mankato. Before becoming Governor he represented Minnesota\'s First Congressional '
+         + 'District in the U.S. House. His full pre-gubernatorial career has not yet been verified against '
+         + 'the Governor\'s official biography.',
+    aboutSource: 'https://www.lrl.mn.gov/mngov/govbio?govid=44',
+    experience: [
+      { title:'Governor', org:'State of Minnesota', start:'2019', end:'Present',
+        note:'41st Governor of Minnesota; assumed office January 7, 2019.',
+        source:'https://www.lrl.mn.gov/mngov/govbio?govid=44' },
+    ],
+    sources: [
+      { label:'Minnesota Legislative Reference Library — Governor Tim Walz', url:'https://www.lrl.mn.gov/mngov/govbio?govid=44' },
+      { label:'Office of Governor Walz and Lt. Governor Flanagan (official site)', url:'https://mn.gov/governor/' },
+    ],
+    verified: '2026-07-18',
+  },
+
+  'exec-ltgov': {
+    headline: 'Lieutenant Governor of Minnesota · former State Representative, District 46A',
+    about: 'Peggy Flanagan has served as Lieutenant Governor of Minnesota since 2019. She previously '
+         + 'represented House District 46A from 2015 to 2018, winning a special election in November 2015, '
+         + 'and served on the Minneapolis School Board from 2005 to 2009. Before elected office she was '
+         + 'executive director of Children\'s Defense Fund–Minnesota. She lives in Saint Louis Park.',
+    aboutSource: LRL+'15451',
+    experience: [
+      { title:'Lieutenant Governor', org:'State of Minnesota', start:'2019', end:'Present',
+        source:'https://mn.gov/governor/' },
+      { title:'State Representative, District 46A', org:'Minnesota House of Representatives',
+        start:'2015', end:'2018',
+        note:'Elected in a special election held November 9, 2015; served through January 6, 2019.',
+        source: LRL+'15451' },
+      { title:'Executive Director', org:'Children\'s Defense Fund–Minnesota', start:'', end:'',
+        note:'Occupation listed on her legislator record when first elected.', source: LRL+'15451' },
+      { title:'Board Member', org:'Minneapolis School Board', start:'2005', end:'2009',
+        source: LRL+'15451' },
+    ],
+    education: [
+      { school:'University of Minnesota', degree:'B.A., American Indian Studies and Child Psychology', year:'2002', source: LRL+'15451' },
+      { school:'St. Louis Park Public Schools', degree:'Secondary education', year:'', source: LRL+'15451' },
+    ],
+    sources: [
+      { label:'Minnesota Legislative Reference Library — Flanagan, Peggy (legislator record)', url: LRL+'15451' },
+      { label:'Office of Governor Walz and Lt. Governor Flanagan (official site)', url:'https://mn.gov/governor/' },
+    ],
+    verified: '2026-07-18',
+  },
+
+  'sen-64': {
+    headline: 'Senate Majority Leader · State Senator, District 64 · Registered Nurse',
+    about: 'Erin Murphy is Senate Majority Leader and has represented Senate District 64 since 2021. '
+         + 'She served in the Minnesota House from 2007 to 2018 representing District 64A, where she was '
+         + 'House Majority Leader in 2013–2014 and Deputy Minority Leader in 2015–2016. A registered nurse, '
+         + 'she was previously executive director of the Minnesota Nurses Association and taught nursing. '
+         + 'She lives in Saint Paul.',
+    aboutSource: LRL+'15284',
+    experience: [
+      { title:'Senate Majority Leader', org:'Minnesota Senate', start:'2023', end:'Present',
+        note:'Also chairs the Senate Rules and Administration Committee.', source: LRL+'15284' },
+      { title:'State Senator, District 64', org:'Minnesota Senate', start:'2021', end:'Present',
+        source: LRL+'15284' },
+      { title:'House Majority Leader', org:'Minnesota House of Representatives', start:'2013', end:'2014',
+        source: LRL+'15284' },
+      { title:'State Representative, District 64A', org:'Minnesota House of Representatives',
+        start:'2007', end:'2018',
+        note:'Served as Deputy Minority Leader in the 2015–2016 session.', source: LRL+'15284' },
+      { title:'Executive Director', org:'Minnesota Nurses Association', start:'', end:'',
+        note:'Occupation listed on her legislator record when first elected to the House.', source: LRL+'15284' },
+    ],
+    education: [
+      { school:'University of Wisconsin, Oshkosh', degree:'B.S., Nursing', year:'1984', source: LRL+'15284' },
+      { school:'College of St. Catherine', degree:'M.A., Organizational Leadership – Health Care', year:'2005', source: LRL+'15284' },
+      { school:'University of Minnesota, Humphrey Institute', degree:'Policy Fellow', year:'2005–2006', source: LRL+'15284' },
+    ],
+    committees: [
+      { name:'Rules and Administration', role:'Chair', source:'https://www.senate.mn/members/member_bio.html?mem_id=1248' },
+      { name:'Finance', role:'Member', source:'https://www.senate.mn/members/member_bio.html?mem_id=1248' },
+    ],
+    sources: [
+      { label:'Minnesota Legislative Reference Library — Murphy, Erin P. (legislator record)', url: LRL+'15284' },
+      { label:'Minnesota Senate — Senator Erin Murphy biography', url:'https://www.senate.mn/members/member_bio.html?mem_id=1248' },
+    ],
+    verified: '2026-07-18',
+  },
+
+  'sen-1': {
+    headline: 'Senate Minority Leader · State Senator, District 1 · Attorney and small business owner',
+    about: 'Mark Johnson has represented Senate District 1 since 2017 and serves as Senate Minority Leader, '
+         + 'a role he has held since the 2023–2024 session. He previously served as Deputy Majority Leader '
+         + 'in 2021–2022. An attorney and small business owner — his legislator record lists Johnson Concrete '
+         + 'Construction as his occupation when first elected — he lives in East Grand Forks.',
+    aboutSource: LRL+'15485',
+    experience: [
+      { title:'Senate Minority Leader', org:'Minnesota Senate', start:'2023', end:'Present',
+        source: LRL+'15485' },
+      { title:'State Senator, District 1', org:'Minnesota Senate', start:'2017', end:'Present',
+        source: LRL+'15485' },
+      { title:'Deputy Majority Leader', org:'Minnesota Senate', start:'2021', end:'2022',
+        source: LRL+'15485' },
+      { title:'Owner', org:'Johnson Concrete Construction', start:'', end:'',
+        note:'Occupation listed on his legislator record when first elected.', source: LRL+'15485' },
+    ],
+    education: [
+      { school:'Bethel University', degree:'B.A., Finance and Economics', year:'', source: LRL+'15485' },
+      { school:'University of North Dakota', degree:'J.D.', year:'', source: LRL+'15485' },
+      { school:'Fertile-Beltrami High School', degree:'Secondary education', year:'', source: LRL+'15485' },
+    ],
+    committees: [
+      { name:'Rules and Administration', role:'Ranking Minority Member', source:'https://www.senate.mn/members/member_bio.html?mem_id=1217' },
+      { name:'Finance', role:'Member', source:'https://www.senate.mn/members/member_bio.html?mem_id=1217' },
+    ],
+    sources: [
+      { label:'Minnesota Legislative Reference Library — Johnson, Mark T. (legislator record)', url: LRL+'15485' },
+      { label:'Minnesota Senate — Senator Mark Johnson biography', url:'https://www.senate.mn/members/member_bio.html?mem_id=1217' },
+    ],
+    verified: '2026-07-18',
+  },
+
+  'rep-13A': {
+    headline: 'Speaker of the Minnesota House · State Representative, District 13A · Business owner',
+    about: 'Lisa Demuth has represented House District 13A since 2019 and serves as Speaker of the House in '
+         + 'the 2025–2026 session. She previously served as Minority Leader in 2023–2024 and Assistant '
+         + 'Minority Leader in 2021–2022. Before the Legislature she served on the ROCORI School District '
+         + 'board from 2007 to 2018. A business owner, she lives in Cold Spring.',
+    aboutSource: LRL+'15498',
+    experience: [
+      { title:'Speaker of the House', org:'Minnesota House of Representatives', start:'2025', end:'Present',
+        source: LRL+'15498' },
+      { title:'House Minority Leader', org:'Minnesota House of Representatives', start:'2023', end:'2024',
+        note:'Assistant Minority Leader in the 2021–2022 session.', source: LRL+'15498' },
+      { title:'State Representative, District 13A', org:'Minnesota House of Representatives',
+        start:'2019', end:'Present', source: LRL+'15498' },
+      { title:'Board Member', org:'ROCORI School District', start:'2007', end:'2018', source: LRL+'15498' },
+    ],
+    education: [
+      { school:'Bloomington Kennedy High School', degree:'Secondary education', year:'1985', source: LRL+'15498' },
+    ],
+    sources: [
+      { label:'Minnesota Legislative Reference Library — Demuth, Lisa (legislator record)', url: LRL+'15498' },
+      { label:'Minnesota House of Representatives — Rep. Lisa Demuth', url:'https://www.house.mn.gov/members/profile/15498' },
+    ],
+    verified: '2026-07-18',
+  },
+
+};
+
+// Attach bios to their officials. Anyone not listed simply has no bio, and the
+// profile page says so plainly rather than guessing.
+STATE.officials.forEach(o => { if (OFFICIAL_BIOS[o.id]) o.bio = OFFICIAL_BIOS[o.id]; });
+
+
 // BILL_INFO — authored plain-language explainers for each tracked bill.
 // Keyed by exact billNumber. summary = what it does; purpose = goals; impact = real-world consequences.
 const BILL_INFO = {
@@ -10383,7 +10733,6 @@ function voterChips(arr){
 function openBill(num){
   const b=BILLS[num];if(!b)return;
   const info=b.info||{},t=b.tally;
-  document.getElementById('detail-modal').classList.remove('open');
   const yea=b.votes.filter(v=>v.value==='yea'),nay=b.votes.filter(v=>v.value==='nay');
   const other=b.votes.filter(v=>v.value!=='yea'&&v.value!=='nay'&&v.value!=='signed');
   const signed=b.votes.filter(v=>v.value==='signed');
@@ -10491,19 +10840,99 @@ function scoreBar(comp,grade){
 }
 
 // ─── Page routing ──────────────────────────────────────────────────────────
-function showPage(name){
+/* ─── Routing ───────────────────────────────────────────────────────────────
+   Every view has a URL (#/officials, #/official/sen-64, …). That makes pages
+   and individual profiles shareable and deep-linkable, and — the reason it
+   matters most on a phone — it makes the device's own Back button work, so
+   users are never stranded inside a profile with no way out.
+   ─────────────────────────────────────────────────────────────────────────── */
+const PAGE_TITLES={home:'Home',officials:'All Officials',bills:'Bills & Votes',leaderboard:'Scorecard Rankings',
+  profile:'My Interests',admin:'Data Entry Admin',progress:'Implementation Status',methodology:'Scoring Methodology'};
+const NAV_ORDER=['home','officials','bills','leaderboard','profile','admin','progress','methodology'];
+
+/** Public navigation entry point. Kept as showPage() so existing call sites work. */
+function showPage(name){ navigate('#/'+name); }
+/** Open a legislator's full profile page. */
+function openDetail(id){ navigate('#/official/'+encodeURIComponent(id)); }
+function goHome(){ navigate('#/home'); }
+
+function navigate(hash){
+  if(location.hash===hash) router();   // same URL — re-render rather than no-op
+  else location.hash=hash;             // otherwise hashchange drives router()
+}
+
+function router(){
+  const raw=(location.hash||'').replace(/^#\/?/,'');
+  const slash=raw.indexOf('/');
+  const seg=slash===-1?raw:raw.slice(0,slash);
+  const arg=slash===-1?'':decodeURIComponent(raw.slice(slash+1));
+  if(seg==='official'&&arg&&STATE.officials.some(o=>o.id===arg)){ applyPage('official',arg); return; }
+  applyPage(PAGE_TITLES[seg]?seg:'home');
+}
+
+function applyPage(name,arg){
+  // Dismiss the mobile drawer here rather than in navigate(), so it closes for
+  // every route change — including plain <a href="#/…"> clicks in the drawer
+  // itself, which reach the router via hashchange without passing through navigate().
+  closeDrawer();
   document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
-  document.getElementById('page-'+name).classList.add('active');
-  document.querySelectorAll('.nav-item').forEach(n=>n.classList.remove('active'));
-  const navMap={home:0,officials:1,bills:2,leaderboard:3,profile:4,admin:5,progress:6,methodology:7};
+  const el=document.getElementById('page-'+name);
+  if(!el){ applyPage('home'); return; }
+  el.classList.add('active');
+
+  // An official's profile is reached from the officials list, so keep that
+  // nav entry lit while viewing one.
+  const navName=name==='official'?'officials':name;
   const items=document.querySelectorAll('.nav-item');
-  if(items[navMap[name]])items[navMap[name]].classList.add('active');
+  items.forEach(n=>n.classList.remove('active'));
+  const idx=NAV_ORDER.indexOf(navName);
+  if(idx>-1&&items[idx])items[idx].classList.add('active');
+
   if(name==='officials')renderOfficials();
   if(name==='leaderboard')renderLeaderboard();
   if(name==='home'){renderHomeStats();renderHomeTopics();}
   if(name==='admin')initAdmin();
   if(name==='bills')renderBills();
   if(name==='profile')renderProfile();
+  if(name==='official')renderOfficialPage(arg);
+
+  syncChrome(name,arg);
+  if(window.scrollTo)window.scrollTo(0,0);
+}
+
+/** Keep the mobile header title and the per-page Home buttons in step. */
+function syncChrome(name,arg){
+  const t=document.getElementById('mh-title');
+  if(t){
+    if(name==='official'){
+      const o=STATE.officials.find(x=>x.id===arg);
+      t.innerHTML=o?escHtml(o.name)+'<small>Official profile</small>':'MN Pledge Tracker<small>Civic Accountability</small>';
+    }else if(name==='home'){
+      t.innerHTML='MN Pledge Tracker<small>Civic Accountability</small>';
+    }else{
+      t.innerHTML=escHtml(PAGE_TITLES[name]||'')+'<small>MN Pledge Tracker</small>';
+    }
+  }
+  // The Home button is redundant on the homepage itself.
+  document.querySelectorAll('.home-btn').forEach(b=>{b.style.display=name==='home'?'none':'';});
+}
+
+/* ─── Mobile drawer ─────────────────────────────────────────────────────── */
+function toggleDrawer(){
+  const s=document.getElementById('sidebar');
+  s.classList.contains('open')?closeDrawer():openDrawer();
+}
+function openDrawer(){
+  document.getElementById('sidebar').classList.add('open');
+  document.getElementById('drawer-scrim').classList.add('open');
+  document.body.style.overflow='hidden';
+}
+function closeDrawer(){
+  const s=document.getElementById('sidebar');
+  if(!s)return;
+  s.classList.remove('open');
+  document.getElementById('drawer-scrim').classList.remove('open');
+  document.body.style.overflow='';
 }
 
 function renderHomeStats(){
@@ -10550,7 +10979,7 @@ function renderOfficialsPage(){
     const label=o.chamber==='executive'?o.office:o.chamber==='senate'?`SD-${o.dist}`:`HD-${o.dist}`;
     const roleTag=o.role?`<span style="font-size:10px;color:var(--accent);font-weight:700;display:block">${o.role}</span>`:'';
     return`<tr class="clickable" onclick="openDetail('${o.id}')">
-      <td><div class="name-cell"><div class="avatar ${avClass(o.party)}">${initials(o.name)}</div><div><div class="name-primary">${o.name} ${formerBadge(o)}${watchBadge(o)}</div>${roleTag}${o.former?`<span style="font-size:10px;color:#6B21A8;font-weight:700;display:block">Former · seat now ${o.replacedBy}</span>`:''}<div class="name-secondary">${o.city||''}</div></div></div></td>
+      <td><div class="name-cell">${officialPhoto(o,'avatar-photo','avatar')}<div><div class="name-primary">${o.name} ${formerBadge(o)}${watchBadge(o)}</div>${roleTag}${o.former?`<span style="font-size:10px;color:#6B21A8;font-weight:700;display:block">Former · seat now ${o.replacedBy}</span>`:''}<div class="name-secondary">${o.city||''}</div><div class="cell-mobile">${o.chamber==='executive'?escHtml(o.office||'Executive'):(o.chamber==='senate'?'Senate · SD-':'House · HD-')+escHtml(String(o.dist||''))} · ${sc.totalPromises} promises · ${(o.votes||[]).length} votes</div></div></div></td>
       <td>${chamberBadge(o.chamber)}</td>
       <td style="font-family:var(--font-mono);font-size:12px">${label}</td>
       <td>${partyBadge(o.party)}</td>
@@ -10600,7 +11029,7 @@ function renderLeaderboard(){
     const label=o.chamber==='executive'?o.office:o.chamber==='senate'?`SD-${o.dist}`:`HD-${o.dist}`;
     return`<tr class="clickable" onclick="openDetail('${o.id}')">
       <td style="font-family:var(--font-mono);font-size:13px;color:var(--text3)">${i+1}</td>
-      <td><div class="name-cell"><div class="avatar ${avClass(o.party)}">${initials(o.name)}</div><div><div class="name-primary">${o.name}</div><div class="name-secondary">${label}</div></div></div></td>
+      <td><div class="name-cell">${officialPhoto(o,'avatar-photo','avatar')}<div><div class="name-primary">${o.name}</div><div class="name-secondary">${label}</div><div class="cell-mobile">${o.sc.pScore!==null?o.sc.pScore+'% promises':''}${o.sc.pScore!==null&&o.sc.vAlign!==null?' · ':''}${o.sc.vAlign!==null?o.sc.vAlign+'% votes':''}</div></div></div></td>
       <td>${chamberBadge(o.chamber)}</td><td>${partyBadge(o.party)}</td>
       <td>${scoreBar(o.sc.pScore,o.sc.grade)}</td>
       <td>${scoreBar(o.sc.vAlign,o.sc.grade)}</td>
@@ -10610,67 +11039,271 @@ function renderLeaderboard(){
 }
 
 // ─── Detail modal ──────────────────────────────────────────────────────────
-function openDetail(id){
-  const o=STATE.officials.find(x=>x.id===id);if(!o)return;
-  const sc=computeScore(o);
-  const label=o.chamber==='executive'?o.office:o.chamber==='senate'?`Senate District ${o.dist}`:o.dist?`House District ${o.dist}`:'';
-  document.getElementById('detail-header-content').innerHTML=`
-    <div class="detail-header">
-      <div class="detail-avatar ${avClass(o.party)}" style="width:56px;height:56px;font-size:18px;font-weight:800">${initials(o.name)}</div>
-      <div><div class="detail-name">${o.name}</div>
-      <div class="detail-meta">${chamberBadge(o.chamber)}${partyBadge(o.party)}<span class="badge" style="background:var(--gray-bg);color:var(--gray)">${label}</span>${o.role?`<span class="badge" style="background:var(--dfl-bg);color:var(--dfl)">${o.role}</span>`:''}${formerBadge(o)}${watchBadge(o)}</div></div>
-    </div>
-    ${o.former?`<div style="margin-top:10px;padding:8px 12px;background:#F3E8FF;border:1px solid #D8B4FE;border-radius:8px;font-size:12px;color:#6B21A8"><strong>Former member${o.tenure?' ('+o.tenure+')':''}.</strong> Seat now held by ${o.replacedBy}. Historical record — excluded from current leaderboard rankings.</div>`:''}${o.watch?`<div style="margin-top:10px;padding:8px 12px;background:#FFF4E0;border:1px solid #F0C67A;border-radius:8px;font-size:12px;color:#7A4A00"><strong>⚑ On the watch list.</strong> ${escHtml(o.statusNote||'')}</div>`:''}`;
-  const gd=sc.grade==='N/A'?'—':sc.grade;
-  document.getElementById('detail-body').innerHTML=`
-    <div class="modal-tabs">
-      <div class="modal-tab active" onclick="switchTab(this,'dt-score')">Score</div>
-      <div class="modal-tab" onclick="switchTab(this,'dt-promises')">Promises (${sc.totalPromises})</div>
-      <div class="modal-tab" onclick="switchTab(this,'dt-votes')">Votes (${(o.votes||[]).length})</div>
-      <div class="modal-tab" onclick="switchTab(this,'dt-contact')">Contact</div>
-    </div>
-    <div id="dt-score" class="tab-pane active">
-      <div class="score-showcase">
-        <div class="grade-big ${sc.grade==='N/A'?'N':sc.grade}">${gd}</div>
-        <div class="score-details">
-          <div class="score-item"><strong>${sc.pScore!==null?sc.pScore+'%':'—'}</strong>Promise score</div>
-          <div class="score-item"><strong>${sc.vAlign!==null?sc.vAlign+'%':'—'}</strong>Vote alignment</div>
-          <div class="score-item"><strong>${sc.breakdown.kept}</strong>Kept</div>
-          <div class="score-item"><strong>${sc.breakdown.broken}</strong>Broken</div>
-        </div>
-      </div>
-      ${sc.grade==='N/A'?'<div class="empty-state"><strong>Not yet graded</strong>Add campaign promises and vote records via the Admin panel.</div>':''}
-    </div>
-    <div id="dt-promises" class="tab-pane">
-      ${!(o.promises||[]).length?'<div class="empty-state"><strong>No promises tracked yet</strong>Use the Admin panel to add campaign promises.</div>':
-      '<div class="promise-list">'+(o.promises||[]).map(p=>`<div class="promise-item"><div style="flex:1"><div class="promise-text">${escHtml(p.text)}</div><div class="promise-cat">${escHtml(p.category)}${p.dateVerified?' · '+p.dateVerified:''}${p.addedBy?' · Added by: '+escHtml(p.addedBy):''}</div>${p.evidence?`<div style="font-size:11px;color:var(--text3);margin-top:4px;font-style:italic">${escHtml(p.evidence)}</div>`:''}</div>${statusBadge(p.status)}</div>`).join('')+'</div>'}
-    </div>
-    <div id="dt-votes" class="tab-pane">
-      ${!(o.votes||[]).length?'<div class="empty-state"><strong>No votes logged yet</strong>Use the Admin panel or bulk import to add voting records.</div>':
-      '<div class="vote-list">'+(o.votes||[]).map(v=>`<div class="vote-item"><span class="vote-bill vote-bill-link" onclick="openBill('${escAttr(v.billNumber)}')" title="Open bill dashboard">${escHtml(v.billNumber)} ↗</span><span class="vote-title">${escHtml(v.billTitle)}</span><span class="${v.voteValue==='yea'||v.voteValue==='signed'?'vote-yea':'vote-nay'}">${(v.voteValue||'').toUpperCase()}</span><span class="${v.alignedWithPromise===true||v.alignedWithPromise==='true'?'aligned-yes':v.alignedWithPromise===false||v.alignedWithPromise==='false'?'aligned-no':'aligned-unk'}">${v.alignedWithPromise===true||v.alignedWithPromise==='true'?'✓ Aligned':v.alignedWithPromise===false||v.alignedWithPromise==='false'?'✗ Misaligned':'Untagged'}</span>${v.sourceUrl?`<a href="${v.sourceUrl}" target="_blank" style="font-size:11px;color:var(--accent);margin-left:4px">src</a>`:''}</div>`).join('')+'</div>'}
-    </div>
-    <div id="dt-contact" class="tab-pane">
-      <div class="contact-grid">
-        ${o.phone?`<div class="contact-item"><div class="contact-label">Phone</div><div class="contact-value">${o.phone}</div></div>`:''}
-        ${o.email?`<div class="contact-item"><div class="contact-label">Email</div><div class="contact-value"><a href="mailto:${o.email}">${o.email}</a></div></div>`:''}
-        ${o.website?`<div class="contact-item"><div class="contact-label">Website</div><div class="contact-value"><a href="${o.website}" target="_blank">${o.website.replace('https://','')}</a></div></div>`:''}
-        ${o.termBegan?`<div class="contact-item"><div class="contact-label">Term began</div><div class="contact-value">${o.termBegan}</div></div>`:''}
-        ${o.nextElection?`<div class="contact-item"><div class="contact-label">Next election</div><div class="contact-value">${o.nextElection}</div></div>`:''}
-        ${o.firstElected?`<div class="contact-item"><div class="contact-label">First elected</div><div class="contact-value">${o.firstElected}</div></div>`:''}
-        ${o.role?`<div class="contact-item"><div class="contact-label">Current role</div><div class="contact-value">${o.role}</div></div>`:''}
-      </div>
-      <div style="margin-top:16px">
-        <button class="btn btn-ghost btn-sm" onclick="document.getElementById('detail-modal').classList.remove('open');showPage('admin');setTimeout(()=>adminSelectById('${o.id}'),200)">Edit in Admin →</button>
-      </div>
-    </div>`;
-  document.getElementById('detail-modal').classList.add('open');
+/* ─── Official profile page ─────────────────────────────────────────────────
+   A full, routable page per official laid out like a professional profile:
+   portrait and headline up top, then About, a public-service timeline,
+   committees, tracked promises, votes, and the sources behind it all.
+
+   Biographical content lives on o.bio and is deliberately source-gated — see
+   the BIO SCHEMA note below. Officials with no researched bio yet render an
+   honest "not yet researched" state rather than invented filler.
+   ───────────────────────────────────────────────────────────────────────── */
+
+/* Portraits are fetched by scripts/fetch-photos.js into public/photos/<id>.webp.
+   Any official without one (currently the five statewide executives) falls back
+   to the initials avatar used elsewhere in the app. */
+function photoPath(o){return 'photos/'+o.id+'.webp';}
+function photoFail(img){
+  const d=document.createElement('div');
+  d.className=img.getAttribute('data-fbclass')||'';
+  d.textContent=img.getAttribute('data-fbtext')||'';
+  img.replaceWith(d);
+}
+function officialPhoto(o,cls,fbCls){
+  return `<img class="${cls}" src="${escAttr(photoPath(o))}" alt="Official portrait of ${escAttr(o.name)}"
+    loading="lazy" data-fbclass="${escAttr(fbCls+' '+avClass(o.party))}" data-fbtext="${escAttr(initials(o.name))}"
+    onerror="photoFail(this)">`;
 }
 
-function switchTab(el,pane){
-  el.closest('.modal-tabs').querySelectorAll('.modal-tab').forEach(t=>t.classList.remove('active'));
-  el.classList.add('active');
-  document.querySelectorAll('[id^="dt-"]').forEach(p=>p.classList.remove('active'));
-  document.getElementById(pane).classList.add('active');
+function officeTitle(o){
+  if(o.chamber==='executive')return o.office||'Statewide Office';
+  if(o.chamber==='senate')return 'State Senator';
+  return 'State Representative';
+}
+function districtLabel(o){
+  if(o.chamber==='executive')return 'State of Minnesota';
+  return (o.chamber==='senate'?'Senate District ':'House District ')+o.dist;
+}
+function partyName(p){return p==='DFL'?'Democratic–Farmer–Labor':p==='R'?'Republican':p||'';}
+
+/* BIO SCHEMA (o.bio) — every claim carries its own source URL:
+     headline    string    one-line professional summary
+     about       string    short narrative of public-sector career
+     aboutSource url backing the About text
+     experience  [{title, org, start, end, note, source}]
+     education   [{school, degree, year, source}]
+     committees  [{name, role, source}]
+     sources     [{label, url}]   general references for the profile
+     verified    'YYYY-MM-DD'     when a human last checked it
+   Anything absent simply does not render — the page never invents content. */
+
+function bioSourceLink(url,label){
+  if(!url)return '';
+  return `<a class="lp-src" href="${escAttr(url)}" target="_blank" rel="noopener noreferrer">${escHtml(label||'Source')} ↗</a>`;
+}
+
+/** Timeline entries. Falls back to what the roster data alone can support. */
+function experienceEntries(o){
+  const bio=o.bio||{};
+  if(bio.experience&&bio.experience.length)return bio.experience;
+  // No researched history yet — but the roster still tells us, verifiably, that
+  // they hold this office and when they were first elected. Show only that.
+  const start=o.termBegan||o.firstElected;
+  if(!start)return [];
+  return [{
+    title:officeTitle(o),
+    org:'Minnesota '+(o.chamber==='senate'?'Senate':o.chamber==='house'?'House of Representatives':'State Government'),
+    start:String(start),end:'Present',
+    note:o.role?('Currently serves as '+o.role+'.'):'',
+    source:o.chamber==='senate'?'https://www.senate.mn/members':'https://www.house.mn.gov/members/list',
+    fromRoster:true,
+  }];
+}
+
+function renderOfficialPage(id){
+  const o=STATE.officials.find(x=>x.id===id);
+  if(!o){goHome();return;}
+  const sc=computeScore(o);
+  const bio=o.bio||{};
+  const crumb=document.getElementById('official-crumb');
+  if(crumb)crumb.textContent=o.name;
+  document.title=o.name+' — MN Pledge Tracker';
+
+  const cov=o.chamber==='executive'?'cov-exec':o.party==='R'?'cov-gop':'';
+  const headline=bio.headline||`${officeTitle(o)} · ${districtLabel(o)}`;
+  const exp=experienceEntries(o);
+  const gd=sc.grade==='N/A'?'—':sc.grade;
+
+  const sectionsHtml=[];
+
+  // ── About ────────────────────────────────────────────────────────────────
+  sectionsHtml.push(`<div class="lp-card">
+    <div class="lp-section-title">About${bio.verified?`<span class="lp-verified">✓ Verified ${escHtml(bio.verified)}</span>`:''}</div>
+    <div class="lp-section-body">
+      ${bio.about
+        ? `<div class="lp-about">${escHtml(bio.about)}</div>${bioSourceLink(bio.aboutSource,'Source')}`
+        : `<div class="lp-empty"><strong>Biography not yet researched</strong>
+             This profile shows only what we can verify from primary records — ${escHtml(o.name)}'s
+             tracked promises, roll-call votes and official contact details below are all sourced.
+             A narrative career history will be added once it has been confirmed against primary
+             sources. We do not publish unverified biographical claims.</div>`}
+    </div></div>`);
+
+  // ── Experience timeline ─────────────────────────────────────────────────
+  if(exp.length){
+    const rosterOnly=exp.every(e=>e.fromRoster);
+    sectionsHtml.push(`<div class="lp-card">
+      <div class="lp-section-title">Public service</div>
+      <div class="lp-section-body">
+        ${exp.map(e=>`<div class="lp-exp">
+          <div class="lp-exp-title">${escHtml(e.title||'')}</div>
+          <div class="lp-exp-org">${escHtml(e.org||'')}</div>
+          <div class="lp-exp-dates">${escHtml(e.start||'')}${e.end?' — '+escHtml(e.end):''}</div>
+          ${e.note?`<div class="lp-exp-note">${escHtml(e.note)}</div>`:''}
+          ${bioSourceLink(e.source,'Source')}
+        </div>`).join('')}
+        ${rosterOnly?`<div class="lp-empty" style="margin-top:16px">Current office only — drawn from the
+          official chamber roster. Earlier public-sector roles have not been researched and verified yet.</div>`:''}
+      </div></div>`);
+  }
+
+  // ── Education ───────────────────────────────────────────────────────────
+  if(bio.education&&bio.education.length){
+    sectionsHtml.push(`<div class="lp-card">
+      <div class="lp-section-title">Education</div>
+      <div class="lp-section-body">
+        ${bio.education.map(e=>`<div class="lp-exp">
+          <div class="lp-exp-title">${escHtml(e.school||'')}</div>
+          ${e.degree?`<div class="lp-exp-org">${escHtml(e.degree)}</div>`:''}
+          ${e.year?`<div class="lp-exp-dates">${escHtml(String(e.year))}</div>`:''}
+          ${bioSourceLink(e.source,'Source')}
+        </div>`).join('')}
+      </div></div>`);
+  }
+
+  // ── Committees ──────────────────────────────────────────────────────────
+  if(bio.committees&&bio.committees.length){
+    sectionsHtml.push(`<div class="lp-card">
+      <div class="lp-section-title">Committees</div>
+      <div class="lp-section-body"><div class="lp-chip-row">
+        ${bio.committees.map(c=>`<span class="lp-chip">${c.role?`<strong>${escHtml(c.role)}</strong> · `:''}${escHtml(c.name||'')}</span>`).join('')}
+      </div>
+      ${bio.committees[0]&&bio.committees[0].source?bioSourceLink(bio.committees[0].source,'Committee assignments — source'):''}
+      </div></div>`);
+  }
+
+  // ── Promises ────────────────────────────────────────────────────────────
+  sectionsHtml.push(`<div class="lp-card">
+    <div class="lp-section-title">Tracked promises <span style="font-size:13px;color:var(--text3);font-weight:600">${sc.totalPromises}</span></div>
+    <div class="lp-section-body">
+      ${!(o.promises||[]).length
+        ? `<div class="lp-empty"><strong>No promises tracked yet</strong>Campaign pledges for this official have not been catalogued.</div>`
+        : `<div class="promise-list">`+(o.promises||[]).map(p=>`<div class="promise-item">
+            <div style="flex:1">
+              <div class="promise-text">${escHtml(p.text)}</div>
+              <div class="promise-cat">${escHtml(p.category)}${p.dateVerified?' · '+escHtml(p.dateVerified):''}</div>
+              ${p.evidence?`<div style="font-size:11px;color:var(--text3);margin-top:4px;font-style:italic">${escHtml(p.evidence)}</div>`:''}
+              ${p.sourceUrl?bioSourceLink(p.sourceUrl,'Source'):''}
+            </div>${statusBadge(p.status)}</div>`).join('')+`</div>`}
+    </div></div>`);
+
+  // ── Votes ───────────────────────────────────────────────────────────────
+  sectionsHtml.push(`<div class="lp-card">
+    <div class="lp-section-title">Voting record <span style="font-size:13px;color:var(--text3);font-weight:600">${(o.votes||[]).length}</span></div>
+    <div class="lp-section-body">
+      ${!(o.votes||[]).length
+        ? `<div class="lp-empty"><strong>No votes logged yet</strong>Roll-call records for this official have not been imported.</div>`
+        : `<div class="vote-list">`+(o.votes||[]).map(v=>`<div class="vote-item">
+            <span class="vote-bill vote-bill-link" onclick="openBill('${escAttr(v.billNumber)}')" title="Open bill dashboard">${escHtml(v.billNumber)} ↗</span>
+            <span class="vote-title">${escHtml(v.billTitle)}</span>
+            <span class="${v.voteValue==='yea'||v.voteValue==='signed'?'vote-yea':'vote-nay'}">${escHtml((v.voteValue||'').toUpperCase())}</span>
+            ${v.sourceUrl?`<a href="${escAttr(v.sourceUrl)}" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:var(--accent);margin-left:4px">src</a>`:''}
+          </div>`).join('')+`</div>`}
+    </div></div>`);
+
+  // ── Sources ─────────────────────────────────────────────────────────────
+  const srcs=[];
+  if(bio.sources&&bio.sources.length)bio.sources.forEach(s=>srcs.push(s));
+  srcs.push(o.chamber==='senate'
+    ? {label:'Minnesota Senate — member roster and official portrait',url:'https://www.senate.mn/members'}
+    : o.chamber==='house'
+      ? {label:'Minnesota House of Representatives — member roster and official portrait',url:'https://www.house.mn.gov/members/list'}
+      : {label:'State of Minnesota — official office listing',url:'https://mn.gov'});
+  srcs.push({label:'Minnesota Legislature — bill and roll-call records',url:'https://www.revisor.mn.gov'});
+  sectionsHtml.push(`<div class="lp-card">
+    <div class="lp-section-title">Sources</div>
+    <div class="lp-section-body">
+      <ul class="lp-src-list">${srcs.map(s=>`<li><a href="${escAttr(s.url)}" target="_blank" rel="noopener noreferrer">${escHtml(s.label)}</a></li>`).join('')}</ul>
+      <div class="lp-photo-credit">Portrait published by the official's own chamber. Promise and vote citations link to the primary record for each entry.</div>
+    </div></div>`);
+
+  // ── Right rail ──────────────────────────────────────────────────────────
+  const facts=[
+    ['Office',officeTitle(o)],
+    ['District',districtLabel(o)],
+    ['Party',partyName(o.party)],
+    o.city?['Home city',o.city]:null,
+    o.role?['Leadership role',o.role]:null,
+    o.firstElected?['First elected',String(o.firstElected)]:null,
+    o.termBegan?['Term began',String(o.termBegan)]:null,
+    o.nextElection?['Next election',String(o.nextElection)]:null,
+  ].filter(Boolean);
+
+  const contact=[
+    o.phone?['Phone',`<a href="tel:${escAttr(String(o.phone).replace(/[^0-9+]/g,''))}">${escHtml(o.phone)}</a>`]:null,
+    o.email?['Email',`<a href="mailto:${escAttr(o.email)}">${escHtml(o.email)}</a>`]:null,
+    o.website?['Website',`<a href="${escAttr(o.website)}" target="_blank" rel="noopener noreferrer">${escHtml(o.website.replace(/^https?:\/\//,''))}</a>`]:null,
+  ].filter(Boolean);
+
+  const rail=`
+    <div class="lp-card">
+      <div class="lp-section-title">Accountability grade</div>
+      <div class="lp-section-body">
+        <div class="lp-rail-grade">
+          <div class="grade-big ${sc.grade==='N/A'?'N':sc.grade}">${gd}</div>
+          <div class="score-details">
+            <div class="score-item"><strong>${sc.pScore!==null?sc.pScore+'%':'—'}</strong>Promise score</div>
+            <div class="score-item"><strong>${sc.vAlign!==null?sc.vAlign+'%':'—'}</strong>Vote alignment</div>
+          </div>
+        </div>
+        <div style="display:flex;gap:14px;margin-top:14px;font-size:12.5px;color:var(--text2);flex-wrap:wrap">
+          <span><strong style="color:var(--green)">${sc.breakdown.kept}</strong> kept</span>
+          <span><strong style="color:var(--amber)">${sc.breakdown.partial}</strong> partial</span>
+          <span><strong style="color:var(--red)">${sc.breakdown.broken}</strong> broken</span>
+        </div>
+        <div style="margin-top:14px"><a class="lp-src" href="#/methodology">How this grade is calculated ↗</a></div>
+      </div>
+    </div>
+    <div class="lp-card">
+      <div class="lp-section-title">Quick facts</div>
+      <div class="lp-section-body">${facts.map(([k,v])=>`<div class="lp-fact"><span class="lp-fact-k">${escHtml(k)}</span><span class="lp-fact-v">${escHtml(v)}</span></div>`).join('')}</div>
+    </div>
+    ${contact.length?`<div class="lp-card">
+      <div class="lp-section-title">Contact</div>
+      <div class="lp-section-body">${contact.map(([k,v])=>`<div class="lp-fact"><span class="lp-fact-k">${escHtml(k)}</span><span class="lp-fact-v">${v}</span></div>`).join('')}</div>
+    </div>`:''}`;
+
+  document.getElementById('official-page-body').innerHTML=`
+    <div class="lp-card">
+      <div class="lp-cover ${cov}"></div>
+      <div class="lp-head">
+        ${officialPhoto(o,'lp-photo','lp-photo-fallback')}
+        <div class="lp-name">${escHtml(o.name)}</div>
+        <div class="lp-headline">${escHtml(headline)}</div>
+        <div class="lp-sub">
+          <span>${escHtml(districtLabel(o))}</span>
+          ${o.city?`<span>📍 ${escHtml(o.city)}</span>`:''}
+          ${o.firstElected?`<span>In office since ${escHtml(String(o.firstElected))}</span>`:''}
+        </div>
+        <div class="lp-badges">
+          ${chamberBadge(o.chamber)}${partyBadge(o.party)}
+          ${o.role?`<span class="badge" style="background:var(--dfl-bg);color:var(--dfl)">${escHtml(o.role)}</span>`:''}
+          ${formerBadge(o)}${watchBadge(o)}${gradeBadge(sc.grade)}
+        </div>
+        ${o.former?`<div style="margin-top:12px;padding:8px 12px;background:#F3E8FF;border:1px solid #D8B4FE;border-radius:8px;font-size:12px;color:#6B21A8"><strong>Former member${o.tenure?' ('+escHtml(o.tenure)+')':''}.</strong> Seat now held by ${escHtml(o.replacedBy||'—')}. Historical record — excluded from current leaderboard rankings.</div>`:''}
+        ${o.watch?`<div style="margin-top:12px;padding:8px 12px;background:#FFF4E0;border:1px solid #F0C67A;border-radius:8px;font-size:12px;color:#7A4A00"><strong>⚑ On the watch list.</strong> ${escHtml(o.statusNote||'')}</div>`:''}
+        <div class="lp-actions">
+          ${o.website?`<a class="btn btn-primary btn-sm" href="${escAttr(o.website)}" target="_blank" rel="noopener noreferrer">Official page ↗</a>`:''}
+          ${o.email?`<a class="btn btn-ghost btn-sm" href="mailto:${escAttr(o.email)}">Email</a>`:''}
+          ${o.phone?`<a class="btn btn-ghost btn-sm" href="tel:${escAttr(String(o.phone).replace(/[^0-9+]/g,''))}">Call</a>`:''}
+          <button class="btn btn-ghost btn-sm" onclick="showPage('officials')">← All officials</button>
+        </div>
+      </div>
+    </div>
+    <div class="lp-body">
+      <div>${sectionsHtml.join('')}</div>
+      <div>${rail}</div>
+    </div>`;
 }
 
 function closeModal(e,id){if(e.target===e.currentTarget)document.getElementById(id).classList.remove('open');}
@@ -10902,6 +11535,27 @@ renderOfficials();
 renderLeaderboard();
 populateSelects();
 adminSearch();
+
+/* Give every page a "Back to homepage" control. Injecting it into each .topbar
+   rather than hand-writing it eight times means any page added later gets one
+   automatically and none can be missed. */
+(function installHomeButtons(){
+  document.querySelectorAll('.page > .topbar').forEach(bar=>{
+    if(bar.querySelector('.home-btn'))return;
+    const a=document.createElement('a');
+    a.className='home-btn';
+    a.href='#/home';
+    a.title='Back to homepage';
+    a.innerHTML='<svg viewBox="0 0 20 20" fill="currentColor" aria-hidden="true"><path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"/></svg>Home';
+    bar.insertBefore(a,bar.firstChild);
+  });
+})();
+
+// Close the mobile drawer on Escape, matching the modals' behaviour.
+document.addEventListener('keydown',e=>{ if(e.key==='Escape')closeDrawer(); });
+
+window.addEventListener('hashchange',router);
+router();   // honour a deep link on first load, e.g. #/official/sen-64
 </script>
 
 <!-- ══════════════════════════════════════════════════════════════════════════

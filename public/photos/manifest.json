@@ -1,0 +1,1006 @@
+{
+  "generated": "2026-07-18T18:01:08.935Z",
+  "note": "Official portraits from the members' own chambers. Re-run scripts/fetch-photos.js to refresh.",
+  "photos": {
+    "sen-1": {
+      "file": "photos/sen-1.webp",
+      "source": "https://www.senate.mn/graphics/01Johnson.jpg",
+      "name": "Mark T. Johnson"
+    },
+    "sen-2": {
+      "file": "photos/sen-2.webp",
+      "source": "https://www.senate.mn/graphics/02Green.jpg",
+      "name": "Steve Green"
+    },
+    "sen-3": {
+      "file": "photos/sen-3.webp",
+      "source": "https://www.senate.mn/graphics/03Hauschild.jpg",
+      "name": "Grant Hauschild"
+    },
+    "sen-4": {
+      "file": "photos/sen-4.webp",
+      "source": "https://www.senate.mn/graphics/04Kupec.jpg",
+      "name": "Robert J. Kupec"
+    },
+    "sen-5": {
+      "file": "photos/sen-5.webp",
+      "source": "https://www.senate.mn/graphics/02Utke.jpg",
+      "name": "Paul J. Utke"
+    },
+    "sen-6": {
+      "file": "photos/sen-6.webp",
+      "source": "https://www.senate.mn/graphics/06Heintzeman.jpg",
+      "name": "Keri Heintzeman"
+    },
+    "sen-7": {
+      "file": "photos/sen-7.webp",
+      "source": "https://www.senate.mn/graphics/07Farnsworth.jpg",
+      "name": "Robert D. Farnsworth"
+    },
+    "sen-8": {
+      "file": "photos/sen-8.webp",
+      "source": "https://www.senate.mn/graphics/07McEwenJen.jpg",
+      "name": "Jennifer A. McEwen"
+    },
+    "sen-9": {
+      "file": "photos/sen-9.webp",
+      "source": "https://www.senate.mn/graphics/09Rasmusson.jpg",
+      "name": "Jordan Rasmusson"
+    },
+    "sen-10": {
+      "file": "photos/sen-10.webp",
+      "source": "https://www.senate.mn/graphics/10Wesenberg.jpg",
+      "name": "Nathan Wesenberg"
+    },
+    "sen-11": {
+      "file": "photos/sen-11.webp",
+      "source": "https://www.senate.mn/graphics/11Rarick.jpg",
+      "name": "Jason Rarick"
+    },
+    "sen-12": {
+      "file": "photos/sen-12.webp",
+      "source": "https://www.senate.mn/graphics/12Westrom.jpg",
+      "name": "Torrey N. Westrom"
+    },
+    "sen-13": {
+      "file": "photos/sen-13.webp",
+      "source": "https://www.senate.mn/graphics/13Howe.jpg",
+      "name": "Jeff R. Howe"
+    },
+    "sen-14": {
+      "file": "photos/sen-14.webp",
+      "source": "https://www.senate.mn/graphics/14PutnamAric.jpg",
+      "name": "Aric Putnam"
+    },
+    "sen-15": {
+      "file": "photos/sen-15.webp",
+      "source": "https://www.senate.mn/graphics/16Dahms.jpg",
+      "name": "Gary H. Dahms"
+    },
+    "sen-16": {
+      "file": "photos/sen-16.webp",
+      "source": "https://www.senate.mn/graphics/16Lang.jpg",
+      "name": "Andrew R. Lang"
+    },
+    "sen-17": {
+      "file": "photos/sen-17.webp",
+      "source": "https://www.senate.mn/graphics/17Gruenhagen.jpg",
+      "name": "Glenn H. Gruenhagen"
+    },
+    "sen-18": {
+      "file": "photos/sen-18.webp",
+      "source": "https://www.senate.mn/graphics/18Frentz.jpg",
+      "name": "Nick A. Frentz"
+    },
+    "sen-19": {
+      "file": "photos/sen-19.webp",
+      "source": "https://www.senate.mn/graphics/24Jasinski.jpg",
+      "name": "John R. Jasinski"
+    },
+    "sen-20": {
+      "file": "photos/sen-20.webp",
+      "source": "https://www.senate.mn/graphics/20Drazkowski.jpg",
+      "name": "Steve Drazkowski"
+    },
+    "sen-21": {
+      "file": "photos/sen-21.webp",
+      "source": "https://www.senate.mn/graphics/22Weber.jpg",
+      "name": "Bill Weber"
+    },
+    "sen-22": {
+      "file": "photos/sen-22.webp",
+      "source": "https://www.senate.mn/graphics/20Draheim.jpg",
+      "name": "Rich Draheim"
+    },
+    "sen-23": {
+      "file": "photos/sen-23.webp",
+      "source": "https://www.senate.mn/graphics/27DorninkGene.jpg",
+      "name": "Gene Dornink"
+    },
+    "sen-24": {
+      "file": "photos/sen-24.webp",
+      "source": "https://www.senate.mn/graphics/24Nelson.jpg",
+      "name": "Carla J. Nelson"
+    },
+    "sen-25": {
+      "file": "photos/sen-25.webp",
+      "source": "https://www.senate.mn/graphics/25Boldon.jpg",
+      "name": "Liz Boldon"
+    },
+    "sen-26": {
+      "file": "photos/sen-26.webp",
+      "source": "https://www.senate.mn/graphics/26Miller.jpg",
+      "name": "Jeremy R. Miller"
+    },
+    "sen-27": {
+      "file": "photos/sen-27.webp",
+      "source": "https://www.senate.mn/graphics/15Mathews.jpg",
+      "name": "Andrew Mathews"
+    },
+    "sen-28": {
+      "file": "photos/sen-28.webp",
+      "source": "https://www.senate.mn/graphics/32Koran.jpg",
+      "name": "Mark W. Koran"
+    },
+    "sen-29": {
+      "file": "photos/sen-29.webp",
+      "source": "https://www.senate.mn/graphics/29Holmstrom.jpg",
+      "name": "Michael W. Holmstrom"
+    },
+    "sen-30": {
+      "file": "photos/sen-30.webp",
+      "source": "https://www.senate.mn/graphics/30Lucero.jpg",
+      "name": "Eric Lucero"
+    },
+    "sen-31": {
+      "file": "photos/sen-31.webp",
+      "source": "https://www.senate.mn/graphics/31Bahr.jpg",
+      "name": "Calvin K. Bahr"
+    },
+    "sen-32": {
+      "file": "photos/sen-32.webp",
+      "source": "https://www.senate.mn/graphics/32Kreun.jpg",
+      "name": "Michael E. Kreun"
+    },
+    "sen-33": {
+      "file": "photos/sen-33.webp",
+      "source": "https://www.senate.mn/graphics/39Housley.jpg",
+      "name": "Karin Housley"
+    },
+    "sen-34": {
+      "file": "photos/sen-34.webp",
+      "source": "https://www.senate.mn/graphics/36Hoffman.jpg",
+      "name": "John A. Hoffman"
+    },
+    "sen-35": {
+      "file": "photos/sen-35.webp",
+      "source": "https://www.senate.mn/graphics/35Abeler.jpg",
+      "name": "Jim Abeler"
+    },
+    "sen-36": {
+      "file": "photos/sen-36.webp",
+      "source": "https://www.senate.mn/graphics/36Gustafson.jpg",
+      "name": "Heather Gustafson"
+    },
+    "sen-37": {
+      "file": "photos/sen-37.webp",
+      "source": "https://www.senate.mn/graphics/37Limmer.jpg",
+      "name": "Warren Limmer"
+    },
+    "sen-38": {
+      "file": "photos/sen-38.webp",
+      "source": "https://www.senate.mn/graphics/38Pha.jpg",
+      "name": "Susan Pha"
+    },
+    "sen-39": {
+      "file": "photos/sen-39.webp",
+      "source": "https://www.senate.mn/graphics/41KuneshPodeinMary.jpg",
+      "name": "Mary K. Kunesh"
+    },
+    "sen-40": {
+      "file": "photos/sen-40.webp",
+      "source": "https://www.senate.mn/graphics/40Marty.jpg",
+      "name": "John Marty"
+    },
+    "sen-41": {
+      "file": "photos/sen-41.webp",
+      "source": "https://www.senate.mn/graphics/41Seeberger.jpg",
+      "name": "Judy Seeberger"
+    },
+    "sen-42": {
+      "file": "photos/sen-42.webp",
+      "source": "https://www.senate.mn/graphics/42Westlin.jpg",
+      "name": "Bonnie S. Westlin"
+    },
+    "sen-43": {
+      "file": "photos/sen-43.webp",
+      "source": "https://www.senate.mn/graphics/43Rest.jpg",
+      "name": "Ann H. Rest"
+    },
+    "sen-44": {
+      "file": "photos/sen-44.webp",
+      "source": "https://www.senate.mn/graphics/44Xiong.jpg",
+      "name": "Tou Xiong"
+    },
+    "sen-45": {
+      "file": "photos/sen-45.webp",
+      "source": "https://www.senate.mn/graphics/45Johnson_Stewart.jpg",
+      "name": "Ann M. Johnson Stewart"
+    },
+    "sen-46": {
+      "file": "photos/sen-46.webp",
+      "source": "https://www.senate.mn/graphics/46Latz.jpg",
+      "name": "Ron Latz"
+    },
+    "sen-47": {
+      "file": "photos/sen-47.webp",
+      "source": "https://www.senate.mn/graphics/47Hemmingsen-Jaeger.jpg",
+      "name": "Amanda H. Hemmingsen-Jaeger"
+    },
+    "sen-48": {
+      "file": "photos/sen-48.webp",
+      "source": "https://www.senate.mn/graphics/47ColemanJulia.jpg",
+      "name": "Julia E. Coleman"
+    },
+    "sen-49": {
+      "file": "photos/sen-49.webp",
+      "source": "https://www.senate.mn/graphics/49Cwodzinski.jpg",
+      "name": "Steve A. Cwodzinski"
+    },
+    "sen-50": {
+      "file": "photos/sen-50.webp",
+      "source": "https://www.senate.mn/graphics/50Mann.jpg",
+      "name": "Alice Mann"
+    },
+    "sen-51": {
+      "file": "photos/sen-51.webp",
+      "source": "https://www.senate.mn/graphics/50Wiklund.jpg",
+      "name": "Melissa H. Wiklund"
+    },
+    "sen-52": {
+      "file": "photos/sen-52.webp",
+      "source": "https://www.senate.mn/graphics/51Carlson.jpg",
+      "name": "Jim Carlson"
+    },
+    "sen-53": {
+      "file": "photos/sen-53.webp",
+      "source": "https://www.senate.mn/graphics/52Klein.jpg",
+      "name": "Matt D. Klein"
+    },
+    "sen-54": {
+      "file": "photos/sen-54.webp",
+      "source": "https://www.senate.mn/graphics/55Pratt.jpg",
+      "name": "Eric R. Pratt"
+    },
+    "sen-55": {
+      "file": "photos/sen-55.webp",
+      "source": "https://www.senate.mn/graphics/56PortLindsey.jpg",
+      "name": "Lindsey Port"
+    },
+    "sen-56": {
+      "file": "photos/sen-56.webp",
+      "source": "https://www.senate.mn/graphics/56MayeQuade.jpg",
+      "name": "Erin K. Maye Quade"
+    },
+    "sen-57": {
+      "file": "photos/sen-57.webp",
+      "source": "https://www.senate.mn/graphics/58DuckworthZach.jpg",
+      "name": "Zach Duckworth"
+    },
+    "sen-58": {
+      "file": "photos/sen-58.webp",
+      "source": "https://www.senate.mn/graphics/58Lieske.jpg",
+      "name": "Bill Lieske"
+    },
+    "sen-59": {
+      "file": "photos/sen-59.webp",
+      "source": "https://www.senate.mn/graphics/59Champion.jpg",
+      "name": "Bobby Joe Champion"
+    },
+    "sen-60": {
+      "file": "photos/sen-60.webp",
+      "source": "https://www.senate.mn/graphics/60Clark.jpg",
+      "name": "Doron Clark"
+    },
+    "sen-61": {
+      "file": "photos/sen-61.webp",
+      "source": "https://www.senate.mn/graphics/61Dibble.jpg",
+      "name": "D. Scott Dibble"
+    },
+    "sen-62": {
+      "file": "photos/sen-62.webp",
+      "source": "https://www.senate.mn/graphics/62FatehOmar.jpg",
+      "name": "Omar Fateh"
+    },
+    "sen-63": {
+      "file": "photos/sen-63.webp",
+      "source": "https://www.senate.mn/graphics/63Mohamed.jpg",
+      "name": "Zaynab Mohamed"
+    },
+    "sen-64": {
+      "file": "photos/sen-64.webp",
+      "source": "https://www.senate.mn/graphics/64MurphyErin.jpg",
+      "name": "Erin P. Murphy"
+    },
+    "sen-65": {
+      "file": "photos/sen-65.webp",
+      "source": "https://www.senate.mn/graphics/65Pappas.jpg",
+      "name": "Sandra L. Pappas"
+    },
+    "sen-66": {
+      "file": "photos/sen-66.webp",
+      "source": "https://www.senate.mn/graphics/66OumouVerbeten.jpg",
+      "name": "Clare Oumou Verbeten"
+    },
+    "sen-67": {
+      "file": "photos/sen-67.webp",
+      "source": "https://www.senate.mn/graphics/67Hawj.jpg",
+      "name": "Foung Hawj"
+    },
+    "rep-01A": {
+      "file": "photos/rep-01A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/01A.gif",
+      "name": "John Burkel"
+    },
+    "rep-01B": {
+      "file": "photos/rep-01B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/01B.gif",
+      "name": "Steve Gander"
+    },
+    "rep-02A": {
+      "file": "photos/rep-02A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/02A.gif",
+      "name": "Bidal Duran"
+    },
+    "rep-02B": {
+      "file": "photos/rep-02B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/02B.gif",
+      "name": "Matt Bliss"
+    },
+    "rep-03A": {
+      "file": "photos/rep-03A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/03A.gif",
+      "name": "Roger Skraba"
+    },
+    "rep-03B": {
+      "file": "photos/rep-03B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/03B.gif",
+      "name": "Natalie Zeleznikar"
+    },
+    "rep-04A": {
+      "file": "photos/rep-04A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/04A.gif",
+      "name": "Heather Keeler"
+    },
+    "rep-04B": {
+      "file": "photos/rep-04B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/04B.gif",
+      "name": "Jim Joy"
+    },
+    "rep-05A": {
+      "file": "photos/rep-05A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/05A.gif",
+      "name": "Krista Knudsen"
+    },
+    "rep-05B": {
+      "file": "photos/rep-05B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/05B.gif",
+      "name": "Mike Wiener"
+    },
+    "rep-06A": {
+      "file": "photos/rep-06A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/06A.gif",
+      "name": "Ben Davis"
+    },
+    "rep-06B": {
+      "file": "photos/rep-06B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/06B.gif",
+      "name": "Josh Heintzeman"
+    },
+    "rep-07A": {
+      "file": "photos/rep-07A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/07A.gif",
+      "name": "Spencer Igo"
+    },
+    "rep-07B": {
+      "file": "photos/rep-07B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/07B.gif",
+      "name": "Cal Warwas"
+    },
+    "rep-08A": {
+      "file": "photos/rep-08A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/08A.gif",
+      "name": "Pete Johnson"
+    },
+    "rep-08B": {
+      "file": "photos/rep-08B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/08B.gif",
+      "name": "Liish Kozlowski"
+    },
+    "rep-09A": {
+      "file": "photos/rep-09A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/09A.gif",
+      "name": "Jeff Backer"
+    },
+    "rep-09B": {
+      "file": "photos/rep-09B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/09B.gif",
+      "name": "Tom Murphy"
+    },
+    "rep-10A": {
+      "file": "photos/rep-10A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/10A.gif",
+      "name": "Ron Kresha"
+    },
+    "rep-10B": {
+      "file": "photos/rep-10B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/10B.gif",
+      "name": "Isaac Schultz"
+    },
+    "rep-11A": {
+      "file": "photos/rep-11A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/11A.gif",
+      "name": "Jeff Dotseth"
+    },
+    "rep-11B": {
+      "file": "photos/rep-11B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/11B.gif",
+      "name": "Nathan Nelson"
+    },
+    "rep-12A": {
+      "file": "photos/rep-12A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/12A.gif",
+      "name": "Paul Anderson"
+    },
+    "rep-12B": {
+      "file": "photos/rep-12B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/12B.gif",
+      "name": "Mary Franson"
+    },
+    "rep-13A": {
+      "file": "photos/rep-13A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/13A.gif",
+      "name": "Lisa Demuth"
+    },
+    "rep-14A": {
+      "file": "photos/rep-14A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/14A.gif",
+      "name": "Bernie Perryman"
+    },
+    "rep-14B": {
+      "file": "photos/rep-14B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/14B.gif",
+      "name": "Dan Wolgamott"
+    },
+    "rep-15A": {
+      "file": "photos/rep-15A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/15A.gif",
+      "name": "Chris Swedzinski"
+    },
+    "rep-15B": {
+      "file": "photos/rep-15B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/15B.gif",
+      "name": "Paul Torkelson"
+    },
+    "rep-16A": {
+      "file": "photos/rep-16A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/16A.gif",
+      "name": "Scott Van Binsbergen"
+    },
+    "rep-16B": {
+      "file": "photos/rep-16B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/16B.gif",
+      "name": "Dave Baker"
+    },
+    "rep-17A": {
+      "file": "photos/rep-17A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/17A.gif",
+      "name": "Dawn Gillman"
+    },
+    "rep-17B": {
+      "file": "photos/rep-17B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/17B.gif",
+      "name": "Bobbie Harder"
+    },
+    "rep-18A": {
+      "file": "photos/rep-18A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/18A.gif",
+      "name": "Erica Schwartz"
+    },
+    "rep-18B": {
+      "file": "photos/rep-18B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/18B.gif",
+      "name": "Luke Frederick"
+    },
+    "rep-19A": {
+      "file": "photos/rep-19A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/19A.gif",
+      "name": "Keith Allen"
+    },
+    "rep-19B": {
+      "file": "photos/rep-19B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/19B.gif",
+      "name": "Tom Sexton"
+    },
+    "rep-20A": {
+      "file": "photos/rep-20A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/20A.gif",
+      "name": "Pam Altendorf"
+    },
+    "rep-20B": {
+      "file": "photos/rep-20B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/20B.gif",
+      "name": "Steven Jacob"
+    },
+    "rep-21A": {
+      "file": "photos/rep-21A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/21A.gif",
+      "name": "Joe Schomacker"
+    },
+    "rep-21B": {
+      "file": "photos/rep-21B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/21B.gif",
+      "name": "Marj Fogelman"
+    },
+    "rep-22A": {
+      "file": "photos/rep-22A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/22A.gif",
+      "name": "Bjorn Olson"
+    },
+    "rep-22B": {
+      "file": "photos/rep-22B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/22B.gif",
+      "name": "Terry Stier"
+    },
+    "rep-23A": {
+      "file": "photos/rep-23A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/23A.gif",
+      "name": "Peggy Bennett"
+    },
+    "rep-23B": {
+      "file": "photos/rep-23B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/23B.gif",
+      "name": "Patricia Mueller"
+    },
+    "rep-24A": {
+      "file": "photos/rep-24A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/24A.gif",
+      "name": "Duane Quam"
+    },
+    "rep-24B": {
+      "file": "photos/rep-24B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/24B.gif",
+      "name": "Tina Liebling"
+    },
+    "rep-25A": {
+      "file": "photos/rep-25A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/25A.gif",
+      "name": "Kim Hicks"
+    },
+    "rep-25B": {
+      "file": "photos/rep-25B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/25B.gif",
+      "name": "Andy Smith"
+    },
+    "rep-26A": {
+      "file": "photos/rep-26A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/26A.gif",
+      "name": "Aaron Repinski"
+    },
+    "rep-26B": {
+      "file": "photos/rep-26B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/26B.gif",
+      "name": "Greg Davids"
+    },
+    "rep-27A": {
+      "file": "photos/rep-27A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/27A.gif",
+      "name": "Shane Mekeland"
+    },
+    "rep-27B": {
+      "file": "photos/rep-27B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/27B.gif",
+      "name": "Bryan Lawrence"
+    },
+    "rep-28A": {
+      "file": "photos/rep-28A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/28A.gif",
+      "name": "Jimmy Gordon"
+    },
+    "rep-28B": {
+      "file": "photos/rep-28B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/28B.gif",
+      "name": "Max Rymer"
+    },
+    "rep-29A": {
+      "file": "photos/rep-29A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/29A.gif",
+      "name": "Joe McDonald"
+    },
+    "rep-29B": {
+      "file": "photos/rep-29B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/29B.gif",
+      "name": "Marion Rarick"
+    },
+    "rep-30A": {
+      "file": "photos/rep-30A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/30A.gif",
+      "name": "Walter Hudson"
+    },
+    "rep-30B": {
+      "file": "photos/rep-30B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/30B.gif",
+      "name": "Paul Novotny"
+    },
+    "rep-31A": {
+      "file": "photos/rep-31A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/31A.gif",
+      "name": "Harry Niska"
+    },
+    "rep-31B": {
+      "file": "photos/rep-31B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/31B.gif",
+      "name": "Peggy Scott"
+    },
+    "rep-32A": {
+      "file": "photos/rep-32A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/32A.gif",
+      "name": "Nolan West"
+    },
+    "rep-32B": {
+      "file": "photos/rep-32B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/32B.gif",
+      "name": "Matt Norris"
+    },
+    "rep-33A": {
+      "file": "photos/rep-33A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/33A.gif",
+      "name": "Patti Anderson"
+    },
+    "rep-33B": {
+      "file": "photos/rep-33B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/33B.gif",
+      "name": "Josiah Hill"
+    },
+    "rep-34A": {
+      "file": "photos/rep-34A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/34A.gif",
+      "name": "Danny Nadeau"
+    },
+    "rep-34B": {
+      "file": "photos/rep-34B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/34B.gif",
+      "name": "Xp Lee"
+    },
+    "rep-35A": {
+      "file": "photos/rep-35A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/35A.gif",
+      "name": "Zack Stephenson"
+    },
+    "rep-35B": {
+      "file": "photos/rep-35B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/35B.gif",
+      "name": "Kari Rehrauer"
+    },
+    "rep-36A": {
+      "file": "photos/rep-36A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/36A.gif",
+      "name": "Elliott Engen"
+    },
+    "rep-36B": {
+      "file": "photos/rep-36B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/36B.gif",
+      "name": "Brion Curran"
+    },
+    "rep-37A": {
+      "file": "photos/rep-37A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/37A.gif",
+      "name": "Kristin Robbins"
+    },
+    "rep-37B": {
+      "file": "photos/rep-37B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/37B.gif",
+      "name": "Kristin Bahner"
+    },
+    "rep-38A": {
+      "file": "photos/rep-38A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/38A.gif",
+      "name": "Huldah Momanyi-Hiltsley"
+    },
+    "rep-38B": {
+      "file": "photos/rep-38B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/38B.gif",
+      "name": "Samantha Vang"
+    },
+    "rep-39A": {
+      "file": "photos/rep-39A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/39A.gif",
+      "name": "Erin Koegel"
+    },
+    "rep-39B": {
+      "file": "photos/rep-39B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/39B.gif",
+      "name": "Sandra Feist"
+    },
+    "rep-40A": {
+      "file": "photos/rep-40A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/40A.gif",
+      "name": "Kelly Moller"
+    },
+    "rep-40B": {
+      "file": "photos/rep-40B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/40B.gif",
+      "name": "David Gottfried"
+    },
+    "rep-41A": {
+      "file": "photos/rep-41A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/41A.gif",
+      "name": "Wayne Johnson"
+    },
+    "rep-41B": {
+      "file": "photos/rep-41B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/41B.gif",
+      "name": "Tom Dippel"
+    },
+    "rep-42A": {
+      "file": "photos/rep-42A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/42A.gif",
+      "name": "Ned Carroll"
+    },
+    "rep-42B": {
+      "file": "photos/rep-42B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/42B.gif",
+      "name": "Ginny Klevorn"
+    },
+    "rep-43A": {
+      "file": "photos/rep-43A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/43A.gif",
+      "name": "Cedrick Frazier"
+    },
+    "rep-43B": {
+      "file": "photos/rep-43B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/43B.gif",
+      "name": "Mike Freiberg"
+    },
+    "rep-44A": {
+      "file": "photos/rep-44A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/44A.gif",
+      "name": "Peter Fischer"
+    },
+    "rep-44B": {
+      "file": "photos/rep-44B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/44B.gif",
+      "name": "Leon Lillie"
+    },
+    "rep-45A": {
+      "file": "photos/rep-45A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/45A.gif",
+      "name": "Andrew Myers"
+    },
+    "rep-45B": {
+      "file": "photos/rep-45B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/45B.gif",
+      "name": "Patty Acomb"
+    },
+    "rep-46A": {
+      "file": "photos/rep-46A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/46A.gif",
+      "name": "Larry Kraft"
+    },
+    "rep-46B": {
+      "file": "photos/rep-46B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/46B.gif",
+      "name": "Cheryl Youakim"
+    },
+    "rep-47A": {
+      "file": "photos/rep-47A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/47A.gif",
+      "name": "Shelley Buck"
+    },
+    "rep-47B": {
+      "file": "photos/rep-47B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/47B.gif",
+      "name": "Ethan Cha"
+    },
+    "rep-48A": {
+      "file": "photos/rep-48A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/48A.gif",
+      "name": "Jim Nash"
+    },
+    "rep-48B": {
+      "file": "photos/rep-48B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/48B.gif",
+      "name": "Lucy Rehm"
+    },
+    "rep-49A": {
+      "file": "photos/rep-49A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/49A.gif",
+      "name": "Alex Falconer"
+    },
+    "rep-49B": {
+      "file": "photos/rep-49B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/49B.gif",
+      "name": "Carlie Kotyza-Witthuhn"
+    },
+    "rep-50A": {
+      "file": "photos/rep-50A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/50A.gif",
+      "name": "Julie Greene"
+    },
+    "rep-50B": {
+      "file": "photos/rep-50B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/50B.gif",
+      "name": "Steve Elkins"
+    },
+    "rep-51A": {
+      "file": "photos/rep-51A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/51A.gif",
+      "name": "Michael Howard"
+    },
+    "rep-51B": {
+      "file": "photos/rep-51B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/51B.gif",
+      "name": "Nathan Coulter"
+    },
+    "rep-52A": {
+      "file": "photos/rep-52A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/52A.gif",
+      "name": "Liz Reyer"
+    },
+    "rep-52B": {
+      "file": "photos/rep-52B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/52B.gif",
+      "name": "Bianca Virnig"
+    },
+    "rep-53A": {
+      "file": "photos/rep-53A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/53A.gif",
+      "name": "Mary Frances Clardy"
+    },
+    "rep-53B": {
+      "file": "photos/rep-53B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/53B.gif",
+      "name": "Rick Hansen"
+    },
+    "rep-54A": {
+      "file": "photos/rep-54A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/54A.gif",
+      "name": "Brad Tabke"
+    },
+    "rep-54B": {
+      "file": "photos/rep-54B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/54B.gif",
+      "name": "Ben Bakeberg"
+    },
+    "rep-55A": {
+      "file": "photos/rep-55A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/55A.gif",
+      "name": "Jessica Hanson"
+    },
+    "rep-55B": {
+      "file": "photos/rep-55B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/55B.gif",
+      "name": "Kaela Berg"
+    },
+    "rep-56A": {
+      "file": "photos/rep-56A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/56A.gif",
+      "name": "Robert Bierman"
+    },
+    "rep-56B": {
+      "file": "photos/rep-56B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/56B.gif",
+      "name": "John Huot"
+    },
+    "rep-57A": {
+      "file": "photos/rep-57A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/57A.gif",
+      "name": "Jon Koznick"
+    },
+    "rep-57B": {
+      "file": "photos/rep-57B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/57B.gif",
+      "name": "Jeff Witte"
+    },
+    "rep-58A": {
+      "file": "photos/rep-58A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/58A.gif",
+      "name": "Kristi Pursell"
+    },
+    "rep-58B": {
+      "file": "photos/rep-58B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/58B.gif",
+      "name": "Drew Roach"
+    },
+    "rep-59A": {
+      "file": "photos/rep-59A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/59A.gif",
+      "name": "Fue Lee"
+    },
+    "rep-59B": {
+      "file": "photos/rep-59B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/59B.gif",
+      "name": "Esther Agbaje"
+    },
+    "rep-60A": {
+      "file": "photos/rep-60A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/60A.gif",
+      "name": "Sydney Jordan"
+    },
+    "rep-60B": {
+      "file": "photos/rep-60B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/60B.gif",
+      "name": "Mohamud Noor"
+    },
+    "rep-61A": {
+      "file": "photos/rep-61A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/61A.gif",
+      "name": "Katie Jones"
+    },
+    "rep-61B": {
+      "file": "photos/rep-61B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/61B.gif",
+      "name": "Jamie Long"
+    },
+    "rep-62A": {
+      "file": "photos/rep-62A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/62A.gif",
+      "name": "Aisha Gomez"
+    },
+    "rep-62B": {
+      "file": "photos/rep-62B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/62B.gif",
+      "name": "Anquam Mahamoud"
+    },
+    "rep-63A": {
+      "file": "photos/rep-63A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/63A.gif",
+      "name": "Samantha Sencer-Mura"
+    },
+    "rep-63B": {
+      "file": "photos/rep-63B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/63B.gif",
+      "name": "Emma Greenman"
+    },
+    "rep-64A": {
+      "file": "photos/rep-64A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/64A.gif",
+      "name": "Meg Luger-Nikolai"
+    },
+    "rep-64B": {
+      "file": "photos/rep-64B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/64B.gif",
+      "name": "Dave Pinto"
+    },
+    "rep-65A": {
+      "file": "photos/rep-65A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/65A.gif",
+      "name": "Samakab Hussein"
+    },
+    "rep-65B": {
+      "file": "photos/rep-65B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/65B.gif",
+      "name": "Mar&#237;a Isa P&#233;rez-Vega"
+    },
+    "rep-66A": {
+      "file": "photos/rep-66A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/66A.gif",
+      "name": "Leigh Finke"
+    },
+    "rep-66B": {
+      "file": "photos/rep-66B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/66B.gif",
+      "name": "Athena Hollins"
+    },
+    "rep-67A": {
+      "file": "photos/rep-67A.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/67A.gif",
+      "name": "Liz Lee"
+    },
+    "rep-67B": {
+      "file": "photos/rep-67B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/67B.gif",
+      "name": "Jay Xiong"
+    }
+  }
+}
