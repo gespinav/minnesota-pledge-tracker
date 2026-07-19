@@ -49,9 +49,28 @@ The five statewide executives aren't on either chamber roster and their offices'
 
 ## Official biographies
 
-Biographical content lives in the `OFFICIAL_BIOS` map in `public/index.html` and is **source-gated**: every claim carries the URL it came from, and officials with no researched bio render an explicit "not yet researched" state rather than placeholder prose. The primary source is the Legislature's own [Legislators Past & Present](https://www.lrl.mn.gov/legdb/) database.
+Biographies are **source-gated**: every claim carries the URL it came from, and any official without one renders an explicit "not yet researched" state rather than placeholder prose. Nothing is written from memory or summarised by a model.
 
-Currently populated: Tim Walz (limited), Peggy Flanagan, Erin Murphy, Mark Johnson, Lisa Demuth. Set `verified` to the date a human last checked an entry.
+Coverage: **all 200 sitting legislators** plus 4 of the 5 statewide executives. (Julie Blaha has no legislator record — she never served in the Legislature — so her profile shows the empty state until someone researches it by hand.)
+
+```bash
+node scripts/fetch-bios.js          # regenerate (uses .lrl-cache)
+node scripts/fetch-bios.js --fresh  # re-download every record
+node scripts/verify-bios.js all     # re-check every claim against live sources
+```
+
+`fetch-bios.js` reads the Legislature's own [Legislators Past & Present](https://www.lrl.mn.gov/legdb/) database, whose records are consistently labelled, and parses the named fields **deterministically**. It writes the result between the `BIOS:GENERATED` markers in `public/index.html` — don't hand-edit that block. To curate someone by hand, add them to `MANUAL_BIOS` just below it, which takes precedence.
+
+`verify-bios.js` is the check on that pipeline: it re-downloads each record over the network, reads the biography that actually shipped, and asserts every school, degree, occupation, committee, organisation, year and leadership title appears **verbatim** in the cited source. Current state: **2,908 claims across 200 officials, 0 unverified.** Run it after any regeneration.
+
+Two verification rules matter and are enforced in code:
+
+- **Identity.** Records are found by district, and districts get reassigned each election, so a record is only accepted if the roster name *and* the record's own name match the person we hold. Mismatches are skipped and reported, never guessed at.
+- **Roster drift.** Anyone we track who is no longer on the current roster is reported as a discrepancy — this is how Joe Schomacker's June 2026 retirement surfaced.
+
+### What is deliberately not extracted
+
+The LRL record also carries date of birth, birthplace, gender, religion and a "Reported Minority" field. This is a scorecard of conduct in public office and none of that belongs on such a profile, so the parser reads only public-sector career data: offices held, prior government service, occupation, education, committees and leadership. The free-text "General Notes" block is skipped as well — it is inconsistent and sometimes restates exactly those personal details.
 
 The web app is **fully client-side** — the live site needs no server. The API is only for optional persistence when self-hosting.
 

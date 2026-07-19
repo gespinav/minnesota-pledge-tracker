@@ -23,3 +23,6 @@ public/.claude/
 mn_pledge_tracker_populated.html
 public/TheCanon.html
 TheCanon.html
+
+# Cached Legislative Reference Library pages (regenerable via scripts/fetch-bios.js)
+.lrl-cache/
