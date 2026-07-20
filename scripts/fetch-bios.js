@@ -133,6 +133,13 @@ async function findDeparted(o) {
   return null;
 }
 
+/** Names the app already records as former members, from its FORMER map. */
+function knownFormer(html) {
+  const block = html.match(/const FORMER\s*=\s*\{([\s\S]*?)\n  \};/);
+  if (!block) return new Set();
+  return new Set([...block[1].matchAll(/^\s*'([^']+)'\s*:\s*\{/gm)].map(m => m[1]));
+}
+
 /** Our own roster, read straight out of the app's seed data. */
 function ourRoster(html) {
   const out = [];
@@ -428,7 +435,8 @@ async function main() {
   console.log(`Tracked legislators: ${ours.length}   LRL current roster: ${lrl.size}`);
 
   const bios = {}, audit = {};
-  const missing = [], mismatched = [], failed = [], departed = [];
+  const missing = [], mismatched = [], failed = [], departed = [], reconciled = [];
+  const alreadyFormer = knownFormer(appHtml);
 
   for (const o of ours) {
     let entry = lrl.get(o.chamber + ':' + o.dist);
@@ -439,7 +447,12 @@ async function main() {
       const id = await findDeparted(o).catch(() => null);
       if (!id) { missing.push(`${o.id} ${o.name} — no district ${o.dist} on LRL roster, and no record found by name`); continue; }
       entry = { name: o.name, chamber: o.chamber, lrlId: id };
-      departed.push(`${o.id} ${o.name} (district ${o.dist}) — NOT on the current LRL roster; the app still lists them as sitting. Verify seat status.`);
+      // Only a problem if we still present them as sitting. Once they are in the
+      // app's FORMER map the two sources agree, so report it as reconciled.
+      (alreadyFormer.has(o.name) ? reconciled : departed).push(
+        alreadyFormer.has(o.name)
+          ? `${o.id} ${o.name} (district ${o.dist}) — off the LRL roster and correctly marked former in the app.`
+          : `${o.id} ${o.name} (district ${o.dist}) — NOT on the current LRL roster, but the app still lists them as sitting. Verify seat status and add them to FORMER.`);
     }
     if (lastName(entry.name) !== lastName(o.name)) {
       mismatched.push(`${o.id} district ${o.dist}: app has "${o.name}", LRL roster has "${entry.name}"`);
@@ -483,7 +496,8 @@ async function main() {
   console.log(`  with education: ${withEdu}   with committees: ${withCom}   with prior public service/occupation: ${withPrior}`);
   console.log(`  audit written to ${path.relative(ROOT, AUDIT)}`);
   const report = (label, arr) => { if (arr.length) console.log(`\n${label} (${arr.length}):\n  ` + arr.join('\n  ')); };
-  report('⚠ ROSTER DISCREPANCY — tracked as sitting, but not on the current LRL roster', departed);
+  report('⚠ ROSTER DISCREPANCY — still shown as sitting, but off the current LRL roster', departed);
+  report('Left office — already reconciled as former members', reconciled);
   report('No LRL roster entry', missing);
   report('SKIPPED — name mismatch', mismatched);
   report('Failed', failed);

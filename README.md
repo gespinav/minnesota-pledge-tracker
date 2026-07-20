@@ -6,7 +6,7 @@ A civic-accountability web app that scores Minnesota's elected officials on **ca
 
 ## What it does
 
-- **All 210 officials** (206 current + 4 former): 5 executives, 67 senators, 134 representatives.
+- **All 210 officials** — 205 currently serving (5 executives, 67 senators, 133 representatives) plus 5 former members kept for the historical record and excluded from rankings.
 - **Letter grades** based on individually-sourced campaign promises (kept / partial / broken). Vote-alignment is shown as a *separate* context metric, so party-line vote loyalty doesn't inflate the grade.
 - **Bills & Votes dashboards** — 38 tracked bills with plain-language explainers, party-by-party vote breakdowns, and who voted yes/no, each verified member-by-member against the official journals.
 - **Per-topic browsing** and a **"My Interests"** profile for saving the bills you care about (optionally synced across devices via Firebase cloud auth).
