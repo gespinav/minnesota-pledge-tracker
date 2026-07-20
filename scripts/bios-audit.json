@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T01:10:46.214Z",
+  "generated": "2026-07-20T16:43:23.209Z",
   "audit": {
     "sen-1": {
       "name": "Mark Johnson",
@@ -920,6 +920,12 @@
             "start": "2013",
             "end": "2022",
             "dist": "16"
+          },
+          {
+            "chamber": "Senate",
+            "start": "2023",
+            "end": "Present",
+            "dist": "15"
           }
         ],
         "party": "Republican",
@@ -6529,6 +6535,85 @@
         "leadership": [
           "Speaker of the House"
         ],
+        "sessionLabel": "94th Legislative Session (2025-2026)"
+      }
+    },
+    "rep-13B": {
+      "name": "Tim O'Driscoll",
+      "district": "13B",
+      "lrlId": "15364",
+      "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15364",
+      "parsed": {
+        "recordName": "O'Driscoll, Tim",
+        "service": [
+          {
+            "chamber": "House",
+            "start": "2011",
+            "end": "2012",
+            "dist": "14A"
+          },
+          {
+            "chamber": "House",
+            "start": "2013",
+            "end": "2022",
+            "dist": "13B"
+          },
+          {
+            "chamber": "House",
+            "start": "2023",
+            "end": "Present",
+            "dist": "13B"
+          }
+        ],
+        "party": "Republican",
+        "counties": "Benton, Stearns",
+        "city": "Sartell",
+        "occupation": "Corporate Trainer; Kaplan Professional School, Trainer and Curriculum Development",
+        "education": [
+          {
+            "school": "Sartell High School",
+            "degree": "Secondary, Graduate",
+            "year": ""
+          },
+          {
+            "school": "St. Cloud State University",
+            "degree": "B.S., Business Education, Office Administration and Real Estate Planning and Development",
+            "year": ""
+          }
+        ],
+        "govService": [
+          {
+            "category": "Municipal Board/Commission",
+            "org": "Sartell, Minnesota (City Economic Development Authority, President)",
+            "dates": "",
+            "how": ""
+          },
+          {
+            "category": "Municipal Council/Aldermen",
+            "org": "Sartell, Minnesota (City Council)",
+            "dates": "1993 to 1995",
+            "how": ""
+          },
+          {
+            "category": "Municipal Council/Aldermen",
+            "org": "Sartell, Minnesota (City Council)",
+            "dates": "2002 to 2006",
+            "how": ""
+          },
+          {
+            "category": "Municipal Mayor",
+            "org": "Sartell, Minnesota (City Mayor)",
+            "dates": "2007 to 01/2011",
+            "how": ""
+          }
+        ],
+        "committees": [
+          {
+            "name": "Commerce Finance and Policy",
+            "role": "Chair"
+          }
+        ],
+        "leadership": [],
         "sessionLabel": "94th Legislative Session (2025-2026)"
       }
     },

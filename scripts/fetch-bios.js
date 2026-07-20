@@ -35,6 +35,7 @@
  */
 const fs = require('fs');
 const path = require('path');
+const { readRoster } = require('./lib/roster');
 
 const ROOT = path.join(__dirname, '..');
 const APP = path.join(ROOT, 'public', 'index.html');
@@ -140,18 +141,6 @@ function knownFormer(html) {
   return new Set([...block[1].matchAll(/^\s*'([^']+)'\s*:\s*\{/gm)].map(m => m[1]));
 }
 
-/** Our own roster, read straight out of the app's seed data. */
-function ourRoster(html) {
-  const out = [];
-  const sen = html.match(/const senDists\s*=\s*\[([\s\S]*?)\];/);
-  for (const m of sen[1].matchAll(/\[(\d+),'((?:[^'\\]|\\.)*)','([^']*)'/g))
-    out.push({ id: `sen-${m[1]}`, chamber: 'senate', dist: m[1], name: m[2].replace(/\\'/g, "'") });
-  const hou = html.match(/const houseRaw\s*=\s*\[([\s\S]*?)\];/);
-  for (const m of hou[1].matchAll(/\['(\d+[AB])','((?:[^'\\]|\\.)*)','([^']*)'\]/g))
-    out.push({ id: `rep-${m[1]}`, chamber: 'house', dist: m[1], name: m[2].replace(/\\'/g, "'") });
-  return out;
-}
-
 // ── Record parsing ────────────────────────────────────────────────────────
 
 /**
@@ -164,16 +153,37 @@ function parseService(lines) {
   // A few records carry stray text between the chamber and the years — a member
   // seated part-way through 2026 reads "House -Present 2026-Present (District 64A)"
   // — so skip anything up to the year range, anchored on the district that follows.
-  const RE = /(House|Senate)[^;()]*?(\d{4})\s*-\s*(\d{2,4}|Present)\s*\(District\s*([0-9]+[AB]?)\)/i;
   const line = lines.find(l => /^(House|Senate)\s.*\(District\s*[0-9]+[AB]?\)/i.test(l));
   if (!line) return [];
   const out = [];
+  let chamber = '';
   for (const part of line.split(';')) {
-    const m = part.match(RE);
+    // Read the chamber and the years independently. Folding both into one
+    // pattern is what broke this before: with the chamber optional, the lazy
+    // filler could skip straight past a real "Senate" label, so senators who had
+    // also served in the House had their Senate terms silently relabelled.
+    const c = part.match(/\b(House|Senate)\b/i);
+    if (c) chamber = c[1].charAt(0).toUpperCase() + c[1].slice(1).toLowerCase();
+    // Later spans sometimes omit the chamber and simply continue the previous
+    // one — Tim O'Driscoll's record ends "…2013-2022 (District 13B); 2023-Present
+    // (District 13B)". Dropping those truncates a sitting member's service, so
+    // inherit the chamber only when the span genuinely does not name one.
+    if (!chamber) continue;
+    const m = part.match(/(\d{4})\s*-\s*(\d{2,4}|Present)\s*\(District\s*([0-9]+[AB]?)\)/i);
     if (!m) continue;
-    let end = m[3];
-    if (/^\d{2}$/.test(end)) end = m[2].slice(0, 2) + end;   // 1991-92 -> 1992
-    out.push({ chamber: m[1], start: m[2], end, dist: m[4].toUpperCase() });
+    let end = m[2];
+    if (/^\d{2}$/.test(end)) end = m[1].slice(0, 2) + end;   // 1991-92 -> 1992
+    out.push({ chamber, start: m[1], end, dist: m[3].toUpperCase() });
+  }
+
+  // Completeness guard. Every span in the line names a district, so the number
+  // parsed must equal the number of "(District …)" markers. Fewer means the
+  // format drifted again and we are about to publish a truncated career.
+  const expected = (line.match(/\(District\s*[0-9]+[AB]?\)/gi) || []).length;
+  if (out.length !== expected) {
+    const err = new Error(`parsed ${out.length} of ${expected} service spans from: ${line}`);
+    err.incompleteService = true;
+    throw err;
   }
   return out;
 }
@@ -331,7 +341,7 @@ function buildBio(o, rec, url) {
       start: '', end: '', note: rec.sessionLabel ? `Held during the ${rec.sessionLabel.replace(/\s*\(.*/, '')}.` : '',
       source: url,
     }));
-    sentences.push(`${rec.leadership.length > 1 ? 'Leadership roles held' : 'Serves as'} ${rec.leadership.join(' and ')}.`);
+    sentences.push(`${rec.leadership.length > 1 ? 'Leadership roles held:' : 'Serves as'} ${rec.leadership.join(' and ')}.`);
   }
   // Prior public service outside the Legislature. LRL stores these as a
   // bureaucratic category ("Municipal Council/Aldermen") plus an organisation
@@ -342,7 +352,12 @@ function buildBio(o, rec, url) {
     const m = g.org.match(/^(.*?)\s*\(([^)]+)\)\s*$/);
     const place = (m ? m[1] : g.org).trim();
     const role = m ? m[2].trim() : '';
-    const [start, end] = String(g.dates || '').split(/\s+to\s+/i).map(s => (s || '').trim());
+    // LRL writes unknown dates as literal question marks ("19?? to ?"). Showing
+    // those verbatim reads like a rendering fault, so drop them and leave the
+    // date blank — the role itself is still sourced.
+    const [start, end] = String(g.dates || '').split(/\s+to\s+/i)
+      .map(s => (s || '').trim())
+      .map(s => (s.includes('?') ? '' : s));
     experience.push({
       title: role || g.category,
       org: place,
@@ -430,7 +445,7 @@ function emit(bios) {
 // ── Main ──────────────────────────────────────────────────────────────────
 async function main() {
   const appHtml = fs.readFileSync(APP, 'utf8');
-  const ours = ourRoster(appHtml);
+  const ours = readRoster(appHtml).filter(o => o.chamber !== 'executive');
   const lrl = await roster();
   console.log(`Tracked legislators: ${ours.length}   LRL current roster: ${lrl.size}`);
 

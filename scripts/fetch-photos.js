@@ -20,6 +20,7 @@
 const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
+const { readRoster } = require('./lib/roster');
 
 const ROOT = path.join(__dirname, '..');
 const APP = path.join(ROOT, 'public', 'index.html');
@@ -58,28 +59,6 @@ async function getText(url) {
   return r.text();
 }
 
-/** Pull our own roster (id, district, name) straight out of the app's seed data. */
-function readOurRoster(html) {
-  const out = [];
-
-  for (const m of html.matchAll(/\{id:'(exec-[a-z]+)',chamber:'executive',office:'([^']*)',name:'((?:[^'\\]|\\.)*)'/g)) {
-    out.push({ id: m[1], chamber: 'executive', dist: null, name: m[3].replace(/\\'/g, "'"), office: m[2] });
-  }
-
-  const senBlock = html.match(/const senDists\s*=\s*\[([\s\S]*?)\];/);
-  if (!senBlock) throw new Error('could not locate senDists in index.html');
-  for (const m of senBlock[1].matchAll(/\[(\d+),'((?:[^'\\]|\\.)*)','([^']*)'/g)) {
-    out.push({ id: `sen-${m[1]}`, chamber: 'senate', dist: m[1], name: m[2].replace(/\\'/g, "'") });
-  }
-
-  const houseBlock = html.match(/const houseRaw\s*=\s*\[([\s\S]*?)\];/);
-  if (!houseBlock) throw new Error('could not locate houseRaw in index.html');
-  for (const m of houseBlock[1].matchAll(/\['(\d+[AB])','((?:[^'\\]|\\.)*)','([^']*)'\]/g)) {
-    out.push({ id: `rep-${m[1]}`, chamber: 'house', dist: m[1], name: m[2].replace(/\\'/g, "'") });
-  }
-  return out;
-}
-
 /** district -> { name, url } for sitting senators. */
 async function senateRoster() {
   const data = await getJSON('https://www.senate.mn/api/members');
@@ -112,7 +91,7 @@ async function houseRoster() {
 async function main() {
   fs.mkdirSync(OUT, { recursive: true });
   const html = fs.readFileSync(APP, 'utf8');
-  const ours = readOurRoster(html);
+  const ours = readRoster(html);
   console.log(`Tracked legislators in app: ${ours.length}`);
 
   const [sen, house] = await Promise.all([senateRoster(), houseRoster()]);

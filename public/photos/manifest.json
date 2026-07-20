@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T18:01:08.935Z",
+  "generated": "2026-07-20T16:16:49.568Z",
   "note": "Official portraits from the members' own chambers. Re-run scripts/fetch-photos.js to refresh.",
   "photos": {
     "sen-1": {
@@ -461,6 +461,11 @@
       "file": "photos/rep-13A.webp",
       "source": "https://www.house.mn.gov/hinfo/memberimgls94/13A.gif",
       "name": "Lisa Demuth"
+    },
+    "rep-13B": {
+      "file": "photos/rep-13B.webp",
+      "source": "https://www.house.mn.gov/hinfo/memberimgls94/13B.gif",
+      "name": "Tim O&#39;Driscoll"
     },
     "rep-14A": {
       "file": "photos/rep-14A.webp",
