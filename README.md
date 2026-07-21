@@ -45,13 +45,17 @@ node scripts/fetch-photos.js
 
 Portraits are keyed by **district**, and districts get reassigned at every election — so the script checks the roster's name for each district against the name in `buildSeed()` and **skips (and reports) any mismatch** rather than risk showing the wrong person's face. Re-run it after each election and review any skips.
 
-The five statewide executives aren't on either chamber roster and their offices' sites block scripted fetches; add direct image URLs to the `EXEC_PHOTOS` map in the script to include them. Until then they fall back to initials avatars.
+The five statewide executives aren't on either chamber roster and their offices' sites block scripted fetches; add direct image URLs to the `EXEC_PHOTOS` map in the script to include them. Until then they fall back to initials avatars. Former members' portraits come from their Legislative Reference Library record (pinned by id in `scripts/lib/roster.js`), since their old chamber seats now belong to someone else.
+
+Current coverage: **205 of 210** officials have a portrait — everyone except the five executives. Run `node scripts/audit-coverage.js` to check portrait + bio coverage across all records at any time.
 
 ## Official biographies
 
 Biographies are **source-gated**: every claim carries the URL it came from, and any official without one renders an explicit "not yet researched" state rather than placeholder prose. Nothing is written from memory or summarised by a model.
 
-Coverage: **all 200 sitting legislators** plus 4 of the 5 statewide executives. (Julie Blaha has no legislator record — she never served in the Legislature — so her profile shows the empty state until someone researches it by hand.)
+Coverage: **all 201 sitting legislators and all 4 former members** (each a former legislator), plus 4 of the 5 statewide executives. Only Julie Blaha has no bio — she never served in the Legislature, so there is no LRL record, and her profile shows the empty state until someone researches it by hand.
+
+Former members are a special case: their old districts now belong to other people, so a district lookup would find the successor. Their LRL record ids are pinned in `scripts/lib/roster.js` (`FORMER_LRL_IDS`) — name search is unsafe for them because common surnames collide (there are two Bruce Andersons in the database, only one of them ours). Their portraits come from the LRL record too, guarded by a check that the image filename contains the member's surname.
 
 ```bash
 node scripts/fetch-bios.js          # regenerate (uses .lrl-cache)

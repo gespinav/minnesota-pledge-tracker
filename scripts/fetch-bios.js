@@ -35,7 +35,7 @@
  */
 const fs = require('fs');
 const path = require('path');
-const { readRoster } = require('./lib/roster');
+const { readRoster, FORMER_LRL_IDS } = require('./lib/roster');
 
 const ROOT = path.join(__dirname, '..');
 const APP = path.join(ROOT, 'public', 'index.html');
@@ -308,6 +308,10 @@ function buildBio(o, rec, url) {
   const mine = mergeService(rec.service, o.chamber);
   const prior = mergeService(rec.service, other);
   const experience = [], sentences = [];
+  // A former member's every term has an end year; a sitting member's current
+  // term is open-ended. This drives tense throughout so we never write "serves"
+  // about someone who has left office (Melissa Hortman, for one, is deceased).
+  const serving = !o.former && !!(mine && mine.end === 'Present');
 
   // Current chamber service.
   if (mine) {
@@ -319,11 +323,16 @@ function buildBio(o, rec, url) {
       org: `Minnesota ${o.chamber === 'house' ? 'House of Representatives' : 'Senate'}`,
       start: mine.start, end: mine.end, note: distNote, source: url,
     });
-    // Past tense for anyone whose service has an end year — e.g. a member who
-    // resigned or retired mid-term and is no longer on the current roster.
-    sentences.push(mine.end === 'Present'
-      ? `${o.name} has represented ${o.chamber === 'house' ? 'House' : 'Senate'} District ${o.dist} since ${mine.start}.`
-      : `${o.name} represented ${o.chamber === 'house' ? 'House' : 'Senate'} District ${o.dist} from ${mine.start} to ${mine.end}.`);
+    // Long-serving members held several district numbers as boundaries were
+    // redrawn (Melissa Hortman ran in 47B, 36B, then 34B), so name the chamber
+    // and span rather than implying one district covered the whole tenure.
+    const chamberName = o.chamber === 'house' ? 'House' : 'Senate';
+    const where = mine.districts.length > 1
+      ? `the Minnesota ${chamberName} (most recently District ${o.dist})`
+      : `${chamberName} District ${o.dist}`;
+    sentences.push(serving
+      ? `${o.name} has represented ${where} since ${mine.start}.`
+      : `${o.name} represented ${where} from ${mine.start} to ${mine.end}.`);
   }
   // Service in the other chamber, if any.
   if (prior) {
@@ -341,7 +350,9 @@ function buildBio(o, rec, url) {
       start: '', end: '', note: rec.sessionLabel ? `Held during the ${rec.sessionLabel.replace(/\s*\(.*/, '')}.` : '',
       source: url,
     }));
-    sentences.push(`${rec.leadership.length > 1 ? 'Leadership roles held:' : 'Serves as'} ${rec.leadership.join(' and ')}.`);
+    sentences.push(rec.leadership.length > 1
+      ? `Leadership roles${serving ? '' : ' held'}: ${rec.leadership.join(' and ')}.`
+      : `${serving ? 'Serves as' : 'Served as'} ${rec.leadership[0]}.`);
   }
   // Prior public service outside the Legislature. LRL stores these as a
   // bureaucratic category ("Municipal Council/Aldermen") plus an organisation
@@ -446,6 +457,8 @@ function emit(bios) {
 async function main() {
   const appHtml = fs.readFileSync(APP, 'utf8');
   const ours = readRoster(appHtml).filter(o => o.chamber !== 'executive');
+  // Statewide executives are hand-curated in MANUAL_BIOS (they are not on the
+  // legislator roster); everyone else, sitting or former, is generated here.
   const lrl = await roster();
   console.log(`Tracked legislators: ${ours.length}   LRL current roster: ${lrl.size}`);
 
@@ -454,7 +467,15 @@ async function main() {
   const alreadyFormer = knownFormer(appHtml);
 
   for (const o of ours) {
-    let entry = lrl.get(o.chamber + ':' + o.dist);
+    let entry;
+    // Former members' seats are now held by other people, so a district lookup
+    // would find the successor. Their LRL record id is pinned in the shared
+    // module instead (name-search is unsafe for common surnames — there are two
+    // Bruce Andersons), and the record's own name is checked below like any other.
+    if (o.former && FORMER_LRL_IDS[o.id]) {
+      entry = { name: o.name, chamber: o.chamber, lrlId: FORMER_LRL_IDS[o.id] };
+    } else {
+    entry = lrl.get(o.chamber + ':' + o.dist);
     if (!entry) {
       // Not currently seated. Fall back to a name search so we still build an
       // accurate record — their service span will correctly show an end year
@@ -468,6 +489,7 @@ async function main() {
         alreadyFormer.has(o.name)
           ? `${o.id} ${o.name} (district ${o.dist}) — off the LRL roster and correctly marked former in the app.`
           : `${o.id} ${o.name} (district ${o.dist}) — NOT on the current LRL roster, but the app still lists them as sitting. Verify seat status and add them to FORMER.`);
+    }
     }
     if (lastName(entry.name) !== lastName(o.name)) {
       mismatched.push(`${o.id} district ${o.dist}: app has "${o.name}", LRL roster has "${entry.name}"`);

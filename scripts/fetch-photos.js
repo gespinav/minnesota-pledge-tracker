@@ -20,7 +20,7 @@
 const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
-const { readRoster } = require('./lib/roster');
+const { readRoster, FORMER_LRL_IDS } = require('./lib/roster');
 
 const ROOT = path.join(__dirname, '..');
 const APP = path.join(ROOT, 'public', 'index.html');
@@ -57,6 +57,35 @@ async function getText(url) {
   const r = await fetch(url);
   if (!r.ok) throw new Error(`${r.status} ${url}`);
   return r.text();
+}
+
+/**
+ * Portrait for a former member, from their Legislative Reference Library record.
+ * Their old district now belongs to someone else, so the chamber rosters would
+ * return the wrong face; the record id is pinned in FORMER_LRL_IDS instead.
+ *
+ * LRL keeps one thumbnail per session (…/MemberPhotos/ls94/thumbnails/34BHortman.jpg)
+ * and a full-size copy one directory up. We take the highest session number (their
+ * most recent portrait) and prefer the full-size file, which this script resizes
+ * anyway. As an identity guard the filename must contain the member's surname —
+ * that is what distinguishes the right Bruce Anderson from the wrong one.
+ */
+async function lrlPortrait(o) {
+  const id = FORMER_LRL_IDS[o.id];
+  if (!id) return null;
+  const html = await getText(`https://www.lrl.mn.gov/legdb/fulldetail?id=${id}`);
+  const found = [...html.matchAll(/MemberPhotos\/ls(\d+)\/thumbnails\/([^"'>\s]+\.jpg)/gi)]
+    .map(m => ({ session: parseInt(m[1], 10), file: m[2] }))
+    .sort((a, b) => b.session - a.session);
+  if (!found.length) return null;
+  const { session, file } = found[0];
+  if (!norm(file).includes(lastName(o.name)))
+    throw new Error(`portrait file "${file}" does not contain surname "${lastName(o.name)}" — refusing to attach`);
+  return {
+    name: o.name,
+    // Full-size copy sits one directory above the thumbnails folder.
+    url: `https://www.lrl.mn.gov/legdb/MemberPhotos/ls${session}/${file}`,
+  };
 }
 
 /** district -> { name, url } for sitting senators. */
@@ -106,6 +135,13 @@ async function main() {
     if (o.chamber === 'executive') {
       if (!EXEC_PHOTOS[o.id]) { missing.push(`${o.id} ${o.name} (add a URL to EXEC_PHOTOS)`); continue; }
       entry = { name: o.name, url: EXEC_PHOTOS[o.id] };
+    } else if (o.former) {
+      // Former members are off the current chamber rosters; take their portrait
+      // from their Legislative Reference Library record instead.
+      try {
+        entry = await lrlPortrait(o);
+        if (!entry) { missing.push(`${o.id} ${o.name} (former — no LRL portrait found)`); continue; }
+      } catch (e) { mismatched.push(`${o.id} ${o.name}: ${e.message}`); continue; }
     } else {
       entry = (o.chamber === 'senate' ? sen : house).get(o.dist);
       if (!entry) { missing.push(`${o.id} ${o.name}`); continue; }

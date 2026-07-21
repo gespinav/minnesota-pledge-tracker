@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T16:16:49.568Z",
+  "generated": "2026-07-20T21:07:31.886Z",
   "note": "Official portraits from the members' own chambers. Re-run scripts/fetch-photos.js to refresh.",
   "photos": {
     "sen-1": {
@@ -1006,6 +1006,26 @@
       "file": "photos/rep-67B.webp",
       "source": "https://www.house.mn.gov/hinfo/memberimgls94/67B.gif",
       "name": "Jay Xiong"
+    },
+    "former-hortman": {
+      "file": "photos/former-hortman.webp",
+      "source": "https://www.lrl.mn.gov/legdb/MemberPhotos/ls94/34BHortman.jpg",
+      "name": "Melissa Hortman"
+    },
+    "former-banderson": {
+      "file": "photos/former-banderson.webp",
+      "source": "https://www.lrl.mn.gov/legdb/MemberPhotos/ls94/29Anderson.jpg",
+      "name": "Bruce Anderson"
+    },
+    "former-nmitchell": {
+      "file": "photos/former-nmitchell.webp",
+      "source": "https://www.lrl.mn.gov/legdb/MemberPhotos/ls94/47Mitchell.jpg",
+      "name": "Nicole Mitchell"
+    },
+    "former-kvher": {
+      "file": "photos/former-kvher.webp",
+      "source": "https://www.lrl.mn.gov/legdb/MemberPhotos/ls94/64AHer.jpg",
+      "name": "Kaohly Vang Her"
     }
   }
 }

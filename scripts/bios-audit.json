@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T16:43:23.209Z",
+  "generated": "2026-07-20T21:03:14.248Z",
   "audit": {
     "sen-1": {
       "name": "Mark Johnson",
@@ -13655,6 +13655,352 @@
           }
         ],
         "leadership": [],
+        "sessionLabel": "94th Legislative Session (2025-2026)"
+      }
+    },
+    "former-hortman": {
+      "name": "Melissa Hortman",
+      "district": "34B",
+      "lrlId": "12266",
+      "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=12266",
+      "parsed": {
+        "recordName": "Hortman, Melissa",
+        "service": [
+          {
+            "chamber": "House",
+            "start": "2005",
+            "end": "2012",
+            "dist": "47B"
+          },
+          {
+            "chamber": "House",
+            "start": "2013",
+            "end": "2022",
+            "dist": "36B"
+          },
+          {
+            "chamber": "House",
+            "start": "2023",
+            "end": "2025",
+            "dist": "34B"
+          }
+        ],
+        "party": "Democratic-Farmer-Labor",
+        "counties": "Anoka, Hennepin",
+        "city": "Brooklyn Park",
+        "occupation": "Attorney",
+        "education": [
+          {
+            "school": "Blaine High School",
+            "degree": "Secondary, Graduate",
+            "year": "1988"
+          },
+          {
+            "school": "Boston University",
+            "degree": "B.A., Political Science and Philosophy, Magna Cum Laude",
+            "year": "1991"
+          },
+          {
+            "school": "Harvard University, John F. Kennedy School of Government",
+            "degree": "M.A., Graduate",
+            "year": "2018"
+          },
+          {
+            "school": "University of Minnesota, Law School",
+            "degree": "J.D., Cum Laude",
+            "year": "1995"
+          }
+        ],
+        "govService": [
+          {
+            "category": "U.S. Legislative Staff/Council/Commission",
+            "org": "United States Senate (Intern, Staff of United States Senator Al Gore and United States Senator John Kerry, Washington D.C.)",
+            "dates": "",
+            "how": ""
+          },
+          {
+            "category": "Judicial Administration",
+            "org": "Hennepin County, Minnesota (Law Clerk to Judge John Sommerville)",
+            "dates": "1996 to 1996",
+            "how": ""
+          },
+          {
+            "category": "Municipal Board/Commission",
+            "org": "Brooklyn Park, Minnesota (City Human Relations Commission)",
+            "dates": "1998 to 2000",
+            "how": ""
+          },
+          {
+            "category": "County Attorney",
+            "org": "Hennepin County, Minnesota (Assistant)",
+            "dates": "09/2013 to 11/2016",
+            "how": ""
+          },
+          {
+            "category": "State Board/Commission/Council",
+            "org": "Minnesota Commission on Uniform State Laws",
+            "dates": "11/19/2020 to ?",
+            "how": "Appointed"
+          }
+        ],
+        "committees": [],
+        "leadership": [
+          "Speaker Emerita, DFL Caucus Leader"
+        ],
+        "sessionLabel": "94th Legislative Session (2025-2026)"
+      }
+    },
+    "former-banderson": {
+      "name": "Bruce Anderson",
+      "district": "29",
+      "lrlId": "10013",
+      "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=10013",
+      "parsed": {
+        "recordName": "Anderson, Bruce Douglas",
+        "service": [
+          {
+            "chamber": "House",
+            "start": "1995",
+            "end": "2002",
+            "dist": "19B"
+          },
+          {
+            "chamber": "House",
+            "start": "2003",
+            "end": "2012",
+            "dist": "19A"
+          },
+          {
+            "chamber": "Senate",
+            "start": "2013",
+            "end": "2022",
+            "dist": "29"
+          },
+          {
+            "chamber": "Senate",
+            "start": "2023",
+            "end": "2025",
+            "dist": "29"
+          }
+        ],
+        "party": "Independent Republican",
+        "counties": "Hennepin, Meeker, Sherburne, Wright",
+        "city": "Buffalo",
+        "occupation": "Federal Express/Air National Guard",
+        "education": [
+          {
+            "school": "North Hennepin Community College",
+            "degree": "Attended College",
+            "year": ""
+          },
+          {
+            "school": "United States Navy",
+            "degree": "Postsecondary, Aviation Electronics",
+            "year": ""
+          },
+          {
+            "school": "Willmar Technical College",
+            "degree": "A.A., Agribusiness",
+            "year": ""
+          },
+          {
+            "school": "Northwestern College",
+            "degree": "B.A., Business Administration",
+            "year": ""
+          }
+        ],
+        "govService": [
+          {
+            "category": "Military",
+            "org": "United States Navy (Vietnam War)",
+            "dates": "",
+            "how": ""
+          },
+          {
+            "category": "Military",
+            "org": "United States Air National Guard",
+            "dates": "1986 to 2005",
+            "how": ""
+          },
+          {
+            "category": "State Board/Commission/Council",
+            "org": "Minnesota Governor's Advisory Board for Technology for Persons with Disabilities",
+            "dates": "1993 to ?",
+            "how": "Appointed"
+          },
+          {
+            "category": "Military",
+            "org": "United States Air Force Reserve 27th Aerial Port Squadron at Fort Snelling",
+            "dates": "2006 to 2010",
+            "how": ""
+          }
+        ],
+        "committees": [
+          {
+            "name": "Agriculture, Veterans, Broadband and Rural Development",
+            "role": ""
+          },
+          {
+            "name": "Agriculture, Veterans, Broadband and Rural Development: Subcommittee on Veterans",
+            "role": ""
+          },
+          {
+            "name": "Judiciary and Public Safety",
+            "role": ""
+          }
+        ],
+        "leadership": [],
+        "sessionLabel": "94th Legislative Session (2025-2026) (second half of Senate term)"
+      }
+    },
+    "former-nmitchell": {
+      "name": "Nicole Mitchell",
+      "district": "47",
+      "lrlId": "15586",
+      "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15586",
+      "parsed": {
+        "recordName": "Mitchell, Nicole",
+        "service": [
+          {
+            "chamber": "Senate",
+            "start": "2023",
+            "end": "2025",
+            "dist": "47"
+          }
+        ],
+        "party": "Democratic-Farmer-Labor",
+        "counties": "Ramsey, Washington",
+        "city": "Woodbury",
+        "occupation": "Meteorologist, Commander Air National Guard",
+        "education": [
+          {
+            "school": "Woodbury High School",
+            "degree": "Secondary",
+            "year": ""
+          },
+          {
+            "school": "University of Minnesota",
+            "degree": "B.A., Speech communications",
+            "year": ""
+          },
+          {
+            "school": "Georgia State University",
+            "degree": "J.D.",
+            "year": "2010"
+          }
+        ],
+        "govService": [
+          {
+            "category": "Military",
+            "org": "Air National Guard (Trained as a Weather Forecaster)",
+            "dates": "? to 2003",
+            "how": ""
+          },
+          {
+            "category": "State Legislative Staff",
+            "org": "Georgia Senate (Intern)",
+            "dates": "",
+            "how": ""
+          },
+          {
+            "category": "Military",
+            "org": "Air Force Reserves (Weather Officer for Hurricane Hunters)",
+            "dates": "2003 to 2019",
+            "how": ""
+          },
+          {
+            "category": "Military",
+            "org": "Air National Guard (Commander of the 126th Weather Flight; Lt. Col.)",
+            "dates": "2019 to ?",
+            "how": ""
+          }
+        ],
+        "committees": [],
+        "leadership": [],
+        "sessionLabel": "94th Legislative Session (2025-2026) (second half of Senate term)"
+      }
+    },
+    "former-kvher": {
+      "name": "Kaohly Vang Her",
+      "district": "64A",
+      "lrlId": "15532",
+      "url": "https://www.lrl.mn.gov/legdb/fulldetail?id=15532",
+      "parsed": {
+        "recordName": "Her, Kaohly Vang",
+        "service": [
+          {
+            "chamber": "House",
+            "start": "2019",
+            "end": "2022",
+            "dist": "64A"
+          },
+          {
+            "chamber": "House",
+            "start": "2023",
+            "end": "2025",
+            "dist": "64A"
+          }
+        ],
+        "party": "Democratic-Farmer-Labor",
+        "counties": "Ramsey",
+        "city": "Saint Paul",
+        "occupation": "Policy director at Office of St. Paul Mayor Melvin Carter",
+        "education": [
+          {
+            "school": "University of Wisconsin, Madison",
+            "degree": "B.B.A., Finance",
+            "year": ""
+          },
+          {
+            "school": "University of St. Thomas",
+            "degree": "Attended Graduate School, Education Leadership",
+            "year": ""
+          },
+          {
+            "school": "Northeastern University",
+            "degree": "M.B.A., International Management",
+            "year": ""
+          }
+        ],
+        "govService": [
+          {
+            "category": "Municipal Board/Commission",
+            "org": "Saint Paul, Minnesota (Human Rights Commission)",
+            "dates": "2008 to ?",
+            "how": ""
+          },
+          {
+            "category": "School Board/Administration",
+            "org": "Saint Paul Public Schools, Minnesota (Administrator of the Board of Education)",
+            "dates": "03/2016 to 07/2017",
+            "how": ""
+          },
+          {
+            "category": "Municipal Government",
+            "org": "Saint Paul, Minnesota (Policy Director)",
+            "dates": "01/2018 to ?",
+            "how": ""
+          },
+          {
+            "category": "Municipal Mayor",
+            "org": "Saint Paul, Minnesota (City Mayor)",
+            "dates": "2027 to ?",
+            "how": "Elected"
+          }
+        ],
+        "committees": [
+          {
+            "name": "Commerce Finance and Policy",
+            "role": "Chair"
+          },
+          {
+            "name": "Taxes",
+            "role": ""
+          }
+        ],
+        "leadership": [
+          "Deputy Speaker Pro Tempore"
+        ],
         "sessionLabel": "94th Legislative Session (2025-2026)"
       }
     }
