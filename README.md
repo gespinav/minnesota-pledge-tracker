@@ -99,3 +99,11 @@ Cross-device sign-in and saved-bill sync are built in but **off by default** —
 ## Data & methodology
 
 Every promise and vote cites a primary source. Grades follow the scale on the app's **Methodology** page. Vote records are parsed from MN House journals (`house.mn.gov/cco/journals/`) and Senate journals (`senate.mn/journals/`).
+
+## License & ownership
+
+**Proprietary — © 2026 MN Pledge Tracker. All rights reserved.** See [LICENSE](LICENSE).
+
+The application — its code, design, and the selection, arrangement, and original wording of its content — may not be copied, modified, or redistributed without written permission. The underlying public records it cites (Minnesota legislative journals, roll-call votes, and biographical facts from the Legislative Reference Library) are public information and are not claimed as property.
+
+> **Note:** This is a static single-page app. The live site necessarily delivers its full source to every visitor's browser in order to run — that is inherent to client-side web apps, not a leak, and no license or technical measure changes it. This notice removes the previous MIT grant and asserts ownership so that copying is a violation rather than something you permitted; it does not and cannot make the delivered source unreadable. Genuine concealment of the logic/data would require moving them behind a server API.

@@ -26,5 +26,7 @@
     "elections",
     "civic-tech"
   ],
-  "license": "MIT"
+  "author": "MN Pledge Tracker",
+  "private": true,
+  "license": "UNLICENSED"
 }
