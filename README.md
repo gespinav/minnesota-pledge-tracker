@@ -53,7 +53,7 @@ Current coverage: **205 of 210** officials have a portrait — everyone except t
 
 Biographies are **source-gated**: every claim carries the URL it came from, and any official without one renders an explicit "not yet researched" state rather than placeholder prose. Nothing is written from memory or summarised by a model.
 
-Coverage: **all 201 sitting legislators and all 4 former members** (each a former legislator), plus 4 of the 5 statewide executives. Only Julie Blaha has no bio — she never served in the Legislature, so there is no LRL record, and her profile shows the empty state until someone researches it by hand.
+Coverage: **all 200 sitting legislators and all 5 former members** (each a former legislator), plus 4 of the 5 statewide executives — 209 of 210 profiles. Only Julie Blaha has no bio — she never served in the Legislature, so there is no LRL record, and her profile shows the empty state until someone researches it by hand.
 
 Former members are a special case: their old districts now belong to other people, so a district lookup would find the successor. Their LRL record ids are pinned in `scripts/lib/roster.js` (`FORMER_LRL_IDS`) — name search is unsafe for them because common surnames collide (there are two Bruce Andersons in the database, only one of them ours). Their portraits come from the LRL record too, guarded by a check that the image filename contains the member's surname.
 
@@ -65,7 +65,7 @@ node scripts/verify-bios.js all     # re-check every claim against live sources
 
 `fetch-bios.js` reads the Legislature's own [Legislators Past & Present](https://www.lrl.mn.gov/legdb/) database, whose records are consistently labelled, and parses the named fields **deterministically**. It writes the result between the `BIOS:GENERATED` markers in `public/index.html` — don't hand-edit that block. To curate someone by hand, add them to `MANUAL_BIOS` just below it, which takes precedence.
 
-`verify-bios.js` is the check on that pipeline: it re-downloads each record over the network, reads the biography that actually shipped, and asserts every school, degree, occupation, committee, organisation, year and leadership title appears **verbatim** in the cited source. Current state: **2,908 claims across 200 officials, 0 unverified.** Run it after any regeneration.
+`verify-bios.js` is the check on that pipeline: it re-downloads each record over the network, reads the biography that actually shipped, and asserts every school, degree, occupation, committee, organisation, year and leadership title appears **verbatim** in the cited source. Current state: **3,024 claims across 205 officials, 0 unverified.** Run it after any regeneration.
 
 Two verification rules matter and are enforced in code:
 
