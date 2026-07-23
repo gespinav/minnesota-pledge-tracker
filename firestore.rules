@@ -1,0 +1,24 @@
+rules_version = '2';
+
+// MN Pledge Tracker — Firestore security rules.
+//
+// The app's ONLY cloud write is a user syncing their own saved bills and
+// followed officials to a document at mn_users/{their-uid}. These rules make
+// that the only thing anyone can ever do:
+//   - must be signed in (request.auth != null)
+//   - can only touch the document whose id equals their own uid
+//   - must have a verified email (defence in depth; the client enforces this too)
+//
+// No document is ever readable or writable by another user. There is no public
+// read. Paste these into Firebase Console → Firestore → Rules → Publish, or
+// deploy with:  firebase deploy --only firestore:rules
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /mn_users/{uid} {
+      allow read, write: if request.auth != null
+        && request.auth.uid == uid
+        && request.auth.token.email_verified == true;
+    }
+    // Everything else is denied by default.
+  }
+}

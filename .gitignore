@@ -26,3 +26,8 @@ TheCanon.html
 
 # Cached Legislative Reference Library pages (regenerable via scripts/fetch-bios.js)
 .lrl-cache/
+
+# Firebase CLI local cache / logs (config lives in firebase.json + .firebaserc)
+.firebase/
+firebase-debug.log
+firestore-debug.log
