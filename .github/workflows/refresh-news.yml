@@ -10,9 +10,11 @@ on:
     - cron: '0 */6 * * *'   # every 6 hours (UTC); GitHub may delay under load
   workflow_dispatch:          # allow manual runs from the Actions tab
 
-# Needed so the job can commit the refreshed data file back to the repo.
+# contents:write to commit the refreshed data file; actions:write to kick off
+# the Pages deploy afterward (a GITHUB_TOKEN push alone won't trigger it).
 permissions:
   contents: write
+  actions: write
 
 # Never let two refreshes overlap; let an in-flight one finish.
 concurrency:
@@ -34,17 +36,20 @@ jobs:
       - name: Fetch latest legislative news
         run: node scripts/fetch-legislative-news.js
 
-      - name: Commit if the bulletin changed
+      - name: Commit and deploy if the bulletin changed
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if git diff --quiet -- public/data/upcoming-bills.json; then
-            echo "No change in the bulletin — nothing to commit."
+            echo "No change in the bulletin — nothing to commit or deploy."
             exit 0
           fi
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/data/upcoming-bills.json
-          # No [skip ci]: this push should trigger the Pages deploy so the fresh
-          # bulletin goes live. (This workflow is schedule/dispatch-only, so the
-          # push cannot retrigger it — no loop.)
           git commit -m "Auto-refresh legislative news bulletin"
           git push
+          # A GITHUB_TOKEN push does NOT trigger other workflows (GitHub's
+          # recursion guard), but workflow_dispatch is an allowed exception — so
+          # explicitly kick the Pages deploy to push the fresh bulletin live.
+          gh workflow run deploy-pages.yml --ref main
