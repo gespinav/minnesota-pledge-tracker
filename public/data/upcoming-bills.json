@@ -1,8 +1,14 @@
 {
-  "generated": "2026-07-24T14:02:09.797Z",
+  "generated": "2026-07-24T19:14:09.575Z",
   "source": "Google News RSS — Minnesota Legislature queries",
   "note": "A legislative news bulletin. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZTbG05cGNTT092Z0Fjd3lOa0FkXzRGbmF4dTFuODd2a3pRdjQ5LVgzazRjZXJQdkx4RFc4N0FUOE5Za1pnTWVyclFFUHRSenF4ZTFpemRDakNRV1NJdXlCREl5QmJlVEVxRFRYc1dkT0VUWXd0S0hLOGthOTJWdWpIQnJuSnl6UzRjeDBvWUpBenQ5UjlIR1B1RXV3aHVLNUloNV8xNA?oc=5",
+      "date": "2026-07-24"
+    },
     {
       "title": "Rep. Aisha Gomez - Legislative Update - Summer Update",
       "source": "MN House of Representatives (.gov)",
@@ -145,12 +151,6 @@
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXowLVljSkRkYjNadk01SFQ2WFlfN3lQaVJwZkJPSEVtY2UwZHBWZ2kySkxKSkcxWFpQWW5ILVdZNC1IQVBYOHQ5MEpjeHRVV0dWVVRUR3hUR1RXMkhQM3F1RXZRaWV4UFhtZTlsUXUtMkJtbUNmRE03OUdSc3ppeERMSE5fRHFHSzlhMEx0NEJsMS1jLWJWeTZpU2lmdUUtTlpLR2JEZE11T1ZpQlE?oc=5",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Rep. Anquam Mahamoud - Legislative Update - End of 2026 Session",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ILXB3bUIzeGVWdEM4RmtXM3BxUHl5RElKRWdjM2NzRWVKdUFRZUNoWENIazJDcllDaDlmS1NHSkdWZ3ZTbFBua055cUdrVlNndTFMdWRlWVVCbEhLN0h0cXpPZmNubllP?oc=5",
       "date": "2026-05-26"
     },
     {
