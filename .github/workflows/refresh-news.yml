@@ -1,0 +1,50 @@
+name: Refresh news bulletin
+
+# Keeps the "Upcoming Bills" legislative news bulletin current. Runs
+# scripts/fetch-legislative-news.js on a schedule, and commits the refreshed
+# public/data/upcoming-bills.json only when the headlines actually changed.
+# That push to main triggers the existing "Deploy to GitHub Pages" workflow,
+# so the live bulletin updates automatically.
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours (UTC); GitHub may delay under load
+  workflow_dispatch:          # allow manual runs from the Actions tab
+
+# Needed so the job can commit the refreshed data file back to the repo.
+permissions:
+  contents: write
+
+# Never let two refreshes overlap; let an in-flight one finish.
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'   # built-in fetch; the script has no npm deps
+
+      - name: Fetch latest legislative news
+        run: node scripts/fetch-legislative-news.js
+
+      - name: Commit if the bulletin changed
+        run: |
+          if git diff --quiet -- public/data/upcoming-bills.json; then
+            echo "No change in the bulletin — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/upcoming-bills.json
+          # No [skip ci]: this push should trigger the Pages deploy so the fresh
+          # bulletin goes live. (This workflow is schedule/dispatch-only, so the
+          # push cannot retrigger it — no loop.)
+          git commit -m "Auto-refresh legislative news bulletin"
+          git push

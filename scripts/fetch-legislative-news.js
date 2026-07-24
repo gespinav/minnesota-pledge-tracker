@@ -95,6 +95,22 @@ async function main() {
   all.sort((a, b) => b.ts - a.ts);
   const items = all.slice(0, MAX_ITEMS).map(({ ts, ...rest }) => rest);
 
+  // Idempotence: if the headlines are unchanged since last run, leave the file
+  // exactly as-is (timestamp included). The scheduled refresh then produces no
+  // git change and no needless commit/deploy — "generated" only advances when
+  // there is genuinely new news.
+  // Identity = the SET of headlines, order-independent. Google News rotates and
+  // reorders items and mints fresh redirect URLs per request, so comparing by
+  // sorted titles is the stable "did the news actually change" signal.
+  const signature = arr => JSON.stringify((arr || []).map(i => i.title).sort());
+  try {
+    const prev = JSON.parse(fs.readFileSync(OUT, 'utf8'));
+    if (signature(prev.items) === signature(items)) {
+      console.log(`\nNo change in bulletin items (${items.length}); existing file left untouched.`);
+      return;
+    }
+  } catch (e) { /* no existing file — write a fresh one below */ }
+
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify({
     generated: new Date().toISOString(),
