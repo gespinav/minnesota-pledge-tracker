@@ -17,11 +17,12 @@
  *
  * TRUSTED SOURCES ONLY
  * Results are filtered to an allowlist (ALLOWED_SOURCES below): Minnesota
- * government/official sources plus established Minnesota news organizations
- * (Star Tribune, Pioneer Press, MPR, MN PBS, Fox 9, KARE 11, WCCO, KSTP,
- * MinnPost, Minnesota Reformer, Sahan Journal, regional MN outlets, …).
- * National/out-of-state outlets, advocacy/trade groups, and partisan caucus
- * press releases are dropped. A per-source cap keeps the bulletin diverse.
+ * government/official sources — including the legislative caucuses — plus
+ * established Minnesota news organizations (Star Tribune, Pioneer Press, MPR,
+ * MN PBS, Fox 9, KARE 11, WCCO/CBS Minnesota, KSTP, MinnPost, Minnesota
+ * Reformer, Sahan Journal, regional MN outlets, …). National/out-of-state
+ * outlets and advocacy/trade groups are dropped. A per-source cap keeps the
+ * bulletin diverse.
  *
  * A keyed, *structured* legislative source (e.g. OpenStates, LegiScan) could be
  * added later for true bill-status/upcoming-vote data — drop its key in an env
@@ -49,15 +50,18 @@ const QUERIES = [
 ];
 
 // TRUSTED SOURCES ONLY. An item is kept only if its source name (as labelled by
-// Google News) matches one of these — Minnesota government/official sources plus
-// established Minnesota news organizations. Everything else is dropped: national
-// outlets, out-of-state stations, advocacy/trade groups, and partisan caucus PR.
-// Matched case-insensitively as a substring, so 'fox 9' catches
-// "FOX 9 Minneapolis-St. Paul", and '.gov' catches "… (.gov)" official sources.
+// Google News) matches one of these — Minnesota government/official sources
+// (including the legislative caucuses), plus established Minnesota news
+// organizations. Everything else is dropped: national/out-of-state outlets and
+// advocacy/trade groups. Matched case-insensitively as a substring, so 'fox 9'
+// catches "FOX 9 Minneapolis-St. Paul" and '.gov' catches "… (.gov)" sources.
 // Edit this list to add or remove a source.
 const ALLOWED_SOURCES = [
   // Minnesota government / official (nonpartisan)
   '.gov', 'session daily',
+  // Official legislative caucus communications (partisan, but primary sources
+  // from the elected bodies themselves).
+  'senate dfl', 'senate republican', 'house dfl', 'house republican',
   // Established Minnesota news organizations
   'star tribune', 'startribune',
   'pioneer press',
@@ -68,7 +72,7 @@ const ALLOWED_SOURCES = [
   'fox 9', 'kmsp',
   'kare 11', 'kare11',
   'kstp', '5 eyewitness',
-  'wcco', 'cbs minnesota',
+  'wcco', 'cbs minnesota', 'cbs news',      // WCCO / CBS Minnesota
   'twin cities pbs', 'pbs minnesota', 'pioneer pbs', 'lakeland pbs', 'tpt',
   'duluth news tribune', 'northern news now',
   'post bulletin', 'kttc', 'kaaltv',        // Rochester / SE Minnesota
