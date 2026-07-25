@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T12:31:25.136Z",
+  "generated": "2026-07-25T12:53:25.280Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -20,12 +20,6 @@
       "source": "kaaltv.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenNYNzhFU0k4RlJJWWpkUURYYUVGTlJaVDFLQmsweDRKZVJjRmpOcDljZVA4RVFIQkZOQXZ4eFYtZDZGRm1PLXJ4MlZJZ0w1NnhRV0h3X29BaVlsT1o3My1RUHFrXzVrQ0lnU1NOb0ZJY3lhXzhlOGFJdDljU19PZFQ4ZG5aVXdSTmV5R01qaw?oc=5",
       "date": "2026-07-14"
-    },
-    {
-      "title": "What you need to know about Minnesota’s primary election, and how to vote early",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHdNbFlHWGxZdExuakJteHNKREswN2tKZzZQV0tPb0lsZlpib3kwZGltbHEzb3ptOXAzNUxDTnpKVmR6Sm1sUmx0bk5yOTJNNnBkSDhyWkpreGpFWmJLYUYxYlFSMm0ySTlPOVZsM0gzbGh0SWRWSE41dVBiOWtZdWUzcjBKVEozaEpwQ2k3aFFhQQ?oc=5",
-      "date": "2026-07-06"
     },
     {
       "title": "New Minnesota laws begin on July 1. Here’s what you need to know.",
@@ -55,12 +49,6 @@
       "title": "New Minnesota law makes sexual grooming of children a felony",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHV3NnBodUl4MHFneGN5dW5EeXhzMW9yOVY1N1c4MThIRVZxVkVEbHp2WHEwd05vaXRwMlhjYkQwcERNZzEzR0p0OTZZMVFRMzV0amVvT1hpYmFvTGlXNGhpbllTQ1NYdzlCeEJRZU5Tdk9seDRETlM2Z3FFcFNFQU1RZF85NzFiTkl5Vl91WWhFSkgwR1I1dDM5WUhmTll1b3pN?oc=5",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Here’s how a new law will change Minnesota’s cannabis and hemp industries",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rWnIydDMxUDZvUUltNjgzVmtkeWpCaVBvNmR3cWlxLTNSZzdaS3dTYjdKZXhYRFNCa0JfNTM5R2lHdDVCTm9LWHdhX3VOQzlNWGQ3YUJNcnBOUGxuRXdoaS1jSTBXT19PekxuUDZUT0VxTWxxeXJBN242NlA?oc=5",
       "date": "2026-05-28"
     },
     {
@@ -182,6 +170,18 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2ZlYVlNQVk0ZWdQUEZpOTBORTBUX3AzV2ZrZjVfMzdRN2hPMll0djlGVE1mLVJtUjJ1aEFlSUppZFIyRDM3bjl5dGVsYkZOWk5ka3NhTmdUVkstcFJSNkI3elVyQWxoUDdVMkhUV3B2R2VMU2lQMnY3V1YzTW56dEFZbXRENFRfOVgwdXR0V0xBZEFLYllLRmNNM241UlhKcVllY29VMWwxVElXMUU1VU5UMVh6YnlkbWZWMDFPWW9mSWQyYkJLSGMzWEs4Z1VRanNUU3FB?oc=5",
       "date": "2026-05-18"
+    },
+    {
+      "title": "Minnesota Legislature closes out session marked by partisan division and election year politics",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbl9uS2xDNG5xRE1kTFRtWE4xRGpCaHE3aXh1S3pQV0FtUHNJWk5wZ1NOVmdLY3BTOF9CM0lKc1NZaW9RY3o1YXZ1RnZjaUxxQV84X2ZIQjJKS2x2LWRqSGRtVW4zZWJkYlJQQVdCTWZQMVZPVXJjcHIzRzY3cGwySUxTZnFBRkYxLUliUERpd3BaTXIzUk41OUd4Ykx0eFJHb0puMy1qVUl2R3RGLTEwTWY1X2hZck1mSjZmanpaZDVvOHlUVThIMldn?oc=5",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "Minnesota lawmakers enter final voting day with priorities in the air",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRmRtSzd0N0V3QWZoMlVXR200OG9EQm5HUFhiZHVlN19aZHJXLWExNlV5WVZLRFAwa292S1RGaWtuY2ZDQXpSdDdiSzNpaXhSaEpDNFRwdV9DMEg5aXR1dHhjT281b2ZpRzVDdjhnZU9DTHZNTHI4LVdnZHlURjFicHE5OHNVTWdaNW5fakVLSUZjNmhlUnpfWGQyWkRvQUYtSU54MWV1NHh3UQ?oc=5",
+      "date": "2026-05-17"
     }
   ]
 }
