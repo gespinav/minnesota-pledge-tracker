@@ -1,20 +1,21 @@
 name: Refresh news bulletin
 
-# Keeps the "Upcoming Bills" legislative news bulletin current. Runs
-# scripts/fetch-legislative-news.js on a schedule, and commits the refreshed
-# public/data/upcoming-bills.json only when the headlines actually changed.
-# That push to main triggers the existing "Deploy to GitHub Pages" workflow,
-# so the live bulletin updates automatically.
+# Keeps the "Upcoming Bills" legislative news bulletin current WITHOUT ever
+# committing to main (which would diverge from in-progress manual work). Each
+# run: fetches the latest headlines, and only if they changed, records the
+# fresh data on a dedicated `news-data` branch AND deploys the site — with the
+# fresh bulletin — straight to GitHub Pages. main is never touched.
 on:
   schedule:
     - cron: '0 */6 * * *'   # every 6 hours (UTC); GitHub may delay under load
   workflow_dispatch:          # allow manual runs from the Actions tab
 
-# contents:write to commit the refreshed data file; actions:write to kick off
-# the Pages deploy afterward (a GITHUB_TOKEN push alone won't trigger it).
+# contents:write to push the data file to the news-data branch;
+# pages:write + id-token:write to deploy to GitHub Pages directly.
 permissions:
   contents: write
-  actions: write
+  pages: write
+  id-token: write
 
 # Never let two refreshes overlap; let an in-flight one finish.
 concurrency:
@@ -24,8 +25,11 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v4
 
       - name: Set up Node
@@ -36,20 +40,55 @@ jobs:
       - name: Fetch latest legislative news
         run: node scripts/fetch-legislative-news.js
 
-      - name: Commit and deploy if the bulletin changed
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Detect change
+        id: check
         run: |
           if git diff --quiet -- public/data/upcoming-bills.json; then
-            echo "No change in the bulletin — nothing to commit or deploy."
-            exit 0
+            echo "No change in the bulletin — skipping record and deploy."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/data/upcoming-bills.json
-          git commit -m "Auto-refresh legislative news bulletin"
-          git push
-          # A GITHUB_TOKEN push does NOT trigger other workflows (GitHub's
-          # recursion guard), but workflow_dispatch is an allowed exception — so
-          # explicitly kick the Pages deploy to push the fresh bulletin live.
-          gh workflow run deploy-pages.yml --ref main
+
+      # Record the fresh data on a dedicated branch so it is version-controlled
+      # without cluttering main. Done in a throwaway clone under RUNNER_TEMP so
+      # the main checkout (used for the deploy below) is left untouched.
+      - name: Record fresh data on the news-data branch
+        if: steps.check.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          remote="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          nd="$RUNNER_TEMP/news-data"
+          if git clone --depth 1 --branch news-data "$remote" "$nd" 2>/dev/null; then
+            echo "Updating existing news-data branch."
+          else
+            echo "Creating news-data branch (first run)."
+            git clone --depth 1 "$remote" "$nd"
+            git -C "$nd" checkout --orphan news-data
+            git -C "$nd" rm -rf . >/dev/null 2>&1 || true
+          fi
+          mkdir -p "$nd/public/data"
+          cp public/data/upcoming-bills.json "$nd/public/data/upcoming-bills.json"
+          git -C "$nd" config user.name  "github-actions[bot]"
+          git -C "$nd" config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git -C "$nd" add public/data/upcoming-bills.json
+          git -C "$nd" commit -m "Auto-refresh legislative news bulletin"
+          git -C "$nd" push origin news-data
+
+      # Deploy the site (main's app + the freshly-fetched data in the working
+      # tree) straight to Pages, so the live bulletin updates without a main commit.
+      - name: Configure Pages
+        if: steps.check.outputs.changed == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Upload site with the fresh bulletin
+        if: steps.check.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Deploy to GitHub Pages
+        if: steps.check.outputs.changed == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

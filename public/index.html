@@ -91,6 +91,10 @@ body{background:var(--bg);color:var(--text);font-family:var(--font-body);line-he
 table{width:100%;border-collapse:collapse;font-size:13.5px}
 thead{background:var(--surface2)}
 th{padding:10px 14px;text-align:left;font-size:11px;font-weight:700;color:var(--text3);text-transform:uppercase;letter-spacing:.06em;border-bottom:1px solid var(--border);white-space:nowrap}
+th.sortable{cursor:pointer;user-select:none;transition:color .12s}
+th.sortable:hover{color:var(--text)}
+th.sorted-col{color:var(--accent)}
+.sort-ind{font-size:9px;color:var(--accent)}
 td{padding:11px 14px;border-bottom:1px solid var(--border);vertical-align:middle}
 tr:last-child td{border-bottom:none}
 tr.clickable{cursor:pointer}
@@ -758,7 +762,16 @@ code{font-family:var(--font-mono);font-size:12px;background:var(--surface2);padd
     <div class="table-card">
       <div class="table-scroll">
         <table id="officials-table">
-          <thead><tr><th>Official</th><th>Chamber</th><th>District</th><th>Party</th><th>Promises</th><th>Votes</th><th>Score</th><th>Grade</th></tr></thead>
+          <thead><tr>
+            <th class="sortable" onclick="sortOfficials('name')">Official<span class="sort-ind" data-sortcol="name"></span></th>
+            <th class="sortable" onclick="sortOfficials('chamber')">Chamber<span class="sort-ind" data-sortcol="chamber"></span></th>
+            <th class="sortable" onclick="sortOfficials('district')">District<span class="sort-ind" data-sortcol="district"></span></th>
+            <th class="sortable" onclick="sortOfficials('party')">Party<span class="sort-ind" data-sortcol="party"></span></th>
+            <th class="sortable" onclick="sortOfficials('promises')">Promises<span class="sort-ind" data-sortcol="promises"></span></th>
+            <th class="sortable" onclick="sortOfficials('votes')">Votes<span class="sort-ind" data-sortcol="votes"></span></th>
+            <th class="sortable" onclick="sortOfficials('score')">Score<span class="sort-ind" data-sortcol="score"></span></th>
+            <th class="sortable" onclick="sortOfficials('grade')">Grade<span class="sort-ind" data-sortcol="grade"></span></th>
+          </tr></thead>
           <tbody id="officials-tbody"></tbody>
         </table>
       </div>
@@ -10072,7 +10085,7 @@ function buildSeed(){
 }
 
 // ─── State ────────────────────────────────────────────────────────────────
-const STATE = { officials: buildSeed(), selectedAdmin: null, editingPromise: null, currentPage: 1, perPage: 40 };
+const STATE = { officials: buildSeed(), selectedAdmin: null, editingPromise: null, currentPage: 1, perPage: 40, sort: { col: null, dir: 1 } };
 
 /* ═══════════════════════════════════════════════════════════════════════════
    OFFICIAL BIOGRAPHIES
@@ -16501,9 +16514,55 @@ function renderOfficials(){
     if(q){const hay=[o.name,o.city||'',String(o.dist||''),o.office||'',o.role||''].join(' ').toLowerCase();if(!hay.includes(q))return false;}
     return true;
   });
+  sortFilteredOfficials();
   STATE.currentPage=1;
   renderOfficialsPage();
   renderOfficialStats();
+  updateSortIndicators();
+}
+
+/** Comparable value for an official in a given column. */
+function officialSortValue(o,col){
+  const sc=computeScore(o);
+  switch(col){
+    case 'chamber':  return o.chamber||'';
+    case 'party':    return o.party||'';
+    case 'promises': return sc.totalPromises;
+    case 'votes':    return (o.votes||[]).length;
+    case 'score':
+    case 'grade':    return sc.comp==null?-1:sc.comp;   // grade tracks the composite score
+    case 'district':{
+      if(o.chamber==='executive') return 'A'+(o.office||'');   // executives group first
+      const m=String(o.dist||'').match(/(\d+)([AB]?)/);
+      return (o.chamber==='senate'?'S':'H')+String(m?+m[1]:0).padStart(3,'0')+(m?m[2]:'');
+    }
+    default:         return lastNameKey(o.name);            // 'name'
+  }
+}
+function sortFilteredOfficials(){
+  const {col,dir}=STATE.sort;
+  if(!col) return;                                          // default (seed) order
+  filteredOfficials.sort((a,b)=>{
+    const va=officialSortValue(a,col), vb=officialSortValue(b,col);
+    let c = (typeof va==='number'&&typeof vb==='number') ? va-vb : String(va).localeCompare(String(vb));
+    if(c===0) c=lastNameKey(a.name).localeCompare(lastNameKey(b.name));  // stable tiebreak
+    return c*dir;
+  });
+}
+/** Clicking a column header sorts by it; clicking again flips direction. */
+function sortOfficials(col){
+  const numericFirstDesc=['promises','votes','score','grade'];
+  const s=STATE.sort;
+  if(s.col===col) s.dir=-s.dir;
+  else { s.col=col; s.dir = numericFirstDesc.includes(col) ? -1 : 1; }  // grades/counts start high→low
+  renderOfficials();
+}
+function updateSortIndicators(){
+  document.querySelectorAll('#officials-table .sort-ind').forEach(el=>{
+    const active = el.getAttribute('data-sortcol')===STATE.sort.col;
+    el.textContent = active ? (STATE.sort.dir>0?' ▲':' ▼') : '';
+    el.closest('th').classList.toggle('sorted-col', active);
+  });
 }
 
 function renderOfficialsPage(){
