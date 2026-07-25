@@ -711,7 +711,7 @@ code{font-family:var(--font-mono);font-size:12px;background:var(--surface2);padd
   </div>
   <div style="padding:24px 32px">
     <p style="font-size:13px;color:var(--text2);max-width:820px;line-height:1.7;margin-bottom:6px">
-      A live news bulletin on legislation moving through the Minnesota Legislature — bills in committee, headed for floor votes, and recently signed into law. Every item is a real headline from a news outlet or official source, linked to the original. We aggregate coverage; we don't author or predict bills.
+      A live news bulletin on legislation moving through the Minnesota Legislature — bills in committee, headed for floor votes, and recently signed into law. Every item is a real headline linked to the original, drawn only from <strong>trusted Minnesota sources</strong>: state government/official sources and established Minnesota news organizations (Star Tribune, Pioneer Press, MPR, MN PBS, Fox 9, KARE 11, WCCO, KSTP, MinnPost, and peers). We aggregate their coverage; we don't author or predict bills.
     </p>
     <p style="font-size:12px;color:var(--text3);max-width:820px;line-height:1.6;margin-bottom:18px">
       For authoritative bill status and scheduled votes, use the official trackers below. During legislative session this bulletin is busiest; between sessions it carries session wrap-ups and interim news.
@@ -16139,7 +16139,7 @@ function renderUpcoming(){
     const items=(data&&Array.isArray(data.items))?data.items:[];
     if(stamp&&data&&data.generated){ const g=new Date(data.generated); if(!isNaN(g)) stamp.textContent='Updated '+fmtRelDate(g.toISOString().slice(0,10)); }
     el.innerHTML = items.length
-      ? upcomingCards(items)+`<div class="mi-note" style="margin-top:14px">Headlines aggregated from news outlets and official sources via Google News. The app links to each original; it does not author or predict bill content. Refresh the bulletin with <code>node scripts/fetch-legislative-news.js</code>.</div>`
+      ? upcomingCards(items)+`<div class="mi-note" style="margin-top:14px">Headlines drawn only from trusted Minnesota government/official sources and established Minnesota news organizations, via Google News. The app links to each original; it does not author or predict bill content. Refresh the bulletin with <code>node scripts/fetch-legislative-news.js</code>.</div>`
       : `<div class="lp-empty"><strong>No bulletin items loaded</strong>Run <code>node scripts/fetch-legislative-news.js</code> to populate the feed, or use the official trackers above for current bill status.</div>`;
   };
 

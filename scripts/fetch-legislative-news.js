@@ -12,8 +12,16 @@
  *
  * SOURCE
  * Google News RSS — keyless, no account, returns real, dated, attributed items
- * with links back to the original publishers (including official .gov sources).
- * We never invent or summarise bills; every card links to a real article.
+ * with links back to the original publishers. We never invent or summarise
+ * bills; every card links to a real article.
+ *
+ * TRUSTED SOURCES ONLY
+ * Results are filtered to an allowlist (ALLOWED_SOURCES below): Minnesota
+ * government/official sources plus established Minnesota news organizations
+ * (Star Tribune, Pioneer Press, MPR, MN PBS, Fox 9, KARE 11, WCCO, KSTP,
+ * MinnPost, Minnesota Reformer, Sahan Journal, regional MN outlets, …).
+ * National/out-of-state outlets, advocacy/trade groups, and partisan caucus
+ * press releases are dropped. A per-source cap keeps the bulletin diverse.
  *
  * A keyed, *structured* legislative source (e.g. OpenStates, LegiScan) could be
  * added later for true bill-status/upcoming-vote data — drop its key in an env
@@ -39,6 +47,39 @@ const QUERIES = [
   'Minnesota bill vote OR committee OR signed',
   'Minnesota legislature session',
 ];
+
+// TRUSTED SOURCES ONLY. An item is kept only if its source name (as labelled by
+// Google News) matches one of these — Minnesota government/official sources plus
+// established Minnesota news organizations. Everything else is dropped: national
+// outlets, out-of-state stations, advocacy/trade groups, and partisan caucus PR.
+// Matched case-insensitively as a substring, so 'fox 9' catches
+// "FOX 9 Minneapolis-St. Paul", and '.gov' catches "… (.gov)" official sources.
+// Edit this list to add or remove a source.
+const ALLOWED_SOURCES = [
+  // Minnesota government / official (nonpartisan)
+  '.gov', 'session daily',
+  // Established Minnesota news organizations
+  'star tribune', 'startribune',
+  'pioneer press',
+  'mpr news', 'minnesota public radio',
+  'minnpost',
+  'minnesota reformer',
+  'sahan journal',
+  'fox 9', 'kmsp',
+  'kare 11', 'kare11',
+  'kstp', '5 eyewitness',
+  'wcco', 'cbs minnesota',
+  'twin cities pbs', 'pbs minnesota', 'pioneer pbs', 'lakeland pbs', 'tpt',
+  'duluth news tribune', 'northern news now',
+  'post bulletin', 'kttc', 'kaaltv',        // Rochester / SE Minnesota
+  'mankato free press',
+  'st. cloud times', 'knsi',                // St. Cloud
+  'axios twin cities', 'axios',
+];
+// No more than this many items from any single source, so one prolific source
+// (e.g. the House .gov "Legislative Update" pages) can't crowd out the rest.
+const PER_SOURCE_CAP = 5;
+const isAllowed = src => { const s = String(src || '').toLowerCase(); return ALLOWED_SOURCES.some(a => s.includes(a)); };
 
 const decode = s => String(s)
   .replace(/<!\[CDATA\[(.*?)\]\]>/gs, '$1')
@@ -78,22 +119,45 @@ async function fetchQuery(q) {
 
 async function main() {
   const seen = new Set(), all = [];
+  const dropped = {};   // source -> count, for reporting what was filtered out
   for (const q of QUERIES) {
     try {
       const items = await fetchQuery(q);
+      let kept = 0;
       for (const it of items) {
         const key = it.title.toLowerCase().slice(0, 80);
         if (seen.has(key)) continue;
-        seen.add(key); all.push(it);
+        seen.add(key);
+        // Trusted sources only.
+        if (!isAllowed(it.source)) { dropped[it.source] = (dropped[it.source] || 0) + 1; continue; }
+        all.push(it); kept++;
       }
-      console.log(`  "${q}" → ${items.length} items`);
+      console.log(`  "${q}" → ${items.length} fetched, ${kept} from trusted sources`);
     } catch (e) {
       console.warn(`  "${q}" failed: ${e.message}`);
     }
   }
 
   all.sort((a, b) => b.ts - a.ts);
-  const items = all.slice(0, MAX_ITEMS).map(({ ts, ...rest }) => rest);
+
+  // Diversity cap: at most PER_SOURCE_CAP items per source, newest first, so no
+  // single source dominates the bulletin.
+  const perSource = {}, capped = [];
+  for (const it of all) {
+    const s = it.source || '';
+    perSource[s] = (perSource[s] || 0) + 1;
+    if (perSource[s] <= PER_SOURCE_CAP) capped.push(it);
+  }
+  const items = capped.slice(0, MAX_ITEMS).map(({ ts, ...rest }) => rest);
+
+  const droppedList = Object.entries(dropped).sort((a, b) => b[1] - a[1]);
+  if (droppedList.length) {
+    console.log(`\nExcluded (untrusted) sources: ` +
+      droppedList.slice(0, 12).map(([s, n]) => `${s} (${n})`).join(', ') +
+      (droppedList.length > 12 ? `, +${droppedList.length - 12} more` : ''));
+  }
+  const bySource = {}; items.forEach(i => { bySource[i.source] = (bySource[i.source] || 0) + 1; });
+  console.log(`Kept ${items.length} items from ${Object.keys(bySource).length} trusted sources.`);
 
   // Idempotence: if the headlines are unchanged since last run, leave the file
   // exactly as-is (timestamp included). The scheduled refresh then produces no
@@ -114,8 +178,9 @@ async function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify({
     generated: new Date().toISOString(),
-    source: 'Google News RSS — Minnesota Legislature queries',
-    note: 'A legislative news bulletin. Every item links to the original publisher; '
+    source: 'Google News RSS — Minnesota Legislature queries (trusted MN sources only)',
+    note: 'A legislative news bulletin, limited to Minnesota government/official sources and '
+        + 'established Minnesota news organizations. Every item links to the original publisher; '
         + 'the app aggregates headlines, it does not author or fabricate bill content. '
         + 'For authoritative bill status and upcoming votes, use the official trackers linked in the app.',
     items,
