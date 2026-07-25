@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T19:14:09.575Z",
+  "generated": "2026-07-25T01:19:55.824Z",
   "source": "Google News RSS — Minnesota Legislature queries",
   "note": "A legislative news bulletin. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -79,6 +79,12 @@
       "title": "Minnesota ends its 2026 legislative session",
       "source": "USGBC | U.S. Green Building Council",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aYVlBczNsLUVlMkUxNFA2YURXVURvZDRXM21XWmVaOTJCVlVnckt0SmQ3RVRIbE53US0ySDNWUk84eVc0VnhLbkdvTjRlTTk1dF9paHdaT3lWNU5tcGdKX24ySDBpOHYzZ0Rwek13bm01SnEtZ2pVZDl3cURGWmc?oc=5",
+      "date": "2026-06-12"
+    },
+    {
+      "title": "One year later, Melissa Hortman’s legacy continues to loom over the MN legislature",
+      "source": "KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQy1hcUhNaVZPTFQzeEF0cXpJaTZRQ2IxYVBfd05BU1JDNDFaMnItZnZTb2NmR0FVai1jZEo2TFQzdEF1ZDNER0xGMnIxa2syaDN0NkUtdG9HSlJxOTVNNW9adXRwOW44QmdJeEZtN00zSzZmUWNMVTFWY0FReVJMRDBtRFpQbnQwbkctWW5FU21FWW1HUExIdjQ3d3QyY2hhSnE5M1BPOWZMQdIBvgFBVV95cUxOYnpQcHRtMUlCMGoteFVwc25vZkZkR0tzQnlHemxHYldkYXd5SXp0Qmo5VUR0V3FjamZnSm1QRy1hUTRtTXdBZFktaVVRUGhJN2V0ZjNMWS1JTWZSTWpfdjJCeldaQ1hNQ0RWUTFUV01WVmVoSW1yQnV5U1k2WWVRRlp4VUIwc2trWXdPTUtzWFVSVUQ4NEVsNjQ4UHBnOGdkSnRYVW5QTi02Z21iTWY4c1l6ZVdGNkExaUtJUmhR?oc=5",
       "date": "2026-06-12"
     },
     {
@@ -176,12 +182,6 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUklVNWoyM0VKWjlZMkZoTHdTcV9LMzlhWnB1ZDZ4aWU4NS1oWi1QRWZkUzZiNF9tNTZXVmcxbzVkeF9Ma0l4c21oSXZGMmV2TkFLVV9UTXR6Z002Ym1xemNXVm5KZFltblB1UFF6cWZBWUFoOWhaQi1YZUxMTmVFetIBhgFBVV95cUxQYUpkSXJqMlBOamxqRzdUSklOWjQyWjNxQkxIUk9nX1IzNERMVDYxdTFKZnhqN2Q2UnBzbndBZjlkbTdmMHFqWlotUnR3VmNpY3pCTzJqa1JPN192emYtcU1XYllMRXJhREl3aFUyQ25yUFlxelJFWHVHelBRa1BJUTBuWkJ2UQ?oc=5",
       "date": "2026-05-21"
-    },
-    {
-      "title": "Legislative update: End of session recap",
-      "source": "Minnesota Association of Professional Employees",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lZDdYOFNCMUx3cmhQd05EcUtaSXE4Y0F1bVBINEF3Q1ZoZlBybnlHQXNzQVpPYXNfS2xpRVFOWTJOM0RXTzRSaTYzUVBCdjNjZGdJbFA4T3IxVlBoOG9zem9NM21nUTdiVkE?oc=5",
-      "date": "2026-05-20"
     }
   ]
 }
