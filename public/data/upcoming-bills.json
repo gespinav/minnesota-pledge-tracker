@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-25T02:11:54.026Z",
+  "generated": "2026-07-25T12:31:25.136Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -14,12 +14,6 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGUndPMWV6QVZkSm5ET0FaWVJZLVlRMzV2d2QyQTFCeVVRa2xZSGFFd0hLVThiN3FyMmZqRjJrMWlDOFZaeE56LW1GX1ZNX2h0eElMOTV5NGczTGIzSnF0eVpCRlQ5dWFB?oc=5",
       "date": "2026-07-21"
-    },
-    {
-      "title": "Rep. Matt Norris - Legislative Update - Session Accomplishments Recap",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hNThhNTJYeTA2Q3ZiUEd6Y3pDcFBlZVQ2ZEhpMnBJY2FSYXN0b1JOWWp1VGVFZmphY041cUZyVWdEWUs2RUtORkFkUXlUaU9GRjBBRkx5NkJZdllqY3RIQ3dOQ2IwQ2tZ?oc=5",
-      "date": "2026-07-15"
     },
     {
       "title": "“Grandparents’ happy hour” bill signed into law in Minnesota",
@@ -106,12 +100,6 @@
       "date": "2026-05-20"
     },
     {
-      "title": "Who came out ahead in Minnesota’s bruising session? Depends on who you ask.",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDNBMDJWWEItOGNIOW80VFEzdHlqNzZiNHpVR2lhbEMtOU1JZ2tsa05YVXp6TVhfempCLWxkTDg0VmdETE5JeW9YSURWWjNpMkFhdlQ1ZHNUYTk5SUdqYmpuaXpROEFoQVJGdUNmQlVCVDhwa09tN3ZhNVRWZTR2UHhUYWdsUWhweURMV0NYZFA0TVAzUl9PV2NJSHl0OHBtTnV6N0tPQnNudTNrYjYtakRaUGNlQnZFT3NyQWlSUEhxaFlLellXRWdyLU1HZUEtaWE4?oc=5",
-      "date": "2026-05-19"
-    },
-    {
       "title": "Who’s retiring from the Minnesota legislature?",
       "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
@@ -133,6 +121,12 @@
       "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Minnesota 2026 legislative session ends: Recap",
       "source": "FOX 9 Minneapolis-St. Paul",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMndRbkozMnpWcGctUnIwc2VsbnI1QzRsN0tiVEVpNDdtakhtbW4xXzU0bFI1TlZJOGthT1FQZUlYckRET3poWHpucW9HYkQwVzZtNmJiOVFnTTDSAWBBVV95cUxQWEdQY1lNWDhlVE1FczdnaEVDczhsRldPQmZnMVdoRmItMDhiaE82UmI0QVo4cmJ0WE9JT1phdjF2U2VnRE5NekxEdDlGOTE0VFBtelJzc0szNENsMkhDclo?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Inside the Legislature’s agreement to improve Oregon Trail-era IT for safety net programs",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2ZlYVlNQVk0ZWdQUEZpOTBORTBUX3AzV2ZrZjVfMzdRN2hPMll0djlGVE1mLVJtUjJ1aEFlSUppZFIyRDM3bjl5dGVsYkZOWk5ka3NhTmdUVkstcFJSNkI3elVyQWxoUDdVMkhUV3B2R2VMU2lQMnY3V1YzTW56dEFZbXRENFRfOVgwdXR0V0xBZEFLYllLRmNNM241UlhKcVllY29VMWwxVElXMUU1VU5UMVh6YnlkbWZWMDFPWW9mSWQyYkJLSGMzWEs4Z1VRanNUU3FB?oc=5",
       "date": "2026-05-18"
     }
   ]
