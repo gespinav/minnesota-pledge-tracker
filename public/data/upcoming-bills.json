@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T13:20:13.191Z",
+  "generated": "2026-07-30T19:04:58.084Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -64,21 +64,9 @@
       "date": "2026-07-15"
     },
     {
-      "title": "\"Grandparents' happy hour\" bill signed into law in Minnesota - ABC 6 News",
-      "source": "kaaltv.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenNYNzhFU0k4RlJJWWpkUURYYUVGTlJaVDFLQmsweDRKZVJjRmpOcDljZVA4RVFIQkZOQXZ4eFYtZDZGRm1PLXJ4MlZJZ0w1NnhRV0h3X29BaVlsT1o3My1RUHFrXzVrQ0lnU1NOb0ZJY3lhXzhlOGFJdDljU19PZFQ4ZG5aVXdSTmV5R01qaw?oc=5",
-      "date": "2026-07-14"
-    },
-    {
       "title": "House to vote on daylight saving time next week. Here's where states stand on making it permanent.",
       "source": "kare11.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUWpUZldUdnpwMDY1dW0tUnA5RDA3cTg4QllCZUlfMjNXLUF5bW5MakUzT2NwcE9oU0dCWkpaaWlsaEZMZl94SnE0MTdES0pVUEd3NGVLbkpGU2lIaDFFOC0zWENSVVZoSGI1eHRzb0tnUlBieTYtNklqR281czk0ajlfRk1xel9OTDhqUTZnVmdqaHpqY2tndU1pVGU0UWQ1VWNHdzk0eGo5MWVqdVBrNEswQkpIN0lSLWszYURJX054ZFhKMl9UOGNhUklhOFlieUtuNFA3eDd2TW1LbVRfQVVVMFpQZVBEeVRmUGFlelpXaE5PQkow?oc=5",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Minnesota is on the verge of expanding access to psychedelics therapy",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTR0XzB0cFMwVEl5N1ZvY1JvaVBoTE9wcU5fQlBRZ1UyWV85ei1iMFpzeVBNdngwazczcXlWTktMMUNJV2pWNUNoak1nOWxzeHVYSGt4U1ZDSVZfNmh0ek9URzVsaWItMHR3aXhHNUVkeER4QTNyY19jUFA3dm1LWEVYU1JvMzRQQVFQR1dFeWFYNWdEbkRPMnNQb0dSRkRBQ2FGN0NkMkVocVpQVGc?oc=5",
       "date": "2026-07-10"
     },
     {
@@ -142,6 +130,12 @@
       "date": "2026-05-21"
     },
     {
+      "title": "How to cover a Legislature that does its business in private",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1J2ejkyWWhwU0toc1Z6bzFVZDZuWHRvbWFQeWR4YkNWYTV2Tmd3blBNd1Z3RkNrRUdyZHRpcjAwUzgwWHpzZks0VFAyaVlXZkFJVWctMkZ6aHg3ZzdnQlVZMi1lQ2IzbHg5cWYwQUZkYjNma1VhTzRWUUpUTnpTQzZQSkotOWRScnN5cXZ6YXJuVUhTaWVwUG5Sa2VzUEtKQ0hwbEF4LUpxS0pY?oc=5",
+      "date": "2026-05-21"
+    },
+    {
       "title": "The 2026 legislative session in photos",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjRRblUya05mWVlhbVdKSlU5bWlzVjl6WWpUVk9QdnUtSzJrMXlEcjV2QWJoMjZNbXNpQU9OTm1fTkl3RzFCV2tObXVtdXduRW9OYVU3RmJNazlMOTVHbTdQNnE5by1KLVV4WTIxUURuNDNZRU1QTzdqbjVUVDNQd2NFWEU2d29iVnJKdnZnMHhPRTJOX3I1OUVKci1YSTdFVkgydXNwamVpSnBEVzdBRGxkdWlieEhsYkJjeFNWV0E1U052UVkxRy0xSnFqbndrYmdNOUxn?oc=5",
@@ -181,6 +175,12 @@
       "title": "Minnesota lawmakers OK license tab cut, HCMC fix, construction project package in final flurry",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSllGQ0FYM3JZZnRuby1CTkJ5Q3JxYnlaR193ZzJHZ1BncnY4UGRrTzhzVkVHVVBXMERmOHlNeXUwVUluaFM3ZHRLTzVpLURfSVhZcm5aWkswQ2JnZXJpVXBJTkllZEg5RmVCZEVWYmRsdC1BTERNTHBHR09zTURtVnRwVUsxQ1F1MEpSaWlLS21GbUxmbWtBSjJzSFBlT0VqWEhBUHhsYVJVVFVZRXBtUGZSRUZ5V1ViQ25YYQ?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Minnesota lawmakers manage to pass major bills just before end of legislative session",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91aDM0ekNBcGItN2VETUx2YjdPT0l4QXlCeW1GbWlXWHhQUGZyMHBVTWhKSFpvOEJoY1FzYXcwdVV3Q1B0UVZ1ZjV3OTRhM3c4ZWRnUHV6YkU3Z1VucjFlUF91ZDQxYWJUMWpxbHJwd0hWWUM0UjdfclI2a2YxLVnSAYQBQVVfeXFMTUs0OUZ5N2g2R29iWHNGZEVfMy00M3hLXzM1Y1VjT1ZUUk40M1JHOU81LWstS29HWEFQb3NMLWM1TzdmV2JNRERQU255THJmUlJqTElMWDlkZmFGd0tPWjUxcGNkSURlR2xTRjVxMXJtajcyUWJBcXhzMTFFUnV0RUwtbE5L?oc=5",
       "date": "2026-05-18"
     }
   ]
