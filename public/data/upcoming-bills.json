@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T19:04:58.084Z",
+  "generated": "2026-07-31T01:22:56.699Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -23,7 +23,7 @@
     },
     {
       "title": "Elon Musk suing Minnesota over state law banning AI ‘nudification’",
-      "source": "5 EYEWITNESS NEWS",
+      "source": "kstp.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3REdDExc0ZZWWlod1Q2TTJUZTFwMjA1WlJkNDQ4QldBXzhtQUsyUnVzVTJJOTlxMjBjNTduUG9ZMnFPU1l4VU9kU1Y1NXRfVFAyLVZTMUM0X2dGWXNQRXdQdlJEU0VEZW9NWm1pWmdzNDdDa28xMWlsLVF6X0U4UFZmUDVkQWRMVVE3X1Znbmx6RW1oNlFSOFJ5WVRZZmVveFZB?oc=5",
       "date": "2026-07-28"
     },
@@ -41,7 +41,7 @@
     },
     {
       "title": "Legislature missed a chance to regulate toxic phthalates",
-      "source": "MinnPost",
+      "source": "minnpost.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0VHOWh4anA0QmtJNHd4V0UyQW9XSE8ySWI5RTBfT1BWYW55c00zakp2Z1VzT1RGemlaeHVfYVpoZTJ1eTlENUNIb1ZkVGlkWUd4TGxXZXRpNEIzeG1qYURyb19ZS09iMGY5UEc3R3BtbWppaERHcVdDOHpWSXBqZkRYMUhJX1VsQXZtVFRRcVFHejJhR1F1QXJEWWFIZ0syeENLRkFaZlMyQ3c?oc=5",
       "date": "2026-07-27"
     },
@@ -67,6 +67,12 @@
       "title": "House to vote on daylight saving time next week. Here's where states stand on making it permanent.",
       "source": "kare11.com",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUWpUZldUdnpwMDY1dW0tUnA5RDA3cTg4QllCZUlfMjNXLUF5bW5MakUzT2NwcE9oU0dCWkpaaWlsaEZMZl94SnE0MTdES0pVUEd3NGVLbkpGU2lIaDFFOC0zWENSVVZoSGI1eHRzb0tnUlBieTYtNklqR281czk0ajlfRk1xel9OTDhqUTZnVmdqaHpqY2tndU1pVGU0UWQ1VWNHdzk0eGo5MWVqdVBrNEswQkpIN0lSLWszYURJX054ZFhKMl9UOGNhUklhOFlieUtuNFA3eDd2TW1LbVRfQVVVMFpQZVBEeVRmUGFlelpXaE5PQkow?oc=5",
+      "date": "2026-07-10"
+    },
+    {
+      "title": "Minnesota is on the verge of expanding access to psychedelics therapy",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTR0XzB0cFMwVEl5N1ZvY1JvaVBoTE9wcU5fQlBRZ1UyWV85ei1iMFpzeVBNdngwazczcXlWTktMMUNJV2pWNUNoak1nOWxzeHVYSGt4U1ZDSVZfNmh0ek9URzVsaWItMHR3aXhHNUVkeER4QTNyY19jUFA3dm1LWEVYU1JvMzRQQVFQR1dFeWFYNWdEbkRPMnNQb0dSRkRBQ2FGN0NkMkVocVpQVGc?oc=5",
       "date": "2026-07-10"
     },
     {
@@ -107,7 +113,7 @@
     },
     {
       "title": "Middle Aisle: ‘Low expectations’ session delivered more than expected for Minnesotans",
-      "source": "MinnPost",
+      "source": "minnpost.com",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRktFMTByVHN6RVNVYklNY0pDNnczQ0FLdGhPTV9IT1JiS0I1S0xVelNsc2dhbWx2a1E2T0dlMUZfd1FuOE9qcktsblRvZ2NETE00blUwRWk1WENMZldwaElNcTdCR2dDTHlzT3dXMmliOFZTTDU5ZmRVRERycnJ4cTY2X2d5TWJnbVNLMFFlalhGakktdk5aQkl1UDVLb3pXbk5lNmd2cE1RdHNpRTR1ZDNCX1Fhd29CRV9la2hhWWxyemUzUlp5czF5ODRsbDROa0tWazA3M0Fqc2tLakE?oc=5",
       "date": "2026-05-26"
     },
@@ -131,13 +137,13 @@
     },
     {
       "title": "How to cover a Legislature that does its business in private",
-      "source": "MinnPost",
+      "source": "minnpost.com",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1J2ejkyWWhwU0toc1Z6bzFVZDZuWHRvbWFQeWR4YkNWYTV2Tmd3blBNd1Z3RkNrRUdyZHRpcjAwUzgwWHpzZks0VFAyaVlXZkFJVWctMkZ6aHg3ZzdnQlVZMi1lQ2IzbHg5cWYwQUZkYjNma1VhTzRWUUpUTnpTQzZQSkotOWRScnN5cXZ6YXJuVUhTaWVwUG5Sa2VzUEtKQ0hwbEF4LUpxS0pY?oc=5",
       "date": "2026-05-21"
     },
     {
       "title": "The 2026 legislative session in photos",
-      "source": "MinnPost",
+      "source": "minnpost.com",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjRRblUya05mWVlhbVdKSlU5bWlzVjl6WWpUVk9QdnUtSzJrMXlEcjV2QWJoMjZNbXNpQU9OTm1fTkl3RzFCV2tObXVtdXduRW9OYVU3RmJNazlMOTVHbTdQNnE5by1KLVV4WTIxUURuNDNZRU1QTzdqbjVUVDNQd2NFWEU2d29iVnJKdnZnMHhPRTJOX3I1OUVKci1YSTdFVkgydXNwamVpSnBEVzdBRGxkdWlieEhsYkJjeFNWV0E1U052UVkxRy0xSnFqbndrYmdNOUxn?oc=5",
       "date": "2026-05-20"
     },
@@ -149,7 +155,7 @@
     },
     {
       "title": "What the Minnesota Legislature accomplished in its final hours",
-      "source": "MinnPost",
+      "source": "minnpost.com",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNGpsNFFXMGFPRnc4WEdJRWE3cnhtQW51YXdJZWpIbllFWGJSVU4tY2JTNW1WOXBHd3BtUG9GSUNMWVJXY1ZGLVVUSmtzTmJsaVZUc2FUZExZbmxNUWgyWXh1MkRCVXV3WHI1YjRuSnJtdWJleFRCbmU2dDZ1a3E1WXI2TmJPUEcwNDhUTEdjV2s0QnBoeFQ0dWs0T003Vk12eDNKOFFTQXBOZzJXQXljelltek1CRkEtZ1RFVE54UUFIdnJEWS1Sajh2QXZiY2ctRDJWU2h5aW9XMHdiQWxvNjk2Uzd4NFJ4R29XUndjUXVXU2pwV1NlWEwzTWYwZWFoZVdwemxYcVk1bFJKb0t5U0JkaHF4bWtKckFlZjFSTmV4TVRLcXlRcldFVQ?oc=5",
       "date": "2026-05-18"
     },
@@ -175,12 +181,6 @@
       "title": "Minnesota lawmakers OK license tab cut, HCMC fix, construction project package in final flurry",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSllGQ0FYM3JZZnRuby1CTkJ5Q3JxYnlaR193ZzJHZ1BncnY4UGRrTzhzVkVHVVBXMERmOHlNeXUwVUluaFM3ZHRLTzVpLURfSVhZcm5aWkswQ2JnZXJpVXBJTkllZEg5RmVCZEVWYmRsdC1BTERNTHBHR09zTURtVnRwVUsxQ1F1MEpSaWlLS21GbUxmbWtBSjJzSFBlT0VqWEhBUHhsYVJVVFVZRXBtUGZSRUZ5V1ViQ25YYQ?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Minnesota lawmakers manage to pass major bills just before end of legislative session",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91aDM0ekNBcGItN2VETUx2YjdPT0l4QXlCeW1GbWlXWHhQUGZyMHBVTWhKSFpvOEJoY1FzYXcwdVV3Q1B0UVZ1ZjV3OTRhM3c4ZWRnUHV6YkU3Z1VucjFlUF91ZDQxYWJUMWpxbHJwd0hWWUM0UjdfclI2a2YxLVnSAYQBQVVfeXFMTUs0OUZ5N2g2R29iWHNGZEVfMy00M3hLXzM1Y1VjT1ZUUk40M1JHOU81LWstS29HWEFQb3NMLWM1TzdmV2JNRERQU255THJmUlJqTElMWDlkZmFGd0tPWjUxcGNkSURlR2xTRjVxMXJtajcyUWJBcXhzMTFFUnV0RUwtbE5L?oc=5",
       "date": "2026-05-18"
     }
   ]
