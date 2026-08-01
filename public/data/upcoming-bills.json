@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T07:56:28.705Z",
+  "generated": "2026-08-01T12:46:38.805Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -68,12 +68,6 @@
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTR0XzB0cFMwVEl5N1ZvY1JvaVBoTE9wcU5fQlBRZ1UyWV85ei1iMFpzeVBNdngwazczcXlWTktMMUNJV2pWNUNoak1nOWxzeHVYSGt4U1ZDSVZfNmh0ek9URzVsaWItMHR3aXhHNUVkeER4QTNyY19jUFA3dm1LWEVYU1JvMzRQQVFQR1dFeWFYNWdEbkRPMnNQb0dSRkRBQ2FGN0NkMkVocVpQVGc?oc=5",
       "date": "2026-07-10"
-    },
-    {
-      "title": "Minnesota begins distributing $40 million in rental assistance",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkhpQzdzNHNaa1U5TjVUQUVpc3ptbXZDOEtZTzlhcVhwbF9yRk1zQjJnODRWd3g5ZXc0RlNjdjh3NVRFNDBXUWg3eGc2NV8xeFQ1akpzY2p4aGlvZG1BQldfMzJ4OGt3WXJfUFlNNEVTRWF1V0NRcHVuc1hLanJ1NG02MXVQeUd2M1gxYlVMODlMcWR5LWRPZnZGdTdORGhE?oc=5",
-      "date": "2026-07-08"
     },
     {
       "title": "What you need to know about Minnesota’s primary election, and how to vote early",
@@ -181,6 +175,12 @@
       "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Breaking down the bonding bill: Legislature approves $1.2 billion to fund infrastructure projects",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0JDbkVqUmY4dkNwV0ZxNmJPLWRQNl9rSWdrYmlGenVES0t4VnBydlZCc3ZRaDltRGMwN3pqdVNrZEFpaW9sNUdYNHhpSTBhLUlRQWE5Q2hhQVlhOXIwbDZodGVPTkQzWWI3bXJSUjNOVVhON3dQQlVrTWdtRVROVUhQYzVlWTluRllSVkJMWWhsSGZ4dnF3NTlJTTdhYmtDNURYMi1mS0dWRTdRd0FQRzc0OWJyVkR0V0hpeXVwV1VvRXVvZmt5ek1ZMW5VcDNHd1BhTVY3X21RczljT3Vz?oc=5",
       "date": "2026-05-18"
     }
   ]
