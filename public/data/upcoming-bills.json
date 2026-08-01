@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T12:46:38.805Z",
+  "generated": "2026-08-01T18:47:05.837Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -58,16 +58,10 @@
       "date": "2026-07-15"
     },
     {
-      "title": "House to vote on daylight saving time next week. Here's where states stand on making it permanent.",
-      "source": "kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUWpUZldUdnpwMDY1dW0tUnA5RDA3cTg4QllCZUlfMjNXLUF5bW5MakUzT2NwcE9oU0dCWkpaaWlsaEZMZl94SnE0MTdES0pVUEd3NGVLbkpGU2lIaDFFOC0zWENSVVZoSGI1eHRzb0tnUlBieTYtNklqR281czk0ajlfRk1xel9OTDhqUTZnVmdqaHpqY2tndU1pVGU0UWQ1VWNHdzk0eGo5MWVqdVBrNEswQkpIN0lSLWszYURJX054ZFhKMl9UOGNhUklhOFlieUtuNFA3eDd2TW1LbVRfQVVVMFpQZVBEeVRmUGFlelpXaE5PQkow?oc=5",
-      "date": "2026-07-10"
-    },
-    {
-      "title": "Minnesota is on the verge of expanding access to psychedelics therapy",
+      "title": "Minnesota begins distributing $40 million in rental assistance",
       "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNTR0XzB0cFMwVEl5N1ZvY1JvaVBoTE9wcU5fQlBRZ1UyWV85ei1iMFpzeVBNdngwazczcXlWTktMMUNJV2pWNUNoak1nOWxzeHVYSGt4U1ZDSVZfNmh0ek9URzVsaWItMHR3aXhHNUVkeER4QTNyY19jUFA3dm1LWEVYU1JvMzRQQVFQR1dFeWFYNWdEbkRPMnNQb0dSRkRBQ2FGN0NkMkVocVpQVGc?oc=5",
-      "date": "2026-07-10"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkhpQzdzNHNaa1U5TjVUQUVpc3ptbXZDOEtZTzlhcVhwbF9yRk1zQjJnODRWd3g5ZXc0RlNjdjh3NVRFNDBXUWg3eGc2NV8xeFQ1akpzY2p4aGlvZG1BQldfMzJ4OGt3WXJfUFlNNEVTRWF1V0NRcHVuc1hLanJ1NG02MXVQeUd2M1gxYlVMODlMcWR5LWRPZnZGdTdORGhE?oc=5",
+      "date": "2026-07-08"
     },
     {
       "title": "What you need to know about Minnesota’s primary election, and how to vote early",
@@ -80,6 +74,12 @@
       "source": "Minnesota Senate Republicans",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHNScWRKR1R4UDk0UGtDbnBZTk5OQmNaR2o3OU9lLVVlX3pnZDdMZTNOMmVoWnlBaTRnNHZ6SFVnZWJ5Skp6QWdlMmRvcV9Cc1N5bzNLU0F2T20zcWRqanc3bjRSa2VHeUtmVkVUSTBJY2tZZEg0QnA0QXNrWWs1UmZR?oc=5",
       "date": "2026-06-09"
+    },
+    {
+      "title": "Gov. Tim Walz signs $1.2 billion infrastructure bill in St. Paul",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTBaNWZLZEo1SVMyc0sxV0M5Mks0NTdxNzZWcDVMOUVoeHAtTnktYkNTSUh1ek5RS2hPVEg1ZXRUUEZELUJSVHRTelRQbU5oRjI3d3FlNEJGLUlwY2Vobld4UW8tWE9NZ29aRHlrMHZJSmRlMXR4bFE4VnM2M2U0MEx4Q3A?oc=5",
+      "date": "2026-06-05"
     },
     {
       "title": "End of Session: The Good, the Bad, and the Frustrating",
