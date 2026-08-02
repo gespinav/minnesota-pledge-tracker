@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T01:21:56.380Z",
+  "generated": "2026-08-02T07:58:41.718Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -58,10 +58,10 @@
       "date": "2026-07-15"
     },
     {
-      "title": "What you need to know about Minnesota’s primary election, and how to vote early",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHdNbFlHWGxZdExuakJteHNKREswN2tKZzZQV0tPb0lsZlpib3kwZGltbHEzb3ptOXAzNUxDTnpKVmR6Sm1sUmx0bk5yOTJNNnBkSDhyWkpreGpFWmJLYUYxYlFSMm0ySTlPOVZsM0gzbGh0SWRWSE41dVBiOWtZdWUzcjBKVEozaEpwQ2k3aFFhQQ?oc=5",
-      "date": "2026-07-06"
+      "title": "Gov. Tim Walz signs $1.2 billion infrastructure bill in St. Paul",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTBaNWZLZEo1SVMyc0sxV0M5Mks0NTdxNzZWcDVMOUVoeHAtTnktYkNTSUh1ek5RS2hPVEg1ZXRUUEZELUJSVHRTelRQbU5oRjI3d3FlNEJGLUlwY2Vobld4UW8tWE9NZ29aRHlrMHZJSmRlMXR4bFE4VnM2M2U0MEx4Q3A?oc=5",
+      "date": "2026-06-05"
     },
     {
       "title": "End of Session: The Good, the Bad, and the Frustrating",
@@ -103,12 +103,6 @@
       "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FbWt3czRTYUdqaWRlRzFpcDVFaVNERWV5MUFhRExxU0FXdXZWUTFiQnRWOWpGTmxFZ3RJdGVDc285alB6aXBkdzJPRTNsUXlGNnU1U3FiZHVmVy12S1Y1RWVpQ3c1SVRn?oc=5",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
       "date": "2026-05-22"
     },
     {
@@ -172,15 +166,21 @@
       "date": "2026-05-18"
     },
     {
-      "title": "Minnesota legislative session ends with no House vote on gun reform bill",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFDMTFBdmg3YWNTMUVDM3ZUVkMyamFXenVyaHdwbkdhZm8yN2V5dzRpNXVtTnBHU09tQWhLS1NianROZTVReHc0Z0VQSnB2eG11VjJZeUhHblZwNWltX2ZZdlZEdTB6TEtJTmpuSnNicWY4d2ZfUjBoUzZ2bUFpX01kckV0ZGQzak1R0gGQAUFVX3lxTE5wMUZVVVNBX3BEdEZ0SGFpQ0tXejBOYWFtdGZxUGNXV0haaXRlVXplanBKSWtaYUVmbHA4eDdpc2V4WWNaTHVxV0ZGVmVvb01GcEt1R2ZrTk14bmNFLW1ZREpaU0NmTEtHTE5CZnR6SzhlVVNTdFd5NjZDT3VWQzlLMXR2RS04M19VeER2c21UUw?oc=5",
+      "title": "Takeaways from the 2026 Minnesota legislative session",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXdwTWN0UjVPeTFiNWxGZGdKM0FscGVkXzlONndTUU9MU2RTR29JYldydGgwUFYzV2N2NWZkQ0lZQnpyckFFeDhTOFVQdWN1X25tSVNEVmpJaHdydUw4UG52NWJwbkxvcDlLNjZveWNzaHUwLXBQTldHVnNqd3NSZWRsamowRllUemdPdGdMMm5CM2thSFl6eFU1TQ?oc=5",
       "date": "2026-05-18"
     },
     {
       "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
       "source": "5 EYEWITNESS NEWS",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "With 2026 Minnesota legislative session over, focus turns to balance of power in November elections",
+      "source": "kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1VtVHIxcGJvcHVGVk1nTjhELTZFU2FkYkdSNDBGcWluVjREQ1lQRUQxb1EwUGlaUElha19fdGZDS0FpRWFKV0F4Rkhwd3ZBb0N6U3dPalplTlRyZmEzQlhQTUo1M1NXMWpucTFubUFHZ1B5b1dLVlNxOEJTbmhob21nNnlqcUY3QlhMUjltZlJfUzU5ZjdRajkzNFBhRVBhQjA1VENUeFVkUHJLbXNBS1FJM2phbXhlSV9IcjBmbGE2WEpyZWdrUHpLUnZuaVR4emxabnhpSjNCZ1JQSUR4T1BDZzd4ZmVSalNBeTVYaEJVVlJrTUkzRmFJLVN0SllpRjlJRzQ0WEplRWJ5?oc=5",
       "date": "2026-05-18"
     }
   ]
