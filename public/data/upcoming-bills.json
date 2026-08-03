@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-02T18:47:49.784Z",
+  "generated": "2026-08-03T01:22:57.311Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -8,12 +8,6 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
       "date": "2026-07-30"
-    },
-    {
-      "title": "Elon Musk's xAI sues to stop Minnesota law banning nudification technology",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFFYWluRWl3UXAtOXdhcy1EYUwtZjFTcWw0S0xKdGJPRmxxSDJObmpYQmE2OFVpMzJab21PQWEwa3dUUEJmSkpPamZONEhXdWVfNjZXWDd3Tl9CRFVKb3ZZYW4zWVpQanJoRFVrd0dlOENuclNwNnpIUWJiaFZxYkhYYmpIWnRjdF9STHhkZUNLVjFhdUI5YnBpNTA?oc=5",
-      "date": "2026-07-28"
     },
     {
       "title": "Elon Musk suing Minnesota over state law banning AI ‘nudification’",
@@ -25,6 +19,12 @@
       "title": "Minnesota cracks down on AI nudification",
       "source": "FOX 9 Minneapolis-St. Paul",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1VKM3RYTU9hYWdPY2ZMbUFSVmRmX1JCaGFCYmtucGZnY01NTzB2aWR5R2h6SHQ3UnEzUGRlMTBMWUtQa3pXVEMyanp2NjktTFdsLTJSLW54ZVB1ZW94bU1HbHkzbU9wTEpwb3F6cXNjVEozZ1BibTZOY3JDeDNpVWdGSl9xSVo4cW5KcUFtRkZ5bi1Rd1JqWtIBngFBVV95cUxNUTIyUWhBaU1odjdzZXltb2RJVU5rR0xfRUZRZ09OdDJMa1pzY3VEVXEwR3VMX2xuV0xqcnRtUVNWX3NYdjB0Y2JOWGVmQTRLUjl2bndnR2xYZHJkQ1B4YUtiWVFLcU9ZdHhFUHJZUkFEVFNuanBtWUY3MW44QVR3SlVmam1CNkhMdWQ0MV9KNVozQW12cnR3ZF8wUHFMQQ?oc=5",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Rep. Jess Hanson blasts Elon Musk’s challenge of Minnesota’s AI nudification ban",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kdVlhQXNhYTRyMEVHQlB4OEtMYVAwOS14VDBjQzJFaU5KRkp1RlRpdVd2THlJUnJDSzVJUXlkV2QzUXNhMUZyQzQ0a3FJNWhjTUt0d1NuMlVUTE9pV0dKelAtSG9PQXd2?oc=5",
       "date": "2026-07-28"
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "title": "Middle Aisle: ‘Low expectations’ session delivered more than expected for Minnesotans",
-      "source": "minnpost.com",
+      "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRktFMTByVHN6RVNVYklNY0pDNnczQ0FLdGhPTV9IT1JiS0I1S0xVelNsc2dhbWx2a1E2T0dlMUZfd1FuOE9qcktsblRvZ2NETE00blUwRWk1WENMZldwaElNcTdCR2dDTHlzT3dXMmliOFZTTDU5ZmRVRERycnJ4cTY2X2d5TWJnbVNLMFFlalhGakktdk5aQkl1UDVLb3pXbk5lNmd2cE1RdHNpRTR1ZDNCX1Fhd29CRV9la2hhWWxyemUzUlp5czF5ODRsbDROa0tWazA3M0Fqc2tLakE?oc=5",
       "date": "2026-05-26"
     },
@@ -107,7 +107,7 @@
     },
     {
       "title": "The 2026 legislative session in photos",
-      "source": "minnpost.com",
+      "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjRRblUya05mWVlhbVdKSlU5bWlzVjl6WWpUVk9QdnUtSzJrMXlEcjV2QWJoMjZNbXNpQU9OTm1fTkl3RzFCV2tObXVtdXduRW9OYVU3RmJNazlMOTVHbTdQNnE5by1KLVV4WTIxUURuNDNZRU1QTzdqbjVUVDNQd2NFWEU2d29iVnJKdnZnMHhPRTJOX3I1OUVKci1YSTdFVkgydXNwamVpSnBEVzdBRGxkdWlieEhsYkJjeFNWV0E1U052UVkxRy0xSnFqbndrYmdNOUxn?oc=5",
       "date": "2026-05-20"
     },
@@ -119,7 +119,7 @@
     },
     {
       "title": "What the Minnesota Legislature accomplished in its final hours",
-      "source": "minnpost.com",
+      "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNGpsNFFXMGFPRnc4WEdJRWE3cnhtQW51YXdJZWpIbllFWGJSVU4tY2JTNW1WOXBHd3BtUG9GSUNMWVJXY1ZGLVVUSmtzTmJsaVZUc2FUZExZbmxNUWgyWXh1MkRCVXV3WHI1YjRuSnJtdWJleFRCbmU2dDZ1a3E1WXI2TmJPUEcwNDhUTEdjV2s0QnBoeFQ0dWs0T003Vk12eDNKOFFTQXBOZzJXQXljelltek1CRkEtZ1RFVE54UUFIdnJEWS1Sajh2QXZiY2ctRDJWU2h5aW9XMHdiQWxvNjk2Uzd4NFJ4R29XUndjUXVXU2pwV1NlWEwzTWYwZWFoZVdwemxYcVk1bFJKb0t5U0JkaHF4bWtKckFlZjFSTmV4TVRLcXlRcldFVQ?oc=5",
       "date": "2026-05-18"
     },
@@ -136,12 +136,6 @@
       "date": "2026-05-18"
     },
     {
-      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
       "title": "Minnesota lawmakers OK license tab cut, HCMC fix, construction project package in final flurry",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSllGQ0FYM3JZZnRuby1CTkJ5Q3JxYnlaR193ZzJHZ1BncnY4UGRrTzhzVkVHVVBXMERmOHlNeXUwVUluaFM3ZHRLTzVpLURfSVhZcm5aWkswQ2JnZXJpVXBJTkllZEg5RmVCZEVWYmRsdC1BTERNTHBHR09zTURtVnRwVUsxQ1F1MEpSaWlLS21GbUxmbWtBSjJzSFBlT0VqWEhBUHhsYVJVVFVZRXBtUGZSRUZ5V1ViQ25YYQ?oc=5",
@@ -155,7 +149,7 @@
     },
     {
       "title": "Breaking down the bonding bill: Legislature approves $1.2 billion to fund infrastructure projects",
-      "source": "minnpost.com",
+      "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0JDbkVqUmY4dkNwV0ZxNmJPLWRQNl9rSWdrYmlGenVES0t4VnBydlZCc3ZRaDltRGMwN3pqdVNrZEFpaW9sNUdYNHhpSTBhLUlRQWE5Q2hhQVlhOXIwbDZodGVPTkQzWWI3bXJSUjNOVVhON3dQQlVrTWdtRVROVUhQYzVlWTluRllSVkJMWWhsSGZ4dnF3NTlJTTdhYmtDNURYMi1mS0dWRTdRd0FQRzc0OWJyVkR0V0hpeXVwV1VvRXVvZmt5ek1ZMW5VcDNHd1BhTVY3X21RczljT3Vz?oc=5",
       "date": "2026-05-18"
     },
@@ -163,6 +157,12 @@
       "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
       "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Minnesota legislative session ends with no House vote on gun reform bill",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFDMTFBdmg3YWNTMUVDM3ZUVkMyamFXenVyaHdwbkdhZm8yN2V5dzRpNXVtTnBHU09tQWhLS1NianROZTVReHc0Z0VQSnB2eG11VjJZeUhHblZwNWltX2ZZdlZEdTB6TEtJTmpuSnNicWY4d2ZfUjBoUzZ2bUFpX01kckV0ZGQzak1R0gGQAUFVX3lxTE5wMUZVVVNBX3BEdEZ0SGFpQ0tXejBOYWFtdGZxUGNXV0haaXRlVXplanBKSWtaYUVmbHA4eDdpc2V4WWNaTHVxV0ZGVmVvb01GcEt1R2ZrTk14bmNFLW1ZREpaU0NmTEtHTE5CZnR6SzhlVVNTdFd5NjZDT3VWQzlLMXR2RS04M19VeER2c21UUw?oc=5",
       "date": "2026-05-18"
     },
     {
