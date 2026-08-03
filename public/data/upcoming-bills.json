@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-03T01:22:57.311Z",
+  "generated": "2026-08-03T08:55:02.635Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -11,7 +11,7 @@
     },
     {
       "title": "Elon Musk suing Minnesota over state law banning AI ‘nudification’",
-      "source": "5 EYEWITNESS NEWS",
+      "source": "kstp.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3REdDExc0ZZWWlod1Q2TTJUZTFwMjA1WlJkNDQ4QldBXzhtQUsyUnVzVTJJOTlxMjBjNTduUG9ZMnFPU1l4VU9kU1Y1NXRfVFAyLVZTMUM0X2dGWXNQRXdQdlJEU0VEZW9NWm1pWmdzNDdDa28xMWlsLVF6X0U4UFZmUDVkQWRMVVE3X1Znbmx6RW1oNlFSOFJ5WVRZZmVveFZB?oc=5",
       "date": "2026-07-28"
     },
@@ -61,12 +61,6 @@
       "title": "New Minnesota law makes sexual grooming of children a felony",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHV3NnBodUl4MHFneGN5dW5EeXhzMW9yOVY1N1c4MThIRVZxVkVEbHp2WHEwd05vaXRwMlhjYkQwcERNZzEzR0p0OTZZMVFRMzV0amVvT1hpYmFvTGlXNGhpbllTQ1NYdzlCeEJRZU5Tdk9seDRETlM2Z3FFcFNFQU1RZF85NzFiTkl5Vl91WWhFSkgwR1I1dDM5WUhmTll1b3pN?oc=5",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Here’s how a new law will change Minnesota’s cannabis and hemp industries",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rWnIydDMxUDZvUUltNjgzVmtkeWpCaVBvNmR3cWlxLTNSZzdaS3dTYjdKZXhYRFNCa0JfNTM5R2lHdDVCTm9LWHdhX3VOQzlNWGQ3YUJNcnBOUGxuRXdoaS1jSTBXT19PekxuUDZUT0VxTWxxeXJBN242NlA?oc=5",
       "date": "2026-05-28"
     },
     {
@@ -173,7 +167,7 @@
     },
     {
       "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
-      "source": "5 EYEWITNESS NEWS",
+      "source": "kstp.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
       "date": "2026-05-18"
     },
@@ -181,6 +175,12 @@
       "title": "With 2026 Minnesota legislative session over, focus turns to balance of power in November elections",
       "source": "kare11.com",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1VtVHIxcGJvcHVGVk1nTjhELTZFU2FkYkdSNDBGcWluVjREQ1lQRUQxb1EwUGlaUElha19fdGZDS0FpRWFKV0F4Rkhwd3ZBb0N6U3dPalplTlRyZmEzQlhQTUo1M1NXMWpucTFubUFHZ1B5b1dLVlNxOEJTbmhob21nNnlqcUY3QlhMUjltZlJfUzU5ZjdRajkzNFBhRVBhQjA1VENUeFVkUHJLbXNBS1FJM2phbXhlSV9IcjBmbGE2WEpyZWdrUHpLUnZuaVR4emxabnhpSjNCZ1JQSUR4T1BDZzd4ZmVSalNBeTVYaEJVVlJrTUkzRmFJLVN0SllpRjlJRzQ0WEplRWJ5?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "2026 Minnesota Legislative Session Adjourns",
+      "source": "KNSI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEt3Um52d0hpckZpRVNTR3FGTWJtQ0VmU3BuSHVhUWlXTGhiaktLMHluQTJYNlUyUjlmOWZvdTVSRlZDZld4Qkx5MVJBb3RjbncxYU1Rb1BwczBxcDBPUDNEeHFmaFR0dm1nTl92N3ozeVJkM1pveWZVam1mNmdDTmU0bw?oc=5",
       "date": "2026-05-18"
     }
   ]
