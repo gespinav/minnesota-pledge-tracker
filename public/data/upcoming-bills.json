@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T08:17:32.489Z",
+  "generated": "2026-08-04T13:30:10.926Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -148,12 +148,6 @@
       "date": "2026-05-18"
     },
     {
-      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
-      "date": "2026-05-18"
-    },
-    {
       "title": "Minnesota lawmakers manage to pass major bills just before end of legislative session",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91aDM0ekNBcGItN2VETUx2YjdPT0l4QXlCeW1GbWlXWHhQUGZyMHBVTWhKSFpvOEJoY1FzYXcwdVV3Q1B0UVZ1ZjV3OTRhM3c4ZWRnUHV6YkU3Z1VucjFlUF91ZDQxYWJUMWpxbHJwd0hWWUM0UjdfclI2a2YxLVnSAYQBQVVfeXFMTUs0OUZ5N2g2R29iWHNGZEVfMy00M3hLXzM1Y1VjT1ZUUk40M1JHOU81LWstS29HWEFQb3NMLWM1TzdmV2JNRERQU255THJmUlJqTElMWDlkZmFGd0tPWjUxcGNkSURlR2xTRjVxMXJtajcyUWJBcXhzMTFFUnV0RUwtbE5L?oc=5",
@@ -163,6 +157,12 @@
       "title": "Breaking down the bonding bill: Legislature approves $1.2 billion to fund infrastructure projects",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0JDbkVqUmY4dkNwV0ZxNmJPLWRQNl9rSWdrYmlGenVES0t4VnBydlZCc3ZRaDltRGMwN3pqdVNrZEFpaW9sNUdYNHhpSTBhLUlRQWE5Q2hhQVlhOXIwbDZodGVPTkQzWWI3bXJSUjNOVVhON3dQQlVrTWdtRVROVUhQYzVlWTluRllSVkJMWWhsSGZ4dnF3NTlJTTdhYmtDNURYMi1mS0dWRTdRd0FQRzc0OWJyVkR0V0hpeXVwV1VvRXVvZmt5ek1ZMW5VcDNHd1BhTVY3X21RczljT3Vz?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
+      "source": "KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
       "date": "2026-05-18"
     },
     {
