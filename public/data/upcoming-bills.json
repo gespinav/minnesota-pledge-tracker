@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T13:28:28.659Z",
+  "generated": "2026-08-05T19:08:12.396Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -10,27 +10,21 @@
       "date": "2026-08-03"
     },
     {
-      "title": "Minnesota, other states, will push for ICE protections",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
-      "date": "2026-07-30"
-    },
-    {
       "title": "Elon Musk suing Minnesota over state law banning AI ‘nudification’",
       "source": "5 EYEWITNESS NEWS",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3REdDExc0ZZWWlod1Q2TTJUZTFwMjA1WlJkNDQ4QldBXzhtQUsyUnVzVTJJOTlxMjBjNTduUG9ZMnFPU1l4VU9kU1Y1NXRfVFAyLVZTMUM0X2dGWXNQRXdQdlJEU0VEZW9NWm1pWmdzNDdDa28xMWlsLVF6X0U4UFZmUDVkQWRMVVE3X1Znbmx6RW1oNlFSOFJ5WVRZZmVveFZB?oc=5",
       "date": "2026-07-28"
     },
     {
-      "title": "Minnesota cracks down on AI nudification",
-      "source": "FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1VKM3RYTU9hYWdPY2ZMbUFSVmRmX1JCaGFCYmtucGZnY01NTzB2aWR5R2h6SHQ3UnEzUGRlMTBMWUtQa3pXVEMyanp2NjktTFdsLTJSLW54ZVB1ZW94bU1HbHkzbU9wTEpwb3F6cXNjVEozZ1BibTZOY3JDeDNpVWdGSl9xSVo4cW5KcUFtRkZ5bi1Rd1JqWtIBngFBVV95cUxNUTIyUWhBaU1odjdzZXltb2RJVU5rR0xfRUZRZ09OdDJMa1pzY3VEVXEwR3VMX2xuV0xqcnRtUVNWX3NYdjB0Y2JOWGVmQTRLUjl2bndnR2xYZHJkQ1B4YUtiWVFLcU9ZdHhFUHJZUkFEVFNuanBtWUY3MW44QVR3SlVmam1CNkhMdWQ0MV9KNVozQW12cnR3ZF8wUHFMQQ?oc=5",
-      "date": "2026-07-28"
-    },
-    {
       "title": "Rep. Jess Hanson blasts Elon Musk’s challenge of Minnesota’s AI nudification ban",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kdVlhQXNhYTRyMEVHQlB4OEtMYVAwOS14VDBjQzJFaU5KRkp1RlRpdVd2THlJUnJDSzVJUXlkV2QzUXNhMUZyQzQ0a3FJNWhjTUt0d1NuMlVUTE9pV0dKelAtSG9PQXd2?oc=5",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Minnesota cracks down on AI nudification",
+      "source": "FOX 9 Minneapolis-St. Paul",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1VKM3RYTU9hYWdPY2ZMbUFSVmRmX1JCaGFCYmtucGZnY01NTzB2aWR5R2h6SHQ3UnEzUGRlMTBMWUtQa3pXVEMyanp2NjktTFdsLTJSLW54ZVB1ZW94bU1HbHkzbU9wTEpwb3F6cXNjVEozZ1BibTZOY3JDeDNpVWdGSl9xSVo4cW5KcUFtRkZ5bi1Rd1JqWtIBngFBVV95cUxNUTIyUWhBaU1odjdzZXltb2RJVU5rR0xfRUZRZ09OdDJMa1pzY3VEVXEwR3VMX2xuV0xqcnRtUVNWX3NYdjB0Y2JOWGVmQTRLUjl2bndnR2xYZHJkQ1B4YUtiWVFLcU9ZdHhFUHJZUkFEVFNuanBtWUY3MW44QVR3SlVmam1CNkhMdWQ0MV9KNVozQW12cnR3ZF8wUHFMQQ?oc=5",
       "date": "2026-07-28"
     },
     {
@@ -44,12 +38,6 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CZkxvV3NIaFdNYm9ENnQ5emUxUWNTdHY5bU9TclFZU1pWMTF5ZUk4a25ta1dDT2ItNnVVM25TenVEUElIbXUyM2hXdWxfc2pvbGdPSkNheWRQQmJvaGZzQmp6M1Y3LUtVR2drUmNtNld1VXBSU2RF?oc=5",
       "date": "2026-07-15"
-    },
-    {
-      "title": "Minnesota begins distributing $40 million in rental assistance",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkhpQzdzNHNaa1U5TjVUQUVpc3ptbXZDOEtZTzlhcVhwbF9yRk1zQjJnODRWd3g5ZXc0RlNjdjh3NVRFNDBXUWg3eGc2NV8xeFQ1akpzY2p4aGlvZG1BQldfMzJ4OGt3WXJfUFlNNEVTRWF1V0NRcHVuc1hLanJ1NG02MXVQeUd2M1gxYlVMODlMcWR5LWRPZnZGdTdORGhE?oc=5",
-      "date": "2026-07-08"
     },
     {
       "title": "Rasmusson advances anti-fraud reforms in the 2026 session",
@@ -76,18 +64,6 @@
       "date": "2026-05-29"
     },
     {
-      "title": "New Minnesota law makes sexual grooming of children a felony",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHV3NnBodUl4MHFneGN5dW5EeXhzMW9yOVY1N1c4MThIRVZxVkVEbHp2WHEwd05vaXRwMlhjYkQwcERNZzEzR0p0OTZZMVFRMzV0amVvT1hpYmFvTGlXNGhpbllTQ1NYdzlCeEJRZU5Tdk9seDRETlM2Z3FFcFNFQU1RZF85NzFiTkl5Vl91WWhFSkgwR1I1dDM5WUhmTll1b3pN?oc=5",
-      "date": "2026-05-28"
-    },
-    {
-      "title": "Here’s how a new law will change Minnesota’s cannabis and hemp industries",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rWnIydDMxUDZvUUltNjgzVmtkeWpCaVBvNmR3cWlxLTNSZzdaS3dTYjdKZXhYRFNCa0JfNTM5R2lHdDVCTm9LWHdhX3VOQzlNWGQ3YUJNcnBOUGxuRXdoaS1jSTBXT19PekxuUDZUT0VxTWxxeXJBN242NlA?oc=5",
-      "date": "2026-05-28"
-    },
-    {
       "title": "Area Lawmakers Reflect on What Got Passed in 2026 MN Legislative Session",
       "source": "Lakeland PBS",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
@@ -104,12 +80,6 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRktFMTByVHN6RVNVYklNY0pDNnczQ0FLdGhPTV9IT1JiS0I1S0xVelNsc2dhbWx2a1E2T0dlMUZfd1FuOE9qcktsblRvZ2NETE00blUwRWk1WENMZldwaElNcTdCR2dDTHlzT3dXMmliOFZTTDU5ZmRVRERycnJ4cTY2X2d5TWJnbVNLMFFlalhGakktdk5aQkl1UDVLb3pXbk5lNmd2cE1RdHNpRTR1ZDNCX1Fhd29CRV9la2hhWWxyemUzUlp5czF5ODRsbDROa0tWazA3M0Fqc2tLakE?oc=5",
       "date": "2026-05-26"
-    },
-    {
-      "title": "School workers pass first goal post toward health insurance reform in final day of legislative session",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUJsUFU4WWFjV2VScEN3S2NUNHNVOVRQUTJmYm4zVWxFREc1dEYwVzVwVjlEMDIzUDQ0dTJ3bTZjaFJqU214cV9EWU9PNEpTVXJmMXA3LVlFd3ZqLXRjalM0cVN1OVFxd01MVE9UeGhYT3BSVFE5N0FTZ0dhcFdtTjliRHp3dTczTy1VamF3emZlZmlvUU4wc1F3SzZ2dm5oQktseHZlQ3l0OUVqZUhKUzVwMA?oc=5",
-      "date": "2026-05-24"
     },
     {
       "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
@@ -160,9 +130,9 @@
       "date": "2026-05-18"
     },
     {
-      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
+      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
       "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -181,6 +151,36 @@
       "title": "Minnesota lawmakers manage to pass major bills just before end of legislative session",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91aDM0ekNBcGItN2VETUx2YjdPT0l4QXlCeW1GbWlXWHhQUGZyMHBVTWhKSFpvOEJoY1FzYXcwdVV3Q1B0UVZ1ZjV3OTRhM3c4ZWRnUHV6YkU3Z1VucjFlUF91ZDQxYWJUMWpxbHJwd0hWWUM0UjdfclI2a2YxLVnSAYQBQVVfeXFMTUs0OUZ5N2g2R29iWHNGZEVfMy00M3hLXzM1Y1VjT1ZUUk40M1JHOU81LWstS29HWEFQb3NMLWM1TzdmV2JNRERQU255THJmUlJqTElMWDlkZmFGd0tPWjUxcGNkSURlR2xTRjVxMXJtajcyUWJBcXhzMTFFUnV0RUwtbE5L?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Minnesota legislative session ends with no House vote on gun reform bill",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFDMTFBdmg3YWNTMUVDM3ZUVkMyamFXenVyaHdwbkdhZm8yN2V5dzRpNXVtTnBHU09tQWhLS1NianROZTVReHc0Z0VQSnB2eG11VjJZeUhHblZwNWltX2ZZdlZEdTB6TEtJTmpuSnNicWY4d2ZfUjBoUzZ2bUFpX01kckV0ZGQzak1R0gGQAUFVX3lxTE5wMUZVVVNBX3BEdEZ0SGFpQ0tXejBOYWFtdGZxUGNXV0haaXRlVXplanBKSWtaYUVmbHA4eDdpc2V4WWNaTHVxV0ZGVmVvb01GcEt1R2ZrTk14bmNFLW1ZREpaU0NmTEtHTE5CZnR6SzhlVVNTdFd5NjZDT3VWQzlLMXR2RS04M19VeER2c21UUw?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
+      "source": "5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Takeaways from the 2026 Minnesota legislative session",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXdwTWN0UjVPeTFiNWxGZGdKM0FscGVkXzlONndTUU9MU2RTR29JYldydGgwUFYzV2N2NWZkQ0lZQnpyckFFeDhTOFVQdWN1X25tSVNEVmpJaHdydUw4UG52NWJwbkxvcDlLNjZveWNzaHUwLXBQTldHVnNqd3NSZWRsamowRllUemdPdGdMMm5CM2thSFl6eFU1TQ?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "With 2026 Minnesota legislative session over, focus turns to balance of power in November elections",
+      "source": "kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1VtVHIxcGJvcHVGVk1nTjhELTZFU2FkYkdSNDBGcWluVjREQ1lQRUQxb1EwUGlaUElha19fdGZDS0FpRWFKV0F4Rkhwd3ZBb0N6U3dPalplTlRyZmEzQlhQTUo1M1NXMWpucTFubUFHZ1B5b1dLVlNxOEJTbmhob21nNnlqcUY3QlhMUjltZlJfUzU5ZjdRajkzNFBhRVBhQjA1VENUeFVkUHJLbXNBS1FJM2phbXhlSV9IcjBmbGE2WEpyZWdrUHpLUnZuaVR4emxabnhpSjNCZ1JQSUR4T1BDZzd4ZmVSalNBeTVYaEJVVlJrTUkzRmFJLVN0SllpRjlJRzQ0WEplRWJ5?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "2026 Minnesota Legislative Session Adjourns",
+      "source": "KNSI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEt3Um52d0hpckZpRVNTR3FGTWJtQ0VmU3BuSHVhUWlXTGhiaktLMHluQTJYNlUyUjlmOWZvdTVSRlZDZld4Qkx5MVJBb3RjbncxYU1Rb1BwczBxcDBPUDNEeHFmaFR0dm1nTl92N3ozeVJkM1pveWZVam1mNmdDTmU0bw?oc=5",
       "date": "2026-05-18"
     }
   ]
