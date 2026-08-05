@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-04T19:14:47.360Z",
+  "generated": "2026-08-05T01:15:39.780Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -7,12 +7,6 @@
       "title": "Klobuchar gives low-dose THC industry some hope for a reprieve from coming prohibition",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDV5NUQxS25kazY2X3J2OFdwZVBpQWF4bEFGOWgzdk9iRHl5Uk5uZ3pQcjlla19aWm45NTlpeEVUWGZ5eTFXS0Jtd2RWeC1DRnNPX1pCdzFHNWNpZFJiMjY0S09zN28zOWZxLTJFZmRBanJfUnVUTTJRN0hYUVdiaUZuNDZQMHIzOU5JZk5aNGNsN1hEc2RXQW9ycElqXzNnUmgzLWlKUEVhMzFWekhsRC1oYkZFMW1KVmVBRWpCcExhUQ?oc=5",
-      "date": "2026-08-03"
-    },
-    {
-      "title": "US Senate throws Minnesota’s hemp-based THC industry a lifeline",
-      "source": "Post Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHdCS0dmRkRxb2R0ME5wUHBOSXAxcWtoLXpPN09xRUxmcTRHYW5oWFJUWHRoNGZBX0J3Z19hZ2tUb2paWXpTWURmQ0lKMnFxZFFNMzVtdDBUMFZpQWFKTENFVV9QTURHYXlSR21DSDVVWlVJZDZTQ1h6bW0zTWRHQUhld0JRSjhsTUt6dG9ZUXFWS2RHbXFhY3F5Nm8zMklmc1dLWnhaRlkyZw?oc=5",
       "date": "2026-08-03"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Breaking down the bonding bill: Legislature approves $1.2 billion to fund infrastructure projects",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0JDbkVqUmY4dkNwV0ZxNmJPLWRQNl9rSWdrYmlGenVES0t4VnBydlZCc3ZRaDltRGMwN3pqdVNrZEFpaW9sNUdYNHhpSTBhLUlRQWE5Q2hhQVlhOXIwbDZodGVPTkQzWWI3bXJSUjNOVVhON3dQQlVrTWdtRVROVUhQYzVlWTluRllSVkJMWWhsSGZ4dnF3NTlJTTdhYmtDNURYMi1mS0dWRTdRd0FQRzc0OWJyVkR0V0hpeXVwV1VvRXVvZmt5ek1ZMW5VcDNHd1BhTVY3X21RczljT3Vz?oc=5",
       "date": "2026-05-18"
     }
   ]
