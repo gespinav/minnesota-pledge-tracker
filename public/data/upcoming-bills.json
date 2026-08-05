@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-05T01:15:39.780Z",
+  "generated": "2026-08-05T08:11:06.558Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -7,6 +7,12 @@
       "title": "Klobuchar gives low-dose THC industry some hope for a reprieve from coming prohibition",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDV5NUQxS25kazY2X3J2OFdwZVBpQWF4bEFGOWgzdk9iRHl5Uk5uZ3pQcjlla19aWm45NTlpeEVUWGZ5eTFXS0Jtd2RWeC1DRnNPX1pCdzFHNWNpZFJiMjY0S09zN28zOWZxLTJFZmRBanJfUnVUTTJRN0hYUVdiaUZuNDZQMHIzOU5JZk5aNGNsN1hEc2RXQW9ycElqXzNnUmgzLWlKUEVhMzFWekhsRC1oYkZFMW1KVmVBRWpCcExhUQ?oc=5",
+      "date": "2026-08-03"
+    },
+    {
+      "title": "US Senate throws Minnesota’s hemp-based THC industry a lifeline",
+      "source": "Post Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHdCS0dmRkRxb2R0ME5wUHBOSXAxcWtoLXpPN09xRUxmcTRHYW5oWFJUWHRoNGZBX0J3Z19hZ2tUb2paWXpTWURmQ0lKMnFxZFFNMzVtdDBUMFZpQWFKTENFVV9QTURHYXlSR21DSDVVWlVJZDZTQ1h6bW0zTWRHQUhld0JRSjhsTUt6dG9ZUXFWS2RHbXFhY3F5Nm8zMklmc1dLWnhaRlkyZw?oc=5",
       "date": "2026-08-03"
     },
     {
@@ -38,12 +44,6 @@
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
       "date": "2026-07-27"
-    },
-    {
-      "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZTbG05cGNTT092Z0Fjd3lOa0FkXzRGbmF4dTFuODd2a3pRdjQ5LVgzazRjZXJQdkx4RFc4N0FUOE5Za1pnTWVyclFFUHRSenF4ZTFpemRDakNRV1NJdXlCREl5QmJlVEVxRFRYc1dkT0VUWXd0S0hLOGthOTJWdWpIQnJuSnl6UzRjeDBvWUpBenQ5UjlIR1B1RXV3aHVLNUloNV8xNA?oc=5",
-      "date": "2026-07-24"
     },
     {
       "title": "Minnesota's \"Grandparents' Happy Hour\" bill signed into law",
@@ -103,6 +103,12 @@
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXowLVljSkRkYjNadk01SFQ2WFlfN3lQaVJwZkJPSEVtY2UwZHBWZ2kySkxKSkcxWFpQWW5ILVdZNC1IQVBYOHQ5MEpjeHRVV0dWVVRUR3hUR1RXMkhQM3F1RXZRaWV4UFhtZTlsUXUtMkJtbUNmRE03OUdSc3ppeERMSE5fRHFHSzlhMEx0NEJsMS1jLWJWeTZpU2lmdUUtTlpLR2JEZE11T1ZpQlE?oc=5",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Rep. Anquam Mahamoud - Legislative Update - End of 2026 Session",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ILXB3bUIzeGVWdEM4RmtXM3BxUHl5RElKRWdjM2NzRWVKdUFRZUNoWENIazJDcllDaDlmS1NHSkdWZ3ZTbFBua055cUdrVlNndTFMdWRlWVVCbEhLN0h0cXpPZmNubllP?oc=5",
       "date": "2026-05-26"
     },
     {
@@ -169,12 +175,6 @@
       "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
       "date": "2026-05-18"
     },
     {
