@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T00:41:20.668Z",
+  "generated": "2026-08-09T06:33:28.493Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -16,9 +16,9 @@
       "date": "2026-08-06"
     },
     {
-      "title": "With no special session in sight, northern Minnesota businesses wait on wildfire aid",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ka1JUVGc5TVNtR1JtSWNWZ2ZLXy01YXJCdGNjYUtObDJfWW56cmlPdGlDNjh3RDFycUhaaTZBbFpRQVE4bENJdTJRMXZUN21IX04xMkNTMGlPbl9UcThfaDZyOXlJb05GRUZSc2p1MzRQZEpCLUxlaV9fZw?oc=5",
+      "title": "Klobuchar bill to delay federal hemp THC ban in budget deal",
+      "source": "St. Cloud Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcW1JT0c1eFZzeV9GcHlqOXNleUh6NEprSGRLelJlamhRSVVlYW1CWDgtTG1mSllCM3dLZy1rV1huUkZFMWd2VFNEMF91TVhjQi1xcFlsQjZxemF4dTJuWEpyUjdjd2VEVVdGR28yc2NQRUVoTUFlSm5lZDQ2dXdJdHVMSnVJY1FRQnJNVmpUaUpXV1hReEhjNTNBTVpNN0dSazFrZUt1eEt1eC1Kc2RsVzRaMEg2VzhYTElnam1WZ241Rk4wazBwMm10aw?oc=5",
       "date": "2026-08-05"
     },
     {
@@ -100,6 +100,12 @@
       "date": "2026-05-20"
     },
     {
+      "title": "Minnesota’s legislative session left rural healthcare systems exposed",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
+      "date": "2026-05-20"
+    },
+    {
       "title": "Minnesota becomes first state to outlaw prediction markets, immediately sued by federal regulators",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHJoYzRyWEk4ZUZiWTRzRmZvaGdoNFhxTnRhRld5dk1idDRnM2dHM1d2Rm1ldWEzYTVOOWNtazd4QkNabXpRYWZjd1dVZThjOWpjcnVDeFdSUjFhb1dRLV8zSXptM1pfY0RLQzhIRVNRcDBEVGxQRmJydURWd194SGNqOW5uQUVhdGdmZC1XeEVLdks5MU9QMkFtUk9TNlVzdXRtSXFlN3EyOVZWQ0tsdjRBUk1sWjNNRHhndE5XdU1GUnhnRG1Dc2pQbVRkM0xKdTFZOGRn?oc=5",
@@ -175,12 +181,6 @@
       "title": "Takeaways from the 2026 Minnesota legislative session",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXdwTWN0UjVPeTFiNWxGZGdKM0FscGVkXzlONndTUU9MU2RTR29JYldydGgwUFYzV2N2NWZkQ0lZQnpyckFFeDhTOFVQdWN1X25tSVNEVmpJaHdydUw4UG52NWJwbkxvcDlLNjZveWNzaHUwLXBQTldHVnNqd3NSZWRsamowRllUemdPdGdMMm5CM2thSFl6eFU1TQ?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
       "date": "2026-05-18"
     }
   ]
