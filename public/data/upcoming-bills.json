@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T18:19:57.614Z",
+  "generated": "2026-08-10T00:43:08.110Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -11,7 +11,7 @@
     },
     {
       "title": "Klobuchar-led Democrats defeat latest farm bill proposal over SNAP cost shift",
-      "source": "Star Tribune",
+      "source": "startribune.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2hHRW9vbUtoc2RpdDdVUm9PeE5ONUUxSnQtQVZmZWIxZHA4ZDh6Smc0b1pBSjc2ODRSMWlqYlJyOWd1VVI3eWp3b0kyUEFydVJ4T3JHS19Ga2IwVUFGWnZaamRJLW5rb05hLXF6Z0d4WU5lQkI2VHU0MFYxQTdnanFDRW9JMmpLN0h1aVdhQWxNY25zek5jaUJCdmJjWDdfNDlYYUI2ZE1KWTU1UmVVa3duY1dqMmJMcEN4ag?oc=5",
       "date": "2026-08-06"
     },
@@ -22,9 +22,9 @@
       "date": "2026-08-06"
     },
     {
-      "title": "With no special session in sight, northern Minnesota businesses wait on wildfire aid",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ka1JUVGc5TVNtR1JtSWNWZ2ZLXy01YXJCdGNjYUtObDJfWW56cmlPdGlDNjh3RDFycUhaaTZBbFpRQVE4bENJdTJRMXZUN21IX04xMkNTMGlPbl9UcThfaDZyOXlJb05GRUZSc2p1MzRQZEpCLUxlaV9fZw?oc=5",
+      "title": "Klobuchar bill to delay federal hemp THC ban in budget deal",
+      "source": "St. Cloud Times",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcW1JT0c1eFZzeV9GcHlqOXNleUh6NEprSGRLelJlamhRSVVlYW1CWDgtTG1mSllCM3dLZy1rV1huUkZFMWd2VFNEMF91TVhjQi1xcFlsQjZxemF4dTJuWEpyUjdjd2VEVVdGR28yc2NQRUVoTUFlSm5lZDQ2dXdJdHVMSnVJY1FRQnJNVmpUaUpXV1hReEhjNTNBTVpNN0dSazFrZUt1eEt1eC1Kc2RsVzRaMEg2VzhYTElnam1WZ241Rk4wazBwMm10aw?oc=5",
       "date": "2026-08-05"
     },
     {
@@ -32,12 +32,6 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
       "date": "2026-07-30"
-    },
-    {
-      "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
-      "date": "2026-07-27"
     },
     {
       "title": "Minnesota's \"Grandparents' Happy Hour\" bill signed into law",
@@ -68,12 +62,6 @@
       "source": "Lakeland PBS",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
       "date": "2026-05-28"
-    },
-    {
-      "title": "Walz signs bill enacting social media guardrails for Minnesota children",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXowLVljSkRkYjNadk01SFQ2WFlfN3lQaVJwZkJPSEVtY2UwZHBWZ2kySkxKSkcxWFpQWW5ILVdZNC1IQVBYOHQ5MEpjeHRVV0dWVVRUR3hUR1RXMkhQM3F1RXZRaWV4UFhtZTlsUXUtMkJtbUNmRE03OUdSc3ppeERMSE5fRHFHSzlhMEx0NEJsMS1jLWJWeTZpU2lmdUUtTlpLR2JEZE11T1ZpQlE?oc=5",
-      "date": "2026-05-26"
     },
     {
       "title": "School workers pass first goal post toward health insurance reform in final day of legislative session",
@@ -110,12 +98,6 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
       "date": "2026-05-20"
-    },
-    {
-      "title": "Minnesota becomes first state to outlaw prediction markets, immediately sued by federal regulators",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHJoYzRyWEk4ZUZiWTRzRmZvaGdoNFhxTnRhRld5dk1idDRnM2dHM1d2Rm1ldWEzYTVOOWNtazd4QkNabXpRYWZjd1dVZThjOWpjcnVDeFdSUjFhb1dRLV8zSXptM1pfY0RLQzhIRVNRcDBEVGxQRmJydURWd194SGNqOW5uQUVhdGdmZC1XeEVLdks5MU9QMkFtUk9TNlVzdXRtSXFlN3EyOVZWQ0tsdjRBUk1sWjNNRHhndE5XdU1GUnhnRG1Dc2pQbVRkM0xKdTFZOGRn?oc=5",
-      "date": "2026-05-19"
     },
     {
       "title": "Who’s retiring from the Minnesota legislature?",
@@ -181,6 +163,24 @@
       "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
       "source": "5 EYEWITNESS NEWS",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "With 2026 Minnesota legislative session over, focus turns to balance of power in November elections",
+      "source": "kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1VtVHIxcGJvcHVGVk1nTjhELTZFU2FkYkdSNDBGcWluVjREQ1lQRUQxb1EwUGlaUElha19fdGZDS0FpRWFKV0F4Rkhwd3ZBb0N6U3dPalplTlRyZmEzQlhQTUo1M1NXMWpucTFubUFHZ1B5b1dLVlNxOEJTbmhob21nNnlqcUY3QlhMUjltZlJfUzU5ZjdRajkzNFBhRVBhQjA1VENUeFVkUHJLbXNBS1FJM2phbXhlSV9IcjBmbGE2WEpyZWdrUHpLUnZuaVR4emxabnhpSjNCZ1JQSUR4T1BDZzd4ZmVSalNBeTVYaEJVVlJrTUkzRmFJLVN0SllpRjlJRzQ0WEplRWJ5?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "2026 Minnesota Legislative Session Adjourns",
+      "source": "KNSI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVEt3Um52d0hpckZpRVNTR3FGTWJtQ0VmU3BuSHVhUWlXTGhiaktLMHluQTJYNlUyUjlmOWZvdTVSRlZDZld4Qkx5MVJBb3RjbncxYU1Rb1BwczBxcDBPUDNEeHFmaFR0dm1nTl92N3ozeVJkM1pveWZVam1mNmdDTmU0bw?oc=5",
       "date": "2026-05-18"
     }
   ]
