@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-23T18:10:12.219Z",
+  "generated": "2026-08-24T00:28:39.905Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Appeals Court gives Minnesota group leeway to discourage voting by nonincarcerated felons",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
+      "date": "2026-08-20"
+    },
     {
       "title": "Klobuchar Statement on Farm Bill Vote",
       "source": "Senate Committee On Agriculture, Nutrition & Forestry (.gov)",
@@ -169,12 +175,6 @@
       "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Minnesota lawmakers OK license tab cut, HCMC fix, construction project package in final flurry",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSllGQ0FYM3JZZnRuby1CTkJ5Q3JxYnlaR193ZzJHZ1BncnY4UGRrTzhzVkVHVVBXMERmOHlNeXUwVUluaFM3ZHRLTzVpLURfSVhZcm5aWkswQ2JnZXJpVXBJTkllZEg5RmVCZEVWYmRsdC1BTERNTHBHR09zTURtVnRwVUsxQ1F1MEpSaWlLS21GbUxmbWtBSjJzSFBlT0VqWEhBUHhsYVJVVFVZRXBtUGZSRUZ5V1ViQ25YYQ?oc=5",
       "date": "2026-05-18"
     },
     {
