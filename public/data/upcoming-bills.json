@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-28T01:48:47.570Z",
+  "generated": "2026-08-28T17:45:39.212Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -50,6 +50,12 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CZkxvV3NIaFdNYm9ENnQ5emUxUWNTdHY5bU9TclFZU1pWMTF5ZUk4a25ta1dDT2ItNnVVM25TenVEUElIbXUyM2hXdWxfc2pvbGdPSkNheWRQQmJvaGZzQmp6M1Y3LUtVR2drUmNtNld1VXBSU2RF?oc=5",
       "date": "2026-07-15"
+    },
+    {
+      "title": "Here are the Minnesota laws that go into effect on July 1",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25HSll3SDdrYTZrc0xiZVZVYzl3LW1rZEl5My1IcUFGcmhTSmpvLW1jd244WG1lcEJRdC04RHZvNFJyTi1tZ3A0RTh6MXFkdmVWMVVsYTRQNW4wYkwtRXlVM0R4bGp2N0ZOeVpFYU5mTDhOdXFfWWRRTUw3THA1eFJLcXZfa3NFWWpxTTlBRGE?oc=5",
+      "date": "2026-06-30"
     },
     {
       "title": "Rasmusson advances anti-fraud reforms in the 2026 session",
@@ -124,12 +130,6 @@
       "date": "2026-05-20"
     },
     {
-      "title": "Who’s retiring from the Minnesota legislature?",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
-      "date": "2026-05-19"
-    },
-    {
       "title": "What the Minnesota Legislature accomplished in its final hours",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNNGpsNFFXMGFPRnc4WEdJRWE3cnhtQW51YXdJZWpIbllFWGJSVU4tY2JTNW1WOXBHd3BtUG9GSUNMWVJXY1ZGLVVUSmtzTmJsaVZUc2FUZExZbmxNUWgyWXh1MkRCVXV3WHI1YjRuSnJtdWJleFRCbmU2dDZ1a3E1WXI2TmJPUEcwNDhUTEdjV2s0QnBoeFQ0dWs0T003Vk12eDNKOFFTQXBOZzJXQXljelltek1CRkEtZ1RFVE54UUFIdnJEWS1Sajh2QXZiY2ctRDJWU2h5aW9XMHdiQWxvNjk2Uzd4NFJ4R29XUndjUXVXU2pwV1NlWEwzTWYwZWFoZVdwemxYcVk1bFJKb0t5U0JkaHF4bWtKckFlZjFSTmV4TVRLcXlRcldFVQ?oc=5",
@@ -160,9 +160,9 @@
       "date": "2026-05-18"
     },
     {
-      "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
-      "source": "5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
+      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -172,9 +172,9 @@
       "date": "2026-05-18"
     },
     {
-      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
+      "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
+      "source": "5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
       "date": "2026-05-18"
     },
     {
