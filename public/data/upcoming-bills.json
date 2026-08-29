@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T15:48:01.561Z",
+  "generated": "2026-08-29T20:03:02.187Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -10,6 +10,12 @@
       "date": "2026-08-21"
     },
     {
+      "title": "Minnesota Secretary of State defends vouching law amid voting impersonation stunt",
+      "source": "5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLU0tcjB0YXktM0NVdVVIUjNKWmp6d0Y5cU9rNkF2MnNqTmJxTDZFRl9MSnZtdXpCbWNUOGI5SDBnOUdRWFE2ZGxFUEZnMW9ZVkJ1UUlTYlhIX2ZXRFN3UnJKd0Y4aVJqa2xuOWtMSFA5LXk1MS1jVC1UUU5lUXRJemRoc2RvZkxKYzI3UVl2aVp6dnRWdTVLZW56LUxTMS1kYjh2UmF0RGI5a1FVRHhVZ21reUdxanF4?oc=5",
+      "date": "2026-08-18"
+    },
+    {
       "title": "Klobuchar Statement on Farm Bill Vote",
       "source": "Senate Committee On Agriculture, Nutrition & Forestry (.gov)",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDhiZlFpR1ZnX3BFUW1sck81TVNKRkxzbGNZNUdlQWlpdlRuV1ZNYm0xRjFNZUtZeEYxWi1FUUZaS3JHeFZ0czNrUjd1QWxRa2RPd0pad3I2Qm1LeTVWZmx2NjdoUjlkTWhqZ3V4M2tuQlNBcTNhc0VTS08tN0UycTVwSGxudUMzOVRQVmxQcDdMdjBCbWhDSEo0YzZIWjBW?oc=5",
@@ -17,7 +23,7 @@
     },
     {
       "title": "Minnesota school funding amendment headed to November ballot",
-      "source": "KTTC",
+      "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEYxWlM2amd3Y2hpd29KTHdjaEw0Y0hxOTV2eHdZUXJJZDF0XzJ3eXY4ck5DNUhsWmVWM01YRVJ4bzFRZllkcUZfX2NnSUlWeWh4NVUwcnpkak91NXZTTlo2OTREU3ZnT3ZUbHVicG1WNWVvZXJYTDhxbG9vU1JzczJVT1g2NURFVFRnUDN5cVVSNkZm0gGoAUFVX3lxTE8tWG9JV2pHbUFxd21CTWJzVU5kOFRYMVIyelFiMnZlUnlXQS1Md0hOQWRzVVVESk1iQWxzZ0w0Mm5uMVpjOGdsNHg4TXRsYTZkNGZGa01yNGE1Qm1FV2tSb1RpTThqUjA2aGxfYkVGRmlpc0pyOFhndVJBNG9zemozcDQyZ2kwVXkybHhhb0pOWWxrSEZPcU1YelZlX0lzSS1BVEJTMmxJRw?oc=5",
       "date": "2026-08-02"
     },
@@ -131,7 +137,7 @@
     },
     {
       "title": "Who’s retiring from the Minnesota legislature?",
-      "source": "KTTC",
+      "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
       "date": "2026-05-19"
     },
@@ -167,7 +173,7 @@
     },
     {
       "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
-      "source": "KTTC",
+      "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
       "date": "2026-05-18"
     },
@@ -175,12 +181,6 @@
       "title": "Minnesota legislative session ends with no House vote on gun reform bill",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFDMTFBdmg3YWNTMUVDM3ZUVkMyamFXenVyaHdwbkdhZm8yN2V5dzRpNXVtTnBHU09tQWhLS1NianROZTVReHc0Z0VQSnB2eG11VjJZeUhHblZwNWltX2ZZdlZEdTB6TEtJTmpuSnNicWY4d2ZfUjBoUzZ2bUFpX01kckV0ZGQzak1R0gGQAUFVX3lxTE5wMUZVVVNBX3BEdEZ0SGFpQ0tXejBOYWFtdGZxUGNXV0haaXRlVXplanBKSWtaYUVmbHA4eDdpc2V4WWNaTHVxV0ZGVmVvb01GcEt1R2ZrTk14bmNFLW1ZREpaU0NmTEtHTE5CZnR6SzhlVVNTdFd5NjZDT3VWQzlLMXR2RS04M19VeER2c21UUw?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Breaking down the bonding bill: Legislature approves $1.2 billion to fund infrastructure projects",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPR0JDbkVqUmY4dkNwV0ZxNmJPLWRQNl9rSWdrYmlGenVES0t4VnBydlZCc3ZRaDltRGMwN3pqdVNrZEFpaW9sNUdYNHhpSTBhLUlRQWE5Q2hhQVlhOXIwbDZodGVPTkQzWWI3bXJSUjNOVVhON3dQQlVrTWdtRVROVUhQYzVlWTluRllSVkJMWWhsSGZ4dnF3NTlJTTdhYmtDNURYMi1mS0dWRTdRd0FQRzc0OWJyVkR0V0hpeXVwV1VvRXVvZmt5ek1ZMW5VcDNHd1BhTVY3X21RczljT3Vz?oc=5",
       "date": "2026-05-18"
     }
   ]
