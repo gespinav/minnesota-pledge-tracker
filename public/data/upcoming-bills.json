@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T19:36:46.092Z",
+  "generated": "2026-09-06T01:28:10.713Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -8,12 +8,6 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
       "date": "2026-08-20"
-    },
-    {
-      "title": "Lindell recount request tied to Minnesota law on discretionary recounts",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0ZncnpfQmRkdGlBTF9RaGhVY2tjTU43UnJSTDBUU3RXcjFQaGNwNDh6RDZtU0M0ME5lUmhCX3ItN29KMmFSU2ZsZjh6V0hPQ3c5X3hWVVB4ck01eGpjRFF0WDRCa2t6UXVVZFJPWFl1RUVDRTlyUDZpbWlYbnY3ZlZTTXZvR0VNSHJMNnBEMTc1c3lydjhtd3FUaFRSRXPSAbMBQVVfeXFMTjNiVzE1andsbXdSTnBnVmtmOHZoQmFhdW84VzQtaFpVbGFSQ2k3enFlUVlyNmltaFFxYVdLTzl4Ym5IaEE5T2dlbzM1Q1NPZWxROVVxdVhXdmdXWFdRNGRkOVJVb2NuckRUQk9HeGQ5MkJkZmV5ejE1STFrSHhwcVd3bEhTdmNiMXdpTTI3V1ZIMlhQLVNlZzBKczBfcTdublVVQW40djYyakN3UTFhN2RPT0E?oc=5",
-      "date": "2026-08-19"
     },
     {
       "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
@@ -40,12 +34,6 @@
       "date": "2026-07-30"
     },
     {
-      "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
-      "date": "2026-07-27"
-    },
-    {
       "title": "Legislature missed a chance to regulate toxic phthalates",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0VHOWh4anA0QmtJNHd4V0UyQW9XSE8ySWI5RTBfT1BWYW55c00zakp2Z1VzT1RGemlaeHVfYVpoZTJ1eTlENUNIb1ZkVGlkWUd4TGxXZXRpNEIzeG1qYURyb19ZS09iMGY5UEc3R3BtbWppaERHcVdDOHpWSXBqZkRYMUhJX1VsQXZtVFRRcVFHejJhR1F1QXJEWWFIZ0syeENLRkFaZlMyQ3c?oc=5",
@@ -64,34 +52,28 @@
       "date": "2026-07-15"
     },
     {
+      "title": "Here are the Minnesota laws that go into effect on July 1",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25HSll3SDdrYTZrc0xiZVZVYzl3LW1rZEl5My1IcUFGcmhTSmpvLW1jd244WG1lcEJRdC04RHZvNFJyTi1tZ3A0RTh6MXFkdmVWMVVsYTRQNW4wYkwtRXlVM0R4bGp2N0ZOeVpFYU5mTDhOdXFfWWRRTUw3THA1eFJLcXZfa3NFWWpxTTlBRGE?oc=5",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Minnesota’s missed opportunity on AI worker protections",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUhFLS0xNUVKNGx0bURpenFBSW44d3VKdkhNU2Z2cFVObWNoZXQ1dlJKUGcyUTkyRV92QWFPb1JtM3d4QmdwTzEzcVAycVozaFFfNWRWRDdkT0J6NUVld1EzX19fd1A2d1JJRmFmWkd5ZktObnAyTmx6MXZlR2VNSG1nYVF4Zm1XcHVvUVFzVzdtdE9RWTFvNG56NmNfck9BSEZWRUtKVXQ?oc=5",
+      "date": "2026-06-17"
+    },
+    {
       "title": "2026 Session Recap / Council on Asian Pacific Minnesotans",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWnptcFp0a1FFUXZMOVBiRUJmTVpfRmJTT29aZWQ4M25ybTkzMVhBNlNiakpnRnp6b2dlNEFPTFFVejgxM2ZWVU9VV3dVVmVyWkZDQnFBRi1mQ0w0YWhUc1JWbUhpSDBnbU5IZDRR?oc=5",
       "date": "2026-06-13"
     },
     {
-      "title": "Heintzeman: End of Session review, part 1",
-      "source": "Minnesota Senate Republicans",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHNScWRKR1R4UDk0UGtDbnBZTk5OQmNaR2o3OU9lLVVlX3pnZDdMZTNOMmVoWnlBaTRnNHZ6SFVnZWJ5Skp6QWdlMmRvcV9Cc1N5bzNLU0F2T20zcWRqanc3bjRSa2VHeUtmVkVUSTBJY2tZZEg0QnA0QXNrWWs1UmZR?oc=5",
-      "date": "2026-06-09"
-    },
-    {
-      "title": "End of Session: The Good, the Bad, and the Frustrating",
-      "source": "Minnesota Senate Republicans",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3V3WEZkS19uT3BqbzZDNTZnakY5bGZqNVc4Q1cxYjlzNTBYdWRGTFdtQUlQQXhVMnBkbjZlQ2J3QkJSTzBYcmN1blJsa1IyRVl5SFJJZkhYYkFwZXRNYlhxb2VJbHljM0hKdVVoc0dvUHAzbEpJWVBIR3dEbGhmLVRUMGpGdmFrQVgxckVJenJlUQ?oc=5",
-      "date": "2026-05-29"
-    },
-    {
       "title": "Area Lawmakers Reflect on What Got Passed in 2026 MN Legislative Session",
       "source": "Lakeland PBS",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
       "date": "2026-05-28"
-    },
-    {
-      "title": "Walz signs bill enacting social media guardrails for Minnesota children",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
-      "date": "2026-05-26"
     },
     {
       "title": "Rep. Anquam Mahamoud - Legislative Update - End of 2026 Session",
@@ -109,6 +91,12 @@
       "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FbWt3czRTYUdqaWRlRzFpcDVFaVNERWV5MUFhRExxU0FXdXZWUTFiQnRWOWpGTmxFZ3RJdGVDc285alB6aXBkdzJPRTNsUXlGNnU1U3FiZHVmVy12S1Y1RWVpQ3c1SVRn?oc=5",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Rep. Matt Norris - Legislative Update - End of Session",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdHNpLWRBcFUwZ1ZrNF9Zdlpqa00yajc3eFc3eGVLQ2dYWFhra2lDcU5DckVtb0lKMFd5VS0tenhNcmNTZUxkaXh3WGJtb2RENGJ1VVk0OVhHZmtxU19JTlplQUozN0V5?oc=5",
       "date": "2026-05-22"
     },
     {
@@ -148,27 +136,9 @@
       "date": "2026-05-18"
     },
     {
-      "title": "What the Minnesota Legislature accomplished in its final hours",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOU5iZTBrbDJhNXF5MER6RFVPdklzYkhoVUd4QjZ1OEhuV0hPN2lteWpvYjFvaGVuU2pFWFVtUzl0VldmTXRwWUFyY1JndHI4dU9IS00tbXNEbjMzQk1tWGMyVF92MDM3Vm9LdEx4eUg3dzduNXpVYzJVRU5Pc29hOHkzRk94LWl1Nk00dUFvd09OZjRjQ2hOREhKd3hRX2xEeDNJVWNqZktlRXpPN2lNSHdXa2lLYVRnVUotNXUxU19jYVBqa2xjMzd2WUNzaEF1M2cwYThzeDBueHBQaGtvV19UaXU3eEVuSzlWX1B3T19tWW82dE5DVWY1Q2ZEWGZ6VUVnR0EyUnBsZ2RuS2lzV0MyOEcxR1cxcEU0NnBnVnR4d2N0N0QwUml3?oc=5",
-      "date": "2026-05-18"
-    },
-    {
       "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Minnesota lawmakers OK license tab cut, HCMC fix, construction project package in final flurry",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSllGQ0FYM3JZZnRuby1CTkJ5Q3JxYnlaR193ZzJHZ1BncnY4UGRrTzhzVkVHVVBXMERmOHlNeXUwVUluaFM3ZHRLTzVpLURfSVhZcm5aWkswQ2JnZXJpVXBJTkllZEg5RmVCZEVWYmRsdC1BTERNTHBHR09zTURtVnRwVUsxQ1F1MEpSaWlLS21GbUxmbWtBSjJzSFBlT0VqWEhBUHhsYVJVVFVZRXBtUGZSRUZ5V1ViQ25YYQ?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -182,6 +152,36 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXFDMTFBdmg3YWNTMUVDM3ZUVkMyamFXenVyaHdwbkdhZm8yN2V5dzRpNXVtTnBHU09tQWhLS1NianROZTVReHc0Z0VQSnB2eG11VjJZeUhHblZwNWltX2ZZdlZEdTB6TEtJTmpuSnNicWY4d2ZfUjBoUzZ2bUFpX01kckV0ZGQzak1R0gGQAUFVX3lxTE5wMUZVVVNBX3BEdEZ0SGFpQ0tXejBOYWFtdGZxUGNXV0haaXRlVXplanBKSWtaYUVmbHA4eDdpc2V4WWNaTHVxV0ZGVmVvb01GcEt1R2ZrTk14bmNFLW1ZREpaU0NmTEtHTE5CZnR6SzhlVVNTdFd5NjZDT3VWQzlLMXR2RS04M19VeER2c21UUw?oc=5",
       "date": "2026-05-18"
+    },
+    {
+      "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
+      "source": "5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "With 2026 Minnesota legislative session over, focus turns to balance of power in November elections",
+      "source": "kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1VtVHIxcGJvcHVGVk1nTjhELTZFU2FkYkdSNDBGcWluVjREQ1lQRUQxb1EwUGlaUElha19fdGZDS0FpRWFKV0F4Rkhwd3ZBb0N6U3dPalplTlRyZmEzQlhQTUo1M1NXMWpucTFubUFHZ1B5b1dLVlNxOEJTbmhob21nNnlqcUY3QlhMUjltZlJfUzU5ZjdRajkzNFBhRVBhQjA1VENUeFVkUHJLbXNBS1FJM2phbXhlSV9IcjBmbGE2WEpyZWdrUHpLUnZuaVR4emxabnhpSjNCZ1JQSUR4T1BDZzd4ZmVSalNBeTVYaEJVVlJrTUkzRmFJLVN0SllpRjlJRzQ0WEplRWJ5?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Bill restricting social media accounts for children passes Minnesota Senate",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEJwaGxIelluZkNLSklibS0xX1ZwQXVDYkRTM1I4a0EzYW5Mb1ZjZUlfQmJ6VkNUYUJFVkZ6c1NZYTR3VjI5dW40U1pRSk55OVVlYTM1bDlaM2FHTXpydFRZWVVKb3IwWnR4OGdONG9VcGM1NGJhZXdBeHZacVBRLTFWZmUybGtJOU11M9IBkgFBVV95cUxQQzJXWXhSbW8xb0RWamU5UHVDUXQyQ2x2Q3RqRU9YZkl1Y3ZCYzZBTDBmSnRidWx2Q1pNTjE5Q3BfdzBQLU5DYzNmWE9qY3VYanRkNFdMNmZXdFp3dWVqWVlENG5rNGczWHFlVmN0QzkwQmxiLTgyVEdrdFZiZUx5N3hqVHBLTVM5ZGMwUi05OXJwUQ?oc=5",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "Minnesota legislature finalizes HCMC funding and bonding bill in final hours of 2026 session",
+      "source": "kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZXNGRFp1LUhCUG9hdWJLRXdkaTczcVV4ZzZOSlBjZUNjQ2U1VDZmVVNqQXV5OEd5M0g3ZUhTMkJNNEJGb085dElzdGI2VGg0bUpJcXhvcWVEN1FDelByanBiWkdJV25VR0U2c3dkX3NIbnQzNEFDa0Vfb0ZFa3lQRmltMlViaHg3RjA5bDFIMmMtaDJReGdmNGh2WWR2MVpVYW9MRnlXNXI0a256eXlrSVJMT1hSWlJvanJILWlrWFpFQndqS2U5Zl9hTUtNeTZkOHpiUVl5dFZvbmFsVzY2R1NMZjdkRkV2LWZmRzg4WGdMU2hnNkpvaA?oc=5",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "MN Legislature wraps session with HCMC bailout, temporary tax relief, bonding",
+      "source": "Pioneer Press",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWU95V3J2RkVBc3JCRnlVQnVzb1BqSU5tRFNuNk1wRXVJZHQ2dlQ2LVdaQ2UyZnU1R2huZEdPOEVrQXdDYVM4SWdIcERtalJOdExxVjE2a0c3bGdlWFkzR1RDak9JdmppZnlnRXZydEtnTi0xNDZocGJDS2hLQ0wzNzVHc0xacHVRUXBhNDJjamlFaVRTM09hQXVZaU9GcTRVNHI5MjFKSXU5WWRR?oc=5",
+      "date": "2026-05-17"
     }
   ]
 }
