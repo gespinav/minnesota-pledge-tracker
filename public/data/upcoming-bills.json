@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T10:09:10.444Z",
+  "generated": "2026-09-08T15:26:43.867Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -28,21 +28,9 @@
       "date": "2026-08-06"
     },
     {
-      "title": "Minnesota, other states, will push for ICE protections",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
-      "date": "2026-07-30"
-    },
-    {
       "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
-      "date": "2026-07-27"
-    },
-    {
-      "title": "Legislature missed a chance to regulate toxic phthalates",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0VHOWh4anA0QmtJNHd4V0UyQW9XSE8ySWI5RTBfT1BWYW55c00zakp2Z1VzT1RGemlaeHVfYVpoZTJ1eTlENUNIb1ZkVGlkWUd4TGxXZXRpNEIzeG1qYURyb19ZS09iMGY5UEc3R3BtbWppaERHcVdDOHpWSXBqZkRYMUhJX1VsQXZtVFRRcVFHejJhR1F1QXJEWWFIZ0syeENLRkFaZlMyQ3c?oc=5",
       "date": "2026-07-27"
     },
     {
@@ -80,6 +68,12 @@
       "source": "Minnesota Senate Republicans",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHNScWRKR1R4UDk0UGtDbnBZTk5OQmNaR2o3OU9lLVVlX3pnZDdMZTNOMmVoWnlBaTRnNHZ6SFVnZWJ5Skp6QWdlMmRvcV9Cc1N5bzNLU0F2T20zcWRqanc3bjRSa2VHeUtmVkVUSTBJY2tZZEg0QnA0QXNrWWs1UmZR?oc=5",
       "date": "2026-06-09"
+    },
+    {
+      "title": "Advocates dismayed after Minnesota foster youth bill of rights stalls in legislature",
+      "source": "Sahan Journal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmlQcFRPV1Jfbmw3d3RCSElkRkprTElxNjJQY21pYmhhVkpwVTdsdmQxeWhhQ2p4WERpdXlLaXVyd1pBT0JWYUt2Zk9uQXFSVDBFQ3FfOGRWOE5UanlYMWhHdWdnVEw5a0hSSUR5UVVXYXR3d0NfcEt4aXJWdEo4cTRWYTlLMWRGVXJyS3pXZHZTd2RHeDRKaUR3MkxvV3lT?oc=5",
+      "date": "2026-06-03"
     },
     {
       "title": "Rep. Michael Howard - Legislative Update - Reflecting On The 2026 Legislative Session",
@@ -136,6 +130,12 @@
       "date": "2026-05-21"
     },
     {
+      "title": "The 2026 legislative session in photos",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0xnOWZnb2c3Ul96emtSLThxUmNtanFoZXBvYkVhZUM0TU1zZW5zVUFWdENxcVdCMllhSFVyb1doX0QyTWRJN0pCZkZYTTdvOGlhalhiZnlnVTh4VEdHdkItbm9TbGprQTluSEV3SEpRU0Uybl9DYUVreVY2OU15VmIyakNlb09JelZDZHJWeTVCc2hCbDhSQWdNbjlJeFhBQUZKeHZtdTU5SkdsQk1adlZRNmdJOVRDcFV0cEVwTS1ROGRYYWJWdVV1dWFrRUEwWXQ5aQ?oc=5",
+      "date": "2026-05-20"
+    },
+    {
       "title": "Who came out ahead in Minnesota’s bruising session? Depends on who you ask.",
       "source": "Star Tribune",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDNBMDJWWEItOGNIOW80VFEzdHlqNzZiNHpVR2lhbEMtOU1JZ2tsa05YVXp6TVhfempCLWxkTDg0VmdETE5JeW9YSURWWjNpMkFhdlQ1ZHNUYTk5SUdqYmpuaXpROEFoQVJGdUNmQlVCVDhwa09tN3ZhNVRWZTR2UHhUYWdsUWhweURMV0NYZFA0TVAzUl9PV2NJSHl0OHBtTnV6N0tPQnNudTNrYjYtakRaUGNlQnZFT3NyQWlSUEhxaFlLellXRWdyLU1HZUEtaWE4?oc=5",
@@ -143,7 +143,7 @@
     },
     {
       "title": "Who’s retiring from the Minnesota legislature?",
-      "source": "kttc.com",
+      "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
       "date": "2026-05-19"
     },
@@ -167,7 +167,7 @@
     },
     {
       "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
-      "source": "kttc.com",
+      "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
       "date": "2026-05-18"
     },
