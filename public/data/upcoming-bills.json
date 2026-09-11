@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T01:37:38.974Z",
+  "generated": "2026-09-11T10:04:06.708Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -59,7 +59,7 @@
     },
     {
       "title": "Minnesota school funding amendment headed to November ballot",
-      "source": "KTTC",
+      "source": "kttc.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEYxWlM2amd3Y2hpd29KTHdjaEw0Y0hxOTV2eHdZUXJJZDF0XzJ3eXY4ck5DNUhsWmVWM01YRVJ4bzFRZllkcUZfX2NnSUlWeWh4NVUwcnpkak91NXZTTlo2OTREU3ZnT3ZUbHVicG1WNWVvZXJYTDhxbG9vU1JzczJVT1g2NURFVFRnUDN5cVVSNkZm0gGoAUFVX3lxTE8tWG9JV2pHbUFxd21CTWJzVU5kOFRYMVIyelFiMnZlUnlXQS1Md0hOQWRzVVVESk1iQWxzZ0w0Mm5uMVpjOGdsNHg4TXRsYTZkNGZGa01yNGE1Qm1FV2tSb1RpTThqUjA2aGxfYkVGRmlpc0pyOFhndVJBNG9zemozcDQyZ2kwVXkybHhhb0pOWWxrSEZPcU1YelZlX0lzSS1BVEJTMmxJRw?oc=5",
       "date": "2026-08-02"
     },
@@ -100,12 +100,6 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Rasmusson advances anti-fraud reforms in the 2026 session",
-      "source": "Minnesota Senate Republicans",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHMycGNSUGVCcWl1SU5HcnowY0JRWjN6M0xzRVlydDRmUkZORGtzeGlSdlJzRGhrVmM2QV9hY2lxeXRHNG5pN0VQUnJsdjJhTXgtd3N1dk1VaTdCd29hMklMX0Y3V2ZKSW41aEtlNXNUMHZRMlBrSmpCMnJnZDcyQXNWSk5mcVZrSW8tZ0JjenVWWjdaRWtnZ3V3?oc=5",
-      "date": "2026-06-25"
-    },
-    {
       "title": "Minnesota’s missed opportunity on AI worker protections",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVUhFLS0xNUVKNGx0bURpenFBSW44d3VKdkhNU2Z2cFVObWNoZXQ1dlJKUGcyUTkyRV92QWFPb1JtM3d4QmdwTzEzcVAycVozaFFfNWRWRDdkT0J6NUVld1EzX19fd1A2d1JJRmFmWkd5ZktObnAyTmx6MXZlR2VNSG1nYVF4Zm1XcHVvUVFzVzdtdE9RWTFvNG56NmNfck9BSEZWRUtKVXQ?oc=5",
@@ -118,21 +112,9 @@
       "date": "2026-06-13"
     },
     {
-      "title": "Heintzeman: End of Session review, part 1",
-      "source": "Minnesota Senate Republicans",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHNScWRKR1R4UDk0UGtDbnBZTk5OQmNaR2o3OU9lLVVlX3pnZDdMZTNOMmVoWnlBaTRnNHZ6SFVnZWJ5Skp6QWdlMmRvcV9Cc1N5bzNLU0F2T20zcWRqanc3bjRSa2VHeUtmVkVUSTBJY2tZZEg0QnA0QXNrWWs1UmZR?oc=5",
-      "date": "2026-06-09"
-    },
-    {
       "title": "Rep. Michael Howard - Legislative Update - Reflecting On The 2026 Legislative Session",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0cm9XemZ1VG5HcDAzTjJtWmd4bFBSbnYxRFlyQmxNRmQyR19BR0IxTE8wdkRMdnJyRWVvc1hZNlRFaEFUWkpiMUZtTlNlY1ZnQWJ1TGZxNkZYbGFRT3NPVGVvMV9mNnlR?oc=5",
-      "date": "2026-05-29"
-    },
-    {
-      "title": "End of Session: The Good, the Bad, and the Frustrating",
-      "source": "Minnesota Senate Republicans",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3V3WEZkS19uT3BqbzZDNTZnakY5bGZqNVc4Q1cxYjlzNTBYdWRGTFdtQUlQQXhVMnBkbjZlQ2J3QkJSTzBYcmN1blJsa1IyRVl5SFJJZkhYYkFwZXRNYlhxb2VJbHljM0hKdVVoc0dvUHAzbEpJWVBIR3dEbGhmLVRUMGpGdmFrQVgxckVJenJlUQ?oc=5",
       "date": "2026-05-29"
     },
     {
@@ -145,12 +127,6 @@
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Rep. Anquam Mahamoud - Legislative Update - End of 2026 Session",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ILXB3bUIzeGVWdEM4RmtXM3BxUHl5RElKRWdjM2NzRWVKdUFRZUNoWENIazJDcllDaDlmS1NHSkdWZ3ZTbFBua055cUdrVlNndTFMdWRlWVVCbEhLN0h0cXpPZmNubllP?oc=5",
       "date": "2026-05-26"
     },
     {
@@ -182,6 +158,30 @@
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHJoYzRyWEk4ZUZiWTRzRmZvaGdoNFhxTnRhRld5dk1idDRnM2dHM1d2Rm1ldWEzYTVOOWNtazd4QkNabXpRYWZjd1dVZThjOWpjcnVDeFdSUjFhb1dRLV8zSXptM1pfY0RLQzhIRVNRcDBEVGxQRmJydURWd194SGNqOW5uQUVhdGdmZC1XeEVLdks5MU9QMkFtUk9TNlVzdXRtSXFlN3EyOVZWQ0tsdjRBUk1sWjNNRHhndE5XdU1GUnhnRG1Dc2pQbVRkM0xKdTFZOGRn?oc=5",
       "date": "2026-05-19"
+    },
+    {
+      "title": "Who came out ahead in Minnesota’s bruising session? Depends on who you ask.",
+      "source": "Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDNBMDJWWEItOGNIOW80VFEzdHlqNzZiNHpVR2lhbEMtOU1JZ2tsa05YVXp6TVhfempCLWxkTDg0VmdETE5JeW9YSURWWjNpMkFhdlQ1ZHNUYTk5SUdqYmpuaXpROEFoQVJGdUNmQlVCVDhwa09tN3ZhNVRWZTR2UHhUYWdsUWhweURMV0NYZFA0TVAzUl9PV2NJSHl0OHBtTnV6N0tPQnNudTNrYjYtakRaUGNlQnZFT3NyQWlSUEhxaFlLellXRWdyLU1HZUEtaWE4?oc=5",
+      "date": "2026-05-19"
+    },
+    {
+      "title": "Evenly-split House compromises to pass major legislation, finish session on time",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX25CUE9QOFZQQ05yRjlmRWU4Q254SlUzdUF6c0V0UDZSRldXYzRoMzd2QUg4bF9xMGY4MjNQa1pYSnlvZS1IMHNTS0JCYnRmbDhJQ1dHYklpVXJHanc?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
+      "date": "2026-05-18"
     }
   ]
 }
