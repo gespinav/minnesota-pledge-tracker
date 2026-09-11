@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T20:08:23.292Z",
+  "generated": "2026-09-11T01:37:38.974Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -56,6 +56,12 @@
       "source": "Senate Committee On Agriculture, Nutrition & Forestry (.gov)",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDhiZlFpR1ZnX3BFUW1sck81TVNKRkxzbGNZNUdlQWlpdlRuV1ZNYm0xRjFNZUtZeEYxWi1FUUZaS3JHeFZ0czNrUjd1QWxRa2RPd0pad3I2Qm1LeTVWZmx2NjdoUjlkTWhqZ3V4M2tuQlNBcTNhc0VTS08tN0UycTVwSGxudUMzOVRQVmxQcDdMdjBCbWhDSEo0YzZIWjBW?oc=5",
       "date": "2026-08-06"
+    },
+    {
+      "title": "Minnesota school funding amendment headed to November ballot",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEYxWlM2amd3Y2hpd29KTHdjaEw0Y0hxOTV2eHdZUXJJZDF0XzJ3eXY4ck5DNUhsWmVWM01YRVJ4bzFRZllkcUZfX2NnSUlWeWh4NVUwcnpkak91NXZTTlo2OTREU3ZnT3ZUbHVicG1WNWVvZXJYTDhxbG9vU1JzczJVT1g2NURFVFRnUDN5cVVSNkZm0gGoAUFVX3lxTE8tWG9JV2pHbUFxd21CTWJzVU5kOFRYMVIyelFiMnZlUnlXQS1Md0hOQWRzVVVESk1iQWxzZ0w0Mm5uMVpjOGdsNHg4TXRsYTZkNGZGa01yNGE1Qm1FV2tSb1RpTThqUjA2aGxfYkVGRmlpc0pyOFhndVJBNG9zemozcDQyZ2kwVXkybHhhb0pOWWxrSEZPcU1YelZlX0lzSS1BVEJTMmxJRw?oc=5",
+      "date": "2026-08-02"
     },
     {
       "title": "Minnesota, other states, will push for ICE protections",
@@ -130,9 +136,21 @@
       "date": "2026-05-29"
     },
     {
+      "title": "Area Lawmakers Reflect on What Got Passed in 2026 MN Legislative Session",
+      "source": "Lakeland PBS",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
+      "date": "2026-05-28"
+    },
+    {
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Rep. Anquam Mahamoud - Legislative Update - End of 2026 Session",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ILXB3bUIzeGVWdEM4RmtXM3BxUHl5RElKRWdjM2NzRWVKdUFRZUNoWENIazJDcllDaDlmS1NHSkdWZ3ZTbFBua055cUdrVlNndTFMdWRlWVVCbEhLN0h0cXpPZmNubllP?oc=5",
       "date": "2026-05-26"
     },
     {
@@ -142,9 +160,9 @@
       "date": "2026-05-26"
     },
     {
-      "title": "Counterpoint | The 2026 Minnesota Legislature performed much better than expected",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzNTMmVqYm5WMTM3TUhfYS13cEEyeWhHVUhGMjd6Wmowa09HVGpGSmVVbzIxWjBBcmxPSlZQVHRVYkpvRHBPQzktdzZUYTdXeTB4SERZZEpFc2ZuZnBLaXlMTmJfR2lqVXFIVUdtdUJIaVN2S2Uyb3NYNG1Qb1dOMTBaNTdNUzR6RW5wOA?oc=5",
+      "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
+      "source": "Sahan Journal",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
       "date": "2026-05-22"
     },
     {
@@ -164,24 +182,6 @@
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHJoYzRyWEk4ZUZiWTRzRmZvaGdoNFhxTnRhRld5dk1idDRnM2dHM1d2Rm1ldWEzYTVOOWNtazd4QkNabXpRYWZjd1dVZThjOWpjcnVDeFdSUjFhb1dRLV8zSXptM1pfY0RLQzhIRVNRcDBEVGxQRmJydURWd194SGNqOW5uQUVhdGdmZC1XeEVLdks5MU9QMkFtUk9TNlVzdXRtSXFlN3EyOVZWQ0tsdjRBUk1sWjNNRHhndE5XdU1GUnhnRG1Dc2pQbVRkM0xKdTFZOGRn?oc=5",
       "date": "2026-05-19"
-    },
-    {
-      "title": "Who came out ahead in Minnesota’s bruising session? Depends on who you ask.",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDNBMDJWWEItOGNIOW80VFEzdHlqNzZiNHpVR2lhbEMtOU1JZ2tsa05YVXp6TVhfempCLWxkTDg0VmdETE5JeW9YSURWWjNpMkFhdlQ1ZHNUYTk5SUdqYmpuaXpROEFoQVJGdUNmQlVCVDhwa09tN3ZhNVRWZTR2UHhUYWdsUWhweURMV0NYZFA0TVAzUl9PV2NJSHl0OHBtTnV6N0tPQnNudTNrYjYtakRaUGNlQnZFT3NyQWlSUEhxaFlLellXRWdyLU1HZUEtaWE4?oc=5",
-      "date": "2026-05-19"
-    },
-    {
-      "title": "Evenly-split House compromises to pass major legislation, finish session on time",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX25CUE9QOFZQQ05yRjlmRWU4Q254SlUzdUF6c0V0UDZSRldXYzRoMzd2QUg4bF9xMGY4MjNQa1pYSnlvZS1IMHNTS0JCYnRmbDhJQ1dHYklpVXJHanc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
-      "date": "2026-05-18"
     }
   ]
 }
