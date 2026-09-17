@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T15:43:33.396Z",
+  "generated": "2026-09-17T20:37:15.569Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -8,6 +8,12 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BaURNdWxTOGo2UkFNM1RCb3g2dTF2LXV1c0h4eVU5cGpNR2cza3RpYS00My1sSTRWek91RDM0NUZ1dEFKTm5yeFp0U0lXcFE4bzN1TE9ZN1hURkpjM0E?oc=5",
       "date": "2026-09-08"
+    },
+    {
+      "title": "1 year later, Annunciation families still waiting for gun reform in Minnesota",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFcwUTVJWi1ERHhVR3FkdkxvSTUzV3dIa2RhamhDZVpGSjl1dUk3Zm1BSmx3cDlfMm1NaVZ0MW5mMTlDaW9GeWRMeHlPa2hhS1RXOE9ZRExYWTZ5elNZOFRva3EzYzF3cHNLS2lJNHhtbGRSS2d6VmxHbGVlNDhUNlR1ZkczZjByLWVJZ2l0alJ2aVpObEdxZGdnSC1Xb05UZUJBQUlYSVZpeUQzdWJuT2xyek1Tb1k?oc=5",
+      "date": "2026-08-27"
     },
     {
       "title": "Appeals Court gives Minnesota group leeway to discourage voting by nonincarcerated felons",
@@ -19,6 +25,12 @@
       "title": "Project Veritas founder dresses in ‘traditional Muslim attire’ in video attacking Minnesota election law",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0dvNW9SX0MwNWIxWUFoZ1lGSjFkUk82R0xVcHpkM0hhV3VYeEtENlo0S2tJT3FfYWt4X2dYUEh2QWhwVWNSY1RfNkpVMV9SRnB0cnBnNVZQRS1LQVdjZDVkVFhpcXlfMWJMemVZb1dFejFrT1R3T3BGQUFaaVc2MFhiTFVkR1lGcDR5RnAzeW5KSHcydlM5aHdOZlhmZXRsVTRpNV9ySm52NVF4UVZPaW9OTGJtelFZeXpTaEVuaVhVWjhfbnc3M0VSTmNYUDU1R0lfRXctTHc5WU81NnY0?oc=5",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNFY3lQTkIwVC15SmQ1MWVmeEVmWkZrS0ZINVNQT2ZBUUllYnlYa2cyVGlkYnA3dmg0cW5rYTdtSzd3c0s5OGgwX1ViQVZmdHAxQ0lpcWZ5VjZFSnU5US03TFVQajdLVXBGNzQ3c25iYWVKSG40S1dVRW9sal92eW9Id2kzR1hOdTduRmdaOWQ?oc=5",
       "date": "2026-08-18"
     },
     {
@@ -35,7 +47,7 @@
     },
     {
       "title": "Klobuchar Statement on Farm Bill Vote",
-      "source": "agriculture.senate.gov",
+      "source": "Senate Committee On Agriculture, Nutrition & Forestry (.gov)",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDhiZlFpR1ZnX3BFUW1sck81TVNKRkxzbGNZNUdlQWlpdlRuV1ZNYm0xRjFNZUtZeEYxWi1FUUZaS3JHeFZ0czNrUjd1QWxRa2RPd0pad3I2Qm1LeTVWZmx2NjdoUjlkTWhqZ3V4M2tuQlNBcTNhc0VTS08tN0UycTVwSGxudUMzOVRQVmxQcDdMdjBCbWhDSEo0YzZIWjBW?oc=5",
       "date": "2026-08-06"
     },
@@ -50,6 +62,12 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
       "date": "2026-07-30"
+    },
+    {
+      "title": "Elon Musk's xAI sues to stop Minnesota law banning nudification technology",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFFYWluRWl3UXAtOXdhcy1EYUwtZjFTcWw0S0xKdGJPRmxxSDJObmpYQmE2OFVpMzJab21PQWEwa3dUUEJmSkpPamZONEhXdWVfNjZXWDd3Tl9CRFVKb3ZZYW4zWVpQanJoRFVrd0dlOENuclNwNnpIUWJiaFZxYkhYYmpIWnRjdF9STHhkZUNLVjFhdUI5YnBpNTA?oc=5",
+      "date": "2026-07-28"
     },
     {
       "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
@@ -68,6 +86,12 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZTbG05cGNTT092Z0Fjd3lOa0FkXzRGbmF4dTFuODd2a3pRdjQ5LVgzazRjZXJQdkx4RFc4N0FUOE5Za1pnTWVyclFFUHRSenF4ZTFpemRDakNRV1NJdXlCREl5QmJlVEVxRFRYc1dkT0VUWXd0S0hLOGthOTJWdWpIQnJuSnl6UzRjeDBvWUpBenQ5UjlIR1B1RXV3aHVLNUloNV8xNA?oc=5",
       "date": "2026-07-24"
+    },
+    {
+      "title": "Minnesota's \"Grandparents' Happy Hour\" bill signed into law",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CZkxvV3NIaFdNYm9ENnQ5emUxUWNTdHY5bU9TclFZU1pWMTF5ZUk4a25ta1dDT2ItNnVVM25TenVEUElIbXUyM2hXdWxfc2pvbGdPSkNheWRQQmJvaGZzQmp6M1Y3LUtVR2drUmNtNld1VXBSU2RF?oc=5",
+      "date": "2026-07-15"
     },
     {
       "title": "Red state? Blue state? Here are the races that will likely determine party control at the Minnesota Legislature",
@@ -130,10 +154,10 @@
       "date": "2026-05-22"
     },
     {
-      "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
-      "date": "2026-05-22"
+      "title": "Minnesota lawmakers pass big bills, but politics gets in the way",
+      "source": "St. Cloud Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVy1MQ3FyajNEYURwVUJfTFpUbmwxOVZJVlRVckFBR1RndThDVTMxcUVWcG85RmJOc1ZzUGJoRTJjQkVjcktBaENBVkJhUTVTTEpqaUdkWFEwVm5DWTVpaGhDMUxtMk1SVHI1cUN5Y0hXaEFVbXQ1VkNvWVpPQ1hVUXhqRVdfV0dhbW5YT3NtNWgybmFyc253dWF5V3ZyeWI5WUc0LVM3YmVzM3d3clREekZqc3M5WnVtd01TRW4zX054MmdGTW5ZYmdmcXk?oc=5",
+      "date": "2026-05-20"
     },
     {
       "title": "Minnesota becomes first state to outlaw prediction markets, immediately sued by federal regulators",
@@ -157,30 +181,6 @@
       "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
-      "source": "5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "Takeaways from the 2026 Minnesota legislative session",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXdwTWN0UjVPeTFiNWxGZGdKM0FscGVkXzlONndTUU9MU2RTR29JYldydGgwUFYzV2N2NWZkQ0lZQnpyckFFeDhTOFVQdWN1X25tSVNEVmpJaHdydUw4UG52NWJwbkxvcDlLNjZveWNzaHUwLXBQTldHVnNqd3NSZWRsamowRllUemdPdGdMMm5CM2thSFl6eFU1TQ?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "With 2026 Minnesota legislative session over, focus turns to balance of power in November elections",
-      "source": "kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZ1VtVHIxcGJvcHVGVk1nTjhELTZFU2FkYkdSNDBGcWluVjREQ1lQRUQxb1EwUGlaUElha19fdGZDS0FpRWFKV0F4Rkhwd3ZBb0N6U3dPalplTlRyZmEzQlhQTUo1M1NXMWpucTFubUFHZ1B5b1dLVlNxOEJTbmhob21nNnlqcUY3QlhMUjltZlJfUzU5ZjdRajkzNFBhRVBhQjA1VENUeFVkUHJLbXNBS1FJM2phbXhlSV9IcjBmbGE2WEpyZWdrUHpLUnZuaVR4emxabnhpSjNCZ1JQSUR4T1BDZzd4ZmVSalNBeTVYaEJVVlJrTUkzRmFJLVN0SllpRjlJRzQ0WEplRWJ5?oc=5",
       "date": "2026-05-18"
     }
   ]
