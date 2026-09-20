@@ -1,11 +1,11 @@
 {
-  "generated": "2026-09-19T19:39:03.229Z",
+  "generated": "2026-09-20T01:51:00.717Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
     {
       "title": "Statewide fire service assessment",
-      "source": "Minnesota Department of Public Safety (.gov)",
+      "source": "dps.mn.gov",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHQ0VFFzcHZyZExSMl90WGRIQ2VINC1mbngwY2I5c1RKYXQwRE5IN003Nm9HQzNSYndBX0JPX2ltVUtnRFV0MVFfTzNwanpWM250Y0NYVnMwejJxcWpRb2xWdGw3eVQ4UG9UTEpCYVJuandBNjRkVHFhRkh6NXplQUFrcw?oc=5",
       "date": "2026-09-08"
     },
@@ -83,7 +83,7 @@
     },
     {
       "title": "One year later, Melissa Hortman’s legacy continues to loom over the MN legislature",
-      "source": "KTTC | Rochester, MN",
+      "source": "kttc.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQy1hcUhNaVZPTFQzeEF0cXpJaTZRQ2IxYVBfd05BU1JDNDFaMnItZnZTb2NmR0FVai1jZEo2TFQzdEF1ZDNER0xGMnIxa2syaDN0NkUtdG9HSlJxOTVNNW9adXRwOW44QmdJeEZtN00zSzZmUWNMVTFWY0FReVJMRDBtRFpQbnQwbkctWW5FU21FWW1HUExIdjQ3d3QyY2hhSnE5M1BPOWZMQdIBvgFBVV95cUxOYnpQcHRtMUlCMGoteFVwc25vZkZkR0tzQnlHemxHYldkYXd5SXp0Qmo5VUR0V3FjamZnSm1QRy1hUTRtTXdBZFktaVVRUGhJN2V0ZjNMWS1JTWZSTWpfdjJCeldaQ1hNQ0RWUTFUV01WVmVoSW1yQnV5U1k2WWVRRlp4VUIwc2trWXdPTUtzWFVSVUQ4NEVsNjQ4UHBnOGdkSnRYVW5QTi02Z21iTWY4c1l6ZVdGNkExaUtJUmhR?oc=5",
       "date": "2026-06-12"
     },
@@ -95,7 +95,7 @@
     },
     {
       "title": "Rep. Michael Howard - Legislative Update - Reflecting On The 2026 Legislative Session",
-      "source": "house.mn.gov",
+      "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0cm9XemZ1VG5HcDAzTjJtWmd4bFBSbnYxRFlyQmxNRmQyR19BR0IxTE8wdkRMdnJyRWVvc1hZNlRFaEFUWkpiMUZtTlNlY1ZnQWJ1TGZxNkZYbGFRT3NPVGVvMV9mNnlR?oc=5",
       "date": "2026-05-29"
     },
@@ -125,7 +125,7 @@
     },
     {
       "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
-      "source": "house.mn.gov",
+      "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FbWt3czRTYUdqaWRlRzFpcDVFaVNERWV5MUFhRExxU0FXdXZWUTFiQnRWOWpGTmxFZ3RJdGVDc285alB6aXBkdzJPRTNsUXlGNnU1U3FiZHVmVy12S1Y1RWVpQ3c1SVRn?oc=5",
       "date": "2026-05-22"
     },
@@ -142,12 +142,6 @@
       "date": "2026-05-21"
     },
     {
-      "title": "Who’s retiring from the Minnesota legislature?",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
-      "date": "2026-05-19"
-    },
-    {
       "title": "What the Minnesota Legislature accomplished in its final hours",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOU5iZTBrbDJhNXF5MER6RFVPdklzYkhoVUd4QjZ1OEhuV0hPN2lteWpvYjFvaGVuU2pFWFVtUzl0VldmTXRwWUFyY1JndHI4dU9IS00tbXNEbjMzQk1tWGMyVF92MDM3Vm9LdEx4eUg3dzduNXpVYzJVRU5Pc29hOHkzRk94LWl1Nk00dUFvd09OZjRjQ2hOREhKd3hRX2xEeDNJVWNqZktlRXpPN2lNSHdXa2lLYVRnVUotNXUxU19jYVBqa2xjMzd2WUNzaEF1M2cwYThzeDBueHBQaGtvV19UaXU3eEVuSzlWX1B3T19tWW82dE5DVWY1Q2ZEWGZ6VUVnR0EyUnBsZ2RuS2lzV0MyOEcxR1cxcEU0NnBnVnR4d2N0N0QwUml3?oc=5",
@@ -155,19 +149,19 @@
     },
     {
       "title": "Evenly-split House compromises to pass major legislation, finish session on time",
-      "source": "house.mn.gov",
+      "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX25CUE9QOFZQQ05yRjlmRWU4Q254SlUzdUF6c0V0UDZSRldXYzRoMzd2QUg4bF9xMGY4MjNQa1pYSnlvZS1IMHNTS0JCYnRmbDhJQ1dHYklpVXJHanc?oc=5",
       "date": "2026-05-18"
     },
     {
       "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
-      "source": "house.mn.gov",
+      "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
       "date": "2026-05-18"
     },
     {
       "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
-      "source": "house.mn.gov",
+      "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
       "date": "2026-05-18"
     },
@@ -181,6 +175,12 @@
       "title": "Here’s what the Minnesota Legislature passed — and didn’t — during the 2026 session",
       "source": "5 EYEWITNESS NEWS",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzMyeHo5NU1pRDFWOF81NV9CazQxR1poNTZ1QTZ1bG9fbjFuOEdRRmpiWml2ZlUxdGRfOWZ6ajF3ekZGcDNpTV9LQmE1TFU2RC1wLWFyRmV6NnlqWi1KVGhNU1dkYXIwN0trcHBaazhqMHNjQXJsRnNFM0k3ZXhxWl8xZHVRY043SDNnaHJQajZUV1RXaHh6SEl3djdhQnVkVHlBMGFaQm5HaWN6WEZfRm1fMjY?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
+      "source": "kttc.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
       "date": "2026-05-18"
     }
   ]
