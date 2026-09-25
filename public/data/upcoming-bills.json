@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T15:59:31.562Z",
+  "generated": "2026-09-25T20:47:44.158Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -17,7 +17,7 @@
     },
     {
       "title": "Statewide fire service assessment",
-      "source": "Minnesota Department of Public Safety (.gov)",
+      "source": "dps.mn.gov",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHQ0VFFzcHZyZExSMl90WGRIQ2VINC1mbngwY2I5c1RKYXQwRE5IN003Nm9HQzNSYndBX0JPX2ltVUtnRFV0MVFfTzNwanpWM250Y0NYVnMwejJxcWpRb2xWdGw3eVQ4UG9UTEpCYVJuandBNjRkVHFhRkh6NXplQUFrcw?oc=5",
       "date": "2026-09-08"
     },
@@ -26,6 +26,12 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFcwUTVJWi1ERHhVR3FkdkxvSTUzV3dIa2RhamhDZVpGSjl1dUk3Zm1BSmx3cDlfMm1NaVZ0MW5mMTlDaW9GeWRMeHlPa2hhS1RXOE9ZRExYWTZ5elNZOFRva3EzYzF3cHNLS2lJNHhtbGRSS2d6VmxHbGVlNDhUNlR1ZkczZjByLWVJZ2l0alJ2aVpObEdxZGdnSC1Xb05UZUJBQUlYSVZpeUQzdWJuT2xyek1Tb1k?oc=5",
       "date": "2026-08-27"
+    },
+    {
+      "title": "Senator Jen McEwen Applauds Walz Boundary Waters Executive Order as ‘First Step’ to Protect Minnesota Waters",
+      "source": "Minnesota Senate DFL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb25id2FuQXJVLUloRlZUbE43OFZjN3ZpbE1ZT2RCTGktT0RHaERGLWZUYUhmUGZFVmdmSEc4UHNRMkdNdXUteUpJbjZHcVNZdGNLSG1FcjFMYUdNZk5VcVRYU0Y4bWM0NUtrekd1NnRSWWY5bWh3bTQxdXZ1Si1RWjBQVTc3M3lSa0RGTmczMkxhNTh6QWY1QXRnR0tqeXRacTI1Njd6QWtwWVJKdHhUQ1pPVEhSdS1MYlhGd3hGYXF2b3hTVkhv?oc=5",
+      "date": "2026-08-24"
     },
     {
       "title": "Appeals Court gives Minnesota group leeway to discourage voting by nonincarcerated felons",
@@ -37,6 +43,12 @@
       "title": "Project Veritas founder dresses in ‘traditional Muslim attire’ in video attacking Minnesota election law",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0dvNW9SX0MwNWIxWUFoZ1lGSjFkUk82R0xVcHpkM0hhV3VYeEtENlo0S2tJT3FfYWt4X2dYUEh2QWhwVWNSY1RfNkpVMV9SRnB0cnBnNVZQRS1LQVdjZDVkVFhpcXlfMWJMemVZb1dFejFrT1R3T3BGQUFaaVc2MFhiTFVkR1lGcDR5RnAzeW5KSHcydlM5aHdOZlhmZXRsVTRpNV9ySm52NVF4UVZPaW9OTGJtelFZeXpTaEVuaVhVWjhfbnc3M0VSTmNYUDU1R0lfRXctTHc5WU81NnY0?oc=5",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNFY3lQTkIwVC15SmQ1MWVmeEVmWkZrS0ZINVNQT2ZBUUllYnlYa2cyVGlkYnA3dmg0cW5rYTdtSzd3c0s5OGgwX1ViQVZmdHAxQ0lpcWZ5VjZFSnU5US03TFVQajdLVXBGNzQ3c25iYWVKSG40S1dVRW9sal92eW9Id2kzR1hOdTduRmdaOWQ?oc=5",
       "date": "2026-08-18"
     },
     {
@@ -130,12 +142,6 @@
       "date": "2026-05-29"
     },
     {
-      "title": "Area Lawmakers Reflect on What Got Passed in 2026 MN Legislative Session",
-      "source": "Lakeland PBS",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
-      "date": "2026-05-28"
-    },
-    {
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
@@ -145,6 +151,12 @@
       "title": "Middle Aisle: ‘Low expectations’ session delivered more than expected for Minnesotans",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRktFMTByVHN6RVNVYklNY0pDNnczQ0FLdGhPTV9IT1JiS0I1S0xVelNsc2dhbWx2a1E2T0dlMUZfd1FuOE9qcktsblRvZ2NETE00blUwRWk1WENMZldwaElNcTdCR2dDTHlzT3dXMmliOFZTTDU5ZmRVRERycnJ4cTY2X2d5TWJnbVNLMFFlalhGakktdk5aQkl1UDVLb3pXbk5lNmd2cE1RdHNpRTR1ZDNCX1Fhd29CRV9la2hhWWxyemUzUlp5czF5ODRsbDROa0tWazA3M0Fqc2tLakE?oc=5",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Some MN legislative leaders want more transparency in the negotiating process. Here’s what that could look like.",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnZESS1OMW1GOGVqMno1Mmg2M3lLMkcyUGN4YUx1NlgteWNTNkVzOXNWMzU1TGxGSWU4Y2FzWEZzRnNUTEttQzBKeDNJOFhidFZHckZyWHJjUll1VVYxT05Tb0prX05lcUtqby1QWkJrWEZuTDRNYkhUTE8tVl9RSzA2VjRSUzlaaThRYUVGT1lNUUIyMzhMenlrTTd6NjBZdnJXa0xNamxyenJ1R284NllOOVpCcWVhZlZoVlc2MHBocHloOXVQcWgtMkhnTnJG0gHkAUFVX3lxTE1YYU5CNmYtWXAxV05QdmR2dC02SXkxdmloQlBGZ21hV21VbnY4RklWR0dndFJfTHNrckZMZkNLM2t3c3FkN3p5LXUwWFZObWJxUWdnN3pVeEVkRTkxMzJTdWxfOHQ5TElxRjVBUFZoRTE1LVM5S1ZvS1pLSjFDWm1aZTZoMTJsZk11VDdVTDNaREhjUFppT0FGc2tKanlEVFV0eE4yVnZ5UmNhdDhQWXBhazRJdUZpMllTUmo4S0VTdG5VTXhUdEhrUXEzdnV4UndnMnlWRWRRSV9pdTVBeW9DYm12ag?oc=5",
       "date": "2026-05-26"
     },
     {
@@ -170,18 +182,6 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1J2ejkyWWhwU0toc1Z6bzFVZDZuWHRvbWFQeWR4YkNWYTV2Tmd3blBNd1Z3RkNrRUdyZHRpcjAwUzgwWHpzZks0VFAyaVlXZkFJVWctMkZ6aHg3ZzdnQlVZMi1lQ2IzbHg5cWYwQUZkYjNma1VhTzRWUUpUTnpTQzZQSkotOWRScnN5cXZ6YXJuVUhTaWVwUG5Sa2VzUEtKQ0hwbEF4LUpxS0pY?oc=5",
       "date": "2026-05-21"
-    },
-    {
-      "title": "Minnesota legislature allocates $15M to combat disparities in foster care system",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnFZSHZBaHFRMTBUSUloLU5URndEVm5fOENodEs2RDNKdnRfZkxkVml3Q2c4eWZteUFzb3pVQ0tLMVl6SVFmMUJKVHdsamlRbUYzNmF2QlNzYTJQcktVNGQzLXhGQWRETEJMVjh4bVExRXV0WXJnWTBkSXE4WWR2OE1YajZib1dwcTE4UW4waw?oc=5",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Waymo's future in Twin Cities uncertain after Minnesota Legislature fails to pass guidelines for self-driving cars",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQlpyQkRHbXFnNURkOVYzdFJJVDZhTFJnZDFxMjhQWVZrZzRmbnoxZ0FDVm0yYUw0Q2wyMXJHOUJLV1F5djYtbEhKZ2tTbTE3RlVXd2dMd2Y5Mkx6bUw5b2NubERPZXctc1o4U1llLUZ0NG1sZ3ktcnNQUVJmSjRQbFJzQjNjcjFmTlUwbjNVQUPSAZYBQVVfeXFMTU5LTzdSTU5ieEdWY28zcU1adG81X0Y4NEJpUFVCQUlidGd5RFowZGZPSWxjWTBoQ2tmejZaWUZPU0hzRU1iemVBMmN3cWZ0bzFOMjRhcVdzTUVfazF1cDAwNXJZZjFSakJ4TWM0SS1xelNfUEE1U09Fc19zRHo0UFdIV1lrUk9qY2YtbXdMSEhaQkY0S1ZB?oc=5",
-      "date": "2026-05-20"
     }
   ]
 }
