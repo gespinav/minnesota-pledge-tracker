@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T20:47:44.158Z",
+  "generated": "2026-09-26T02:09:13.591Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -17,7 +17,7 @@
     },
     {
       "title": "Statewide fire service assessment",
-      "source": "dps.mn.gov",
+      "source": "Minnesota Department of Public Safety (.gov)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHQ0VFFzcHZyZExSMl90WGRIQ2VINC1mbngwY2I5c1RKYXQwRE5IN003Nm9HQzNSYndBX0JPX2ltVUtnRFV0MVFfTzNwanpWM250Y0NYVnMwejJxcWpRb2xWdGw3eVQ4UG9UTEpCYVJuandBNjRkVHFhRkh6NXplQUFrcw?oc=5",
       "date": "2026-09-08"
     },
@@ -28,28 +28,10 @@
       "date": "2026-08-27"
     },
     {
-      "title": "Senator Jen McEwen Applauds Walz Boundary Waters Executive Order as ‘First Step’ to Protect Minnesota Waters",
-      "source": "Minnesota Senate DFL",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb25id2FuQXJVLUloRlZUbE43OFZjN3ZpbE1ZT2RCTGktT0RHaERGLWZUYUhmUGZFVmdmSEc4UHNRMkdNdXUteUpJbjZHcVNZdGNLSG1FcjFMYUdNZk5VcVRYU0Y4bWM0NUtrekd1NnRSWWY5bWh3bTQxdXZ1Si1RWjBQVTc3M3lSa0RGTmczMkxhNTh6QWY1QXRnR0tqeXRacTI1Njd6QWtwWVJKdHhUQ1pPVEhSdS1MYlhGd3hGYXF2b3hTVkhv?oc=5",
-      "date": "2026-08-24"
-    },
-    {
       "title": "Appeals Court gives Minnesota group leeway to discourage voting by nonincarcerated felons",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
       "date": "2026-08-20"
-    },
-    {
-      "title": "Project Veritas founder dresses in ‘traditional Muslim attire’ in video attacking Minnesota election law",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN0dvNW9SX0MwNWIxWUFoZ1lGSjFkUk82R0xVcHpkM0hhV3VYeEtENlo0S2tJT3FfYWt4X2dYUEh2QWhwVWNSY1RfNkpVMV9SRnB0cnBnNVZQRS1LQVdjZDVkVFhpcXlfMWJMemVZb1dFejFrT1R3T3BGQUFaaVc2MFhiTFVkR1lGcDR5RnAzeW5KSHcydlM5aHdOZlhmZXRsVTRpNV9ySm52NVF4UVZPaW9OTGJtelFZeXpTaEVuaVhVWjhfbnc3M0VSTmNYUDU1R0lfRXctTHc5WU81NnY0?oc=5",
-      "date": "2026-08-18"
-    },
-    {
-      "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNFY3lQTkIwVC15SmQ1MWVmeEVmWkZrS0ZINVNQT2ZBUUllYnlYa2cyVGlkYnA3dmg0cW5rYTdtSzd3c0s5OGgwX1ViQVZmdHAxQ0lpcWZ5VjZFSnU5US03TFVQajdLVXBGNzQ3c25iYWVKSG40S1dVRW9sal92eW9Id2kzR1hOdTduRmdaOWQ?oc=5",
-      "date": "2026-08-18"
     },
     {
       "title": "Conservative provocateur posts video questioning Minnesota election law",
@@ -142,6 +124,12 @@
       "date": "2026-05-29"
     },
     {
+      "title": "Area Lawmakers Reflect on What Got Passed in 2026 MN Legislative Session",
+      "source": "Lakeland PBS",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
+      "date": "2026-05-28"
+    },
+    {
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
@@ -182,6 +170,18 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1J2ejkyWWhwU0toc1Z6bzFVZDZuWHRvbWFQeWR4YkNWYTV2Tmd3blBNd1Z3RkNrRUdyZHRpcjAwUzgwWHpzZks0VFAyaVlXZkFJVWctMkZ6aHg3ZzdnQlVZMi1lQ2IzbHg5cWYwQUZkYjNma1VhTzRWUUpUTnpTQzZQSkotOWRScnN5cXZ6YXJuVUhTaWVwUG5Sa2VzUEtKQ0hwbEF4LUpxS0pY?oc=5",
       "date": "2026-05-21"
+    },
+    {
+      "title": "Minnesota legislature allocates $15M to combat disparities in foster care system",
+      "source": "Sahan Journal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnFZSHZBaHFRMTBUSUloLU5URndEVm5fOENodEs2RDNKdnRfZkxkVml3Q2c4eWZteUFzb3pVQ0tLMVl6SVFmMUJKVHdsamlRbUYzNmF2QlNzYTJQcktVNGQzLXhGQWRETEJMVjh4bVExRXV0WXJnWTBkSXE4WWR2OE1YajZib1dwcTE4UW4waw?oc=5",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Minnesota’s legislative session left rural healthcare systems exposed",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
+      "date": "2026-05-20"
     }
   ]
 }
