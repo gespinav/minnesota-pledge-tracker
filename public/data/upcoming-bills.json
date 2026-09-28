@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T02:07:03.393Z",
+  "generated": "2026-09-28T12:06:11.340Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -22,6 +22,12 @@
       "date": "2026-08-20"
     },
     {
+      "title": "Conservative provocateur posts video questioning Minnesota election law",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpVWkp6cFlNUng3MmRwV3NhOWE0eHFiUWdDV05STHRmdmNIYk5tTWlqY0JERHZ2ZzlUNXRhVmVsT1BhSG45VlRWTzJnR20yeDZTdGtzQmxONmhBZThLb1J0OHlQU1dnNkcwWEdGQ2FZM2VIOGxSNW1JM0w3LW1zRmd2THBqWkpCcTlnUkxIUEdYcEpsVlVwUmlNTVg0Mld2VUI4a190UmxNQXl2dFdKRA?oc=5",
+      "date": "2026-08-14"
+    },
+    {
       "title": "Minnesota election experts: SAVE America Act would disrupt voting to fix ‘a problem that doesn’t exist’",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWZZRlpzMzFXUmdWTkNvMk1SdzJEMG5MUnJaRW83RTFyR0F2eUtiOG9uMnFZTWx1b1hCeklIT3QzOFIyN3lsZExyVF9uTVhXZUtuZnVZU2RfbmJUMDltMTRFT0xuWDJ2UWUxWGJvOWNRUVhoYVZZQ3R3X3hOVld4NXR0LVVuNzV6YzNpa2hzUjZjT2NhWWlKNXJTWklUQVowSU04U3ZjTmtUN0VXMmphbHF4Y21keWVENG1ObTFITXBxWWdYTTBWZWEwbkdGLVkxZ2ViOWZ4SUdWcEU?oc=5",
@@ -32,6 +38,12 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNuX1N0dHBxZmFTMkF6NGZFTmdYS29qM2VEUDQ2ekNvUzFEMjhhVXdjYWJ4THRJXzhYYTlaRkZ1cFdza2taMUhoa0FaellRdzNQWnpLYW9GV3lFN3NDYnMwX1hXNXpSVU16aGljcFhKcU9xYUhjcms4NkpiaHVyMV9oRHdnRGpRTmRFZmRHM2lWZFZlTXJDZXpBenV3U1NsdGpaNkdneEVHY3puc1E?oc=5",
       "date": "2026-08-08"
+    },
+    {
+      "title": "Minnesota school funding amendment headed to November ballot",
+      "source": "kttc.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEYxWlM2amd3Y2hpd29KTHdjaEw0Y0hxOTV2eHdZUXJJZDF0XzJ3eXY4ck5DNUhsWmVWM01YRVJ4bzFRZllkcUZfX2NnSUlWeWh4NVUwcnpkak91NXZTTlo2OTREU3ZnT3ZUbHVicG1WNWVvZXJYTDhxbG9vU1JzczJVT1g2NURFVFRnUDN5cVVSNkZm0gGoAUFVX3lxTE8tWG9JV2pHbUFxd21CTWJzVU5kOFRYMVIyelFiMnZlUnlXQS1Md0hOQWRzVVVESk1iQWxzZ0w0Mm5uMVpjOGdsNHg4TXRsYTZkNGZGa01yNGE1Qm1FV2tSb1RpTThqUjA2aGxfYkVGRmlpc0pyOFhndVJBNG9zemozcDQyZ2kwVXkybHhhb0pOWWxrSEZPcU1YelZlX0lzSS1BVEJTMmxJRw?oc=5",
+      "date": "2026-08-02"
     },
     {
       "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
@@ -71,15 +83,9 @@
     },
     {
       "title": "One year later, Melissa Hortman’s legacy continues to loom over the MN legislature",
-      "source": "KTTC",
+      "source": "kttc.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQy1hcUhNaVZPTFQzeEF0cXpJaTZRQ2IxYVBfd05BU1JDNDFaMnItZnZTb2NmR0FVai1jZEo2TFQzdEF1ZDNER0xGMnIxa2syaDN0NkUtdG9HSlJxOTVNNW9adXRwOW44QmdJeEZtN00zSzZmUWNMVTFWY0FReVJMRDBtRFpQbnQwbkctWW5FU21FWW1HUExIdjQ3d3QyY2hhSnE5M1BPOWZMQdIBvgFBVV95cUxOYnpQcHRtMUlCMGoteFVwc25vZkZkR0tzQnlHemxHYldkYXd5SXp0Qmo5VUR0V3FjamZnSm1QRy1hUTRtTXdBZFktaVVRUGhJN2V0ZjNMWS1JTWZSTWpfdjJCeldaQ1hNQ0RWUTFUV01WVmVoSW1yQnV5U1k2WWVRRlp4VUIwc2trWXdPTUtzWFVSVUQ4NEVsNjQ4UHBnOGdkSnRYVW5QTi02Z21iTWY4c1l6ZVdGNkExaUtJUmhR?oc=5",
       "date": "2026-06-12"
-    },
-    {
-      "title": "Steps to honor Hortman, prevent future tragedies take root in year since her assassination",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWm9DMnc2ckNabWFhSmx6U2xxVmJGNktEQk1qU00yaWxXLVQwMFVYRThyX0FTM3BZRG5WR0M4MkdvNUJZSDQzVVdyaGVmNTJUcDNhWklfSC05TENVR2tXY0NHVDNQTWxXZkE3YUQ2LS0xcWtzYUpvalk2UFhFeURaWGJudjBUZWViSUp1LUo2R29VRVdCOFlqdUdtanh5ZC1UZGZteDI4dENIaTV4T09FakJsOHlGUDRpdkp2T1k2MG1HamgzU2I2bzZXdw?oc=5",
-      "date": "2026-06-11"
     },
     {
       "title": "Heintzeman: End of Session review, part 1",
@@ -89,7 +95,7 @@
     },
     {
       "title": "Rep. Michael Howard - Legislative Update - Reflecting On The 2026 Legislative Session",
-      "source": "Minnesota House of Representatives (.gov)",
+      "source": "house.mn.gov",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0cm9XemZ1VG5HcDAzTjJtWmd4bFBSbnYxRFlyQmxNRmQyR19BR0IxTE8wdkRMdnJyRWVvc1hZNlRFaEFUWkpiMUZtTlNlY1ZnQWJ1TGZxNkZYbGFRT3NPVGVvMV9mNnlR?oc=5",
       "date": "2026-05-29"
     },
@@ -113,7 +119,7 @@
     },
     {
       "title": "Rep. Anquam Mahamoud - Legislative Update - End of 2026 Session",
-      "source": "Minnesota House of Representatives (.gov)",
+      "source": "house.mn.gov",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ILXB3bUIzeGVWdEM4RmtXM3BxUHl5RElKRWdjM2NzRWVKdUFRZUNoWENIazJDcllDaDlmS1NHSkdWZ3ZTbFBua055cUdrVlNndTFMdWRlWVVCbEhLN0h0cXpPZmNubllP?oc=5",
       "date": "2026-05-26"
     },
@@ -125,13 +131,13 @@
     },
     {
       "title": "Some MN legislative leaders want more transparency in the negotiating process. Here’s what that could look like.",
-      "source": "KTTC",
+      "source": "kttc.com",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnZESS1OMW1GOGVqMno1Mmg2M3lLMkcyUGN4YUx1NlgteWNTNkVzOXNWMzU1TGxGSWU4Y2FzWEZzRnNUTEttQzBKeDNJOFhidFZHckZyWHJjUll1VVYxT05Tb0prX05lcUtqby1QWkJrWEZuTDRNYkhUTE8tVl9RSzA2VjRSUzlaaThRYUVGT1lNUUIyMzhMenlrTTd6NjBZdnJXa0xNamxyenJ1R284NllOOVpCcWVhZlZoVlc2MHBocHloOXVQcWgtMkhnTnJG0gHkAUFVX3lxTE1YYU5CNmYtWXAxV05QdmR2dC02SXkxdmloQlBGZ21hV21VbnY4RklWR0dndFJfTHNrckZMZkNLM2t3c3FkN3p5LXUwWFZObWJxUWdnN3pVeEVkRTkxMzJTdWxfOHQ5TElxRjVBUFZoRTE1LVM5S1ZvS1pLSjFDWm1aZTZoMTJsZk11VDdVTDNaREhjUFppT0FGc2tKanlEVFV0eE4yVnZ5UmNhdDhQWXBhazRJdUZpMllTUmo4S0VTdG5VTXhUdEhrUXEzdnV4UndnMnlWRWRRSV9pdTVBeW9DYm12ag?oc=5",
       "date": "2026-05-26"
     },
     {
       "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
-      "source": "Minnesota House of Representatives (.gov)",
+      "source": "house.mn.gov",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FbWt3czRTYUdqaWRlRzFpcDVFaVNERWV5MUFhRExxU0FXdXZWUTFiQnRWOWpGTmxFZ3RJdGVDc285alB6aXBkdzJPRTNsUXlGNnU1U3FiZHVmVy12S1Y1RWVpQ3c1SVRn?oc=5",
       "date": "2026-05-22"
     },
@@ -175,12 +181,6 @@
       "title": "Minnesota becomes first state to outlaw prediction markets, immediately sued by federal regulators",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOHJoYzRyWEk4ZUZiWTRzRmZvaGdoNFhxTnRhRld5dk1idDRnM2dHM1d2Rm1ldWEzYTVOOWNtazd4QkNabXpRYWZjd1dVZThjOWpjcnVDeFdSUjFhb1dRLV8zSXptM1pfY0RLQzhIRVNRcDBEVGxQRmJydURWd194SGNqOW5uQUVhdGdmZC1XeEVLdks5MU9QMkFtUk9TNlVzdXRtSXFlN3EyOVZWQ0tsdjRBUk1sWjNNRHhndE5XdU1GUnhnRG1Dc2pQbVRkM0xKdTFZOGRn?oc=5",
-      "date": "2026-05-19"
-    },
-    {
-      "title": "Who’s retiring from the Minnesota legislature?",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
       "date": "2026-05-19"
     }
   ]
