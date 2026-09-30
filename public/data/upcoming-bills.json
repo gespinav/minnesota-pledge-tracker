@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T02:34:52.783Z",
+  "generated": "2026-09-30T11:26:29.534Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -28,10 +28,22 @@
       "date": "2026-08-20"
     },
     {
+      "title": "Minnesota election experts: SAVE America Act would disrupt voting to fix ‘a problem that doesn’t exist’",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWZZRlpzMzFXUmdWTkNvMk1SdzJEMG5MUnJaRW83RTFyR0F2eUtiOG9uMnFZTWx1b1hCeklIT3QzOFIyN3lsZExyVF9uTVhXZUtuZnVZU2RfbmJUMDltMTRFT0xuWDJ2UWUxWGJvOWNRUVhoYVZZQ3R3X3hOVld4NXR0LVVuNzV6YzNpa2hzUjZjT2NhWWlKNXJTWklUQVowSU04U3ZjTmtUN0VXMmphbHF4Y21keWVENG1ObTFITXBxWWdYTTBWZWEwbkdGLVkxZ2ViOWZ4SUdWcEU?oc=5",
+      "date": "2026-08-11"
+    },
+    {
       "title": "Senate approves funding bill including hemp ban delay to avoid a shutdown before the election",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNuX1N0dHBxZmFTMkF6NGZFTmdYS29qM2VEUDQ2ekNvUzFEMjhhVXdjYWJ4THRJXzhYYTlaRkZ1cFdza2taMUhoa0FaellRdzNQWnpLYW9GV3lFN3NDYnMwX1hXNXpSVU16aGljcFhKcU9xYUhjcms4NkpiaHVyMV9oRHdnRGpRTmRFZmRHM2lWZFZlTXJDZXpBenV3U1NsdGpaNkdneEVHY3puc1E?oc=5",
       "date": "2026-08-08"
+    },
+    {
+      "title": "Minnesota school funding amendment headed to November ballot",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEYxWlM2amd3Y2hpd29KTHdjaEw0Y0hxOTV2eHdZUXJJZDF0XzJ3eXY4ck5DNUhsWmVWM01YRVJ4bzFRZllkcUZfX2NnSUlWeWh4NVUwcnpkak91NXZTTlo2OTREU3ZnT3ZUbHVicG1WNWVvZXJYTDhxbG9vU1JzczJVT1g2NURFVFRnUDN5cVVSNkZm0gGoAUFVX3lxTE8tWG9JV2pHbUFxd21CTWJzVU5kOFRYMVIyelFiMnZlUnlXQS1Md0hOQWRzVVVESk1iQWxzZ0w0Mm5uMVpjOGdsNHg4TXRsYTZkNGZGa01yNGE1Qm1FV2tSb1RpTThqUjA2aGxfYkVGRmlpc0pyOFhndVJBNG9zemozcDQyZ2kwVXkybHhhb0pOWWxrSEZPcU1YelZlX0lzSS1BVEJTMmxJRw?oc=5",
+      "date": "2026-08-02"
     },
     {
       "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
@@ -58,6 +70,12 @@
       "date": "2026-07-08"
     },
     {
+      "title": "After a lack of legislative action, Minnesota hospitals say time is running out for a program that’s keeping them afloat",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNXJxZEpVZ3p3akF1X05NSklqblZIRWlMeTRaZ3JKenhlUGVQRWhBZEVLX1RfNjFqQUZ5YXpmRnBWOGxyWFZtZ21FTUFCb1Rya2E3VnhIYVhwb0YtanQwcjcybkZpRTNGTHcyVEcteV9DVk5qOGp1N3FaWU84VDNBTFNfZHRNSW9XbnRCU1BVTnVjTUxSRXo2OC1qVTJYZUpoMmNxc2Q0OThpLTZtc1hnQkNmYWFxSzZSNlJ3Rml2RFVOMkx0WjEwZmg3VFJubG8tMWJqV1h6QdIB6wFBVV95cUxOVHQ0UFdIeWtWVzhKVmQtME0xNml2VkNpU2FDZTV2UUdnWTh3aU5ZeDJvYzNkWDZsS1k5RTBDYnBjWTByWmpZRE9hTmNzNEFiRlRqZXRvb1h2T3RpMWlrbm1VOXpqWVdKT0IxYXVCaldkWFdISFB5S3pLbDJjNEtFRlo2Q081NWQ1d2x0eDNFcTNURl91anJSNnMzbVlwbzRjNDdjcndTamlQWWNtU2xQamZPUVp6QVNfQW15UVdFclkxczFWaG5yX1hhNjBkMlFWME95VVdud21CSllvX0lfNmhRYm9mRTFhNGpv?oc=5",
+      "date": "2026-07-02"
+    },
+    {
       "title": "Here are the Minnesota laws that go into effect on July 1",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25HSll3SDdrYTZrc0xiZVZVYzl3LW1rZEl5My1IcUFGcmhTSmpvLW1jd244WG1lcEJRdC04RHZvNFJyTi1tZ3A0RTh6MXFkdmVWMVVsYTRQNW4wYkwtRXlVM0R4bGp2N0ZOeVpFYU5mTDhOdXFfWWRRTUw3THA1eFJLcXZfa3NFWWpxTTlBRGE?oc=5",
@@ -74,12 +92,6 @@
       "source": "Star Tribune",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDdXU2theEIxLVlhUTV0akEyX0RzTTdJWXJGQ3hCWWtLU0c3dnc0Q3pfVmg3cHBlcE9RcmNRNWYzV0MzYU10QnIxNm5rVnhpaEJmNnNUUk1mdXV1UTNlNFlNMzZ1MDFoaDROT3EtSTRNbGg0REhGX3ZHRW1KWjc5UVNlOENNQXRQbXVXNkpjdWVKTVk?oc=5",
       "date": "2026-06-24"
-    },
-    {
-      "title": "2026 Legislative Session Recap",
-      "source": "mn.gov",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWnptcFp0a1FFUXZMOVBiRUJmTVpfRmJTT29aZWQ4M25ybTkzMVhBNlNiakpnRnp6b2dlNEFPTFFVejgxM2ZWVU9VV3dVVmVyWkZDQnFBRi1mQ0w0YWhUc1JWbUhpSDBnbU5IZDRR?oc=5",
-      "date": "2026-06-13"
     },
     {
       "title": "One year later, Melissa Hortman’s legacy continues to loom over the MN legislature",
@@ -170,18 +182,6 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
       "date": "2026-05-20"
-    },
-    {
-      "title": "Waymo's future in Twin Cities uncertain after Minnesota Legislature fails to pass guidelines for self-driving cars",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQlpyQkRHbXFnNURkOVYzdFJJVDZhTFJnZDFxMjhQWVZrZzRmbnoxZ0FDVm0yYUw0Q2wyMXJHOUJLV1F5djYtbEhKZ2tTbTE3RlVXd2dMd2Y5Mkx6bUw5b2NubERPZXctc1o4U1llLUZ0NG1sZ3ktcnNQUVJmSjRQbFJzQjNjcjFmTlUwbjNVQUPSAZYBQVVfeXFMTU5LTzdSTU5ieEdWY28zcU1adG81X0Y4NEJpUFVCQUlidGd5RFowZGZPSWxjWTBoQ2tmejZaWUZPU0hzRU1iemVBMmN3cWZ0bzFOMjRhcVdzTUVfazF1cDAwNXJZZjFSakJ4TWM0SS1xelNfUEE1U09Fc19zRHo0UFdIV1lrUk9qY2YtbXdMSEhaQkY0S1ZB?oc=5",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Who’s retiring from the Minnesota legislature?",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Ic1VlZ2pDUkJiUTRnN3BqU2VzaER3Ull0Rkg0OW5HallKMFAzOURUMTRnYm0td2ZlSDM5akRfR0YxcFRIdGo4c0hIM0JyMTBld0ZXN1hPcUlhMmpPOFlwR01WSl95WnNpQ0RfdllRd29CV3RUWVdF0gGLAUFVX3lxTE9LdkU1eFJCSTdUYTFnVXFyeUNNZ0NlQnZzLXV2MTJOamgycEtvWTAxYXhxNUpKZkpZLTd6aWhNTEpjekVQNEswa0JIeEJBN0RNV19JbU52SThXcmY1VWZRZGgydmdSSmxCLUVZZUVmaGd4aEpFVjNpcVNyZ1JBRDhiWWI0cHY0cGFFT0k?oc=5",
-      "date": "2026-05-19"
     }
   ]
 }
