@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T16:52:49.292Z",
+  "generated": "2026-10-02T21:28:38.119Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -22,12 +22,6 @@
       "date": "2026-09-28"
     },
     {
-      "title": "Will Minnesota farmers get a farm bill this year?",
-      "source": "St. Cloud Times",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUdFZ0NrX2dlQTR1ZFVXbHpGNHhRR1ZZWk1EMnVzX00tYVZTakFWZm1kU2xqSU43Um9MR0hPZVVWVW1uOTBaZjgyLVE5cW5tRGRxUGNVRVRuRDNNWFhKbzFIbmRhS2ZreXdQMmp0Z3F5SklNV1FzcjFfVGF2UW83cXA2Rm5naGFfeDU0Q3BZdVRkWkhHV0lVNjdGUWJKTUVFWHhuRlBCZEpGWU9nWXdsUXNSZE1FcDZ0SEVNZEtIZ1pNSWZIc0JJdjNKTnk2TmxzU1V2Uw?oc=5",
-      "date": "2026-09-18"
-    },
-    {
       "title": "Statewide fire service assessment",
       "source": "Minnesota Department of Public Safety (.gov)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHQ0VFFzcHZyZExSMl90WGRIQ2VINC1mbngwY2I5c1RKYXQwRE5IN003Nm9HQzNSYndBX0JPX2ltVUtnRFV0MVFfTzNwanpWM250Y0NYVnMwejJxcWpRb2xWdGw3eVQ4UG9UTEpCYVJuandBNjRkVHFhRkh6NXplQUFrcw?oc=5",
@@ -38,6 +32,12 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
       "date": "2026-08-20"
+    },
+    {
+      "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNFY3lQTkIwVC15SmQ1MWVmeEVmWkZrS0ZINVNQT2ZBUUllYnlYa2cyVGlkYnA3dmg0cW5rYTdtSzd3c0s5OGgwX1ViQVZmdHAxQ0lpcWZ5VjZFSnU5US03TFVQajdLVXBGNzQ3c25iYWVKSG40S1dVRW9sal92eW9Id2kzR1hOdTduRmdaOWQ?oc=5",
+      "date": "2026-08-18"
     },
     {
       "title": "Conservative provocateur posts video questioning Minnesota election law",
@@ -154,12 +154,6 @@
       "date": "2026-05-21"
     },
     {
-      "title": "How to cover a Legislature that does its business in private",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1J2ejkyWWhwU0toc1Z6bzFVZDZuWHRvbWFQeWR4YkNWYTV2Tmd3blBNd1Z3RkNrRUdyZHRpcjAwUzgwWHpzZks0VFAyaVlXZkFJVWctMkZ6aHg3ZzdnQlVZMi1lQ2IzbHg5cWYwQUZkYjNma1VhTzRWUUpUTnpTQzZQSkotOWRScnN5cXZ6YXJuVUhTaWVwUG5Sa2VzUEtKQ0hwbEF4LUpxS0pY?oc=5",
-      "date": "2026-05-21"
-    },
-    {
       "title": "The 2026 legislative session in photos",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjRRblUya05mWVlhbVdKSlU5bWlzVjl6WWpUVk9QdnUtSzJrMXlEcjV2QWJoMjZNbXNpQU9OTm1fTkl3RzFCV2tObXVtdXduRW9OYVU3RmJNazlMOTVHbTdQNnE5by1KLVV4WTIxUURuNDNZRU1QTzdqbjVUVDNQd2NFWEU2d29iVnJKdnZnMHhPRTJOX3I1OUVKci1YSTdFVkgydXNwamVpSnBEVzdBRGxkdWlieEhsYkJjeFNWV0E1U052UVkxRy0xSnFqbndrYmdNOUxn?oc=5",
@@ -169,6 +163,12 @@
       "title": "Minnesota legislature allocates $15M to combat disparities in foster care system",
       "source": "Sahan Journal",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnFZSHZBaHFRMTBUSUloLU5URndEVm5fOENodEs2RDNKdnRfZkxkVml3Q2c4eWZteUFzb3pVQ0tLMVl6SVFmMUJKVHdsamlRbUYzNmF2QlNzYTJQcktVNGQzLXhGQWRETEJMVjh4bVExRXV0WXJnWTBkSXE4WWR2OE1YajZib1dwcTE4UW4waw?oc=5",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Minnesota’s legislative session left rural healthcare systems exposed",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
       "date": "2026-05-20"
     },
     {
