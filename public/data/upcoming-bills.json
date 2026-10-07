@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T02:51:21.237Z",
+  "generated": "2026-10-07T12:08:17.338Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -20,6 +20,12 @@
       "source": "Minnesota Senate DFL",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDVkdXY3RkFhYU9FVDBSOWMyUjd0OUx6WmxpbUtkMEM0S3hTb05tdGNEbkY5X19JV2JFZFhiSDhqZEI4WkxKY0M2ak9QbDAxT3RPUlB3SVB6T0ttX3N4QkpyLVNqZU82YWZoZUxMY0FEMHgwZnpGazk4dlNWb3NpMV81QUtYNDY4b3ZNa2FVV19Ea2V6Y25Dbm1acUtZYVhP?oc=5",
       "date": "2026-09-28"
+    },
+    {
+      "title": "Will Minnesota farmers get a farm bill this year?",
+      "source": "St. Cloud Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTUdFZ0NrX2dlQTR1ZFVXbHpGNHhRR1ZZWk1EMnVzX00tYVZTakFWZm1kU2xqSU43Um9MR0hPZVVWVW1uOTBaZjgyLVE5cW5tRGRxUGNVRVRuRDNNWFhKbzFIbmRhS2ZreXdQMmp0Z3F5SklNV1FzcjFfVGF2UW83cXA2Rm5naGFfeDU0Q3BZdVRkWkhHV0lVNjdGUWJKTUVFWHhuRlBCZEpGWU9nWXdsUXNSZE1FcDZ0SEVNZEtIZ1pNSWZIc0JJdjNKTnk2TmxzU1V2Uw?oc=5",
+      "date": "2026-09-18"
     },
     {
       "title": "Minnesota House poll: Majority oppose photo ID requirement to vote",
@@ -175,12 +181,6 @@
       "title": "Following conclusion of legislative session, MN eyes consequential November elections",
       "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM2lHMi1qWTBxTnAzaGhnR1V4ZzdEeVhZZV9feGdvNy1ZVGs3YndubmlYWGhoTEpNb1g1Zks3U0tYcDRtM0RxUXEtSEE5dTU5R1ZURVp3RHAyNDZhM3pQMlEzclFvV0p5YmY2WXBpV284MVlKazFrQmd6b0V6WTJ0d3F2NHNQRVJXSEZkSXBxSjVEUXdPdzRxX2RUUjBoWHE3TFZLS3BkcUFhTDVleER2di1YT23SAcgBQVVfeXFMTU9GRDdDNTVLQmdlWThFUVRkV0tQbEFLZk9iRl9zNXlIdzkwN19jZVF0Skh0YnJDRktMWjZsMW1yU1FhYXBvS1piTjZsdXl3NFZCMGJKZzY5SEpVdllwVVFrNENpcXVDaE9QTkwyRGJpNWFRSXFZc1Q1NnJKV0RReVpScGlnMnZCZ2tnc1U2YVB5MDU1TDA4ZS1kX2lLWTJkWi1IUXRXa0dLQTZnWnJzbkdtb0Vvblc0ZzFBQ2s0bllyclItZEpOOU8?oc=5",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
       "date": "2026-05-22"
     }
   ]
