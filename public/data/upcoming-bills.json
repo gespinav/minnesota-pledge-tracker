@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T22:19:59.300Z",
+  "generated": "2026-10-08T03:09:01.445Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -106,12 +106,6 @@
       "date": "2026-06-09"
     },
     {
-      "title": "Rep. Michael Howard - Legislative Update - Reflecting On The 2026 Legislative Session",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0cm9XemZ1VG5HcDAzTjJtWmd4bFBSbnYxRFlyQmxNRmQyR19BR0IxTE8wdkRMdnJyRWVvc1hZNlRFaEFUWkpiMUZtTlNlY1ZnQWJ1TGZxNkZYbGFRT3NPVGVvMV9mNnlR?oc=5",
-      "date": "2026-05-29"
-    },
-    {
       "title": "End of Session: The Good, the Bad, and the Frustrating",
       "source": "Minnesota Senate Republicans",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ3V3WEZkS19uT3BqbzZDNTZnakY5bGZqNVc4Q1cxYjlzNTBYdWRGTFdtQUlQQXhVMnBkbjZlQ2J3QkJSTzBYcmN1blJsa1IyRVl5SFJJZkhYYkFwZXRNYlhxb2VJbHljM0hKdVVoc0dvUHAzbEpJWVBIR3dEbGhmLVRUMGpGdmFrQVgxckVJenJlUQ?oc=5",
@@ -181,6 +175,12 @@
       "title": "Minnesota’s legislative session left rural healthcare systems exposed",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
+      "date": "2026-05-20"
+    },
+    {
+      "title": "Waymo's future in Twin Cities uncertain after Minnesota Legislature fails to pass guidelines for self-driving cars",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQlpyQkRHbXFnNURkOVYzdFJJVDZhTFJnZDFxMjhQWVZrZzRmbnoxZ0FDVm0yYUw0Q2wyMXJHOUJLV1F5djYtbEhKZ2tTbTE3RlVXd2dMd2Y5Mkx6bUw5b2NubERPZXctc1o4U1llLUZ0NG1sZ3ktcnNQUVJmSjRQbFJzQjNjcjFmTlUwbjNVQUM?oc=5",
       "date": "2026-05-20"
     }
   ]
