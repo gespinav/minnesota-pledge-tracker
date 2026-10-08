@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T12:18:50.947Z",
+  "generated": "2026-10-08T22:32:02.426Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -52,16 +52,52 @@
       "date": "2026-08-20"
     },
     {
+      "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNFY3lQTkIwVC15SmQ1MWVmeEVmWkZrS0ZINVNQT2ZBUUllYnlYa2cyVGlkYnA3dmg0cW5rYTdtSzd3c0s5OGgwX1ViQVZmdHAxQ0lpcWZ5VjZFSnU5US03TFVQajdLVXBGNzQ3c25iYWVKSG40S1dVRW9sal92eW9Id2kzR1hOdTduRmdaOWQ?oc=5",
+      "date": "2026-08-18"
+    },
+    {
+      "title": "Conservative provocateur posts video questioning Minnesota election law",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpVWkp6cFlNUng3MmRwV3NhOWE0eHFiUWdDV05STHRmdmNIYk5tTWlqY0JERHZ2ZzlUNXRhVmVsT1BhSG45VlRWTzJnR20yeDZTdGtzQmxONmhBZThLb1J0OHlQU1dnNkcwWEdGQ2FZM2VIOGxSNW1JM0w3LW1zRmd2THBqWkpCcTlnUkxIUEdYcEpsVlVwUmlNTVg0Mld2VUI4a190UmxNQXl2dFdKRA?oc=5",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Minnesota Secretary of State defends vouching law amid voting impersonation stunt",
+      "source": "5 EYEWITNESS NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JzYWlzY0paeU16LTRGSlp1TmpwQU8yV3Jwa2VPR0M4YmFuZFRkS1BnSU5rMGtJYXJwU294VFlXbmZETTJrWnpnVTY2cVpMcDBwajNZWTJKWG9meC1iSFU1eldmUFJtMHhIQ0lyTHpWZzJQeFRENGdrN0NDR1ZnYmlsQ2RKSlZUbElHU2RyLVFfZV9IQVQxMWtRc0pfV2xLOC1oZUhiNXlEQ2ttWjA0?oc=5",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Senate approves funding bill including hemp ban delay to avoid a shutdown before the election",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNuX1N0dHBxZmFTMkF6NGZFTmdYS29qM2VEUDQ2ekNvUzFEMjhhVXdjYWJ4THRJXzhYYTlaRkZ1cFdza2taMUhoa0FaellRdzNQWnpLYW9GV3lFN3NDYnMwX1hXNXpSVU16aGljcFhKcU9xYUhjcms4NkpiaHVyMV9oRHdnRGpRTmRFZmRHM2lWZFZlTXJDZXpBenV3U1NsdGpaNkdneEVHY3puc1E?oc=5",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "A breakdown of Minnesota’s proposed constitutional amendment",
+      "source": "KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTEYxWlM2amd3Y2hpd29KTHdjaEw0Y0hxOTV2eHdZUXJJZDF0XzJ3eXY4ck5DNUhsWmVWM01YRVJ4bzFRZllkcUZfX2NnSUlWeWh4NVUwcnpkak91NXZTTlo2OTREU3ZnT3ZUbHVicG1WNWVvZXJYTDhxbG9vU1JzczJVT1g2NURFVFRnUDN5cVVSNkZm0gGoAUFVX3lxTE8tWG9JV2pHbUFxd21CTWJzVU5kOFRYMVIyelFiMnZlUnlXQS1Md0hOQWRzVVVESk1iQWxzZ0w0Mm5uMVpjOGdsNHg4TXRsYTZkNGZGa01yNGE1Qm1FV2tSb1RpTThqUjA2aGxfYkVGRmlpc0pyOFhndVJBNG9zemozcDQyZ2kwVXkybHhhb0pOWWxrSEZPcU1YelZlX0lzSS1BVEJTMmxJRw?oc=5",
+      "date": "2026-08-02"
+    },
+    {
       "title": "Minnesota, other states, will push for ICE protections",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
       "date": "2026-07-30"
     },
     {
-      "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZTbG05cGNTT092Z0Fjd3lOa0FkXzRGbmF4dTFuODd2a3pRdjQ5LVgzazRjZXJQdkx4RFc4N0FUOE5Za1pnTWVyclFFUHRSenF4ZTFpemRDakNRV1NJdXlCREl5QmJlVEVxRFRYc1dkT0VUWXd0S0hLOGthOTJWdWpIQnJuSnl6UzRjeDBvWUpBenQ5UjlIR1B1RXV3aHVLNUloNV8xNA?oc=5",
-      "date": "2026-07-24"
+      "title": "Elon Musk's xAI sues to stop Minnesota law banning nudification technology",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFFYWluRWl3UXAtOXdhcy1EYUwtZjFTcWw0S0xKdGJPRmxxSDJObmpYQmE2OFVpMzJab21PQWEwa3dUUEJmSkpPamZONEhXdWVfNjZXWDd3Tl9CRFVKb3ZZYW4zWVpQanJoRFVrd0dlOENuclNwNnpIUWJiaFZxYkhYYmpIWnRjdF9STHhkZUNLVjFhdUI5YnBpNTA?oc=5",
+      "date": "2026-07-28"
+    },
+    {
+      "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
+      "date": "2026-07-27"
     },
     {
       "title": "Minnesota's \"Grandparents' Happy Hour\" bill signed into law",
@@ -74,12 +110,6 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDM0VGcyVHZvS0dSc1JvLU4wLW5pNTdRd0tKekx5T29fSnlSNFp2bU4zYmJSSlVMY0ZpbFZlSTR3Y1RWX3lIVUFBMG1vYUlZSHlnN2tmZHkxVjJ3SWwzM1U1c3pqMHdBYm5xbFhRTTBrV2h5TkdXR01uUEFCaU9qRlp2akxOeHBoOVBJLWRTQ3pMekpi?oc=5",
       "date": "2026-07-08"
-    },
-    {
-      "title": "Here are the Minnesota laws that go into effect on July 1",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25HSll3SDdrYTZrc0xiZVZVYzl3LW1rZEl5My1IcUFGcmhTSmpvLW1jd244WG1lcEJRdC04RHZvNFJyTi1tZ3A0RTh6MXFkdmVWMVVsYTRQNW4wYkwtRXlVM0R4bGp2N0ZOeVpFYU5mTDhOdXFfWWRRTUw3THA1eFJLcXZfa3NFWWpxTTlBRGE?oc=5",
-      "date": "2026-06-30"
     },
     {
       "title": "Olson: Minnesota Senate Leader Erin Murphy on her hopes and fears for 2027",
@@ -152,36 +182,6 @@
       "source": "Sahan Journal",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
       "date": "2026-05-22"
-    },
-    {
-      "title": "Anti-grooming bill heads to Walz's desk after unanimous approval from Minnesota Legislature",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUklVNWoyM0VKWjlZMkZoTHdTcV9LMzlhWnB1ZDZ4aWU4NS1oWi1QRWZkUzZiNF9tNTZXVmcxbzVkeF9Ma0l4c21oSXZGMmV2TkFLVV9UTXR6Z002Ym1xemNXVm5KZFltblB1UFF6cWZBWUFoOWhaQi1YZUxMTmVFeg?oc=5",
-      "date": "2026-05-21"
-    },
-    {
-      "title": "The 2026 legislative session in photos",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjRRblUya05mWVlhbVdKSlU5bWlzVjl6WWpUVk9QdnUtSzJrMXlEcjV2QWJoMjZNbXNpQU9OTm1fTkl3RzFCV2tObXVtdXduRW9OYVU3RmJNazlMOTVHbTdQNnE5by1KLVV4WTIxUURuNDNZRU1QTzdqbjVUVDNQd2NFWEU2d29iVnJKdnZnMHhPRTJOX3I1OUVKci1YSTdFVkgydXNwamVpSnBEVzdBRGxkdWlieEhsYkJjeFNWV0E1U052UVkxRy0xSnFqbndrYmdNOUxn?oc=5",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Minnesota legislature allocates $15M to combat disparities in foster care system",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdnFZSHZBaHFRMTBUSUloLU5URndEVm5fOENodEs2RDNKdnRfZkxkVml3Q2c4eWZteUFzb3pVQ0tLMVl6SVFmMUJKVHdsamlRbUYzNmF2QlNzYTJQcktVNGQzLXhGQWRETEJMVjh4bVExRXV0WXJnWTBkSXE4WWR2OE1YajZib1dwcTE4UW4waw?oc=5",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Minnesota’s legislative session left rural healthcare systems exposed",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Waymo's future in Twin Cities uncertain after Minnesota Legislature fails to pass guidelines for self-driving cars",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQlpyQkRHbXFnNURkOVYzdFJJVDZhTFJnZDFxMjhQWVZrZzRmbnoxZ0FDVm0yYUw0Q2wyMXJHOUJLV1F5djYtbEhKZ2tTbTE3RlVXd2dMd2Y5Mkx6bUw5b2NubERPZXctc1o4U1llLUZ0NG1sZ3ktcnNQUVJmSjRQbFJzQjNjcjFmTlUwbjNVQUM?oc=5",
-      "date": "2026-05-20"
     }
   ]
 }
