@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T11:26:42.553Z",
+  "generated": "2026-10-10T16:25:56.851Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -88,10 +88,10 @@
       "date": "2026-08-02"
     },
     {
-      "title": "Minnesota, other states, will push for ICE protections",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejU2TDdTWjVsZTkwMW1ZekhXYTl3YVFhSlRpaTlZRFZpZTZqYlBDQVUtamp3bzZSTDRFZVBqVGRYdDJhb1EtcUVjbjE3RmhRanByZm04QmR3emYtY1liTWlVdXN4WUdETWVEUmsxakZhVHozU0RCekFzUl9jcEhPeXJYOEpDV0FhcklsalVPVEZpbktXRlFDWA?oc=5",
-      "date": "2026-07-30"
+      "title": "Elon Musk's xAI sues to stop Minnesota law banning nudification technology",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFFYWluRWl3UXAtOXdhcy1EYUwtZjFTcWw0S0xKdGJPRmxxSDJObmpYQmE2OFVpMzJab21PQWEwa3dUUEJmSkpPamZONEhXdWVfNjZXWDd3Tl9CRFVKb3ZZYW4zWVpQanJoRFVrd0dlOENuclNwNnpIUWJiaFZxYkhYYmpIWnRjdF9STHhkZUNLVjFhdUI5YnBpNTA?oc=5",
+      "date": "2026-07-28"
     },
     {
       "title": "Angie Craig defends immigration vote in the face of Democrats' fury over Operation Metro Surge",
@@ -100,10 +100,22 @@
       "date": "2026-07-27"
     },
     {
+      "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZTbG05cGNTT092Z0Fjd3lOa0FkXzRGbmF4dTFuODd2a3pRdjQ5LVgzazRjZXJQdkx4RFc4N0FUOE5Za1pnTWVyclFFUHRSenF4ZTFpemRDakNRV1NJdXlCREl5QmJlVEVxRFRYc1dkT0VUWXd0S0hLOGthOTJWdWpIQnJuSnl6UzRjeDBvWUpBenQ5UjlIR1B1RXV3aHVLNUloNV8xNA?oc=5",
+      "date": "2026-07-24"
+    },
+    {
       "title": "Minnesota's \"Grandparents' Happy Hour\" bill signed into law",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CZkxvV3NIaFdNYm9ENnQ5emUxUWNTdHY5bU9TclFZU1pWMTF5ZUk4a25ta1dDT2ItNnVVM25TenVEUElIbXUyM2hXdWxfc2pvbGdPSkNheWRQQmJvaGZzQmp6M1Y3LUtVR2drUmNtNld1VXBSU2RF?oc=5",
       "date": "2026-07-15"
+    },
+    {
+      "title": "“Grandparents’ happy hour” bill signed into law in Minnesota",
+      "source": "kaaltv.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenNYNzhFU0k4RlJJWWpkUURYYUVGTlJaVDFLQmsweDRKZVJjRmpOcDljZVA4RVFIQkZOQXZ4eFYtZDZGRm1PLXJ4MlZJZ0w1NnhRV0h3X29BaVlsT1o3My1RUHFrXzVrQ0lnU1NOb0ZJY3lhXzhlOGFJdDljU19PZFQ4ZG5aVXdSTmV5R01qaw?oc=5",
+      "date": "2026-07-14"
     },
     {
       "title": "Red state? Blue state? Here are the races that will likely determine party control at the Minnesota Legislature",
@@ -134,18 +146,6 @@
       "source": "Minnesota Senate Republicans",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHNScWRKR1R4UDk0UGtDbnBZTk5OQmNaR2o3OU9lLVVlX3pnZDdMZTNOMmVoWnlBaTRnNHZ6SFVnZWJ5Skp6QWdlMmRvcV9Cc1N5bzNLU0F2T20zcWRqanc3bjRSa2VHeUtmVkVUSTBJY2tZZEg0QnA0QXNrWWs1UmZR?oc=5",
       "date": "2026-06-09"
-    },
-    {
-      "title": "Comer: Government Must Stop Fraud Before It Starts",
-      "source": "House.gov",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjJUYUNfem1xS3pjb0JiNTAyZ094VlRaRW9sbTlRcUVoaXFlN0lHb0tpR2N1NV9TRmJpYUFmS2hmTTFsbkk2RldGRkNoZzFYV0cwMGVPU3dKV0RHcldLNUM4ZHFFdFlaYzdTZnJubUlBWFZjMVNzd2FfUmc3b3d6cHRBNFlzMUk2Vjg3QnFLdw?oc=5",
-      "date": "2026-06-08"
-    },
-    {
-      "title": "Magic mushrooms could be legalized in MN",
-      "source": "FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX25seDNpU0VMb3BRM3YwNlR3TjdnRDdIYlJKZkdHWHI3VDJiUzREc283cWV5OWdyUnhhclZmWWRtQ3h6SjVUS2I3akJHWHpqYWlJNkdPcThfQi12bFB3alZCbHJfWWhwYjljTGNPaVJ6eUpwaTNMSXNIdE16NU5FbGdfZGhucm5CM0REWXhPcFNPcGNtV0x3eTV30gGfAUFVX3lxTE5EUjhrcTVReW5oOFBOMVVXOWlhWWRBNjZmb2VocmFsRXFWSXdCeU1fQ2JRRXkzZVE2bzJUWG0xMDhDREhDTktlUGRHMFh0emRDaFdENHk1VlI2dUhoVGp4LVVnSlB5Unk2djFWNnRJTTREWXBRY3N3UDFsTEF3NUtsSVRCQWZKQUxxTHZfeUdqUXpkWnhJRE1YbmRJN09zUQ?oc=5",
-      "date": "2026-05-29"
     },
     {
       "title": "Rep. Michael Howard - Legislative Update - Reflecting On The 2026 Legislative Session",
