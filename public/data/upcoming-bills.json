@@ -1,19 +1,13 @@
 {
-  "generated": "2026-10-16T10:12:46.484Z",
+  "generated": "2026-10-16T15:38:17.642Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
     {
-      "title": "2 rematches in the suburbs could decide balance of power in Minnesota Senate",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTlNRGxMRVltVXhDTFQwVEpqLTU4aFRBR3JqWHRSVFpIczV0d0xHZEZaMTBZVWQ3Y0owNkliZEZzcnFhZ3JhN1Q1elVZZUdDY3ZLWU9rUmhZcmN0UG1selJUcmcwanFrSVhDR2VOREVjNUEzOVk1NUdNb1ZRdnliTXozbzJBZ3BYOVBiblZEN2RVX3laMFBTOE00eEwyTU9OYmVnVWo0Y05FdXJJaVdNMjVkV1k0S0NtQXhSYVBoZkE3OVR4R2NMeDln?oc=5",
-      "date": "2026-10-15"
-    },
-    {
-      "title": "Senator Liz Boldon Denounces Health Insurance Plans, Speaker Demuth, Governor Walz and Minnesota Department of Commerce for Failure to Protect Home Care Nursing Coverage",
-      "source": "Minnesota Senate DFL",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPMXFyVFdsdVhKS2d4NUJaRjZxRWw1eW9nTlVMWWROMVRJNkRpTHF6b2tHMkZ0bzk0a2ptVi1oWVFYQlh0alFIYTVLNGhQOXEzRVdnMmdDdzN2bDJ4V2J5U2tPdzZQczIyaWExY3NETlUwWHh0Q1hqTUZvWk1xX2lwQ09GazVHSVQ2dEp0Z3otVFUwTzVjMlJnSjhuY1F1YllCQTFpdC1tVUhRTzd4TlRweklfdk9obWhzYzdCSklzbnFaSVhTYXdGTzRZWFBlUXVraUpRRkplX2FHNExPcDF5Y0d3alhXdm5hSDZSZlUyTG5VanYzZ2lmSU1kZFRhVC01Q0ZxNG5GY3pwUTdWdWlENmJYWjFhWDFf?oc=5",
-      "date": "2026-10-13"
+      "title": "Lisa Demuth says she voted to cap insulin prices. She voted against it at least twice.",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR09XNXplMEZ2STFYSUY2N2hZZW5iYjhlNk94dzlXREhvV1VsLWVOVmduV0hicW4wODNTdnJhaDZHOHRab3hDdEdwS1FlM3VQbjJmSlRRc2tFcGFzbG82T2tKTVVXalgyS0EtMk5NUDVwVUtCN0F5RlBkWUhESmthZlFuQVhVUUY2TFJNTE4zT2VZd1VBdG12NFZRQXJqZGNoNEpVbTEwTXZGUWpxZVRzQXQ0WHJTeHhkUW8wdmpYMmZmd05n?oc=5",
+      "date": "2026-10-16"
     },
     {
       "title": "All 201 Minnesota legislative seats are on November’s ballot. These are the most competitive",
@@ -52,6 +46,12 @@
       "date": "2026-08-24"
     },
     {
+      "title": "DFL-Authored Flock Camera Legislation to Return in 2027",
+      "source": "Minnesota Senate DFL",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVE40LTdyWnlzT2JQanlqb3B5YmdrSFFYSV9zdVpiTFNoSFpkOFQzRTRxNmlsM1IxQ0ZRRWxNeUoyeUdWQmRSOGlGbUZOa09LNUVLU2VaYmY1M0FWVjBpWXZJUHp3aWZqdWxLVC1NVXJvUGRiMUNCTzl1OU1GMWxjd0k3TQ?oc=5",
+      "date": "2026-08-21"
+    },
+    {
       "title": "Appeals Court gives Minnesota group leeway to discourage voting by nonincarcerated felons",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
@@ -80,6 +80,12 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNuX1N0dHBxZmFTMkF6NGZFTmdYS29qM2VEUDQ2ekNvUzFEMjhhVXdjYWJ4THRJXzhYYTlaRkZ1cFdza2taMUhoa0FaellRdzNQWnpLYW9GV3lFN3NDYnMwX1hXNXpSVU16aGljcFhKcU9xYUhjcms4NkpiaHVyMV9oRHdnRGpRTmRFZmRHM2lWZFZlTXJDZXpBenV3U1NsdGpaNkdneEVHY3puc1E?oc=5",
       "date": "2026-08-08"
+    },
+    {
+      "title": "Klobuchar Statement on Farm Bill Vote",
+      "source": "Senate Committee On Agriculture, Nutrition & Forestry (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRDhiZlFpR1ZnX3BFUW1sck81TVNKRkxzbGNZNUdlQWlpdlRuV1ZNYm0xRjFNZUtZeEYxWi1FUUZaS3JHeFZ0czNrUjd1QWxRa2RPd0pad3I2Qm1LeTVWZmx2NjdoUjlkTWhqZ3V4M2tuQlNBcTNhc0VTS08tN0UycTVwSGxudUMzOVRQVmxQcDdMdjBCbWhDSEo0YzZIWjBW?oc=5",
+      "date": "2026-08-06"
     },
     {
       "title": "A breakdown of Minnesota’s proposed constitutional amendment",
@@ -116,6 +122,18 @@
       "source": "kaaltv.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenNYNzhFU0k4RlJJWWpkUURYYUVGTlJaVDFLQmsweDRKZVJjRmpOcDljZVA4RVFIQkZOQXZ4eFYtZDZGRm1PLXJ4MlZJZ0w1NnhRV0h3X29BaVlsT1o3My1RUHFrXzVrQ0lnU1NOb0ZJY3lhXzhlOGFJdDljU19PZFQ4ZG5aVXdSTmV5R01qaw?oc=5",
       "date": "2026-07-14"
+    },
+    {
+      "title": "Red state? Blue state? Here are the races that will likely determine party control at the Minnesota Legislature",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDM0VGcyVHZvS0dSc1JvLU4wLW5pNTdRd0tKekx5T29fSnlSNFp2bU4zYmJSSlVMY0ZpbFZlSTR3Y1RWX3lIVUFBMG1vYUlZSHlnN2tmZHkxVjJ3SWwzM1U1c3pqMHdBYm5xbFhRTTBrV2h5TkdXR01uUEFCaU9qRlp2akxOeHBoOVBJLWRTQ3pMekpi?oc=5",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "Here are the Minnesota laws that go into effect on July 1",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25HSll3SDdrYTZrc0xiZVZVYzl3LW1rZEl5My1IcUFGcmhTSmpvLW1jd244WG1lcEJRdC04RHZvNFJyTi1tZ3A0RTh6MXFkdmVWMVVsYTRQNW4wYkwtRXlVM0R4bGp2N0ZOeVpFYU5mTDhOdXFfWWRRTUw3THA1eFJLcXZfa3NFWWpxTTlBRGE?oc=5",
+      "date": "2026-06-30"
     },
     {
       "title": "Olson: Minnesota Senate Leader Erin Murphy on her hopes and fears for 2027",
@@ -164,24 +182,6 @@
       "source": "Lakeland PBS",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
       "date": "2026-05-28"
-    },
-    {
-      "title": "Walz signs bill enacting social media guardrails for Minnesota children",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Some MN legislative leaders want more transparency in the negotiating process. Here’s what that could look like.",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnZESS1OMW1GOGVqMno1Mmg2M3lLMkcyUGN4YUx1NlgteWNTNkVzOXNWMzU1TGxGSWU4Y2FzWEZzRnNUTEttQzBKeDNJOFhidFZHckZyWHJjUll1VVYxT05Tb0prX05lcUtqby1QWkJrWEZuTDRNYkhUTE8tVl9RSzA2VjRSUzlaaThRYUVGT1lNUUIyMzhMenlrTTd6NjBZdnJXa0xNamxyenJ1R284NllOOVpCcWVhZlZoVlc2MHBocHloOXVQcWgtMkhnTnJG0gHkAUFVX3lxTE1YYU5CNmYtWXAxV05QdmR2dC02SXkxdmloQlBGZ21hV21VbnY4RklWR0dndFJfTHNrckZMZkNLM2t3c3FkN3p5LXUwWFZObWJxUWdnN3pVeEVkRTkxMzJTdWxfOHQ5TElxRjVBUFZoRTE1LVM5S1ZvS1pLSjFDWm1aZTZoMTJsZk11VDdVTDNaREhjUFppT0FGc2tKanlEVFV0eE4yVnZ5UmNhdDhQWXBhazRJdUZpMllTUmo4S0VTdG5VTXhUdEhrUXEzdnV4UndnMnlWRWRRSV9pdTVBeW9DYm12ag?oc=5",
-      "date": "2026-05-26"
-    },
-    {
-      "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FbWt3czRTYUdqaWRlRzFpcDVFaVNERWV5MUFhRExxU0FXdXZWUTFiQnRWOWpGTmxFZ3RJdGVDc285alB6aXBkdzJPRTNsUXlGNnU1U3FiZHVmVy12S1Y1RWVpQ3c1SVRn?oc=5",
-      "date": "2026-05-22"
     }
   ]
 }
