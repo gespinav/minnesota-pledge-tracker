@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T01:44:23.927Z",
+  "generated": "2026-10-17T09:46:39.827Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -66,8 +66,14 @@
     {
       "title": "Minnesota Secretary of State defends vouching law amid voting impersonation stunt",
       "source": "5 EYEWITNESS NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLU0tcjB0YXktM0NVdVVIUjNKWmp6d0Y5cU9rNkF2MnNqTmJxTDZFRl9MSnZtdXpCbWNUOGI5SDBnOUdRWFE2ZGxFUEZnMW9ZVkJ1UUlTYlhIX2ZXRFN3UnJKd0Y4aVJqa2xuOWtMSFA5LXk1MS1jVC1UUU5lUXRJemRoc2RvZkxKYzI3UVl2aVp6dnRWdTVLZW56LUxTMS1kYjh2UmF0RGI5a1FVRHhVZ21reUdxanF4?oc=5",
-      "date": "2026-08-18"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb3JzYWlzY0paeU16LTRGSlp1TmpwQU8yV3Jwa2VPR0M4YmFuZFRkS1BnSU5rMGtJYXJwU294VFlXbmZETTJrWnpnVTY2cVpMcDBwajNZWTJKWG9meC1iSFU1eldmUFJtMHhIQ0lyTHpWZzJQeFRENGdrN0NDR1ZnYmlsQ2RKSlZUbElHU2RyLVFfZV9IQVQxMWtRc0pfV2xLOC1oZUhiNXlEQ2ttWjA0?oc=5",
+      "date": "2026-08-14"
+    },
+    {
+      "title": "Minnesota election experts: SAVE America Act would disrupt voting to fix ‘a problem that doesn’t exist’",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWZZRlpzMzFXUmdWTkNvMk1SdzJEMG5MUnJaRW83RTFyR0F2eUtiOG9uMnFZTWx1b1hCeklIT3QzOFIyN3lsZExyVF9uTVhXZUtuZnVZU2RfbmJUMDltMTRFT0xuWDJ2UWUxWGJvOWNRUVhoYVZZQ3R3X3hOVld4NXR0LVVuNzV6YzNpa2hzUjZjT2NhWWlKNXJTWklUQVowSU04U3ZjTmtUN0VXMmphbHF4Y21keWVENG1ObTFITXBxWWdYTTBWZWEwbkdGLVkxZ2ViOWZ4SUdWcEU?oc=5",
+      "date": "2026-08-11"
     },
     {
       "title": "Senate approves funding bill including hemp ban delay to avoid a shutdown before the election",
@@ -152,12 +158,6 @@
       "source": "KTTC",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQy1hcUhNaVZPTFQzeEF0cXpJaTZRQ2IxYVBfd05BU1JDNDFaMnItZnZTb2NmR0FVai1jZEo2TFQzdEF1ZDNER0xGMnIxa2syaDN0NkUtdG9HSlJxOTVNNW9adXRwOW44QmdJeEZtN00zSzZmUWNMVTFWY0FReVJMRDBtRFpQbnQwbkctWW5FU21FWW1HUExIdjQ3d3QyY2hhSnE5M1BPOWZMQdIBvgFBVV95cUxOYnpQcHRtMUlCMGoteFVwc25vZkZkR0tzQnlHemxHYldkYXd5SXp0Qmo5VUR0V3FjamZnSm1QRy1hUTRtTXdBZFktaVVRUGhJN2V0ZjNMWS1JTWZSTWpfdjJCeldaQ1hNQ0RWUTFUV01WVmVoSW1yQnV5U1k2WWVRRlp4VUIwc2trWXdPTUtzWFVSVUQ4NEVsNjQ4UHBnOGdkSnRYVW5QTi02Z21iTWY4c1l6ZVdGNkExaUtJUmhR?oc=5",
       "date": "2026-06-12"
-    },
-    {
-      "title": "Comer: Government Must Stop Fraud Before It Starts",
-      "source": "House.gov",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjJUYUNfem1xS3pjb0JiNTAyZ094VlRaRW9sbTlRcUVoaXFlN0lHb0tpR2N1NV9TRmJpYUFmS2hmTTFsbkk2RldGRkNoZzFYV0cwMGVPU3dKV0RHcldLNUM4ZHFFdFlaYzdTZnJubUlBWFZjMVNzd2FfUmc3b3d6cHRBNFlzMUk2Vjg3QnFLdw?oc=5",
-      "date": "2026-06-08"
     },
     {
       "title": "Magic mushrooms could be legalized in MN",
