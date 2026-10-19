@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-19T11:21:06.338Z",
+  "generated": "2026-10-19T17:49:29.547Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Conservative legal organization sues – again — over constitutionality of DFL’s 2024 omnibus",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJnM2xaZUx3WkZJRE5UeDBEd2RpTjVPdUpVU3BGZ0RlT3h5OU5JUjFnZVBzdHczanBySHZsdjFQRVZ3TmZ3UlVZUlFtb0ZEdVlkaVVsZW1zOEdJMjFaYnNQNnFHeFcyeXlETjAzU09ILWNWZHVCcS1RN2FaTWp1c0pWOENJcEt3ZnZCOW1Rc2RDVU5Lc1dNTXZydWI?oc=5",
+      "date": "2026-10-19"
+    },
     {
       "title": "Lisa Demuth says she voted to cap insulin prices. She voted against it at least twice.",
       "source": "Minnesota Reformer",
@@ -176,12 +182,6 @@
       "source": "Lakeland PBS",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Vqd3BLQ0w3X0NzM1JDVTlyOTgtM1pTNFZBYWN0WnhCZEc0a0psQk4tM1dCU2dMUEZCd2lvZGJiVjF6b1l4SzdGaW15S1VmOFFpQ2ZUMXZjSkRnbWNtUUo3XzV4UV9JLW5EeFdobkc4X05PQ0RFbllndTdXdVVRUVctU2pZcnBpR0o4Y2FwWmNIRzBs?oc=5",
       "date": "2026-05-28"
-    },
-    {
-      "title": "Walz signs bill enacting social media guardrails for Minnesota children",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
-      "date": "2026-05-26"
     }
   ]
 }
