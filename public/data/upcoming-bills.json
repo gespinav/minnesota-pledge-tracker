@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-19T21:46:15.011Z",
+  "generated": "2026-10-20T02:16:10.299Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Group challenges 1,400-page Minnesota law passed in 2024 over constitutionality",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTk0aEpKOU81UElGNXlhV2tjMWFSNmg2YVhLZXMwUGEycHAwcEhSdW42eGdUNTB6U3JKV3hyZzloVmFFdWdYd215cUhMcWpvTEZNM3djOE12d2o2S0lEOG9ja0JHWngxRFA2czFMQ2x2bGdma3g0NmEyZHd1bVBLSnRlQlBnNzgtaTlIQUNzOHhwbkIwS25IVHVSRk5IVkUyT0JyZXhTakdCcFVG0gHAAUFVX3lxTE9IRDVESTJ4eE5iUXhBcmc1N210anFTc1Via1I5cGh1Ml9PVEF0dktiVko1YVY5cW5CUlZKel9yMVVEdnMzTW5Da3E0eHpFRW9aNGp6U2RVNHg2Z1VTLUlsbDVybmRiUDgzXzlQTmxFR3UtOXdkemtkMWxsWGN3RW5MVV84Q1k0T1FDcUFlZlZLWjcyOUxUWWdWX2M0NFhRUzZhclV4Tm1neDgxeVNCRGl5OHBRUkt4aENoSU85UHhRUw?oc=5",
+      "date": "2026-10-19"
+    },
     {
       "title": "Conservative legal organization sues – again — over constitutionality of DFL’s 2024 omnibus",
       "source": "Minnesota Reformer",
@@ -58,10 +64,10 @@
       "date": "2026-08-20"
     },
     {
-      "title": "Senate approves funding bill including hemp ban delay to avoid a shutdown before the election",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNuX1N0dHBxZmFTMkF6NGZFTmdYS29qM2VEUDQ2ekNvUzFEMjhhVXdjYWJ4THRJXzhYYTlaRkZ1cFdza2taMUhoa0FaellRdzNQWnpLYW9GV3lFN3NDYnMwX1hXNXpSVU16aGljcFhKcU9xYUhjcms4NkpiaHVyMV9oRHdnRGpRTmRFZmRHM2lWZFZlTXJDZXpBenV3U1NsdGpaNkdneEVHY3puc1E?oc=5",
-      "date": "2026-08-08"
+      "title": "Angie Craig says she regrets her immigration vote. Will Democrats believe her?",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
+      "date": "2026-07-27"
     },
     {
       "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
@@ -86,6 +92,18 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDM0VGcyVHZvS0dSc1JvLU4wLW5pNTdRd0tKekx5T29fSnlSNFp2bU4zYmJSSlVMY0ZpbFZlSTR3Y1RWX3lIVUFBMG1vYUlZSHlnN2tmZHkxVjJ3SWwzM1U1c3pqMHdBYm5xbFhRTTBrV2h5TkdXR01uUEFCaU9qRlp2akxOeHBoOVBJLWRTQ3pMekpi?oc=5",
       "date": "2026-07-08"
+    },
+    {
+      "title": "After a lack of legislative action, Minnesota hospitals say time is running out for a program that’s keeping them afloat",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNXJxZEpVZ3p3akF1X05NSklqblZIRWlMeTRaZ3JKenhlUGVQRWhBZEVLX1RfNjFqQUZ5YXpmRnBWOGxyWFZtZ21FTUFCb1Rya2E3VnhIYVhwb0YtanQwcjcybkZpRTNGTHcyVEcteV9DVk5qOGp1N3FaWU84VDNBTFNfZHRNSW9XbnRCU1BVTnVjTUxSRXo2OC1qVTJYZUpoMmNxc2Q0OThpLTZtc1hnQkNmYWFxSzZSNlJ3Rml2RFVOMkx0WjEwZmg3VFJubG8tMWJqV1h6QdIB6wFBVV95cUxOVHQ0UFdIeWtWVzhKVmQtME0xNml2VkNpU2FDZTV2UUdnWTh3aU5ZeDJvYzNkWDZsS1k5RTBDYnBjWTByWmpZRE9hTmNzNEFiRlRqZXRvb1h2T3RpMWlrbm1VOXpqWVdKT0IxYXVCaldkWFdISFB5S3pLbDJjNEtFRlo2Q081NWQ1d2x0eDNFcTNURl91anJSNnMzbVlwbzRjNDdjcndTamlQWWNtU2xQamZPUVp6QVNfQW15UVdFclkxczFWaG5yX1hhNjBkMlFWME95VVdud21CSllvX0lfNmhRYm9mRTFhNGpv?oc=5",
+      "date": "2026-07-02"
+    },
+    {
+      "title": "Here are the Minnesota laws that go into effect on July 1",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc25HSll3SDdrYTZrc0xiZVZVYzl3LW1rZEl5My1IcUFGcmhTSmpvLW1jd244WG1lcEJRdC04RHZvNFJyTi1tZ3A0RTh6MXFkdmVWMVVsYTRQNW4wYkwtRXlVM0R4bGp2N0ZOeVpFYU5mTDhOdXFfWWRRTUw3THA1eFJLcXZfa3NFWWpxTTlBRGE?oc=5",
+      "date": "2026-06-30"
     },
     {
       "title": "Olson: Minnesota Senate Leader Erin Murphy on her hopes and fears for 2027",
@@ -142,12 +160,6 @@
       "date": "2026-05-22"
     },
     {
-      "title": "Rep. Matt Norris - Legislative Update - End of Session",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdHNpLWRBcFUwZ1ZrNF9Zdlpqa00yajc3eFc3eGVLQ2dYWFhra2lDcU5DckVtb0lKMFd5VS0tenhNcmNTZUxkaXh3WGJtb2RENGJ1VVk0OVhHZmtxU19JTlplQUozN0V5?oc=5",
-      "date": "2026-05-22"
-    },
-    {
       "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
       "source": "Sahan Journal",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
@@ -170,18 +182,6 @@
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS1J2ejkyWWhwU0toc1Z6bzFVZDZuWHRvbWFQeWR4YkNWYTV2Tmd3blBNd1Z3RkNrRUdyZHRpcjAwUzgwWHpzZks0VFAyaVlXZkFJVWctMkZ6aHg3ZzdnQlVZMi1lQ2IzbHg5cWYwQUZkYjNma1VhTzRWUUpUTnpTQzZQSkotOWRScnN5cXZ6YXJuVUhTaWVwUG5Sa2VzUEtKQ0hwbEF4LUpxS0pY?oc=5",
       "date": "2026-05-21"
-    },
-    {
-      "title": "The 2026 legislative session in photos",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbjRRblUya05mWVlhbVdKSlU5bWlzVjl6WWpUVk9QdnUtSzJrMXlEcjV2QWJoMjZNbXNpQU9OTm1fTkl3RzFCV2tObXVtdXduRW9OYVU3RmJNazlMOTVHbTdQNnE5by1KLVV4WTIxUURuNDNZRU1QTzdqbjVUVDNQd2NFWEU2d29iVnJKdnZnMHhPRTJOX3I1OUVKci1YSTdFVkgydXNwamVpSnBEVzdBRGxkdWlieEhsYkJjeFNWV0E1U052UVkxRy0xSnFqbndrYmdNOUxn?oc=5",
-      "date": "2026-05-20"
-    },
-    {
-      "title": "Minnesota’s legislative session left rural healthcare systems exposed",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVZPM0l3RlFVVGZEb25ZZGtuQlp2d0gzNzItLWxTM0EzZ3hMUlN0alJhZEpLTGxzaU4xWmMwS2dYZEdwOEdDbkdWRjFEOGp4YXJxRkNncUFnSnRlemlNY2FJZWlCVk90aF9LMm01VGl1RlBEMTNYVTRrMVpNckk2WnJGcWctcExiNDNrdDJQMjFFMEVNRlFwbFBoN2JHQVAtUGdnVWZyaF9pdWpEcUJ3OGJ3LTM3QzlpcTMw?oc=5",
-      "date": "2026-05-20"
     }
   ]
 }
