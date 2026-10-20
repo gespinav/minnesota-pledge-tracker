@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-20T10:29:38.161Z",
+  "generated": "2026-10-20T15:53:21.170Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "These races could decide who will control Minnesota’s Legislature.",
+      "source": "Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS0VmblpUVFJ2clV2OWxrVVRaYUJlZXlsSVJqTmdTSHdfN2QxNGhWa1lVZmNnTHBBTm5nbG5WOXRObXBfeGpHeW9XSjhuVHpFOEZ1TmhSb3lwNUU5NkwxRmpTZ1duVEdURVphUmNMOTVQWmtlTUhtSF9WNVFKd2lxa2J6SzdWcUR6OEdESmp4Q2xKRWRLU1dQQ1E1c0Jtd0RrcnA3VzllaEZOZEZaU21RaEhJVjMxdGZ1clQydURZZ0xfMnJYMWc?oc=5",
+      "date": "2026-10-20"
+    },
     {
       "title": "Group challenges 1,400-page Minnesota law passed in 2024 over constitutionality",
       "source": "KTTC",
@@ -14,12 +20,6 @@
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJnM2xaZUx3WkZJRE5UeDBEd2RpTjVPdUpVU3BGZ0RlT3h5OU5JUjFnZVBzdHczanBySHZsdjFQRVZ3TmZ3UlVZUlFtb0ZEdVlkaVVsZW1zOEdJMjFaYnNQNnFHeFcyeXlETjAzU09ILWNWZHVCcS1RN2FaTWp1c0pWOENJcEt3ZnZCOW1Rc2RDVU5Lc1dNTXZydWI?oc=5",
       "date": "2026-10-19"
-    },
-    {
-      "title": "Lisa Demuth says she voted to cap insulin prices. She voted against it at least twice.",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR09XNXplMEZ2STFYSUY2N2hZZW5iYjhlNk94dzlXREhvV1VsLWVOVmduV0hicW4wODNTdnJhaDZHOHRab3hDdEdwS1FlM3VQbjJmSlRRc2tFcGFzbG82T2tKTVVXalgyS0EtMk5NUDVwVUtCN0F5RlBkWUhESmthZlFuQVhVUUY2TFJNTE4zT2VZd1VBdG12NFZRQXJqZGNoNEpVbTEwTXZGUWpxZVRzQXQ0WHJTeHhkUW8wdmpYMmZmd05n?oc=5",
-      "date": "2026-10-16"
     },
     {
       "title": "2 rematches in the suburbs could decide balance of power in Minnesota Senate",
@@ -62,6 +62,12 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
       "date": "2026-08-20"
+    },
+    {
+      "title": "Angie Craig says she regrets her immigration vote. Will Democrats believe her?",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
+      "date": "2026-07-27"
     },
     {
       "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
@@ -151,12 +157,6 @@
       "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
       "source": "Sahan Journal",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Counterpoint | The 2026 Minnesota Legislature performed much better than expected",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzNTMmVqYm5WMTM3TUhfYS13cEEyeWhHVUhGMjd6Wmowa09HVGpGSmVVbzIxWjBBcmxPSlZQVHRVYkpvRHBPQzktdzZUYTdXeTB4SERZZEpFc2ZuZnBLaXlMTmJfR2lqVXFIVUdtdUJIaVN2S2Uyb3NYNG1Qb1dOMTBaNTdNUzR6RW5wOA?oc=5",
       "date": "2026-05-22"
     },
     {
