@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T20:56:45.267Z",
+  "generated": "2026-10-22T02:03:51.675Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -22,10 +22,22 @@
       "date": "2026-10-19"
     },
     {
+      "title": "Lisa Demuth says she voted to cap insulin prices. She voted against it at least twice.",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR09XNXplMEZ2STFYSUY2N2hZZW5iYjhlNk94dzlXREhvV1VsLWVOVmduV0hicW4wODNTdnJhaDZHOHRab3hDdEdwS1FlM3VQbjJmSlRRc2tFcGFzbG82T2tKTVVXalgyS0EtMk5NUDVwVUtCN0F5RlBkWUhESmthZlFuQVhVUUY2TFJNTE4zT2VZd1VBdG12NFZRQXJqZGNoNEpVbTEwTXZGUWpxZVRzQXQ0WHJTeHhkUW8wdmpYMmZmd05n?oc=5",
+      "date": "2026-10-16"
+    },
+    {
       "title": "2 rematches in the suburbs could decide balance of power in Minnesota Senate",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYTlNRGxMRVltVXhDTFQwVEpqLTU4aFRBR3JqWHRSVFpIczV0d0xHZEZaMTBZVWQ3Y0owNkliZEZzcnFhZ3JhN1Q1elVZZUdDY3ZLWU9rUmhZcmN0UG1selJUcmcwanFrSVhDR2VOREVjNUEzOVk1NUdNb1ZRdnliTXozbzJBZ3BYOVBiblZEN2RVX3laMFBTOE00eEwyTU9OYmVnVWo0Y05FdXJJaVdNMjVkV1k0S0NtQXhSYVBoZkE3OVR4R2NMeDln?oc=5",
       "date": "2026-10-15"
+    },
+    {
+      "title": "Senator Heather Gustafson Renews Legislation to Strengthen Small Business Entrepreneurship in Minnesota",
+      "source": "Minnesota Senate DFL",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjl6MUdXMzBESGs5MWswNWJjU1RtRWsxemZSYzBtenFTVnpEcjMwVFllaFEwWFBXYU1TcE9wQ1NEQWpZOW11dmt4blZIQ1Y5NTZxZUFQNlJpT0lodXpyRmZHZ0VGeUQza1RNM21qSjNzNzhveGtyLUF6ZnRBSVliS2JLV3lzWDdqYlVGY3pXS1oxRnJBLUdGQXowOWNyZVpPbnVvVVpLSjdNcnZpVEdOR2U0Y0xSVm1XcXNGZVVjVUpHTjg?oc=5",
+      "date": "2026-09-30"
     },
     {
       "title": "All 201 Minnesota legislative seats are on November’s ballot. These are the most competitive",
@@ -58,16 +70,16 @@
       "date": "2026-09-08"
     },
     {
-      "title": "1 year later, Annunciation families still waiting for gun reform in Minnesota",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFcwUTVJWi1ERHhVR3FkdkxvSTUzV3dIa2RhamhDZVpGSjl1dUk3Zm1BSmx3cDlfMm1NaVZ0MW5mMTlDaW9GeWRMeHlPa2hhS1RXOE9ZRExYWTZ5elNZOFRva3EzYzF3cHNLS2lJNHhtbGRSS2d6VmxHbGVlNDhUNlR1ZkczZjByLWVJZ2l0alJ2aVpObEdxZGdnSC1Xb05UZUJBQUlYSVZpeUQzdWJuT2xyek1Tb1k?oc=5",
-      "date": "2026-08-27"
-    },
-    {
       "title": "Bipartisan commission sets timeline for hiring state inspector general",
-      "source": "MN House of Representatives (.gov)",
+      "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMWtLVjQwb1MxTjdKZjhMRXdvSG9jLVB3bTJOaEdfM1NXVlYxV2pnUkxVc1ItWGpxZFU1cTRNOXBZM2pMVGF1N3RwVWpzM1RYeVBTWVNtYkF1QVNsWEE?oc=5",
       "date": "2026-08-26"
+    },
+    {
+      "title": "Engage with your House at the Great Minnesota Get-Together",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGeGlmU1FWbHMwNk0xSUphUlV0OWxpQWFTODJ0VEtmdHF0amhnb0EtVkw0V3k4NFJUTHhLb2ZDTGZUTWZKNzFILS00MEhadE1kbVVVdEdmazJaN3FlSUE?oc=5",
+      "date": "2026-08-25"
     },
     {
       "title": "Senator Jen McEwen Applauds Walz Boundary Waters Executive Order as ‘First Step’ to Protect Minnesota Waters",
@@ -102,7 +114,7 @@
     {
       "title": "What would happen if Republicans ran Minnesota?",
       "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczZsR1BQcnloc0ptdnhkQ3JPRWN3Y0dmSEplcmFucDFFQkxPb2NFQnJadnJPTFZySVVfOTJLRG9tTlJFZFpVRGpTclNNTEl2SlAzaHRmWW0yay1YMWVvSzJiTk4zaDhGWXlkcjYzbVlkaF9WalFOWDRnNkhldTFlYTVHdjI4Sm1aQkVB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHNXN3lRMExhRUhpeV9WOTNDVHpCOXZLdXVWazhXTFdoT2NCSUpZZGdnV1N2aXlTRi1ZSGlxR2JjdnBJcmtCQ2o4RVlDOHhtTjFHck5faEQ5LWRJZkY0Q193Qzd4cWJXd2ROOVdadUg4b181UFJ5M2hNc2dNbXhrRjVMVk9lQ2dYSVE?oc=5",
       "date": "2026-07-13"
     },
     {
@@ -169,18 +181,6 @@
       "title": "Counterpoint | The 2026 Minnesota Legislature performed much better than expected",
       "source": "Star Tribune",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbzNTMmVqYm5WMTM3TUhfYS13cEEyeWhHVUhGMjd6Wmowa09HVGpGSmVVbzIxWjBBcmxPSlZQVHRVYkpvRHBPQzktdzZUYTdXeTB4SERZZEpFc2ZuZnBLaXlMTmJfR2lqVXFIVUdtdUJIaVN2S2Uyb3NYNG1Qb1dOMTBaNTdNUzR6RW5wOA?oc=5",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Rep. Jessica Hanson - Legislative Update - End of 2026 Session",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FbWt3czRTYUdqaWRlRzFpcDVFaVNERWV5MUFhRExxU0FXdXZWUTFiQnRWOWpGTmxFZ3RJdGVDc285alB6aXBkdzJPRTNsUXlGNnU1U3FiZHVmVy12S1Y1RWVpQ3c1SVRn?oc=5",
-      "date": "2026-05-22"
-    },
-    {
-      "title": "Minnesota Legislature approves $10M to aid high-poverty schools",
-      "source": "Sahan Journal",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcktLeGdkUW5aamo0eGs0bnNqajhfZ2ZVWmNNMUMtTkxEcEVfangxYW5sYjdmTUN3OXNfTFl0R0Z4Y2NhOVU0X2cwUGNiZWljUmFtMmVWVFduX2pYNXhXVFoyQmZRZ2lLT1ViWm16OG5zWWpMYTBZUVVtRERaUnZHX3U2clRGdmY0cnJGMWpIMTRZamUxeENsUFRtUQ?oc=5",
       "date": "2026-05-22"
     }
   ]
