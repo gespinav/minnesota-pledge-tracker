@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T10:43:24.759Z",
+  "generated": "2026-10-22T16:08:23.952Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -13,12 +13,6 @@
       "title": "Group challenges 1,400-page Minnesota law passed in 2024 over constitutionality",
       "source": "KTTC",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTk0aEpKOU81UElGNXlhV2tjMWFSNmg2YVhLZXMwUGEycHAwcEhSdW42eGdUNTB6U3JKV3hyZzloVmFFdWdYd215cUhMcWpvTEZNM3djOE12d2o2S0lEOG9ja0JHWngxRFA2czFMQ2x2bGdma3g0NmEyZHd1bVBLSnRlQlBnNzgtaTlIQUNzOHhwbkIwS25IVHVSRk5IVkUyT0JyZXhTakdCcFVG0gHAAUFVX3lxTE9IRDVESTJ4eE5iUXhBcmc1N210anFTc1Via1I5cGh1Ml9PVEF0dktiVko1YVY5cW5CUlZKel9yMVVEdnMzTW5Da3E0eHpFRW9aNGp6U2RVNHg2Z1VTLUlsbDVybmRiUDgzXzlQTmxFR3UtOXdkemtkMWxsWGN3RW5MVV84Q1k0T1FDcUFlZlZLWjcyOUxUWWdWX2M0NFhRUzZhclV4Tm1neDgxeVNCRGl5OHBRUkt4aENoSU85UHhRUw?oc=5",
-      "date": "2026-10-19"
-    },
-    {
-      "title": "Conservative legal organization sues – again — over constitutionality of DFL’s 2024 omnibus",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFJnM2xaZUx3WkZJRE5UeDBEd2RpTjVPdUpVU3BGZ0RlT3h5OU5JUjFnZVBzdHczanBySHZsdjFQRVZ3TmZ3UlVZUlFtb0ZEdVlkaVVsZW1zOEdJMjFaYnNQNnFHeFcyeXlETjAzU09ILWNWZHVCcS1RN2FaTWp1c0pWOENJcEt3ZnZCOW1Rc2RDVU5Lc1dNTXZydWI?oc=5",
       "date": "2026-10-19"
     },
     {
@@ -89,13 +83,13 @@
     },
     {
       "title": "Bipartisan commission sets timeline for hiring state inspector general",
-      "source": "MN House of Representatives (.gov)",
+      "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUMWtLVjQwb1MxTjdKZjhMRXdvSG9jLVB3bTJOaEdfM1NXVlYxV2pnUkxVc1ItWGpxZFU1cTRNOXBZM2pMVGF1N3RwVWpzM1RYeVBTWVNtYkF1QVNsWEE?oc=5",
       "date": "2026-08-26"
     },
     {
       "title": "Engage with your House at the Great Minnesota Get-Together",
-      "source": "MN House of Representatives (.gov)",
+      "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGeGlmU1FWbHMwNk0xSUphUlV0OWxpQWFTODJ0VEtmdHF0amhnb0EtVkw0V3k4NFJUTHhLb2ZDTGZUTWZKNzFILS00MEhadE1kbVVVdEdmazJaN3FlSUE?oc=5",
       "date": "2026-08-25"
     },
@@ -116,12 +110,6 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMFVyQXBVa3Rxc29JMEREc1NWM21wOG5tTERocm9TdmNTUUZldmNTSHVhcVhzMUFfVkkydEpEZ1U3ZDktZ2k2NDhRaUplb2d5V2tDZzh4N2ZZTWhIbWpYYUdhaW1RZG9ROENBSEZGMlNibUhqUEJtb3hSVmZrZEg5Q05yTUg0R3ZpZmFYSjF0Ni12TTJFcjh5RW1xVmNETUY3UklEblFmd0hIRUhTWWFFUGtwZVdPb2llb3Z6OEJ6QmhOU3ZybWtJOE1B?oc=5",
       "date": "2026-08-20"
-    },
-    {
-      "title": "Lindell recount request tied to Minnesota law on discretionary recounts",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV0ZncnpfQmRkdGlBTF9RaGhVY2tjTU43UnJSTDBUU3RXcjFQaGNwNDh6RDZtU0M0ME5lUmhCX3ItN29KMmFSU2ZsZjh6V0hPQ3c5X3hWVVB4ck01eGpjRFF0WDRCa2t6UXVVZFJPWFl1RUVDRTlyUDZpbWlYbnY3ZlZTTXZvR0VNSHJMNnBEMTc1c3lydjhtd3FUaFRSRXPSAbMBQVVfeXFMTjNiVzE1andsbXdSTnBnVmtmOHZoQmFhdW84VzQtaFpVbGFSQ2k3enFlUVlyNmltaFFxYVdLTzl4Ym5IaEE5T2dlbzM1Q1NPZWxROVVxdVhXdmdXWFdRNGRkOVJVb2NuckRUQk9HeGQ5MkJkZmV5ejE1STFrSHhwcVd3bEhTdmNiMXdpTTI3V1ZIMlhQLVNlZzBKczBfcTdublVVQW40djYyakN3UTFhN2RPT0E?oc=5",
-      "date": "2026-08-19"
     },
     {
       "title": "Mike Lindell says he’ll pay for recount in 45,000-vote loss in Minnesota governor primary",
@@ -182,6 +170,18 @@
       "source": "kaaltv.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenNYNzhFU0k4RlJJWWpkUURYYUVGTlJaVDFLQmsweDRKZVJjRmpOcDljZVA4RVFIQkZOQXZ4eFYtZDZGRm1PLXJ4MlZJZ0w1NnhRV0h3X29BaVlsT1o3My1RUHFrXzVrQ0lnU1NOb0ZJY3lhXzhlOGFJdDljU19PZFQ4ZG5aVXdSTmV5R01qaw?oc=5",
       "date": "2026-07-14"
+    },
+    {
+      "title": "What would happen if Republicans ran Minnesota?",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHNXN3lRMExhRUhpeV9WOTNDVHpCOXZLdXVWazhXTFdoT2NCSUpZZGdnV1N2aXlTRi1ZSGlxR2JjdnBJcmtCQ2o4RVlDOHhtTjFHck5faEQ5LWRJZkY0Q193Qzd4cWJXd2ROOVdadUg4b181UFJ5M2hNc2dNbXhrRjVMVk9lQ2dYSVE?oc=5",
+      "date": "2026-07-13"
+    },
+    {
+      "title": "Red state? Blue state? Here are the races that will likely determine party control at the Minnesota Legislature",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDM0VGcyVHZvS0dSc1JvLU4wLW5pNTdRd0tKekx5T29fSnlSNFp2bU4zYmJSSlVMY0ZpbFZlSTR3Y1RWX3lIVUFBMG1vYUlZSHlnN2tmZHkxVjJ3SWwzM1U1c3pqMHdBYm5xbFhRTTBrV2h5TkdXR01uUEFCaU9qRlp2akxOeHBoOVBJLWRTQ3pMekpi?oc=5",
+      "date": "2026-07-08"
     }
   ]
 }
