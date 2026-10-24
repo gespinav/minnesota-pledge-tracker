@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T09:52:52.253Z",
+  "generated": "2026-10-24T14:56:35.545Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -14,12 +14,6 @@
       "source": "KTTC",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTk0aEpKOU81UElGNXlhV2tjMWFSNmg2YVhLZXMwUGEycHAwcEhSdW42eGdUNTB6U3JKV3hyZzloVmFFdWdYd215cUhMcWpvTEZNM3djOE12d2o2S0lEOG9ja0JHWngxRFA2czFMQ2x2bGdma3g0NmEyZHd1bVBLSnRlQlBnNzgtaTlIQUNzOHhwbkIwS25IVHVSRk5IVkUyT0JyZXhTakdCcFVG0gHAAUFVX3lxTE9IRDVESTJ4eE5iUXhBcmc1N210anFTc1Via1I5cGh1Ml9PVEF0dktiVko1YVY5cW5CUlZKel9yMVVEdnMzTW5Da3E0eHpFRW9aNGp6U2RVNHg2Z1VTLUlsbDVybmRiUDgzXzlQTmxFR3UtOXdkemtkMWxsWGN3RW5MVV84Q1k0T1FDcUFlZlZLWjcyOUxUWWdWX2M0NFhRUzZhclV4Tm1neDgxeVNCRGl5OHBRUkt4aENoSU85UHhRUw?oc=5",
       "date": "2026-10-19"
-    },
-    {
-      "title": "Lisa Demuth says she voted to cap insulin prices. She voted against it at least twice.",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR09XNXplMEZ2STFYSUY2N2hZZW5iYjhlNk94dzlXREhvV1VsLWVOVmduV0hicW4wODNTdnJhaDZHOHRab3hDdEdwS1FlM3VQbjJmSlRRc2tFcGFzbG82T2tKTVVXalgyS0EtMk5NUDVwVUtCN0F5RlBkWUhESmthZlFuQVhVUUY2TFJNTE4zT2VZd1VBdG12NFZRQXJqZGNoNEpVbTEwTXZGUWpxZVRzQXQ0WHJTeHhkUW8wdmpYMmZmd05n?oc=5",
-      "date": "2026-10-16"
     },
     {
       "title": "2 rematches in the suburbs could decide balance of power in Minnesota Senate",
@@ -172,16 +166,22 @@
       "date": "2026-07-13"
     },
     {
-      "title": "Red state? Blue state? Here are the races that will likely determine party control at the Minnesota Legislature",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDM0VGcyVHZvS0dSc1JvLU4wLW5pNTdRd0tKekx5T29fSnlSNFp2bU4zYmJSSlVMY0ZpbFZlSTR3Y1RWX3lIVUFBMG1vYUlZSHlnN2tmZHkxVjJ3SWwzM1U1c3pqMHdBYm5xbFhRTTBrV2h5TkdXR01uUEFCaU9qRlp2akxOeHBoOVBJLWRTQ3pMekpi?oc=5",
-      "date": "2026-07-08"
-    },
-    {
       "title": "Rasmusson advances anti-fraud reforms in the 2026 session",
       "source": "Minnesota Senate Republicans",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHMycGNSUGVCcWl1SU5HcnowY0JRWjN6M0xzRVlydDRmUkZORGtzeGlSdlJzRGhrVmM2QV9hY2lxeXRHNG5pN0VQUnJsdjJhTXgtd3N1dk1VaTdCd29hMklMX0Y3V2ZKSW41aEtlNXNUMHZRMlBrSmpCMnJnZDcyQXNWSk5mcVZrSW8tZ0JjenVWWjdaRWtnZ3V3?oc=5",
       "date": "2026-06-25"
+    },
+    {
+      "title": "Olson: Minnesota Senate Leader Erin Murphy on her hopes and fears for 2027",
+      "source": "Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUDdXU2theEIxLVlhUTV0akEyX0RzTTdJWXJGQ3hCWWtLU0c3dnc0Q3pfVmg3cHBlcE9RcmNRNWYzV0MzYU10QnIxNm5rVnhpaEJmNnNUUk1mdXV1UTNlNFlNMzZ1MDFoaDROT3EtSTRNbGg0REhGX3ZHRW1KWjc5UVNlOENNQXRQbXVXNkpjdWVKTVk?oc=5",
+      "date": "2026-06-24"
+    },
+    {
+      "title": "2026 Legislative Session Recap",
+      "source": "mn.gov",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWnptcFp0a1FFUXZMOVBiRUJmTVpfRmJTT29aZWQ4M25ybTkzMVhBNlNiakpnRnp6b2dlNEFPTFFVejgxM2ZWVU9VV3dVVmVyWkZDQnFBRi1mQ0w0YWhUc1JWbUhpSDBnbU5IZDRR?oc=5",
+      "date": "2026-06-13"
     }
   ]
 }
