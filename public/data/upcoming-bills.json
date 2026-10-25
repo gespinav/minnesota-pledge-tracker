@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T19:53:03.695Z",
+  "generated": "2026-10-25T01:53:55.361Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -118,12 +118,6 @@
       "date": "2026-08-18"
     },
     {
-      "title": "Conservative provocateur posts video questioning Minnesota election law",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpVWkp6cFlNUng3MmRwV3NhOWE0eHFiUWdDV05STHRmdmNIYk5tTWlqY0JERHZ2ZzlUNXRhVmVsT1BhSG45VlRWTzJnR20yeDZTdGtzQmxONmhBZThLb1J0OHlQU1dnNkcwWEdGQ2FZM2VIOGxSNW1JM0w3LW1zRmd2THBqWkpCcTlnUkxIUEdYcEpsVlVwUmlNTVg0Mld2VUI4a190UmxNQXl2dFdKRA?oc=5",
-      "date": "2026-08-14"
-    },
-    {
       "title": "Minnesota election experts: SAVE America Act would disrupt voting to fix ‘a problem that doesn’t exist’",
       "source": "MinnPost",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWZZRlpzMzFXUmdWTkNvMk1SdzJEMG5MUnJaRW83RTFyR0F2eUtiOG9uMnFZTWx1b1hCeklIT3QzOFIyN3lsZExyVF9uTVhXZUtuZnVZU2RfbmJUMDltMTRFT0xuWDJ2UWUxWGJvOWNRUVhoYVZZQ3R3X3hOVld4NXR0LVVuNzV6YzNpa2hzUjZjT2NhWWlKNXJTWklUQVowSU04U3ZjTmtUN0VXMmphbHF4Y21keWVENG1ObTFITXBxWWdYTTBWZWEwbkdGLVkxZ2ViOWZ4SUdWcEU?oc=5",
@@ -134,6 +128,12 @@
       "source": "KNSI",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZHJibTNxYnV1VDJveFRwRm8tU3VOUlQzUnpZSl9nVHd5OWZjUEFvQjJRUnJDLUk4R1dJdWRvZnRXOVczTk96aXRLWGo3Nm9ZNTRoLXJWZXlram1KT1Rkc1o2emsxQ3d0VldBYjQ3d1YtdmxqN2Jwckk2NWVucXFKR01jc2RqT2x5SXZUc1ZyTVZGeU9neW9BQy10TDV5OC1LOTNmb1FDNzRKaXlWUWc?oc=5",
       "date": "2026-08-10"
+    },
+    {
+      "title": "Senate approves funding bill including hemp ban delay to avoid a shutdown before the election",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDNuX1N0dHBxZmFTMkF6NGZFTmdYS29qM2VEUDQ2ekNvUzFEMjhhVXdjYWJ4THRJXzhYYTlaRkZ1cFdza2taMUhoa0FaellRdzNQWnpLYW9GV3lFN3NDYnMwX1hXNXpSVU16aGljcFhKcU9xYUhjcms4NkpiaHVyMV9oRHdnRGpRTmRFZmRHM2lWZFZlTXJDZXpBenV3U1NsdGpaNkdneEVHY3puc1E?oc=5",
+      "date": "2026-08-08"
     },
     {
       "title": "A breakdown of Minnesota’s proposed constitutional amendment",
@@ -178,10 +178,10 @@
       "date": "2026-07-08"
     },
     {
-      "title": "Rasmusson advances anti-fraud reforms in the 2026 session",
-      "source": "Minnesota Senate Republicans",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHMycGNSUGVCcWl1SU5HcnowY0JRWjN6M0xzRVlydDRmUkZORGtzeGlSdlJzRGhrVmM2QV9hY2lxeXRHNG5pN0VQUnJsdjJhTXgtd3N1dk1VaTdCd29hMklMX0Y3V2ZKSW41aEtlNXNUMHZRMlBrSmpCMnJnZDcyQXNWSk5mcVZrSW8tZ0JjenVWWjdaRWtnZ3V3?oc=5",
-      "date": "2026-06-25"
+      "title": "New laws in Minnesota: July 1, 2026 edition",
+      "source": "kare11.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1pxV3pIQV91N3RXQzFYRnRBVnpzUGlWcmttWWVtTEFlWjkwOVVSMDZRZ3FSWWw2RmZ3UGZCODlNdjhiNmJlR21hVW1XVHBjUHZOYWFsT2NrR2JwR1RrOU1yVjdjNmNPeUYyeGRwOHN2ZE1LSTJIOUJpOWhSN1BFN0h6UFFNZTRSUzNsdnVpcTF5YkQtX3BqWnlKNUdyS0IxVE9scGhnQzVONWtBdThCdWlwTThhZHEtUWs0WENHbVA?oc=5",
+      "date": "2026-06-30"
     }
   ]
 }
