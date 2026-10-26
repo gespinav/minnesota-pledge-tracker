@@ -1,14 +1,8 @@
 {
-  "generated": "2026-10-26T11:38:02.050Z",
+  "generated": "2026-10-26T17:43:01.961Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
-    {
-      "title": "Parents of slain Annunciation student endorse Klobuchar and say Demuth ‘lied to us’",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZXluSnRnRWt4algwS3FaaDJlRHBMdXFxSGtjdmRJTkczQlJzbmFzOC1DWEtmeWxSMjB2SHRuTVpfdkhIX25Lb2dzVlEzbk5ydFY3WlNGTy0zQXFqU25vSGdsZW9HRjl2d3BudEJuVThwdjRJakItaDV0WGdCX040a3dVbUNxVENaQ19vLWowX294NGFUZTRzeTRhd3lINk5oSW9uWVJSTkFEOWhSRldVZTZremZJMmZzbFRZ?oc=5",
-      "date": "2026-10-22"
-    },
     {
       "title": "Interactive: Predict which party will control Minnesota's Legislature",
       "source": "Star Tribune",
@@ -181,6 +175,12 @@
       "title": "Walz signs bill enacting social media guardrails for Minnesota children",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXhINjdRNUE4ZkVMZ25Nc09VTTc2OXo4eElIX3MwVVgxNU9KRTFmbm8zZUQzeENBREh6NHJXelhNa0o2TC12X2xpZnNIVTNaMDFDa1NUVXp2OHdyVGFPeFljMWdDRUNWdDBfbmphWjMxRnBnR1pGQUVCY3dHbG41STVJeklnWUJ6dmluS2JRMTZPSmtTRDAzQXdNWDhuUlhnUUp6bWpTWl96MmowV1luTkdTMA?oc=5",
+      "date": "2026-05-26"
+    },
+    {
+      "title": "Appeals court: Binary trigger ban not enforceable, but rest of 2024 ‘mega-omnibus’ bill stands",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNnc5ZlRtVnREbV9pUmdYSG50VmY2bnY3WE5uUnZ5WDd2QU01eWFqTXhyLWIxOHBWOWdRQjZ0eGtpY2ZVcVJvbGVpMFBqX29WYUlfVnJQNkNPbGJDS2Rhbm5QMkhSRVRJMmpDbTk3cW9fbFk1SzE0emp0YXVTdWNqVnljS1lxWmp0QXBmUS04TER2cmxOcmhQWTZKakw4ODE2TURaNzZRbmpPcjFDYkpkX29EVk1OOVBuRlFqR0JvUU9TOXRBeTJ1Z0tBeGlMMlZLT1FKNFhuLW0?oc=5",
       "date": "2026-05-26"
     }
   ]
