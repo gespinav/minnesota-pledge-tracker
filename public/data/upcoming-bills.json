@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T22:56:14.710Z",
+  "generated": "2026-11-05T03:51:37.873Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -38,12 +38,6 @@
       "source": "FOX 9 Minneapolis-St. Paul",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80a1ZBcVB0SkJCMmpNekFlamlfM1pnSnNwSFpTdk9BdDdZLXV1RFhFZ05PYmpIX1NJYnJnYlA5RTRSLWE5NmRfZGdwMTR4ZS1aWnRuOEljRWdpWVl6R0V5WkxvT045U0cwd3JaVUdsSjNiNmZ4M2ZFdTBDMWo1Q2M?oc=5",
       "date": "2026-11-04"
-    },
-    {
-      "title": "How well do you know Minnesota's Election Day rules? Take our quiz",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peWRnOVAteUFUbFl2eTNaek1vM1MxUGl5eDNUNWFRaTBIWWZtcjJlM3N5dTdRZ1NoQUtPLWU3a3QxUHZkNFNDaEJWV1VBdXZGTlhRVmxUd19EMFBFSWc?oc=5",
-      "date": "2026-08-11"
     },
     {
       "title": "2026 Legislative Session Recap",
@@ -86,6 +80,12 @@
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbl9uS2xDNG5xRE1kTFRtWE4xRGpCaHE3aXh1S3pQV0FtUHNJWk5wZ1NOVmdLY3BTOF9CM0lKc1NZaW9RY3o1YXZ1RnZjaUxxQV84X2ZIQjJKS2x2LWRqSGRtVW4zZWJkYlJQQVdCTWZQMVZPVXJjcHIzRzY3cGwySUxTZnFBRkYxLUliUERpd3BaTXIzUk41OUd4Ykx0eFJHb0puMy1qVUl2R3RGLTEwTWY1X2hZck1mSjZmanpaZDVvOHlUVThIMldn?oc=5",
       "date": "2026-05-17"
+    },
+    {
+      "title": "Could 2026 retirements lead to record turnover in the House?",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByT3lsbzNaV3lZdFM2UGVmQUlZMzBQMXlTSUNnU1dlV2RibzJtS0pWOWtCRjIzUXlkUHR3MkxNX2pTRGlscDB6V092Z1dPOTQwOUktS3dZM1NoU1Z0Q2c?oc=5",
+      "date": "2026-05-15"
     },
     {
       "title": "2025 Legislative Session Recap",
