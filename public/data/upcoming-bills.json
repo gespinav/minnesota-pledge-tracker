@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-05T22:56:59.984Z",
+  "generated": "2026-11-06T03:49:26.678Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Minnesota Democrats pledge to work on lowering healthcare costs next session",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSC0xVHdXZ2tadUdybTVBemQzMERQUEFZcVNRX0d0ak5pZUl3LVBybWVCYU5YaGZLLUZYdW40MVpZUGhMc3BuWWdDN1ViY0wyaVJvcjdQa01HUVdzMFMtRkdwc2ZQTE5GUVZkckFPdjRlVkl1NS1IVzhWeU1DVXl4OWFzdkpOeGtaWTIzeW9NODBZQjB2Tlkw?oc=5",
+      "date": "2026-11-06"
+    },
     {
       "title": "Democrats flip at least 8 seats in MN House, gain control of state legislature",
       "source": "kare11.com",
@@ -31,12 +37,6 @@
       "title": "Grant Hauschild retains District 3 seat in Minnesota Senate",
       "source": "Duluth News Tribune",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelNXVnRvOHlCUEo4Zi1hUkFVUXhKOUZUYTd5WHNJOWppakZlT3d5dl95NzhCekxsUS00LURsN2lVWG1aU0VOVTZIQnBRYm13V0poWEhzQ1JoelFmUnU3ZW5Db2diaGZDWlBCd2xOOWhSSVJHYy1PMWNzeTR6ajlzbUJOUk5tUEpjUVRtUWp6a2VEd0hneGFUcXc3UVFtRU1zR2diTFhjMA?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Election results: Minnesota Senate District 51-60",
-      "source": "FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80a1ZBcVB0SkJCMmpNekFlamlfM1pnSnNwSFpTdk9BdDdZLXV1RFhFZ05PYmpIX1NJYnJnYlA5RTRSLWE5NmRfZGdwMTR4ZS1aWnRuOEljRWdpWVl6R0V5WkxvT045U0cwd3JaVUdsSjNiNmZ4M2ZFdTBDMWo1Q2M?oc=5",
       "date": "2026-11-04"
     },
     {
