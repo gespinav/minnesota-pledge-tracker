@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07T17:18:52.492Z",
+  "generated": "2026-11-07T21:07:29.480Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -94,12 +94,6 @@
       "date": "2026-05-17"
     },
     {
-      "title": "House DFLers ramp up push for vote on gun control package as session deadline looms",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qVHNOSXFFZktTOXUtMWdSZkg1V2dCWHhyVC1pZVRvVzUtcFM2ZjFNZFNJOVpjd1RyX0Q2Sm92STg0NEd0dUhvOWRHZzFIS2oxVGs4ckZoaThwX3oyaUE?oc=5",
-      "date": "2026-05-14"
-    },
-    {
       "title": "2025 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
@@ -118,16 +112,16 @@
       "date": "2026-05-13"
     },
     {
+      "title": "House passes restrictions on social media to safeguard underage users",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PMTctM3c4bHJyNDR5N3JNSFpqd3R1NUU5c3VtWHlFMlZxZEtWZG4wV05uWjhlTUpGa1JIMFF3UUNJWHBDM2hUUGJYQ1l6VVFDVXZtNHVqTzd2MFNqSVE?oc=5",
+      "date": "2026-05-12"
+    },
+    {
       "title": "In heavily partisan Minnesota Legislature, some issues nudged along by cross-party cooperation",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXYzM0FneVlkSzJUdFFRbElzcWttbS1mOC1idFYyajFIM250eHplYWs1RmNiODFBRjhPVXBEUUFpREhTWjJMMk04THEwdEJzUl93LS11Qmt3V0VBZkw4ZjVJMGlkOFUxZXduTW5uWmVERjNyM2NHRjlqd0RHUWd4SUFNdy1yelFxUURYSDZHeHNOY3k0MmY4N3lCdlk1ek0?oc=5",
       "date": "2026-04-13"
-    },
-    {
-      "title": "Will this be the most unproductive Minnesota legislative session ever?",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJ2d3lHR0ZwWEhHVmNERFRmNDhIdWcyYk1wMm5FbXdEMUk5eV96Q2pOQy04V2ZKNHFKWjM4WFNKUDJlcWRHaERnZkJTcWlnalIzaTh4MnlvRTZtSEd1S095bW56WEJNd3B0TlZDYmFFZjBoYTA3TERXLWU0MXk3MTlPaDFwZW10bDVCRUpPb1ZZd3ZKeldkMzBwVjlXUmt6Uzk0cVg5SnBPTENhRVMwRg?oc=5",
-      "date": "2026-02-16"
     },
     {
       "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
