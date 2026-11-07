@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-06T22:27:29.581Z",
+  "generated": "2026-11-07T03:22:52.624Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Petition seeks to start design contest for Minnesota’s ‘I voted’ stickers",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGZtQVZKV1Y5d0tSWXB2UVp1c0JOZ1VuNklhV0tIZlJCaEdLOXJwMzdjdHdCeERheDBwWHM1WWROOENPaldhZ3F5ZTc1YW9jRU5ScXFzZHhXa3R5T21xTEQxbTJjZnI2NFRsaTBWVGtzZjhNdHlPSVgxaWp1WUZPV3M2ekZLX0JxOWFQNlBzUHlWalhGOTF6TnlwVmlpdw?oc=5",
+      "date": "2026-11-06"
+    },
     {
       "title": "House DFLers select Stephenson as speaker-designate for 2027-2028 biennium",
       "source": "Minnesota House of Representatives (.gov)",
@@ -46,12 +52,6 @@
       "date": "2026-11-04"
     },
     {
-      "title": "How well do you know Minnesota's Election Day rules? Take our quiz",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peWRnOVAteUFUbFl2eTNaek1vM1MxUGl5eDNUNWFRaTBIWWZtcjJlM3N5dTdRZ1NoQUtPLWU3a3QxUHZkNFNDaEJWV1VBdXZGTlhRVmxUd19EMFBFSWc?oc=5",
-      "date": "2026-08-11"
-    },
-    {
       "title": "2026 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWnptcFp0a1FFUXZMOVBiRUJmTVpfRmJTT29aZWQ4M25ybTkzMVhBNlNiakpnRnp6b2dlNEFPTFFVejgxM2ZWVU9VV3dVVmVyWkZDQnFBRi1mQ0w0YWhUc1JWbUhpSDBnbU5IZDRR?oc=5",
@@ -65,7 +65,7 @@
     },
     {
       "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
-      "source": "MN House of Representatives (.gov)",
+      "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
       "date": "2026-05-18"
     },
@@ -83,7 +83,7 @@
     },
     {
       "title": "House OKs cannabis bill with new license, streamlined supply chain - Session Daily",
-      "source": "MN House of Representatives (.gov)",
+      "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EUzRrclV0V3pGQzhVUWhRNlpCRG9lOGJmcnB6S2w4dk50VWhEYzNiMnlLdUZNRmVfeEVldDctMnk3dnRYUkRjSWJQQl92UFpGNUFEYXRqVnNqR2pLd0E?oc=5",
       "date": "2026-05-17"
     },
@@ -100,16 +100,22 @@
       "date": "2026-05-15"
     },
     {
+      "title": "House DFLers ramp up push for vote on gun control package as session deadline looms",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qVHNOSXFFZktTOXUtMWdSZkg1V2dCWHhyVC1pZVRvVzUtcFM2ZjFNZFNJOVpjd1RyX0Q2Sm92STg0NEd0dUhvOWRHZzFIS2oxVGs4ckZoaThwX3oyaUE?oc=5",
+      "date": "2026-05-14"
+    },
+    {
       "title": "2025 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
       "date": "2026-05-13"
     },
     {
-      "title": "Bipartisan bill aims to boost distribution of dollars from state's Permanent School Fund",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sTTZyZk5pd0lkZy1UbWRucV9tWXgtSzAzQVAtWXlnTURJN3hmc0lDMDhGS0VDYXhFUDRZT0paYW9UbWdhcXNYQ0pqbHFiNlhnOXdaZWdySkd4SldTOFE?oc=5",
-      "date": "2026-05-04"
+      "title": "Minnesota House passes $165 million housing package, sends agreement to governor",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kWVZXdmtaSEVVbWZRWmo1Qkh4ajN1Wi15NHd1NDlZWTVQVXJ6aXVXWmpzbld5NmRoTkpyN0R5TWxDdUpRTXVtZXlXR3NsNE1LNVN4dlZ2N2lydUh1TUE?oc=5",
+      "date": "2026-05-13"
     },
     {
       "title": "In heavily partisan Minnesota Legislature, some issues nudged along by cross-party cooperation",
