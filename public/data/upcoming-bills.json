@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T12:17:12.378Z",
+  "generated": "2026-11-08T21:24:05.926Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -19,6 +19,12 @@
       "title": "House DFLers select Stephenson as speaker-designate for 2027-2028 biennium",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nVDd3enBYWVQ2NzV1ZmgzNU1kNXRPQ2M1bmNERk9oS1pDVDNuMDhFZUhRSFRDbzdHbmphY3BTTW4xV0FZTDBERU1YdFhjZnMwYTNteEpqOEtUcmw0ZGc?oc=5",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Iowa's next governor Rob Sand, facing GOP legislature, vows \"I'm going to veto\" culture war bills",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGhWb2RaQW8xX2RpVUJBRUJpeGMzSGUyS1lUcFdaUGFCamJvRFlfSG8wMVN1dVhzQ1lfS2g1c1VEdkJtaEIxTUtEZjVBZng2bjlvdEhUNHRpbWJnVHVENDZZV19KYUFfSURlTy1ucjhyTTFRaS1pbEh2NVNGOFBmR09sZ0REUW9YbndaQnhXZVBYOWs?oc=5",
       "date": "2026-11-06"
     },
     {
@@ -52,6 +58,12 @@
       "date": "2026-11-04"
     },
     {
+      "title": "Grant Hauschild retains District 3 seat in Minnesota Senate",
+      "source": "Duluth News Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelNXVnRvOHlCUEo4Zi1hUkFVUXhKOUZUYTd5WHNJOWppakZlT3d5dl95NzhCekxsUS00LURsN2lVWG1aU0VOVTZIQnBRYm13V0poWEhzQ1JoelFmUnU3ZW5Db2diaGZDWlBCd2xOOWhSSVJHYy1PMWNzeTR6ajlzbUJOUk5tUEpjUVRtUWp6a2VEd0hneGFUcXc3UVFtRU1zR2diTFhjMA?oc=5",
+      "date": "2026-11-04"
+    },
+    {
       "title": "2026 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWnptcFp0a1FFUXZMOVBiRUJmTVpfRmJTT29aZWQ4M25ybTkzMVhBNlNiakpnRnp6b2dlNEFPTFFVejgxM2ZWVU9VV3dVVmVyWkZDQnFBRi1mQ0w0YWhUc1JWbUhpSDBnbU5IZDRR?oc=5",
@@ -59,7 +71,7 @@
     },
     {
       "title": "Evenly-split House compromises to pass major legislation, finish session on time",
-      "source": "MN House of Representatives (.gov)",
+      "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX25CUE9QOFZQQ05yRjlmRWU4Q254SlUzdUF6c0V0UDZSRldXYzRoMzd2QUg4bF9xMGY4MjNQa1pYSnlvZS1IMHNTS0JCYnRmbDhJQ1dHYklpVXJHanc?oc=5",
       "date": "2026-05-18"
     },
@@ -80,12 +92,6 @@
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
       "date": "2026-05-18"
-    },
-    {
-      "title": "House OKs cannabis bill with new license, streamlined supply chain - Session Daily",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EUzRrclV0V3pGQzhVUWhRNlpCRG9lOGJmcnB6S2w4dk50VWhEYzNiMnlLdUZNRmVfeEVldDctMnk3dnRYUkRjSWJQQl92UFpGNUFEYXRqVnNqR2pLd0E?oc=5",
-      "date": "2026-05-17"
     },
     {
       "title": "Minnesota Legislature closes out session marked by partisan division and election year politics",
@@ -118,16 +124,16 @@
       "date": "2026-05-12"
     },
     {
+      "title": "House passes elections bill after lengthy amendments discussions",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZemduVWxGMm5kamlmU0ZuSFJhVmw2UnFuMkVfcjBhMjhxSG9PS0hCV3llY2NNdkx2OXBwYUl3OHV4UXRjRURPbTlzQkhzeVQ2cEJTSDBNZUhOX012QVE?oc=5",
+      "date": "2026-05-06"
+    },
+    {
       "title": "In heavily partisan Minnesota Legislature, some issues nudged along by cross-party cooperation",
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXYzM0FneVlkSzJUdFFRbElzcWttbS1mOC1idFYyajFIM250eHplYWs1RmNiODFBRjhPVXBEUUFpREhTWjJMMk04THEwdEJzUl93LS11Qmt3V0VBZkw4ZjVJMGlkOFUxZXduTW5uWmVERjNyM2NHRjlqd0RHUWd4SUFNdy1yelFxUURYSDZHeHNOY3k0MmY4N3lCdlk1ek0?oc=5",
       "date": "2026-04-13"
-    },
-    {
-      "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEtMOExzYTJXTTdRY1hYcE9zRVR4cUZLWk56YXA2TEp4Z1pCb2hVRkttbm96Z05VakstelJCa3J1OFZzX0pLalZFYWFGLUFDdWlSSHRxSE4zLXk2MlpoMXNxNkdOMnZNM3BUWS1nWVhXVVM5UElkWlFiYVlKTE5EWWlMbFQzWDNUVFZRZjVJWHliSFVxeC1ZTF9YeWlkNWpKS2h1dloyeXFMZ2JlVlRZZTdjamRHTjNzSEFCY04wWXJsaTVzT0JnTG51QUVXMzl2NUJNM2RxUQ?oc=5",
-      "date": "2025-09-25"
     },
     {
       "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
