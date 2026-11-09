@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T03:11:36.808Z",
+  "generated": "2026-11-09T14:28:26.103Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -118,12 +118,6 @@
       "date": "2026-05-13"
     },
     {
-      "title": "House passes restrictions on social media to safeguard underage users",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PMTctM3c4bHJyNDR5N3JNSFpqd3R1NUU5c3VtWHlFMlZxZEtWZG4wV05uWjhlTUpGa1JIMFF3UUNJWHBDM2hUUGJYQ1l6VVFDVXZtNHVqTzd2MFNqSVE?oc=5",
-      "date": "2026-05-12"
-    },
-    {
       "title": "House passes elections bill after lengthy amendments discussions",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZemduVWxGMm5kamlmU0ZuSFJhVmw2UnFuMkVfcjBhMjhxSG9PS0hCV3llY2NNdkx2OXBwYUl3OHV4UXRjRURPbTlzQkhzeVQ2cEJTSDBNZUhOX012QVE?oc=5",
@@ -134,6 +128,18 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXYzM0FneVlkSzJUdFFRbElzcWttbS1mOC1idFYyajFIM250eHplYWs1RmNiODFBRjhPVXBEUUFpREhTWjJMMk04THEwdEJzUl93LS11Qmt3V0VBZkw4ZjVJMGlkOFUxZXduTW5uWmVERjNyM2NHRjlqd0RHUWd4SUFNdy1yelFxUURYSDZHeHNOY3k0MmY4N3lCdlk1ek0?oc=5",
       "date": "2026-04-13"
+    },
+    {
+      "title": "House lawmakers weigh proposed 'wealth tax' on assets over $10 million",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1UURGV0E5R3VZSWpQeGoxMWs3eHBhSjljQmNid2RFcTR1QndJSG9CdDRXY05CN3RPT0hsdHhUMXREQzN2RElLTTN2WS04S2VoNkxLWnZZQXFiUkJhWlE?oc=5",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "In a big Senate race reversal, U.S. Rep. Angie Craig voices regrets over vote on immigration law",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkdleEk2NzNFeGRYdFFxNzY4Vno0Y0pyUWo5ZHk2V2dOVmh5NmxlY0FFUnljMGs0X0dLaXNQT2s0NGt6b1V1SV9zeWp4bTR4elF0YmZEM0pGbVpkMW9Ec3liU2lIX0ZzNUU5V0Q5cVh5LUI5dDNLNGM3R19hb1FSZmtvWDhEVUIxbTk5UjBYdXZ0OFpXdzk2b1h6ZUNvVlhlem1uekpRb01mMDhKRmFzUTNNaXUxNzhSTy0zYU5taG0wN3lSakRBMVZ1Sk12TVE?oc=5",
+      "date": "2026-03-02"
     },
     {
       "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
