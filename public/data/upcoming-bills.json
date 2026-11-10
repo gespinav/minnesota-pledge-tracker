@@ -1,14 +1,8 @@
 {
-  "generated": "2026-11-09T14:28:26.103Z",
+  "generated": "2026-11-10T00:54:00.290Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
-    {
-      "title": "Legislative caucuses elect new leaders, discuss election results ahead of new legislative session",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS21kQ0ltT1dSVmRtbXpnb2YxNTN0bW9fYmZGbzRib185SFpxN0dqQU1rNE1HWkZETjZmOTN1eW1YTXp0T3NKNlRpZWcyNHRUSHFlUzBWMVVSTlFHVVJySjRFdXMyQWpOcG9PTThHc2JDaURxQW9nZzl1VWo3Ti1Lb3lOVEUxZ1dZTVo0cW5TVDcwQ2FHdWVKWHB3WVJYWFdvV21MbXdickY4ZGhpYXpROUxxNEFHaC1BU3A4aFhPOURUMVJD0gHYAUFVX3lxTE5oZ0Nqcy01NlJmT21pT3FzVlZ2MVNpTzBFamJtV3REejc5aHFDRFhwdVdGeHl0cWhBdGdKeTlSTy1zSTRNV05TeGNoZl9Fc2Via25ZVnhqallVZC1ySHVzeDZyLUk4dzlWUDdnSEtrQ3VYLUxhRjZhVks5ZW11Vlo3MTN6MUhSS0hDRmJOU0FTS2tPb2FsdDFuLVFpd2lmNmYxQmZOMENlUldzZ2pzZERVNHJfM1ZWZUhUUmcycVJCNG9QRkhLbkVIS0hJQzYwOEE1OGlVTFY4UA?oc=5",
-      "date": "2026-11-06"
-    },
     {
       "title": "Petition seeks to start design contest for Minnesota’s ‘I voted’ stickers",
       "source": "MPR News",
@@ -55,12 +49,6 @@
       "title": "Democrats take control of both chambers of the Minnesota Legislature",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHhWVENUc3ZCNEdnalR3VEF4NkhBaE1fdVhndlFnYWwtZ3ZUVW92d09LdW5kVy04RjRlZTk3aU9jTm5LWmtJRG5hLWFsLVRsRWpOVW1FUG5ULVhKTXNxY3dpeDdONzg0ZWRrUTI3cXVIVEU5ejI1SFBlczVTMjdlNU5GaE0ya3NDbW9YT1JLU05DZ3ZTWFFNVDdfN3drZzlMOUVFNUY4WQ?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Grant Hauschild retains District 3 seat in Minnesota Senate",
-      "source": "Duluth News Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelNXVnRvOHlCUEo4Zi1hUkFVUXhKOUZUYTd5WHNJOWppakZlT3d5dl95NzhCekxsUS00LURsN2lVWG1aU0VOVTZIQnBRYm13V0poWEhzQ1JoelFmUnU3ZW5Db2diaGZDWlBCd2xOOWhSSVJHYy1PMWNzeTR6ajlzbUJOUk5tUEpjUVRtUWp6a2VEd0hneGFUcXc3UVFtRU1zR2diTFhjMA?oc=5",
       "date": "2026-11-04"
     },
     {
@@ -118,34 +106,16 @@
       "date": "2026-05-13"
     },
     {
-      "title": "House passes elections bill after lengthy amendments discussions",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZemduVWxGMm5kamlmU0ZuSFJhVmw2UnFuMkVfcjBhMjhxSG9PS0hCV3llY2NNdkx2OXBwYUl3OHV4UXRjRURPbTlzQkhzeVQ2cEJTSDBNZUhOX012QVE?oc=5",
-      "date": "2026-05-06"
-    },
-    {
-      "title": "In heavily partisan Minnesota Legislature, some issues nudged along by cross-party cooperation",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXYzM0FneVlkSzJUdFFRbElzcWttbS1mOC1idFYyajFIM250eHplYWs1RmNiODFBRjhPVXBEUUFpREhTWjJMMk04THEwdEJzUl93LS11Qmt3V0VBZkw4ZjVJMGlkOFUxZXduTW5uWmVERjNyM2NHRjlqd0RHUWd4SUFNdy1yelFxUURYSDZHeHNOY3k0MmY4N3lCdlk1ek0?oc=5",
-      "date": "2026-04-13"
-    },
-    {
       "title": "House lawmakers weigh proposed 'wealth tax' on assets over $10 million",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1UURGV0E5R3VZSWpQeGoxMWs3eHBhSjljQmNid2RFcTR1QndJSG9CdDRXY05CN3RPT0hsdHhUMXREQzN2RElLTTN2WS04S2VoNkxLWnZZQXFiUkJhWlE?oc=5",
       "date": "2026-04-07"
     },
     {
-      "title": "In a big Senate race reversal, U.S. Rep. Angie Craig voices regrets over vote on immigration law",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkdleEk2NzNFeGRYdFFxNzY4Vno0Y0pyUWo5ZHk2V2dOVmh5NmxlY0FFUnljMGs0X0dLaXNQT2s0NGt6b1V1SV9zeWp4bTR4elF0YmZEM0pGbVpkMW9Ec3liU2lIX0ZzNUU5V0Q5cVh5LUI5dDNLNGM3R19hb1FSZmtvWDhEVUIxbTk5UjBYdXZ0OFpXdzk2b1h6ZUNvVlhlem1uekpRb01mMDhKRmFzUTNNaXUxNzhSTy0zYU5taG0wN3lSakRBMVZ1Sk12TVE?oc=5",
-      "date": "2026-03-02"
-    },
-    {
-      "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEtMOExzYTJXTTdRY1hYcE9zRVR4cUZLWk56YXA2TEp4Z1pCb2hVRkttbm96Z05VakstelJCa3J1OFZzX0pLalZFYWFGLUFDdWlSSHRxSE4zLXk2MlpoMXNxNkdOMnZNM3BUWS1nWVhXVVM5UElkWlFiYVlKTE5EWWlMbFQzWDNUVFZRZjVJWHliSFVxeC1ZTF9YeWlkNWpKS2h1dloyeXFMZ2JlVlRZZTdjamRHTjNzSEFCY04wWXJsaTVzT0JnTG51QUVXMzl2NUJNM2RxUQ?oc=5",
-      "date": "2025-09-25"
+      "title": "Vehicle registration tax cut bill crashes in committee",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndFdHNVRfWTlFUGZVb2NSTThrdHJxdXNoWGh2THlFU3JzXzlnSGJic0g4MTNuOThUcTJfcC1TNlRLVDlBa3pKc0xuLUNUd1Vfa3h3dlk1c1VQWU9qR2c?oc=5",
+      "date": "2026-03-25"
     },
     {
       "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
