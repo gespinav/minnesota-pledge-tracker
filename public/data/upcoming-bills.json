@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-10T13:50:15.794Z",
+  "generated": "2026-11-10T22:35:48.888Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "BWCA advocates want mining ban after Dem sweep, but some DFLers walk fine line on the issue",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEVLakFrRHIwZ1VFOEtvSVNkRnJjT2hUbjZ3dzhXQWRoX1RCSG9laFdhei1pYTVWc09jRVl4c1E3dk1IZHczU2hWVEtiUXNJMjhPSXhJWFZWcm92cGt0ajktRHh2aG1jd3FNZzVCaTl4bVhhbTM2WGh1cFRfNThXYkw4ZkowUng1WG9kck56dF9vMkxwbGVYVG1kX3lGekxmX0VrR3lNSXo5bVJfejQxRQ?oc=5",
+      "date": "2026-11-10"
+    },
     {
       "title": "DFL trifecta returns to Minnesota Capitol for 94th Legislature",
       "source": "KTTC | Rochester, MN",
@@ -55,12 +61,6 @@
       "title": "Democrats take control of both chambers of the Minnesota Legislature",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHhWVENUc3ZCNEdnalR3VEF4NkhBaE1fdVhndlFnYWwtZ3ZUVW92d09LdW5kVy04RjRlZTk3aU9jTm5LWmtJRG5hLWFsLVRsRWpOVW1FUG5ULVhKTXNxY3dpeDdONzg0ZWRrUTI3cXVIVEU5ejI1SFBlczVTMjdlNU5GaE0ya3NDbW9YT1JLU05DZ3ZTWFFNVDdfN3drZzlMOUVFNUY4WQ?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Grant Hauschild retains District 3 seat in Minnesota Senate",
-      "source": "Duluth News Tribune",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelNXVnRvOHlCUEo4Zi1hUkFVUXhKOUZUYTd5WHNJOWppakZlT3d5dl95NzhCekxsUS00LURsN2lVWG1aU0VOVTZIQnBRYm13V0poWEhzQ1JoelFmUnU3ZW5Db2diaGZDWlBCd2xOOWhSSVJHYy1PMWNzeTR6ajlzbUJOUk5tUEpjUVRtUWp6a2VEd0hneGFUcXc3UVFtRU1zR2diTFhjMA?oc=5",
       "date": "2026-11-04"
     },
     {
@@ -118,22 +118,22 @@
       "date": "2026-04-13"
     },
     {
-      "title": "House lawmakers weigh proposed 'wealth tax' on assets over $10 million",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1UURGV0E5R3VZSWpQeGoxMWs3eHBhSjljQmNid2RFcTR1QndJSG9CdDRXY05CN3RPT0hsdHhUMXREQzN2RElLTTN2WS04S2VoNkxLWnZZQXFiUkJhWlE?oc=5",
-      "date": "2026-04-07"
-    },
-    {
-      "title": "Vehicle registration tax cut bill crashes in committee",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ndFdHNVRfWTlFUGZVb2NSTThrdHJxdXNoWGh2THlFU3JzXzlnSGJic0g4MTNuOThUcTJfcC1TNlRLVDlBa3pKc0xuLUNUd1Vfa3h3dlk1c1VQWU9qR2c?oc=5",
-      "date": "2026-03-25"
-    },
-    {
       "title": "Bill would regulate services allowing employees early access to wages",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZS3pkZkxFT1RHX1Q4ek5DR0hjaEk5Z1N1eXYwcDIwV3Q3WFNLV3pmTkxmQWlxTVVNcG4wZWtUNXE0TmZMWlZpWmtQWldGVXhJNW9TTGVNel9zRVVzaGc?oc=5",
       "date": "2026-03-24"
+    },
+    {
+      "title": "Bill to regulate license plate readers stalls in judiciary panel",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oVzlZMElqOHFTbnEtalB1MkZnZ3VBSllqTlpEX05vZEZDZ2tveThVMGlXQ2w5UEFRVjNJMndWSFlNMy1RWUJHZ3VyYTJJU0l4OXVnNUM2WVNNQkpYamc?oc=5",
+      "date": "2026-03-17"
+    },
+    {
+      "title": "Bill to formally end housing stabilization services program gets panel OK",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOTRlaTlscTNkQmQ4T0k3RjAwSzhGOGUzZ21valY1RmZvWUpCbjVHaVBzcGEyaEMtVEFWLVg5RGpHUDVYSTlqQ3dvbUI4YWVyeTZVeVQ0MHBqZjA0aWc?oc=5",
+      "date": "2026-02-18"
     },
     {
       "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
