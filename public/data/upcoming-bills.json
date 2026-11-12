@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T14:03:32.482Z",
+  "generated": "2026-11-12T22:54:52.365Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -22,21 +22,15 @@
       "date": "2026-11-06"
     },
     {
+      "title": "Iowa's next governor Rob Sand, facing GOP legislature, vows \"I'm going to veto\" culture war bills",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGhWb2RaQW8xX2RpVUJBRUJpeGMzSGUyS1lUcFdaUGFCamJvRFlfSG8wMVN1dVhzQ1lfS2g1c1VEdkJtaEIxTUtEZjVBZng2bjlvdEhUNHRpbWJnVHVENDZZV19KYUFfSURlTy1ucjhyTTFRaS1pbEh2NVNGOFBmR09sZ0REUW9YbndaQnhXZVBYOWs?oc=5",
+      "date": "2026-11-06"
+    },
+    {
       "title": "DFL regains control of Minnesota House - Session Daily",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbXBJYUlIdHgyQjNjMlJaRnBGLXd2a1BqRnNfcUdXcmNaUFR5ajN1N2xxWi13cmVodjNsOWUzOXdvLTJvZEdaVG9jNF9LeDNPU1AxbHNZeXRQa2JZQ0E?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Democrats take control of both chambers of the Minnesota Legislature",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHhWVENUc3ZCNEdnalR3VEF4NkhBaE1fdVhndlFnYWwtZ3ZUVW92d09LdW5kVy04RjRlZTk3aU9jTm5LWmtJRG5hLWFsLVRsRWpOVW1FUG5ULVhKTXNxY3dpeDdONzg0ZWRrUTI3cXVIVEU5ejI1SFBlczVTMjdlNU5GaE0ya3NDbW9YT1JLU05DZ3ZTWFFNVDdfN3drZzlMOUVFNUY4WQ?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Democrats flip at least 8 seats in MN House, gain control of state legislature",
-      "source": "kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDFhUkRvUHFXMWRmZF9XQ0RHYlBnYW5HbGJsVzR2MGc0S3RtQW1MTkx1b2IyWHhuc2dVZkhRLWpFRDR2WXI3UTdJbGxhNXNKUU51N0RzaXRrNWdjQVowS1hTQk5ad2ZwT1g2MHdOcGx6NXFGWHhfdVUyWXV3eUxxNVI1a000Tzd4dE00bTVsTWd4YnA0bi1rNlZVaUk2OUZpazZXYi1lVWZIY050ZFd0eGJMR1pfenkxcVItQ0VBeHBGanNOb0RhbmhvbFA?oc=5",
       "date": "2026-11-04"
     },
     {
@@ -76,12 +70,6 @@
       "date": "2026-05-17"
     },
     {
-      "title": "As DFL sit-in ends, Minnesota lawmakers yet to vote on key issues before Sunday",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenVSWmZhNmU2TEYzd1dKVVBadlpRRm8zWlVLMnVVaFN2QnVMbXZGaGpuU3RldjAtd1hHNl8tVDBNU0xZMFVoVmVwNFN2blJySldKRll1UFhmTXBMRzZVVFZJSlh6aEE3MTdKY2hWMTVLWXRMZUR6dTdYQy1ZSmtMWXhZZ1Awb2ltYWJ4M29BOHcwbE1GRzRCQkZ0UUR1dFdKb2hXNzBxR1d4cG1KY21SNA?oc=5",
-      "date": "2026-05-16"
-    },
-    {
       "title": "2025 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
@@ -110,6 +98,12 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOTRlaTlscTNkQmQ4T0k3RjAwSzhGOGUzZ21valY1RmZvWUpCbjVHaVBzcGEyaEMtVEFWLVg5RGpHUDVYSTlqQ3dvbUI4YWVyeTZVeVQ0MHBqZjA0aWc?oc=5",
       "date": "2026-02-18"
+    },
+    {
+      "title": "Will this be the most unproductive Minnesota legislative session ever?",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJ2d3lHR0ZwWEhHVmNERFRmNDhIdWcyYk1wMm5FbXdEMUk5eV96Q2pOQy04V2ZKNHFKWjM4WFNKUDJlcWRHaERnZkJTcWlnalIzaTh4MnlvRTZtSEd1S095bW56WEJNd3B0TlZDYmFFZjBoYTA3TERXLWU0MXk3MTlPaDFwZW10bDVCRUpPb1ZZd3ZKeldkMzBwVjlXUmt6Uzk0cVg5SnBPTENhRVMwRg?oc=5",
+      "date": "2026-02-16"
     },
     {
       "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
