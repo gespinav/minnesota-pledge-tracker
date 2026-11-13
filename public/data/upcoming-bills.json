@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T13:29:23.778Z",
+  "generated": "2026-11-13T22:56:57.344Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -10,10 +10,10 @@
       "date": "2026-11-13"
     },
     {
-      "title": "Upcoming budget forecast will dictate direction of 2027 legislative session",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFVFMmhKWkNpVlhuem9aUzhvUGY3OFJEWUI0bm5WY3pxSGM2ZENRYXBySlljWjFJVnBwTzhVMENiMlRTdmFuem93b1FnX3duZkFILVYzdG53UVA0cEN6QUhKc0VIX1VXUTJYZVpyOUs4LW5tX3RjVFVkUjhLWkF0amxNVmJaYTdoYlFJcjdLZ0MtNlM5eExMNFQ2eWpCR3J6WU82YXpDMFbSAbwBQVVfeXFMUHBEUTdTUHEybmdUNlVRaThPSkJveFo1MjNrXzAyNmotaFEzV21VRHBqVkhuUENZSVkwbEREY3p1Wi0ybUhGRjFzLVhncWp1c3ljREdYbnFvNm9NVVhCVjBtOTE5YzJ4NGxSNFBzeUlMWng3VFdTTHZMYlNuN0JkdEl5NVFZcUFKcldXNXotM3loMW5KVHQ4T1lzYlNpclBEVzAwUGQwbDZJU1o1UHU2MnU3SFlQb2dtYmxRbjA?oc=5",
-      "date": "2026-11-12"
+      "title": "Klobuchar eyes legislation capping land rent increases for Minnesota mobile home residents",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjItdE1kNlBEUENvQWp0bk5QajBJVE5Oai1pLXU4TDc3MHhLbnJkaFp3X3ZVNVN3Q3NGY2JrXzhzdkxUaDQ5YkVJUTQ0M2dWRjhmakVfWVFYLU9ERlk5SFRmR0ZCUzBfX2NTLTVGQ0pZYjRSMS1VN2VGTFBrb3NQeDZ1VktjR1JWaExiZnlvV3NDblMzRGlv?oc=5",
+      "date": "2026-11-10"
     },
     {
       "title": "DFL trifecta returns to Minnesota Capitol for 94th Legislature",
@@ -22,9 +22,9 @@
       "date": "2026-11-10"
     },
     {
-      "title": "Legislative caucuses elect new leaders, discuss election results ahead of new legislative session",
-      "source": "KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS21kQ0ltT1dSVmRtbXpnb2YxNTN0bW9fYmZGbzRib185SFpxN0dqQU1rNE1HWkZETjZmOTN1eW1YTXp0T3NKNlRpZWcyNHRUSHFlUzBWMVVSTlFHVVJySjRFdXMyQWpOcG9PTThHc2JDaURxQW9nZzl1VWo3Ti1Lb3lOVEUxZ1dZTVo0cW5TVDcwQ2FHdWVKWHB3WVJYWFdvV21MbXdickY4ZGhpYXpROUxxNEFHaC1BU3A4aFhPOURUMVJD0gHYAUFVX3lxTE5oZ0Nqcy01NlJmT21pT3FzVlZ2MVNpTzBFamJtV3REejc5aHFDRFhwdVdGeHl0cWhBdGdKeTlSTy1zSTRNV05TeGNoZl9Fc2Via25ZVnhqallVZC1ySHVzeDZyLUk4dzlWUDdnSEtrQ3VYLUxhRjZhVks5ZW11Vlo3MTN6MUhSS0hDRmJOU0FTS2tPb2FsdDFuLVFpd2lmNmYxQmZOMENlUldzZ2pzZERVNHJfM1ZWZUhUUmcycVJCNG9QRkhLbkVIS0hJQzYwOEE1OGlVTFY4UA?oc=5",
+      "title": "House Republicans choose Niska to lead caucus as minority leader",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KT0g0RFc3WmxucTVqZnFVSlAycThqV05sMnZMNXF1WHhreXJ0ZDBnZDB6ZzU1MU5Talo5eHdpbllVLUxLaUhCcEVORWhmdllpZ2t0MEhhSWVaak1Kd2c?oc=5",
       "date": "2026-11-06"
     },
     {
@@ -70,12 +70,6 @@
       "date": "2026-05-18"
     },
     {
-      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
       "title": "2025 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
@@ -92,12 +86,6 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOTRlaTlscTNkQmQ4T0k3RjAwSzhGOGUzZ21valY1RmZvWUpCbjVHaVBzcGEyaEMtVEFWLVg5RGpHUDVYSTlqQ3dvbUI4YWVyeTZVeVQ0MHBqZjA0aWc?oc=5",
       "date": "2026-02-18"
-    },
-    {
-      "title": "Will this be the most unproductive Minnesota legislative session ever?",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJ2d3lHR0ZwWEhHVmNERFRmNDhIdWcyYk1wMm5FbXdEMUk5eV96Q2pOQy04V2ZKNHFKWjM4WFNKUDJlcWRHaERnZkJTcWlnalIzaTh4MnlvRTZtSEd1S095bW56WEJNd3B0TlZDYmFFZjBoYTA3TERXLWU0MXk3MTlPaDFwZW10bDVCRUpPb1ZZd3ZKeldkMzBwVjlXUmt6Uzk0cVg5SnBPTENhRVMwRg?oc=5",
-      "date": "2026-02-16"
     },
     {
       "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
