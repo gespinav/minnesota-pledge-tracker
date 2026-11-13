@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-12T22:54:52.365Z",
+  "generated": "2026-11-13T03:44:44.772Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Minnesota DFL leaders push to pass Equal Rights Amendment this legislative session",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDN3V3FHczRCaW11X1l1R25QNVhBLTl2S0dxTFJnWnBwNC1wallfZS1zNHVza0pCaENibGxqZE80alF3NHJJU1V0dVpyX2Y3QVFHZWlmV0xlTVNEV281Y0dnRXd5VlQ5MUJQbkQ1dmxnUHJjbjNQWEV1QXVxdjhUb2h3?oc=5",
+      "date": "2026-11-13"
+    },
     {
       "title": "Upcoming budget forecast will dictate direction of 2027 legislative session",
       "source": "KTTC | Rochester, MN",
@@ -14,6 +20,12 @@
       "source": "KTTC | Rochester, MN",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnpCWTFTRTFfczgyX000cndsSXFnenV4dzhnczNpc0d6NEI4aGpHSlotTjdRNXE2d2tLbVhMSmJ4SWJTREFYYjlJR0xkZzloVXdrUVZ6VFdWSUxqSkl5MXFoWTl4bVJOTk95Tm4zYmFPLVlPOXRscm9kT3pYbW94SWQwc3FRWDZmMXNzaWZMUC1wd9IBpgFBVV95cUxQb0NycHo2SGRxUEdGX2pLcmFFS0R4LTRPT1ZCbkQxTjBxWHNBTzBPMUt2WmxBdGdaUlF2TC1yNWQyTWoyTGNmeUI4YWNvX3J6TTNsdURpaTN1dDFCYnVhcExuNUhPa05Yd0o2VHlTaDdTRFltZF9JS01ZSEJjUThaa0NmTThXN2dxRlNaemRub2RJNl84dVczSmM2dnFWSUlKOVFlOGVn?oc=5",
       "date": "2026-11-10"
+    },
+    {
+      "title": "Legislative caucuses elect new leaders, discuss election results ahead of new legislative session",
+      "source": "KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS21kQ0ltT1dSVmRtbXpnb2YxNTN0bW9fYmZGbzRib185SFpxN0dqQU1rNE1HWkZETjZmOTN1eW1YTXp0T3NKNlRpZWcyNHRUSHFlUzBWMVVSTlFHVVJySjRFdXMyQWpOcG9PTThHc2JDaURxQW9nZzl1VWo3Ti1Lb3lOVEUxZ1dZTVo0cW5TVDcwQ2FHdWVKWHB3WVJYWFdvV21MbXdickY4ZGhpYXpROUxxNEFHaC1BU3A4aFhPOURUMVJD0gHYAUFVX3lxTE5oZ0Nqcy01NlJmT21pT3FzVlZ2MVNpTzBFamJtV3REejc5aHFDRFhwdVdGeHl0cWhBdGdKeTlSTy1zSTRNV05TeGNoZl9Fc2Via25ZVnhqallVZC1ySHVzeDZyLUk4dzlWUDdnSEtrQ3VYLUxhRjZhVks5ZW11Vlo3MTN6MUhSS0hDRmJOU0FTS2tPb2FsdDFuLVFpd2lmNmYxQmZOMENlUldzZ2pzZERVNHJfM1ZWZUhUUmcycVJCNG9QRkhLbkVIS0hJQzYwOEE1OGlVTFY4UA?oc=5",
+      "date": "2026-11-06"
     },
     {
       "title": "House DFLers select Stephenson as speaker-designate for 2027-2028 biennium",
@@ -88,22 +100,10 @@
       "date": "2026-05-13"
     },
     {
-      "title": "In heavily partisan Minnesota Legislature, some issues nudged along by cross-party cooperation",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXYzM0FneVlkSzJUdFFRbElzcWttbS1mOC1idFYyajFIM250eHplYWs1RmNiODFBRjhPVXBEUUFpREhTWjJMMk04THEwdEJzUl93LS11Qmt3V0VBZkw4ZjVJMGlkOFUxZXduTW5uWmVERjNyM2NHRjlqd0RHUWd4SUFNdy1yelFxUURYSDZHeHNOY3k0MmY4N3lCdlk1ek0?oc=5",
-      "date": "2026-04-13"
-    },
-    {
       "title": "Bill to formally end housing stabilization services program gets panel OK",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOTRlaTlscTNkQmQ4T0k3RjAwSzhGOGUzZ21valY1RmZvWUpCbjVHaVBzcGEyaEMtVEFWLVg5RGpHUDVYSTlqQ3dvbUI4YWVyeTZVeVQ0MHBqZjA0aWc?oc=5",
       "date": "2026-02-18"
-    },
-    {
-      "title": "Will this be the most unproductive Minnesota legislative session ever?",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJ2d3lHR0ZwWEhHVmNERFRmNDhIdWcyYk1wMm5FbXdEMUk5eV96Q2pOQy04V2ZKNHFKWjM4WFNKUDJlcWRHaERnZkJTcWlnalIzaTh4MnlvRTZtSEd1S095bW56WEJNd3B0TlZDYmFFZjBoYTA3TERXLWU0MXk3MTlPaDFwZW10bDVCRUpPb1ZZd3ZKeldkMzBwVjlXUmt6Uzk0cVg5SnBPTENhRVMwRg?oc=5",
-      "date": "2026-02-16"
     },
     {
       "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
@@ -118,16 +118,16 @@
       "date": "2025-06-10"
     },
     {
-      "title": "House GOP bill would shift emergency authority from governor to Legislature",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWldyeG5ncUs3MGdySy1jQTRjOXZ0a2RTNloxT2p3QWV5VWxQWEtvOGNGV2JwNVUxdlNjdDk0YzhLZ2x0NkVYU2p0aUxYUVBvWDBvMUdWWVFmdHVwQ2c?oc=5",
-      "date": "2025-02-26"
-    },
-    {
       "title": "House passes changes to paid leave law amid chaos at close of vote - Session Daily",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQ3RHb2NpR2FmdGhRd1JIV0RUMExURV9QLW5SRTk4YlFwSkc2ckM1VVBxQ0ZGQzBLVkxaX0o0eE1kaVdMM2FjUE9PVlRQOFVhcW15R0dELUNzaEVJUGc?oc=5",
       "date": "2024-05-16"
+    },
+    {
+      "title": "Last-minute compromise narrows scope of nurse staffing bill that goes to governor",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZcXFSQ1BDUXFqdUZLWDZiaWxpNms5UmI1RXRUTnNRVjE2N1d5YXB4RU02czhVNXhzY0RmSndXcnpxZnBEeEQ1N2N4STdSOFRZMTZqbHA4dVlLMHZjUUE?oc=5",
+      "date": "2023-05-22"
     }
   ]
 }
