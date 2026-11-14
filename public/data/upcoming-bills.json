@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T03:43:25.340Z",
+  "generated": "2026-11-14T12:34:54.252Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -17,7 +17,7 @@
     },
     {
       "title": "DFL trifecta returns to Minnesota Capitol for 94th Legislature",
-      "source": "KTTC | Rochester, MN",
+      "source": "KTTC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnpCWTFTRTFfczgyX000cndsSXFnenV4dzhnczNpc0d6NEI4aGpHSlotTjdRNXE2d2tLbVhMSmJ4SWJTREFYYjlJR0xkZzloVXdrUVZ6VFdWSUxqSkl5MXFoWTl4bVJOTk95Tm4zYmFPLVlPOXRscm9kT3pYbW94SWQwc3FRWDZmMXNzaWZMUC1wd9IBpgFBVV95cUxQb0NycHo2SGRxUEdGX2pLcmFFS0R4LTRPT1ZCbkQxTjBxWHNBTzBPMUt2WmxBdGdaUlF2TC1yNWQyTWoyTGNmeUI4YWNvX3J6TTNsdURpaTN1dDFCYnVhcExuNUhPa05Yd0o2VHlTaDdTRFltZF9JS01ZSEJjUThaa0NmTThXN2dxRlNaemRub2RJNl84dVczSmM2dnFWSUlKOVFlOGVn?oc=5",
       "date": "2026-11-10"
     },
@@ -31,12 +31,6 @@
       "title": "House DFLers select Stephenson as speaker-designate for 2027-2028 biennium",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nVDd3enBYWVQ2NzV1ZmgzNU1kNXRPQ2M1bmNERk9oS1pDVDNuMDhFZUhRSFRDbzdHbmphY3BTTW4xV0FZTDBERU1YdFhjZnMwYTNteEpqOEtUcmw0ZGc?oc=5",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "Iowa's next governor Rob Sand, facing GOP legislature, vows \"I'm going to veto\" culture war bills",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGhWb2RaQW8xX2RpVUJBRUJpeGMzSGUyS1lUcFdaUGFCamJvRFlfSG8wMVN1dVhzQ1lfS2g1c1VEdkJtaEIxTUtEZjVBZng2bjlvdEhUNHRpbWJnVHVENDZZV19KYUFfSURlTy1ucjhyTTFRaS1pbEh2NVNGOFBmR09sZ0REUW9YbndaQnhXZVBYOWs?oc=5",
       "date": "2026-11-06"
     },
     {
@@ -76,12 +70,6 @@
       "date": "2026-05-13"
     },
     {
-      "title": "Conference committee strikes agreement on proposed school funding constitutional amendment",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TYkRoS0hVeWlnSG1kV05VUWp3UVN4YllBRFBTZlE0ajJsQ3hTUEFjYXcwUE9yT0k1amhNZDZaby15c2VNS2djZzNTbjRmSXl0Wk1ZZldET1hJZTNfZ3c?oc=5",
-      "date": "2026-05-13"
-    },
-    {
       "title": "Bill to formally end housing stabilization services program gets panel OK",
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOTRlaTlscTNkQmQ4T0k3RjAwSzhGOGUzZ21valY1RmZvWUpCbjVHaVBzcGEyaEMtVEFWLVg5RGpHUDVYSTlqQ3dvbUI4YWVyeTZVeVQ0MHBqZjA0aWc?oc=5",
@@ -110,6 +98,12 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZcXFSQ1BDUXFqdUZLWDZiaWxpNms5UmI1RXRUTnNRVjE2N1d5YXB4RU02czhVNXhzY0RmSndXcnpxZnBEeEQ1N2N4STdSOFRZMTZqbHA4dVlLMHZjUUE?oc=5",
       "date": "2023-05-22"
+    },
+    {
+      "title": "Video: How a bill becomes a law in Minnesota",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWWlJZTRCNVdpMUl2R1lDbEl2UjYzMzVjZzJtS2NrakpocGRRNjNlWi1PNk9CcFZMUEE0bFJfQnpsN0sxUkswRGdBNEJvdFZYSXZGZElmTUpYSThvUWp1TFV5NlZ3TEN0R2tGQ3h1OEZKWXFuWXI0bkZHZk53QlRzaA?oc=5",
+      "date": "2019-05-03"
     }
   ]
 }
