@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T12:34:54.252Z",
+  "generated": "2026-11-14T21:43:02.133Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -10,10 +10,10 @@
       "date": "2026-11-13"
     },
     {
-      "title": "Klobuchar eyes legislation capping land rent increases for Minnesota mobile home residents",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjItdE1kNlBEUENvQWp0bk5QajBJVE5Oai1pLXU4TDc3MHhLbnJkaFp3X3ZVNVN3Q3NGY2JrXzhzdkxUaDQ5YkVJUTQ0M2dWRjhmakVfWVFYLU9ERlk5SFRmR0ZCUzBfX2NTLTVGQ0pZYjRSMS1VN2VGTFBrb3NQeDZ1VktjR1JWaExiZnlvV3NDblMzRGlv?oc=5",
-      "date": "2026-11-10"
+      "title": "Upcoming budget forecast will dictate direction of 2027 legislative session",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORFVFMmhKWkNpVlhuem9aUzhvUGY3OFJEWUI0bm5WY3pxSGM2ZENRYXBySlljWjFJVnBwTzhVMENiMlRTdmFuem93b1FnX3duZkFILVYzdG53UVA0cEN6QUhKc0VIX1VXUTJYZVpyOUs4LW5tX3RjVFVkUjhLWkF0amxNVmJaYTdoYlFJcjdLZ0MtNlM5eExMNFQ2eWpCR3J6WU82YXpDMFbSAbwBQVVfeXFMUHBEUTdTUHEybmdUNlVRaThPSkJveFo1MjNrXzAyNmotaFEzV21VRHBqVkhuUENZSVkwbEREY3p1Wi0ybUhGRjFzLVhncWp1c3ljREdYbnFvNm9NVVhCVjBtOTE5YzJ4NGxSNFBzeUlMWng3VFdTTHZMYlNuN0JkdEl5NVFZcUFKcldXNXotM3loMW5KVHQ4T1lzYlNpclBEVzAwUGQwbDZJU1o1UHU2MnU3SFlQb2dtYmxRbjA?oc=5",
+      "date": "2026-11-12"
     },
     {
       "title": "DFL trifecta returns to Minnesota Capitol for 94th Legislature",
@@ -37,12 +37,6 @@
       "title": "DFL regains control of Minnesota House - Session Daily",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbXBJYUlIdHgyQjNjMlJaRnBGLXd2a1BqRnNfcUdXcmNaUFR5ajN1N2xxWi13cmVodjNsOWUzOXdvLTJvZEdaVG9jNF9LeDNPU1AxbHNZeXRQa2JZQ0E?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Minnesota Democrats secure majorities in state House and Senate",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9yNmR5b1ZZRUdpOVpGc21zVXE3YzVkVnFBYU1wLUpjZEZHbE9WSXVOR1ptRjU2N1RPZjkwOC1yQ3RIMEpIN2R4NjdkMzJSemxEWjdIc3VOX19mN000VUhtWGd3TTlLajVwYjljWUFDVXlVVlZRaEI2OWVBUUVWSURIVDJsTVN6MENTQV9TUFJsUjVxNjlEZFphMlJmN2ZIWjFvSWNIMVg?oc=5",
       "date": "2026-11-04"
     },
     {
@@ -92,12 +86,6 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQ3RHb2NpR2FmdGhRd1JIV0RUMExURV9QLW5SRTk4YlFwSkc2ckM1VVBxQ0ZGQzBLVkxaX0o0eE1kaVdMM2FjUE9PVlRQOFVhcW15R0dELUNzaEVJUGc?oc=5",
       "date": "2024-05-16"
-    },
-    {
-      "title": "Last-minute compromise narrows scope of nurse staffing bill that goes to governor",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZcXFSQ1BDUXFqdUZLWDZiaWxpNms5UmI1RXRUTnNRVjE2N1d5YXB4RU02czhVNXhzY0RmSndXcnpxZnBEeEQ1N2N4STdSOFRZMTZqbHA4dVlLMHZjUUE?oc=5",
-      "date": "2023-05-22"
     },
     {
       "title": "Video: How a bill becomes a law in Minnesota",
