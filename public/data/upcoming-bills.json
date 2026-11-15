@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T03:20:37.574Z",
+  "generated": "2026-11-15T13:00:15.915Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -8,6 +8,12 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDN3V3FHczRCaW11X1l1R25QNVhBLTl2S0dxTFJnWnBwNC1wallfZS1zNHVza0pCaENibGxqZE80alF3NHJJU1V0dVpyX2Y3QVFHZWlmV0xlTVNEV281Y0dnRXd5VlQ5MUJQbkQ1dmxnUHJjbjNQWEV1QXVxdjhUb2h3?oc=5",
       "date": "2026-11-13"
+    },
+    {
+      "title": "Law professor breaks down what would change if MN passes the Equal Rights Amendment",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHZnamIxSWg0SDBCLXFPUjJlOWwxOVZfNmtzbnlsem5yM0xwclFqTjhsZWJlZmVqME1zeF84SExQb2d2N3RRY3E0RWtvOGtFcUhBLWpLYWZBUjZpaG1uS2xwZ2FqRmVERnN2dVBhUDdUZGdGYmNJb1hXczk4WGg1Q1RhUTVwTjAzZVEw?oc=5",
+      "date": "2026-11-12"
     },
     {
       "title": "Upcoming budget forecast will dictate direction of 2027 legislative session",
@@ -25,12 +31,6 @@
       "title": "House Republicans choose Niska to lead caucus as minority leader",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KT0g0RFc3WmxucTVqZnFVSlAycThqV05sMnZMNXF1WHhreXJ0ZDBnZDB6ZzU1MU5Talo5eHdpbllVLUxLaUhCcEVORWhmdllpZ2t0MEhhSWVaak1Kd2c?oc=5",
-      "date": "2026-11-06"
-    },
-    {
-      "title": "House DFLers select Stephenson as speaker-designate for 2027-2028 biennium",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nVDd3enBYWVQ2NzV1ZmgzNU1kNXRPQ2M1bmNERk9oS1pDVDNuMDhFZUhRSFRDbzdHbmphY3BTTW4xV0FZTDBERU1YdFhjZnMwYTNteEpqOEtUcmw0ZGc?oc=5",
       "date": "2026-11-06"
     },
     {
@@ -55,6 +55,12 @@
       "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -86,12 +92,6 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWldyeG5ncUs3MGdySy1jQTRjOXZ0a2RTNloxT2p3QWV5VWxQWEtvOGNGV2JwNVUxdlNjdDk0YzhLZ2x0NkVYU2p0aUxYUVBvWDBvMUdWWVFmdHVwQ2c?oc=5",
       "date": "2025-02-26"
-    },
-    {
-      "title": "House passes changes to paid leave law amid chaos at close of vote - Session Daily",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOQ3RHb2NpR2FmdGhRd1JIV0RUMExURV9QLW5SRTk4YlFwSkc2ckM1VVBxQ0ZGQzBLVkxaX0o0eE1kaVdMM2FjUE9PVlRQOFVhcW15R0dELUNzaEVJUGc?oc=5",
-      "date": "2024-05-16"
     },
     {
       "title": "Video: How a bill becomes a law in Minnesota",
