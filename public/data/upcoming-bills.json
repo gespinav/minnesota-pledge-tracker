@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T21:43:02.133Z",
+  "generated": "2026-11-15T03:20:37.574Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -52,9 +52,9 @@
       "date": "2026-05-18"
     },
     {
-      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
+      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
       "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -80,6 +80,12 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEM1TXN3ZXlGZlBGalZFRGJpRVhWYVlqMzhhVk9MZWpvNTdIR19WNVI1RzFjU1pTS1Fta0JTSGpZZWYyRHUwUWtQRWhzWHRYMHNpbU1QNjZxb2ZpRFV3a3VfSEVNSnZIZkJJdDNaZDhoUlZ2LWdaNURXN0FYWEdhYTlJWW1lZTFISHFKSkFvVUZEQy1OLWFWYi1yUQ?oc=5",
       "date": "2025-06-10"
+    },
+    {
+      "title": "House GOP bill would shift emergency authority from governor to Legislature",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWldyeG5ncUs3MGdySy1jQTRjOXZ0a2RTNloxT2p3QWV5VWxQWEtvOGNGV2JwNVUxdlNjdDk0YzhLZ2x0NkVYU2p0aUxYUVBvWDBvMUdWWVFmdHVwQ2c?oc=5",
+      "date": "2025-02-26"
     },
     {
       "title": "House passes changes to paid leave law amid chaos at close of vote - Session Daily",
