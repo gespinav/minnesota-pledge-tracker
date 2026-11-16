@@ -1,6 +1,103 @@
 {
-  "generated": "2026-11-15T22:09:47.155Z",
+  "generated": "2026-11-16T03:22:26.527Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
-  "items": []
+  "items": [
+    {
+      "title": "Law professor breaks down what would change if MN passes the Equal Rights Amendment",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHZnamIxSWg0SDBCLXFPUjJlOWwxOVZfNmtzbnlsem5yM0xwclFqTjhsZWJlZmVqME1zeF84SExQb2d2N3RRY3E0RWtvOGtFcUhBLWpLYWZBUjZpaG1uS2xwZ2FqRmVERnN2dVBhUDdUZGdGYmNJb1hXczk4WGg1Q1RhUTVwTjAzZVEw?oc=5",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Klobuchar eyes legislation capping land rent increases for Minnesota mobile home residents",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjItdE1kNlBEUENvQWp0bk5QajBJVE5Oai1pLXU4TDc3MHhLbnJkaFp3X3ZVNVN3Q3NGY2JrXzhzdkxUaDQ5YkVJUTQ0M2dWRjhmakVfWVFYLU9ERlk5SFRmR0ZCUzBfX2NTLTVGQ0pZYjRSMS1VN2VGTFBrb3NQeDZ1VktjR1JWaExiZnlvV3NDblMzRGlv?oc=5",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "BWCA advocates want mining ban after Dem sweep, but some DFLers walk fine line on the issue",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEVLakFrRHIwZ1VFOEtvSVNkRnJjT2hUbjZ3dzhXQWRoX1RCSG9laFdhei1pYTVWc09jRVl4c1E3dk1IZHczU2hWVEtiUXNJMjhPSXhJWFZWcm92cGt0ajktRHh2aG1jd3FNZzVCaTl4bVhhbTM2WGh1cFRfNThXYkw4ZkowUng1WG9kck56dF9vMkxwbGVYVG1kX3lGekxmX0VrR3lNSXo5bVJfejQxRQ?oc=5",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "DFL trifecta returns to Minnesota Capitol for 94th Legislature",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYnpCWTFTRTFfczgyX000cndsSXFnenV4dzhnczNpc0d6NEI4aGpHSlotTjdRNXE2d2tLbVhMSmJ4SWJTREFYYjlJR0xkZzloVXdrUVZ6VFdWSUxqSkl5MXFoWTl4bVJOTk95Tm4zYmFPLVlPOXRscm9kT3pYbW94SWQwc3FRWDZmMXNzaWZMUC1wd9IBpgFBVV95cUxQb0NycHo2SGRxUEdGX2pLcmFFS0R4LTRPT1ZCbkQxTjBxWHNBTzBPMUt2WmxBdGdaUlF2TC1yNWQyTWoyTGNmeUI4YWNvX3J6TTNsdURpaTN1dDFCYnVhcExuNUhPa05Yd0o2VHlTaDdTRFltZF9JS01ZSEJjUThaa0NmTThXN2dxRlNaemRub2RJNl84dVczSmM2dnFWSUlKOVFlOGVn?oc=5",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "DFL regains control of Minnesota House - Session Daily",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbXBJYUlIdHgyQjNjMlJaRnBGLXd2a1BqRnNfcUdXcmNaUFR5ajN1N2xxWi13cmVodjNsOWUzOXdvLTJvZEdaVG9jNF9LeDNPU1AxbHNZeXRQa2JZQ0E?oc=5",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "2026 Legislative Session Recap",
+      "source": "mn.gov",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KWnptcFp0a1FFUXZMOVBiRUJmTVpfRmJTT29aZWQ4M25ybTkzMVhBNlNiakpnRnp6b2dlNEFPTFFVejgxM2ZWVU9VV3dVVmVyWkZDQnFBRi1mQ0w0YWhUc1JWbUhpSDBnbU5IZDRR?oc=5",
+      "date": "2026-06-13"
+    },
+    {
+      "title": "Evenly-split House compromises to pass major legislation, finish session on time",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX25CUE9QOFZQQ05yRjlmRWU4Q254SlUzdUF6c0V0UDZSRldXYzRoMzd2QUg4bF9xMGY4MjNQa1pYSnlvZS1IMHNTS0JCYnRmbDhJQ1dHYklpVXJHanc?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "2025 Legislative Session Recap",
+      "source": "mn.gov",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Bill to formally end housing stabilization services program gets panel OK",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HOTRlaTlscTNkQmQ4T0k3RjAwSzhGOGUzZ21valY1RmZvWUpCbjVHaVBzcGEyaEMtVEFWLVg5RGpHUDVYSTlqQ3dvbUI4YWVyeTZVeVQ0MHBqZjA0aWc?oc=5",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEtMOExzYTJXTTdRY1hYcE9zRVR4cUZLWk56YXA2TEp4Z1pCb2hVRkttbm96Z05VakstelJCa3J1OFZzX0pLalZFYWFGLUFDdWlSSHRxSE4zLXk2MlpoMXNxNkdOMnZNM3BUWS1nWVhXVVM5UElkWlFiYVlKTE5EWWlMbFQzWDNUVFZRZjVJWHliSFVxeC1ZTF9YeWlkNWpKS2h1dloyeXFMZ2JlVlRZZTdjamRHTjNzSEFCY04wWXJsaTVzT0JnTG51QUVXMzl2NUJNM2RxUQ?oc=5",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEM1TXN3ZXlGZlBGalZFRGJpRVhWYVlqMzhhVk9MZWpvNTdIR19WNVI1RzFjU1pTS1Fta0JTSGpZZWYyRHUwUWtQRWhzWHRYMHNpbU1QNjZxb2ZpRFV3a3VfSEVNSnZIZkJJdDNaZDhoUlZ2LWdaNURXN0FYWEdhYTlJWW1lZTFISHFKSkFvVUZEQy1OLWFWYi1yUQ?oc=5",
+      "date": "2025-06-10"
+    },
+    {
+      "title": "House GOP bill would shift emergency authority from governor to Legislature",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWldyeG5ncUs3MGdySy1jQTRjOXZ0a2RTNloxT2p3QWV5VWxQWEtvOGNGV2JwNVUxdlNjdDk0YzhLZ2x0NkVYU2p0aUxYUVBvWDBvMUdWWVFmdHVwQ2c?oc=5",
+      "date": "2025-02-26"
+    },
+    {
+      "title": "Video: How a bill becomes a law in Minnesota",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWWlJZTRCNVdpMUl2R1lDbEl2UjYzMzVjZzJtS2NrakpocGRRNjNlWi1PNk9CcFZMUEE0bFJfQnpsN0sxUkswRGdBNEJvdFZYSXZGZElmTUpYSThvUWp1TFV5NlZ3TEN0R2tGQ3h1OEZKWXFuWXI0bkZHZk53QlRzaA?oc=5",
+      "date": "2019-05-03"
+    }
+  ]
 }
