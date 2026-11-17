@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-16T14:04:43.304Z",
+  "generated": "2026-11-17T01:09:51.865Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Incoming Minnesota House Speaker Zack Stephenson vows to revive semi-automatic assault weapons ban",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU1jWEYwdF9pOFYzRkMtSnZ1eElHMk9YUmdnZTBEZWczTmtGVFBROVN3WHJiUkFtQkhQcmtQZ2JOUHhCYkNGeEc5MHZYTEZaeG0xS2haTzB5aWJZR29FSjNTNUx1VjVLQnRqVEZEeUJjeV81ZUJ3cms4clpUU3c1elpHVFpUQVZ5a1BzNkZ0bkN3a3VYY1kzd2N6ZWFfY2M?oc=5",
+      "date": "2026-11-16"
+    },
     {
       "title": "Minnesota DFL leaders push to pass Equal Rights Amendment this legislative session",
       "source": "CBS News",
@@ -46,15 +52,15 @@
       "date": "2026-05-18"
     },
     {
-      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
       "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Omnibus tax bill headed to governor's desk after lawmakers strike Sunday night deal",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wMkhZNEZMS056U1dibVNXcFNTNjMxSU5qTTQtTHVOeXNBdi1EWjBNbmRnc3pCcnpCSDVGcDZIVHlVVE43VE1MUGxFdDdYdGRJSzNUYVVMcmJwWGpWSGc?oc=5",
       "date": "2026-05-18"
     },
     {
@@ -68,12 +74,6 @@
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
       "date": "2026-05-13"
-    },
-    {
-      "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEtMOExzYTJXTTdRY1hYcE9zRVR4cUZLWk56YXA2TEp4Z1pCb2hVRkttbm96Z05VakstelJCa3J1OFZzX0pLalZFYWFGLUFDdWlSSHRxSE4zLXk2MlpoMXNxNkdOMnZNM3BUWS1nWVhXVVM5UElkWlFiYVlKTE5EWWlMbFQzWDNUVFZRZjVJWHliSFVxeC1ZTF9YeWlkNWpKS2h1dloyeXFMZ2JlVlRZZTdjamRHTjNzSEFCY04wWXJsaTVzT0JnTG51QUVXMzl2NUJNM2RxUQ?oc=5",
-      "date": "2025-09-25"
     },
     {
       "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
