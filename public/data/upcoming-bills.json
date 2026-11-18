@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T14:39:33.241Z",
+  "generated": "2026-11-18T23:38:25.526Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -14,18 +14,6 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU1jWEYwdF9pOFYzRkMtSnZ1eElHMk9YUmdnZTBEZWczTmtGVFBROVN3WHJiUkFtQkhQcmtQZ2JOUHhCYkNGeEc5MHZYTEZaeG0xS2haTzB5aWJZR29FSjNTNUx1VjVLQnRqVEZEeUJjeV81ZUJ3cms4clpUU3c1elpHVFpUQVZ5a1BzNkZ0bkN3a3VYY1kzd2N6ZWFfY2M?oc=5",
       "date": "2026-11-16"
-    },
-    {
-      "title": "Minnesota DFL leaders push to pass Equal Rights Amendment this legislative session",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDN3V3FHczRCaW11X1l1R25QNVhBLTl2S0dxTFJnWnBwNC1wallfZS1zNHVza0pCaENibGxqZE80alF3NHJJU1V0dVpyX2Y3QVFHZWlmV0xlTVNEV281Y0dnRXd5VlQ5MUJQbkQ1dmxnUHJjbjNQWEV1QXVxdjhUb2h3?oc=5",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "DFL lawmakers renew call to prioritize Equal Rights Amendment in upcoming legislative session",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXhiSVAwaDhBZkRLeDVydW5CRm96eUFNdU1NbWpSSWNoOW52eEFEby1pQnVaY21LdXJnbkx1UW1DVThpa0JhUjd5aFpRNndnLTYzUW9CY2NWTWFUbGUtc0JTd3pzZEZoZmhNc2VuX0tXYTVRUVJtS3VMOF9fZkJaSlA5Y2FsYXUzSVhXal9WRThKbmQ1aDFETnVXcG1oeUlJQWtKem9Ec1V4UFlQUG8zSFVYYktkb0hEODFIUNIB0AFBVV95cUxPZ2NjdTVGaDdaR0tUNFRvbnlwR3NiclNGdEhWRjBkMEVsb0w0cWRvVGFTMjZsMVdLdW5seFIycDdGTXBpNzNFSFRWazhmLWZwZFhwMUhpVWlxNTFpb2hLdlJrNTFGZy1XaG1sZURONnZwelNublo0UmFtZHJ1NUFQTHpsMjN2RjFqOUdYNTVMMmdKSEU4NHBWYmVPRVZFOWVSamM3UlZnTFZSUUNydzhZcE5rVmhFR3pkenQtd0hnOVhPN3lCQVFiOVNPNExHem40?oc=5",
-      "date": "2026-11-13"
     },
     {
       "title": "Law professor breaks down what would change if MN passes the Equal Rights Amendment",
@@ -86,6 +74,12 @@
       "source": "MN House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWldyeG5ncUs3MGdySy1jQTRjOXZ0a2RTNloxT2p3QWV5VWxQWEtvOGNGV2JwNVUxdlNjdDk0YzhLZ2x0NkVYU2p0aUxYUVBvWDBvMUdWWVFmdHVwQ2c?oc=5",
       "date": "2025-02-26"
+    },
+    {
+      "title": "No bonding bill after chaotic close to 2016 legislative session",
+      "source": "MN House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5URy1UV3pjWi1LSl9OOUJsV2Z1M3VEeHp4bFVnNGxOTFF0TDQ4cGZMVFR2THVwbXJBWW9ONXFGSmdHSy1HVEkxOV9TZW5ZNXJ4enlmMmRCQU9pZlB1UDFpLXdmVFhJVTlxZ3llRlhBNGs?oc=5",
+      "date": "2023-02-09"
     }
   ]
 }
