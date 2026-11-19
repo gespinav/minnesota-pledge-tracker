@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-19T14:45:29.103Z",
+  "generated": "2026-11-19T23:56:34.089Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "U.S. Sens. Amy Klobuchar, Tim Sheehy introduce bill to counteract federal hemp-THC ban",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXltYmpzMzM1QzFWbzY5WVV6cE1mRGlWUEFWU2t0R1JOVXRqcmJHUk5aQ2hEeEJ5RG9jdlBuN3hiVTVXbWxYQ29ZSUpsRG5SZ09JNW5HQVRyeDJaYzJ0UVBNdnh0aDA1dVE4ZldoQXBwX29qZDRTclZxaExXaWNhN0VGVUF3YnRZY2lvQzhQcDUxdUdGV3ppN3RPeVpkZXVsV1E?oc=5",
+      "date": "2026-11-19"
+    },
     {
       "title": "Affordability, utility profits and data centers on energy agenda for 2027 Minnesota Legislature",
       "source": "MinnPost",
@@ -14,6 +20,24 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU1jWEYwdF9pOFYzRkMtSnZ1eElHMk9YUmdnZTBEZWczTmtGVFBROVN3WHJiUkFtQkhQcmtQZ2JOUHhCYkNGeEc5MHZYTEZaeG0xS2haTzB5aWJZR29FSjNTNUx1VjVLQnRqVEZEeUJjeV81ZUJ3cms4clpUU3c1elpHVFpUQVZ5a1BzNkZ0bkN3a3VYY1kzd2N6ZWFfY2M?oc=5",
       "date": "2026-11-16"
+    },
+    {
+      "title": "Minnesota DFL leaders push to pass Equal Rights Amendment this legislative session",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDN3V3FHczRCaW11X1l1R25QNVhBLTl2S0dxTFJnWnBwNC1wallfZS1zNHVza0pCaENibGxqZE80alF3NHJJU1V0dVpyX2Y3QVFHZWlmV0xlTVNEV281Y0dnRXd5VlQ5MUJQbkQ1dmxnUHJjbjNQWEV1QXVxdjhUb2h3?oc=5",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "DFL lawmakers renew call to prioritize Equal Rights Amendment in upcoming legislative session",
+      "source": "KTTC",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXhiSVAwaDhBZkRLeDVydW5CRm96eUFNdU1NbWpSSWNoOW52eEFEby1pQnVaY21LdXJnbkx1UW1DVThpa0JhUjd5aFpRNndnLTYzUW9CY2NWTWFUbGUtc0JTd3pzZEZoZmhNc2VuX0tXYTVRUVJtS3VMOF9fZkJaSlA5Y2FsYXUzSVhXal9WRThKbmQ1aDFETnVXcG1oeUlJQWtKem9Ec1V4UFlQUG8zSFVYYktkb0hEODFIUNIB0AFBVV95cUxPZ2NjdTVGaDdaR0tUNFRvbnlwR3NiclNGdEhWRjBkMEVsb0w0cWRvVGFTMjZsMVdLdW5seFIycDdGTXBpNzNFSFRWazhmLWZwZFhwMUhpVWlxNTFpb2hLdlJrNTFGZy1XaG1sZURONnZwelNublo0UmFtZHJ1NUFQTHpsMjN2RjFqOUdYNTVMMmdKSEU4NHBWYmVPRVZFOWVSamM3UlZnTFZSUUNydzhZcE5rVmhFR3pkenQtd0hnOVhPN3lCQVFiOVNPNExHem40?oc=5",
+      "date": "2026-11-13"
+    },
+    {
+      "title": "Rep. Leigh Finke - Coalition and legislators kick off campaign to pass Minnesota Equal Rights Amendment",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyY2tZRkxnMXZvNkVSSjVBLWZJbVVCRndkWmFlTlg3UU4yd2xiTE9Od05JSG5nMFlsSDdDVms0S1F1RVR5N0tDLVN5MWxzU2Vsa1RqZ0JnVEhEZ2gtVmMwY1ZlTlNPd2lj?oc=5",
+      "date": "2026-11-12"
     },
     {
       "title": "DFL regains control of Minnesota House - Session Daily",
@@ -46,12 +70,6 @@
       "date": "2026-05-18"
     },
     {
-      "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
-      "date": "2026-05-18"
-    },
-    {
       "title": "Minnesota Legislature closes out session marked by partisan division and election year politics",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbl9uS2xDNG5xRE1kTFRtWE4xRGpCaHE3aXh1S3pQV0FtUHNJWk5wZ1NOVmdLY3BTOF9CM0lKc1NZaW9RY3o1YXZ1RnZjaUxxQV84X2ZIQjJKS2x2LWRqSGRtVW4zZWJkYlJQQVdCTWZQMVZPVXJjcHIzRzY3cGwySUxTZnFBRkYxLUliUERpd3BaTXIzUk41OUd4Ykx0eFJHb0puMy1qVUl2R3RGLTEwTWY1X2hZck1mSjZmanpaZDVvOHlUVThIMldn?oc=5",
@@ -64,22 +82,10 @@
       "date": "2026-05-13"
     },
     {
-      "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEtMOExzYTJXTTdRY1hYcE9zRVR4cUZLWk56YXA2TEp4Z1pCb2hVRkttbm96Z05VakstelJCa3J1OFZzX0pLalZFYWFGLUFDdWlSSHRxSE4zLXk2MlpoMXNxNkdOMnZNM3BUWS1nWVhXVVM5UElkWlFiYVlKTE5EWWlMbFQzWDNUVFZRZjVJWHliSFVxeC1ZTF9YeWlkNWpKS2h1dloyeXFMZ2JlVlRZZTdjamRHTjNzSEFCY04wWXJsaTVzT0JnTG51QUVXMzl2NUJNM2RxUQ?oc=5",
-      "date": "2025-09-25"
-    },
-    {
       "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWEM1TXN3ZXlGZlBGalZFRGJpRVhWYVlqMzhhVk9MZWpvNTdIR19WNVI1RzFjU1pTS1Fta0JTSGpZZWYyRHUwUWtQRWhzWHRYMHNpbU1QNjZxb2ZpRFV3a3VfSEVNSnZIZkJJdDNaZDhoUlZ2LWdaNURXN0FYWEdhYTlJWW1lZTFISHFKSkFvVUZEQy1OLWFWYi1yUQ?oc=5",
       "date": "2025-06-10"
-    },
-    {
-      "title": "House GOP bill would shift emergency authority from governor to Legislature",
-      "source": "MN House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WWldyeG5ncUs3MGdySy1jQTRjOXZ0a2RTNloxT2p3QWV5VWxQWEtvOGNGV2JwNVUxdlNjdDk0YzhLZ2x0NkVYU2p0aUxYUVBvWDBvMUdWWVFmdHVwQ2c?oc=5",
-      "date": "2025-02-26"
     },
     {
       "title": "No bonding bill after chaotic close to 2016 legislative session",
