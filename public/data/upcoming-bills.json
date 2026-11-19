@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T04:40:41.303Z",
+  "generated": "2026-11-19T14:45:29.103Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -14,12 +14,6 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU1jWEYwdF9pOFYzRkMtSnZ1eElHMk9YUmdnZTBEZWczTmtGVFBROVN3WHJiUkFtQkhQcmtQZ2JOUHhCYkNGeEc5MHZYTEZaeG0xS2haTzB5aWJZR29FSjNTNUx1VjVLQnRqVEZEeUJjeV81ZUJ3cms4clpUU3c1elpHVFpUQVZ5a1BzNkZ0bkN3a3VYY1kzd2N6ZWFfY2M?oc=5",
       "date": "2026-11-16"
-    },
-    {
-      "title": "Law professor breaks down what would change if MN passes the Equal Rights Amendment",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHZnamIxSWg0SDBCLXFPUjJlOWwxOVZfNmtzbnlsem5yM0xwclFqTjhsZWJlZmVqME1zeF84SExQb2d2N3RRY3E0RWtvOGtFcUhBLWpLYWZBUjZpaG1uS2xwZ2FqRmVERnN2dVBhUDdUZGdGYmNJb1hXczk4WGg1Q1RhUTVwTjAzZVEw?oc=5",
-      "date": "2026-11-12"
     },
     {
       "title": "DFL regains control of Minnesota House - Session Daily",
@@ -58,10 +52,22 @@
       "date": "2026-05-18"
     },
     {
+      "title": "Minnesota Legislature closes out session marked by partisan division and election year politics",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbl9uS2xDNG5xRE1kTFRtWE4xRGpCaHE3aXh1S3pQV0FtUHNJWk5wZ1NOVmdLY3BTOF9CM0lKc1NZaW9RY3o1YXZ1RnZjaUxxQV84X2ZIQjJKS2x2LWRqSGRtVW4zZWJkYlJQQVdCTWZQMVZPVXJjcHIzRzY3cGwySUxTZnFBRkYxLUliUERpd3BaTXIzUk41OUd4Ykx0eFJHb0puMy1qVUl2R3RGLTEwTWY1X2hZck1mSjZmanpaZDVvOHlUVThIMldn?oc=5",
+      "date": "2026-05-17"
+    },
+    {
       "title": "2025 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
       "date": "2026-05-13"
+    },
+    {
+      "title": "The Minnesota Legislature has come to rely on catchall ‘omnibus’ bills. But are they illegal?",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNEtMOExzYTJXTTdRY1hYcE9zRVR4cUZLWk56YXA2TEp4Z1pCb2hVRkttbm96Z05VakstelJCa3J1OFZzX0pLalZFYWFGLUFDdWlSSHRxSE4zLXk2MlpoMXNxNkdOMnZNM3BUWS1nWVhXVVM5UElkWlFiYVlKTE5EWWlMbFQzWDNUVFZRZjVJWHliSFVxeC1ZTF9YeWlkNWpKS2h1dloyeXFMZ2JlVlRZZTdjamRHTjNzSEFCY04wWXJsaTVzT0JnTG51QUVXMzl2NUJNM2RxUQ?oc=5",
+      "date": "2025-09-25"
     },
     {
       "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
