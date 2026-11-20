@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-20T04:52:56.644Z",
+  "generated": "2026-11-20T14:26:58.319Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Inver Grove Heights withdraws from building Minnesota Hockey Hall of Fame due to lack of funds",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORURCSVBCQ1I4djBwSXFQWFhDRXRtVW9MTUVCYzdEWmplbjNFRjZJTkNydmFlZDRNaW1SdnVpaTJHSi1fZmxOU1R3OHhkdE1wUWEzMk5yc1NvZy1POThNbzlOeW43WFliTG5XdTdia1hHLUp6alN4VU1kbERPaUdVVTBiSjRGZUM5TktCZjlTTmJkZEpNTXZhaTk3VW54cWlUNkhMME1aRQ?oc=5",
+      "date": "2026-11-20"
+    },
     {
       "title": "U.S. Sens. Amy Klobuchar, Tim Sheehy introduce bill to counteract federal hemp-THC ban",
       "source": "MPR News",
@@ -20,24 +26,6 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU1jWEYwdF9pOFYzRkMtSnZ1eElHMk9YUmdnZTBEZWczTmtGVFBROVN3WHJiUkFtQkhQcmtQZ2JOUHhCYkNGeEc5MHZYTEZaeG0xS2haTzB5aWJZR29FSjNTNUx1VjVLQnRqVEZEeUJjeV81ZUJ3cms4clpUU3c1elpHVFpUQVZ5a1BzNkZ0bkN3a3VYY1kzd2N6ZWFfY2M?oc=5",
       "date": "2026-11-16"
-    },
-    {
-      "title": "Minnesota DFL leaders push to pass Equal Rights Amendment this legislative session",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcDN3V3FHczRCaW11X1l1R25QNVhBLTl2S0dxTFJnWnBwNC1wallfZS1zNHVza0pCaENibGxqZE80alF3NHJJU1V0dVpyX2Y3QVFHZWlmV0xlTVNEV281Y0dnRXd5VlQ5MUJQbkQ1dmxnUHJjbjNQWEV1QXVxdjhUb2h3?oc=5",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "DFL lawmakers renew call to prioritize Equal Rights Amendment in upcoming legislative session",
-      "source": "KTTC",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXhiSVAwaDhBZkRLeDVydW5CRm96eUFNdU1NbWpSSWNoOW52eEFEby1pQnVaY21LdXJnbkx1UW1DVThpa0JhUjd5aFpRNndnLTYzUW9CY2NWTWFUbGUtc0JTd3pzZEZoZmhNc2VuX0tXYTVRUVJtS3VMOF9fZkJaSlA5Y2FsYXUzSVhXal9WRThKbmQ1aDFETnVXcG1oeUlJQWtKem9Ec1V4UFlQUG8zSFVYYktkb0hEODFIUNIB0AFBVV95cUxPZ2NjdTVGaDdaR0tUNFRvbnlwR3NiclNGdEhWRjBkMEVsb0w0cWRvVGFTMjZsMVdLdW5seFIycDdGTXBpNzNFSFRWazhmLWZwZFhwMUhpVWlxNTFpb2hLdlJrNTFGZy1XaG1sZURONnZwelNublo0UmFtZHJ1NUFQTHpsMjN2RjFqOUdYNTVMMmdKSEU4NHBWYmVPRVZFOWVSamM3UlZnTFZSUUNydzhZcE5rVmhFR3pkenQtd0hnOVhPN3lCQVFiOVNPNExHem40?oc=5",
-      "date": "2026-11-13"
-    },
-    {
-      "title": "Rep. Leigh Finke - Coalition and legislators kick off campaign to pass Minnesota Equal Rights Amendment",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyY2tZRkxnMXZvNkVSSjVBLWZJbVVCRndkWmFlTlg3UU4yd2xiTE9Od05JSG5nMFlsSDdDVms0S1F1RVR5N0tDLVN5MWxzU2Vsa1RqZ0JnVEhEZ2gtVmMwY1ZlTlNPd2lj?oc=5",
-      "date": "2026-11-12"
     },
     {
       "title": "DFL regains control of Minnesota House - Session Daily",
@@ -76,10 +64,28 @@
       "date": "2026-05-18"
     },
     {
+      "title": "House and Senate pass $1.24 billion bonding bill, send to governor",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCUDBFSlgyQlpxTGFjNUpyaXhqVE9fUmpua3ZjZmh6dHRnSlpHcTVQWVhZcTBna0dLWTB6RE55UWtNamI5dTd1NVZLZEVaUmFGVl81eXdweFpsa3FudVE?oc=5",
+      "date": "2026-05-18"
+    },
+    {
+      "title": "Minnesota Legislature closes out session marked by partisan division and election year politics",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbl9uS2xDNG5xRE1kTFRtWE4xRGpCaHE3aXh1S3pQV0FtUHNJWk5wZ1NOVmdLY3BTOF9CM0lKc1NZaW9RY3o1YXZ1RnZjaUxxQV84X2ZIQjJKS2x2LWRqSGRtVW4zZWJkYlJQQVdCTWZQMVZPVXJjcHIzRzY3cGwySUxTZnFBRkYxLUliUERpd3BaTXIzUk41OUd4Ykx0eFJHb0puMy1qVUl2R3RGLTEwTWY1X2hZck1mSjZmanpaZDVvOHlUVThIMldn?oc=5",
+      "date": "2026-05-17"
+    },
+    {
       "title": "2025 Legislative Session Recap",
       "source": "mn.gov",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYnhzTFZuSDRua0d3UWhWNzY3RUZPZ1g3T1IzOTJ1eEJxSUhtV1RxOGNmcGZlRjZrQ2gwWVJ3UWVxMHhoVWxTaUY0S3FRZ1hZcW04ZTF1cy01aHJEOVFJQU9sWGkyZlNrTS1zWFhn?oc=5",
       "date": "2026-05-13"
+    },
+    {
+      "title": "Will this be the most unproductive Minnesota legislative session ever?",
+      "source": "Minnesota Reformer",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEJ2d3lHR0ZwWEhHVmNERFRmNDhIdWcyYk1wMm5FbXdEMUk5eV96Q2pOQy04V2ZKNHFKWjM4WFNKUDJlcWRHaERnZkJTcWlnalIzaTh4MnlvRTZtSEd1S095bW56WEJNd3B0TlZDYmFFZjBoYTA3TERXLWU0MXk3MTlPaDFwZW10bDVCRUpPb1ZZd3ZKeldkMzBwVjlXUmt6Uzk0cVg5SnBPTENhRVMwRg?oc=5",
+      "date": "2026-02-16"
     },
     {
       "title": "What bills did and didn't pass the Minnesota Legislature this year? Here's a list of what cleared the finish line.",
