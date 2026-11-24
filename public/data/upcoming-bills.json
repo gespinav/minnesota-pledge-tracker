@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-23T16:36:31.167Z",
+  "generated": "2026-11-24T03:30:47.642Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
+    {
+      "title": "Let’s finally get the inclusive ERA initiative on the ballot in Minnesota",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3p5elpJOWM0MW1TNkZpY1diZnF1ZXdZd0JmN09xb0tQdHN5UlZLUFRMNUxJVVp0VWJwNzhDZG9QQy1oandPQm0tTnJSWjM3RHhKendNcHlNbnBLd3hUbi1Nd1lseXQ1U01yZ0JJVHBlMlNIcFN2X2ZoeFZEeEVOM1JkeGotaWhub2Y2N1hldFp3ZmNjV1RQVEFTRTZ1b3g5R1JBbDRvbHdNQ1U1aEZjVUE0V3RxeGdXQ0pGaGhkZ0c?oc=5",
+      "date": "2026-11-23"
+    },
     {
       "title": "U.S. Senate passes controversial permitting bill that could impact Boundary Waters",
       "source": "Sahan Journal",
@@ -16,10 +22,22 @@
       "date": "2026-11-20"
     },
     {
+      "title": "State Canvassing Board certifies election results; one House recount coming",
+      "source": "Minnesota House of Representatives (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxQWM2N0JHRTYtWEQ3amRyVGFVSC03a0lOclBwbFNQUjlQZHh5Y0l6VHBuYXRWWTBfV2lWSHdpbng4Yk1WS0V3NGVnVUNrVGxaQVd4T2lKYmMydXBlYkE?oc=5",
+      "date": "2026-11-19"
+    },
+    {
       "title": "Session Daily Home",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EeE1FQlRTSWUyaWdaWU5YbDBiblBVTHNpcVEzMzMybUVOazNIN08yYkNhSTl0dHFwY1Nmdm96aVFZcDRfZ0xRMnVEV3c0ZWM?oc=5",
       "date": "2026-11-19"
+    },
+    {
+      "title": "Minnesota property taxes could increase by nearly $1 billion in 2027, according to preliminary report",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEN2R0JlM0hUSVUycnRKckJUUENfbTM5V2NsT2hQd1ZMeDBCRE5hY1ZvdGQtaTdybTl2U3lEaFJRbEFCMHRvSVhRT0JDSFNEaFNSb0pWX3ZOa1ZueEc2bVEyU19yNmFDYUR4T3cxQkFNYTFFOVVDa3pNcDI5WXlONVl0aWQtN2JM?oc=5",
+      "date": "2026-11-17"
     },
     {
       "title": "Incoming Minnesota House Speaker Zack Stephenson vows to revive semi-automatic assault weapons ban",
@@ -32,6 +50,12 @@
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GbXBJYUlIdHgyQjNjMlJaRnBGLXd2a1BqRnNfcUdXcmNaUFR5ajN1N2xxWi13cmVodjNsOWUzOXdvLTJvZEdaVG9jNF9LeDNPU1AxbHNZeXRQa2JZQ0E?oc=5",
       "date": "2026-11-04"
+    },
+    {
+      "title": "Statewide fire service assessment",
+      "source": "Minnesota Department of Public Safety (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHQ0VFFzcHZyZExSMl90WGRIQ2VINC1mbngwY2I5c1RKYXQwRE5IN003Nm9HQzNSYndBX0JPX2ltVUtnRFV0MVFfTzNwanpWM250Y0NYVnMwejJxcWpRb2xWdGw3eVQ4UG9UTEpCYVJuandBNjRkVHFhRkh6NXplQUFrcw?oc=5",
+      "date": "2026-09-08"
     },
     {
       "title": "How well do you know Minnesota's Election Day rules? Take our quiz",
@@ -49,12 +73,6 @@
       "title": "Evenly-split House compromises to pass major legislation, finish session on time",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XX25CUE9QOFZQQ05yRjlmRWU4Q254SlUzdUF6c0V0UDZSRldXYzRoMzd2QUg4bF9xMGY4MjNQa1pYSnlvZS1IMHNTS0JCYnRmbDhJQ1dHYklpVXJHanc?oc=5",
-      "date": "2026-05-18"
-    },
-    {
-      "title": "HCMC funding passes in omnibus health and human services finance, policy bill",
-      "source": "Minnesota House of Representatives (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMNmhjS0ZycEM5TkdVVjVHMTVPemJBVU40WjVZdjVuWUtfbFcwX1BaNWpzalBFNHZ0SGZkTk5aQkdPNURLQUI4Rmw3N2t2N181VUhXRWprYTB0VE9QUUE?oc=5",
       "date": "2026-05-18"
     },
     {
