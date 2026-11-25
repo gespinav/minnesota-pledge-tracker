@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T16:33:10.256Z",
+  "generated": "2026-11-25T01:39:58.466Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -31,12 +31,6 @@
       "title": "Incoming Minnesota House Speaker Zack Stephenson vows to revive semi-automatic assault weapons ban",
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLU1jWEYwdF9pOFYzRkMtSnZ1eElHMk9YUmdnZTBEZWczTmtGVFBROVN3WHJiUkFtQkhQcmtQZ2JOUHhCYkNGeEc5MHZYTEZaeG0xS2haTzB5aWJZR29FSjNTNUx1VjVLQnRqVEZEeUJjeV81ZUJ3cms4clpUU3c1elpHVFpUQVZ5a1BzNkZ0bkN3a3VYY1kzd2N6ZWFfY2M?oc=5",
-      "date": "2026-11-16"
-    },
-    {
-      "title": "Minnesota property taxes could increase by nearly $1 billion in 2027, according to preliminary report",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdEN2R0JlM0hUSVUycnRKckJUUENfbTM5V2NsT2hQd1ZMeDBCRE5hY1ZvdGQtaTdybTl2U3lEaFJRbEFCMHRvSVhRT0JDSFNEaFNSb0pWX3ZOa1ZueEc2bVEyU19yNmFDYUR4T3cxQkFNYTFFOVVDa3pNcDI5WXlONVl0aWQtN2JM?oc=5",
       "date": "2026-11-16"
     },
     {
@@ -130,9 +124,21 @@
       "date": "2026-05-18"
     },
     {
+      "title": "MN Legislature passes tab fee reductions, bonding bill, HCMC rescue, and more in clean end to 2026 session",
+      "source": "KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc184dDBqR1E4NDJ3ZlVmMnRCTTNUOE1GQzhqNE9WS2wwdGRjN0JGZEFRSG1WTGVtOVNMN0tYMWRUWkxLN3Z1N2t4ZFQzZXhyQWVodHVkcXJFWENaVXo4Y0phdE9VeUxDVjA3WWwxT1VxaXdpaFFIU1BzQUttOG9laFVtQV9fXzY3dlFtOXF3YlQ4ZGRWOHNRSjltVEg4dFdETkZRZ2hVX1FVcjBudDJ3S2pFbGNqaFJ0dmRZTFFsNzlSUFNZ0gHYAUFVX3lxTE13ZmxCVXJMbG1JeXBoY0pPOTAtREo0WHlCcmVadUw4MF95OGN5U2FqN3pYX29LUnk1N1FVWmZSenIwb0JtSHJGaHBLcHhEZ1dUZUhfYXBZalpidmQyNTU4ODhTT1hvR2V6V2h1ZThRWnpqRk1aaEp6SWtFVm1YUFBFNGpDRTVxNHJUcVp4aTZRdXdneDE4dWxTMDZsTDMzZkR1YjFqdWRnSGxaOWhVQmRSV2RfUUxfXzFBSGhVRWVieE5NYjQ4XzVjU2xlMmxNRGlQbmVsLXNtNg?oc=5",
+      "date": "2026-05-18"
+    },
+    {
       "title": "Minnesota Legislature closes out session marked by partisan division and election year politics",
       "source": "Minnesota Reformer",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbl9uS2xDNG5xRE1kTFRtWE4xRGpCaHE3aXh1S3pQV0FtUHNJWk5wZ1NOVmdLY3BTOF9CM0lKc1NZaW9RY3o1YXZ1RnZjaUxxQV84X2ZIQjJKS2x2LWRqSGRtVW4zZWJkYlJQQVdCTWZQMVZPVXJjcHIzRzY3cGwySUxTZnFBRkYxLUliUERpd3BaTXIzUk41OUd4Ykx0eFJHb0puMy1qVUl2R3RGLTEwTWY1X2hZck1mSjZmanpaZDVvOHlUVThIMldn?oc=5",
+      "date": "2026-05-17"
+    },
+    {
+      "title": "Bill restricting social media accounts for children passes Minnesota Senate",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEJwaGxIelluZkNLSklibS0xX1ZwQXVDYkRTM1I4a0EzYW5Mb1ZjZUlfQmJ6VkNUYUJFVkZ6c1NZYTR3VjI5dW40U1pRSk55OVVlYTM1bDlaM2FHTXpydFRZWVVKb3IwWnR4OGdONG9VcGM1NGJhZXdBeHZacVBRLTFWZmUybGtJOU11Mw?oc=5",
       "date": "2026-05-17"
     },
     {
@@ -176,12 +182,6 @@
       "source": "Minnesota Senate DFL",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0lsQ0NHaW50S1g3cDM1NHMyVDRZb1puU3N3MU1QQXBFLTZPR3p6X193TVloRGljTUFzdTd6cUU2c3hqbzZULWNaNm9IZnFCeER0blBZU2hIamg1SzN6MWJUb1cwYXVQc3dOcEJtWUI2dmgyZUg4MVNiT05VZE5CRE91STVIRG9ma1hN?oc=5",
       "date": "2026-05-11"
-    },
-    {
-      "title": "2026 Minnesota legislative session enters final week",
-      "source": "kare11.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcmRnZjZFV1Y5aGotMmdINmxrb1I3SGF4djRWNVdTOWhoLTdrNXlLQzVnS0NMM2dCaUFobXJOUEpSWGV3cVk3WkNnRjV3LWhDUDQxNkdNTGYyVmh5Tzh1cktmeEJDTDViai15aXEycmdRejNKdlM0ZFItSmZid09fRG44TjRab2NaSURiYVZUcFBObjdUc3RzWmJwVUczNHFYZ3hGRlJVR09BTDgtdXB6RGNjMDB0R3VObTd5OWM4ek9wM01SMklIYm83MkM5NnoxMVV3?oc=5",
-      "date": "2026-05-10"
     }
   ]
 }
