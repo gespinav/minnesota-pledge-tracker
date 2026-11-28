@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T15:41:09.804Z",
+  "generated": "2026-11-28T00:44:18.775Z",
   "source": "Google News RSS — Minnesota Legislature queries (trusted MN sources only)",
   "note": "A legislative news bulletin, limited to Minnesota government/official sources and established Minnesota news organizations. Every item links to the original publisher; the app aggregates headlines, it does not author or fabricate bill content. For authoritative bill status and upcoming votes, use the official trackers linked in the app.",
   "items": [
@@ -58,12 +58,6 @@
       "date": "2026-11-09"
     },
     {
-      "title": "Petition seeks to start design contest for Minnesota’s ‘I voted’ stickers",
-      "source": "MPR News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGZtQVZKV1Y5d0tSWXB2UVp1c0JOZ1VuNklhV0tIZlJCaEdLOXJwMzdjdHdCeERheDBwWHM1WWROOENPaldhZ3F5ZTc1YW9jRU5ScXFzZHhXa3R5T21xTEQxbTJjZnI2NFRsaTBWVGtzZjhNdHlPSVgxaWp1WUZPV3M2ekZLX0JxOWFQNlBzUHlWalhGOTF6TnlwVmlpdw?oc=5",
-      "date": "2026-11-06"
-    },
-    {
       "title": "House DFLers select Stephenson as speaker-designate for 2027-2028 biennium",
       "source": "Minnesota House of Representatives (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nVDd3enBYWVQ2NzV1ZmgzNU1kNXRPQ2M1bmNERk9oS1pDVDNuMDhFZUhRSFRDbzdHbmphY3BTTW4xV0FZTDBERU1YdFhjZnMwYTNteEpqOEtUcmw0ZGc?oc=5",
@@ -88,9 +82,15 @@
       "date": "2026-11-05"
     },
     {
-      "title": "Minnesota voters overwhelmingly approve more school funding without raising taxes",
+      "title": "Party like it’s 2023: Just a few years after the ‘trifecta,’ the DFL retakes the Legislature",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUzh5aTBYZ3pMY054aXdrV1BqSExEcmc4dC1XOFl6VWI2MzVUTXhoanRxcUJZdzVMc203UjduakZmd0tJN3NoTHkwcFNWRmRQQXd2NUlqZFlGR0t3czNxNG92dllNSWc0aS1BTHJXSTdqakw3cGZNRHA3bkhjV2lUQ05xYjg4SDFXSEllMExlSVZ1NmJpZTZmUVU1cG1BX2pkVGRKdmIyQWwzLTduU09Ialk3enBnVVhXdmFvRno3UWtVS0NDWldGbTEwc3Z1Qk5yNXNaemF3Q3Y?oc=5",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Democrats take control of both chambers of the Minnesota Legislature",
       "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkF2clFTSmpqU1AycG0wX0dQR1VFOURWM01vYklhOTQtSzVKSFhXcFZ1aG1DRUNRbVE0WVpsQkVxVXhuN3pIeFhpQkJMS0prdWRGYTBCZE91TDlMMVptdUNRWm1yb2owQ2ZMNzhtQzh4bXhJNWswXzY0bFlMdWp6cUxnVjUzWE1lSks0a09lOEdNdFYwNFl5Yg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHhWVENUc3ZCNEdnalR3VEF4NkhBaE1fdVhndlFnYWwtZ3ZUVW92d09LdW5kVy04RjRlZTk3aU9jTm5LWmtJRG5hLWFsLVRsRWpOVW1FUG5ULVhKTXNxY3dpeDdONzg0ZWRrUTI3cXVIVEU5ejI1SFBlczVTMjdlNU5GaE0ya3NDbW9YT1JLU05DZ3ZTWFFNVDdfN3drZzlMOUVFNUY4WQ?oc=5",
       "date": "2026-11-04"
     },
     {
@@ -110,18 +110,6 @@
       "source": "MPR News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2gxYmdlcndDckF3NERueFJUTmZqU0J3bmFKWGFSZnJPRUQ2Q2NtSzV5dk1Ld1RsY2ZFcWlqNE0tS1JwSzRIQ0szUGlBMXY0M3N2REswX1R2eGFIdTRXbVhsOFA5d1NEdXFHMDVUSkc0a0JQNVBfMXZBcUR4RTZSbHdvUHhmbDh3dnBHbnZUX1pnUEdkOFJaM01fZWZ1UG1mTlpvMzNDTlM2MmxzZ0R2eFlJb1BOWldiN0pjeW8zU3hObWNjcFNVaFU0WjM?oc=5",
       "date": "2026-11-04"
-    },
-    {
-      "title": "Party like it’s 2023: Just a few years after the ‘trifecta,’ the DFL retakes the Legislature",
-      "source": "MinnPost",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUzh5aTBYZ3pMY054aXdrV1BqSExEcmc4dC1XOFl6VWI2MzVUTXhoanRxcUJZdzVMc203UjduakZmd0tJN3NoTHkwcFNWRmRQQXd2NUlqZFlGR0t3czNxNG92dllNSWc0aS1BTHJXSTdqakw3cGZNRHA3bkhjV2lUQ05xYjg4SDFXSEllMExlSVZ1NmJpZTZmUVU1cG1BX2pkVGRKdmIyQWwzLTduU09Ialk3enBnVVhXdmFvRno3UWtVS0NDWldGbTEwc3Z1Qk5yNXNaemF3Q3Y?oc=5",
-      "date": "2026-11-04"
-    },
-    {
-      "title": "Minnesota constitution amendment election: Voters approve increase in school funding",
-      "source": "FOX 9 Minneapolis-St. Paul",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUk5UWXAxNm1Td3JEZjVPUXh4MWNGSHFHWWNBM3Y0bkk3WC0wQ3NVUWNtUGNRYXdEU1hXWmU1VFpNMUdKU1BsLS0tMEs5dDhVTElncTBGYlpyYzM5SnNDdUxKalBHNFV4ZmxRYnV2eXRtOHlmR1FwbUpDNE1tSzk0ak96T0Ewc0d2MXc?oc=5",
-      "date": "2026-11-03"
     },
     {
       "title": "Group challenges 1,400-page Minnesota law passed in 2024 over constitutionality",
@@ -154,6 +142,12 @@
       "date": "2026-09-28"
     },
     {
+      "title": "Opinion | What Minnesota Democrats will fight for in 2027",
+      "source": "Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSXZFNWZtVGo2YXNQWFh5QVBUWjkwdkhYLVpIdEJJNWlxNldzLUpaNVZhWkJzeElRYUdkRmtVcDRsTFBfeVdWTkNvelk0amxMWUt6NDJ3MUFZR1dqbDJrc3IwRWhMaGpWSWRNby04QzVfN29PTE9rS0JIR2RVamZaV29IQW1pcDEzMEw4Z1o0VktBYmpHQ2E2WFA1VmZFUGVmeUJmMEVGN1c?oc=5",
+      "date": "2026-09-09"
+    },
+    {
       "title": "Statewide fire service assessment",
       "source": "Minnesota Department of Public Safety (.gov)",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVHQ0VFFzcHZyZExSMl90WGRIQ2VINC1mbngwY2I5c1RKYXQwRE5IN003Nm9HQzNSYndBX0JPX2ltVUtnRFV0MVFfTzNwanpWM250Y0NYVnMwejJxcWpRb2xWdGw3eVQ4UG9UTEpCYVJuandBNjRkVHFhRkh6NXplQUFrcw?oc=5",
@@ -172,16 +166,22 @@
       "date": "2026-07-30"
     },
     {
-      "title": "Angie Craig says she regrets her immigration vote. Will Democrats believe her?",
-      "source": "Minnesota Reformer",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS25lelphTFdhVTc3cGxPbEVZSTZjN3ZHOU1fRTNOM0RmTlF2WUpFeVNXWnVsbVpiWW1mSC1JWWYwa1U3WDVxeUduY29jcXpmMWpfd1UxUjR3cU4xcmZFelAtdExBUjdJbmxpNXYwdG9pNUQ3ZFFiUzNRVl9MT2VCZmJxUWVkbUtIZDBWb3pWT0toM3pGVENPLVUxcTNVYlk?oc=5",
-      "date": "2026-07-27"
+      "title": "Walz says lawmakers should pursue economic relief for Boundary Waters communities",
+      "source": "MPR News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVZTbG05cGNTT092Z0Fjd3lOa0FkXzRGbmF4dTFuODd2a3pRdjQ5LVgzazRjZXJQdkx4RFc4N0FUOE5Za1pnTWVyclFFUHRSenF4ZTFpemRDakNRV1NJdXlCREl5QmJlVEVxRFRYc1dkT0VUWXd0S0hLOGthOTJWdWpIQnJuSnl6UzRjeDBvWUpBenQ5UjlIR1B1RXV3aHVLNUloNV8xNA?oc=5",
+      "date": "2026-07-24"
     },
     {
-      "title": "New Minnesota laws begin on July 1. Here’s what you need to know.",
-      "source": "Star Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0bFE4Rk85V29YLTJCNnNoV05TWUVKRURMYVpubEVZcDNWZWVqemQ3eUlydTRyNi1UVEdZZzZHbFNFRUxpTTlHVEpNQ0VLYlpWdE9zZVpZODg0YmMzemZDN1ZCY1hzUU0?oc=5",
-      "date": "2026-07-01"
+      "title": "Red state? Blue state? Here are the races that will likely determine party control at the Minnesota Legislature",
+      "source": "MinnPost",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTDM0VGcyVHZvS0dSc1JvLU4wLW5pNTdRd0tKekx5T29fSnlSNFp2bU4zYmJSSlVMY0ZpbFZlSTR3Y1RWX3lIVUFBMG1vYUlZSHlnN2tmZHkxVjJ3SWwzM1U1c3pqMHdBYm5xbFhRTTBrV2h5TkdXR01uUEFCaU9qRlp2akxOeHBoOVBJLWRTQ3pMekpi?oc=5",
+      "date": "2026-07-08"
+    },
+    {
+      "title": "After a lack of legislative action, Minnesota hospitals say time is running out for a program that’s keeping them afloat",
+      "source": "KTTC | Rochester, MN",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNXJxZEpVZ3p3akF1X05NSklqblZIRWlMeTRaZ3JKenhlUGVQRWhBZEVLX1RfNjFqQUZ5YXpmRnBWOGxyWFZtZ21FTUFCb1Rya2E3VnhIYVhwb0YtanQwcjcybkZpRTNGTHcyVEcteV9DVk5qOGp1N3FaWU84VDNBTFNfZHRNSW9XbnRCU1BVTnVjTUxSRXo2OC1qVTJYZUpoMmNxc2Q0OThpLTZtc1hnQkNmYWFxSzZSNlJ3Rml2RFVOMkx0WjEwZmg3VFJubG8tMWJqV1h6QdIB6wFBVV95cUxOVHQ0UFdIeWtWVzhKVmQtME0xNml2VkNpU2FDZTV2UUdnWTh3aU5ZeDJvYzNkWDZsS1k5RTBDYnBjWTByWmpZRE9hTmNzNEFiRlRqZXRvb1h2T3RpMWlrbm1VOXpqWVdKT0IxYXVCaldkWFdISFB5S3pLbDJjNEtFRlo2Q081NWQ1d2x0eDNFcTNURl91anJSNnMzbVlwbzRjNDdjcndTamlQWWNtU2xQamZPUVp6QVNfQW15UVdFclkxczFWaG5yX1hhNjBkMlFWME95VVdud21CSllvX0lfNmhRYm9mRTFhNGpv?oc=5",
+      "date": "2026-07-02"
     }
   ]
 }
